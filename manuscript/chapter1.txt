@@ -1,4 +1,17 @@
-# Chapter uno
+# Why I wanted to write this book
 
-Amazing.
+While we were growing our own subscription box Candy Japan from 0 to 1000 subscribers, I realized that what I was actually enjoying a lot was writing about it. Not only is it fun to share what we've learned, but it turned out to be good marketing too, which motivated me to keep doing it.
 
+Over years of doing that, I've started getting more and more questions from others looking to start their own boxes and realized there is a minor subscription box boom underway. That inspired me to up my writing and try to make it structured enough to get a book out of it.
+
+Being able to write openly required me to adopt the attitude that our subscription box is a kind of science experiment, requiring less secrecy than a business normally might. I decided I would just share everything we learned, regardless of whether it might help our competitors or not. Partially at blame might be my tendency to overshare, but despite many competitors emerging, it has turned out OK. The market has expanded and there seem to be enough customers for multiple boxes to survive, even with very similar concepts.
+
+Writing has also increased my willingness to learn more about subscription boxes in general, even if it doesn't directly help our box Candy Japan. For example since I live in Japan, I have not had the need to ship anything using USPS (U.S. Postal Service), but I researched the relevant discounts and prices just for this book.
+
+Similarly I had never bought an existing business going into this, but I bought the anime subscription box FaniPack.com partly just so I could write about the experience in this book.The purchase gave me an opportunity to really learn about topics such as the transfer process, Stripe, CrateJoy and other tools that the existing box was using which we had not yet tried before.
+
+Where research hasn't been only useful for this book, but has also helped our own subscription box, I've been doubly motivated to learn. While I knew many of the topics quite well already, this gave me a boost of motivation to research and explore the topics better. 
+
+By no means do I claim to know everything there is to know about running a subscription box, but I feel that over the years I have learned enough to have some valuable information to share with you. 
+
+I hope you will listen, even if I don’t shave my head and write everything with the certainty of a guru. Whenever I am writing about something which I have only read about but not tried for our own box, I will try to indicate so. I can tell you what worked for us, what I have seen working for others and what I believe would be well worth trying, but I want to keep these levels of certainty separated.
