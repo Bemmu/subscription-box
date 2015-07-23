@@ -12,8 +12,6 @@
 
 ## Types of subscription boxes
 
-
-
 ### Sampling vs. selections of full products
 
 Some subscription boxes contain full-price items in each box, while others consist of product samples. These are very different models, as full-price items are typically acquired from wholesalers only at a slight discount, while samples can be completely free, but come with strings attached. 
@@ -32,7 +30,42 @@ Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system wh
 
 ### Automatic monthly surprise
 
-## Domain
+## Buying the perfect domain name
+
+### Should you even bother searching for a domain yet?
+
+Let me try to convince you to just keep going despite not yet deciding on a domain name for your subscription box.
+
+I wouldn’t necessarily recommend spending too much time thinking of a good name to start with, because once you've done enough other work, it will be easier to come up with the name. For instance if you have spent days thinking about all the different aspects of your subscription site, planning up a prototype box, thought about what kind of customers you would attempt to attract and many other details, thinking up a good name for your box will come more naturally. 
+
+If you go ahead and register a name first, one thing that often happens is that you may find your passion for the idea vanes, but you get stuck having the name. Every year when it comes time to renew your registration you'll feel like perhaps later on you will start using the name, so better renew your registration. Have a few more such "just in case" domains and soon you'll find yourself paying $100 / year just squatting on some unused names.
+
+It can also be a bit of a trap to be unable to proceed just because you got stuck on thinking about the name, but if you are dead set on choosing a name first, well alright, let me give you a push and try to help you get unstuck.
+
+### How to quickly check domain name availability
+
+To try out different name ideas, it's useful to be able to quickly check the availability of various names.
+
+One of my favorite tools for brainstorming domain names is called [Instant Domain Search](http://instantdomainsearch.com). It shows whether a domain is available or not in real time while you type in the name. Sometimes it does give false positives, so don’t party until double-checking the result using another tool, such as your domain registrar’s reservation page. 
+
+If you find your favorite name was unavailable, you’re not alone with this problem. Hundreds of millions of names have already been registered. This means that pretty much any single word and many good combinations of two words are no longer up for grabs. While you might desire a short name if possible, you're unlikely to be able to register a super-short name anymore these days. Every possible combination of four letters or less is taken, unless you include special characters in the name. 
+
+### Purchasing an existing name
+
+Your name is taken, but does that mean you cannot have it? Not necessarily. If you have some money to spend, you can buy it from the existing owner.
+
+If you find someone already has your name, chances are it is being held by a professional “domainer”. These are people who speculate on domain names by buying, holding and trading promising ones in the hope that later on someone like you will come along to buy it.
+
+They may be holding massive amounts of domain names, hoping that one will end up being a hit valuable enough to cover all the costs spent on the rest. Sadly this means that they are often not very cheap. What do they cost? While many transactions happen in private, some are sold through online or real-life auction events. You can browse the prices of names that have sold in these events in the past. 
+
+For example [dnjournal](http://www.dnjournal.com/ytd-sales-charts.htm) has such a listing, from which you can see some examples such as:
+
+|------------------|-----------------|
+| HomeCare.com     | $350,000        |
+| FlowerBox.com    | $55,000         |
+| MegaDeal.com     | $50,000         |
+| Moon.co          | £6,000          |
+|------------------|-----------------|
 
 # What is it like running a subscription box?
 
@@ -50,21 +83,26 @@ Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system wh
 
 # More to read
 
+## Books
+
 Several more ebooks have been written about starting a subscription box. I've read them for you, below are my short reviews of each.
 
-## How to Start a Subscription Box Business: With 50 + Money Making Ideas
+### How to Start a Subscription Box Business: With 50 + Money Making Ideas
 
 $5.97 		45 		
 
-## Ultimate guide to starting a subscription box business
+### Ultimate guide to starting a subscription box business
 
 $2.99 		48 		
 
-## How to Start a Subscription Box Company: Be the Next Box Millionaire
+### How to Start a Subscription Box Company: Be the Next Box Millionaire
 
 $5.49 		30 		
 
-## The Subscription Box Start Up Guide: An entrepreneur's guidebook for starting a subscription business
+### The Subscription Box Start Up Guide: An entrepreneur's guidebook for starting a subscription business
 
 $9.99 		57 		
 
+## Websites
+
+Subscription School
