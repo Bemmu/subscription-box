@@ -6,6 +6,10 @@
 
 ## Easier to predict needed inventory
 
+## Case study: Panty by Post
+
+# What is it like running a subscription box?
+
 ## Types of subscription boxes
 
 ### Sampling vs. selections of full products
@@ -26,8 +30,6 @@ Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system wh
 
 ### Automatic monthly surprise
 
-# What is it like running a subscription box?
-
 ## Fulfillment
 
 ## Marketing
@@ -42,4 +44,3 @@ Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system wh
 
 # Software ...
 
-## Case study: Panty by Post
