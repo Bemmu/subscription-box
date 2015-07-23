@@ -64,6 +64,11 @@ They may be holding massive amounts of domain names, hoping that one will end up
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+| HomeCare.com     | $350,000        |
+| FlowerBox.com    | $55,000         |
+| MegaDeal.com     | $50,000         |
+| Moon.co          | £6,000          |
+
 For example [dnjournal](http://www.dnjournal.com/ytd-sales-charts.htm) has such a listing, from which you can see some examples such as:
 
 |------------------|-----------------|
