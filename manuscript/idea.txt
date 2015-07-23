@@ -58,25 +58,71 @@ If you find someone already has your name, chances are it is being held by a pro
 
 They may be holding massive amounts of domain names, hoping that one will end up being a hit valuable enough to cover all the costs spent on the rest. Sadly this means that they are often not very cheap. What do they cost? While many transactions happen in private, some are sold through online or real-life auction events. You can browse the prices of names that have sold in these events in the past. 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| HomeCare.com     | $350,000        |
-| FlowerBox.com    | $55,000         |
-| MegaDeal.com     | $50,000         |
-| Moon.co          | £6,000          |
-
 For example [dnjournal](http://www.dnjournal.com/ytd-sales-charts.htm) has such a listing, from which you can see some examples such as:
 
-|------------------|-----------------|
+| Domain name      | Sale price      |
+| ---------------- | --------------- |
 | HomeCare.com     | $350,000        |
 | FlowerBox.com    | $55,000         |
 | MegaDeal.com     | $50,000         |
 | Moon.co          | £6,000          |
-|------------------|-----------------|
+
+Another place for browsing listings is [Flippa](https://flippa.com/domains/just-sold), which had trades such as:
+
+| Domain name      | Sale price      |
+| ---------------- | --------------- |
+| Mini-Series.com  | $6              |
+| TakeSail.com     | $100            |
+| Swore.com        | $2,300          |
+| Cloud.io         | $45,000         |
+
+As you can see the range of prices is huge. 
+
+There really is no one answer to the question "what should this domain name cost"? If you happen to have two wealthy bidders competing with each other to secure a name, then the price is as high as those bidders can afford to go. 
+
+Besides bidding on auctions, you can also try contacting current domain owners directly. The problem here is that it is difficult to start negotiating on the price at all if you make too low an offer and fail to grab their attention. This is because the owner of your desired name may prefer to avoid spending time making smaller trades and is concentrating on the bigger wins. They may not even bother to reply if you don’t make a sufficiently interesting offer right off the bat. Another route is to be a bit more mysterious and simply ask "is this domain for sale?" without mentioning a price.
+
+If you do manage to get them interested, the game begins. If they are experienced domainers, they will likely try to play some psychological games with you to make you pay more. One of these is to make you believe that they are currently engaged in multiple bids for the name and that you need to outbid your competition. Whether this is true or just a trick you have no way of knowing, so you may be tempted to increase your price to outbid these possibly imaginary competitors. 
+
+Another mental trick they might use is to claim that they acquired the name for use in a project which they have currently underway. The release of their amazing site is just right around the corner and they would be unwilling to sell the name  -- except of course they might reconsider for a considerably higher price to justify scrapping their current plans. The last time this happened to me and I walked away, the current owner still after years has not used their name for anything.
+
+Counter-tactics to these also exist, which is why you might want to consider hiring a domain broker to buy the name for you. They can navigate these negotiations in a more cool manner since they are more detached from the name than you are and get a better price.
+
+There are many more tricks involved in domain price negotiation, I recommend reading the blog post [How to Buy Domain Names Like a Pro](http://fourhourworkweek.com/2009/02/27/how-to-buy-domain-names-like-a-pro-10-tips-from-the-founder-of-phonetagcom/). Two great tips in that post are using historical whois services to help find the current domain owner and avoiding giving out any personal information in case that might serve as a justification to quote a higher price to you.
+
+### Transferring a domain name from the previous owner
+
+If you manage to get the domain seller's attention and negotiate a sale, the transfer process itself is not difficult. When you buy an existing name, the act of transferring the domain is called a “push”. The owner of the current domain needs to log in for their registrar and then request a push through the web interface. 
+
+You may need to send the current owner of the domain a special "authorization code" in order for them to do the push. You can find this authorization code in the web interface of your registrar. If you have your registrar set up to allow all incoming domains, then the push auth code may not be necessary.
+
+### Securing the domain transfer with an escrow service
+
+How do you guarantee that you won’t get scammed in the process of transferring the name? If you send the money first before receiving the domain, the seller might decide to just forget to transfer the domain to you. On the other hand if you are the one requesting the sale, then it is very unlikely that the seller would agree to transfer the domain to a stranger before receiving payment. Stalemate?
+
+Escrow services exist to smooth out situations like these. Such a service acts as a third party to guarantee that the transaction goes through with neither side having to put themselves at risk. The escrow process can be done completely online. The most famous of these services is likely [escrow.com](http://escrow.com/). It is a US-based service which has been operating since 1999, protecting transactions with total worth of billions of dollars. 
+
+From the buyer point of view the domain transaction using an escrow service is quite painless. When you are on the buying side, first you will receive an email saying that a transaction is waiting for you. You then set up an escrow.com account if you have not yet created one. Then you wire the payment to escrow. They will hold the payment until you have confirmed that the domain was transferred to you and only then is the money released to the domain seller.
+
+### Grabbing an expiring name
+
+Domain names are reserved for a limited period of time. What if someone no longer wants their name lets it expire? At first it enters a grace period for 30-90 days, during which the original owner can still renew the domain. After that it enters the redemption period, during which the original owner can still renew the domain, but there is a fee involved. If even after the redemption period is over the original owner has still not renewed, then it "drops" (becomes available). 
+
+You might think that if you see a domain registration expire, you could just wait until the redemption period is over and register it yourself. However there are groups which use special software that rapidly attempt re-registration of these expired domain names over and over again in order to be the very first to re-register it. You will not be able to beat them manually. 
+
+Luckily these companies are sort of mercenaries for hire. By paying them a small fee you can use their guns to get you the domain you want. If you want to know more about this subject, I highly recommend Mike Davidson’s classic article [How to Snatch an Expiring Domain](http://www.mikeindustries.com/blog/archive/2005/03/how-to-snatch-an-expiring-domain). 
+
+The gist of it is that you can maximize your chances of getting your domain by instructing several of these “drop catching services” to attempt to get your name. I’ve had some luck using [pool.com](http://pool.com/) for this purpose, but there are many others as well. You can enter as many domains as you wish on their site, which they will then attempt to get for you. You can also browse domain names which will be expiring soon.
+
+### Consider a brandable variation of your key term
+
+In the beginning I wrote that all the good names are taken. That's not entirely true. Actually only all **obvious** names are taken. Your best option may be to come up with a new unique name that no-one else has thought of. Something catchy, with personality and branding potential. 
+
+A non-generic name can have other benefits as well. If you have an animal name or an object in the name, then it instantly gives you ideas of what the mascot or logo of the club might be like. For example the Japanese anime box of the month club "[boxychan.com](http://www.boxychan.com/)" has a cute box as their mascot, which makes it a lot more memorable than if it was something generic such as "monthlyanimebox.com".
+
+Another great example of a name with benefits is [MailChimp](http://www.mailchimp.com/), an email marketing service provider which uses a chimp as their mascot. This might give you an idea: use your desired noun + some branding word as your name. Have your desired term in there along with an interesting prefix or suffix. You can put these ideas through [Instant Domain Search](http://instantdomainsearch.com) to try them quickly, but there is an even faster way. There are services where you can enter lists of words to try as prefixes and suffixes and it tells you which ones are available. Some even have those lists built in. 
+
+The best one I have found is called [Lean Domain Search](http://www.leandomainsearch.com/). Suppose for example that you are thinking of starting a snack-related subscription box. As there are already dozens of snack boxes and many domain speculators out there, you will find that almost any good name is already taken. Entering the word "snack" into Lean Domain Search, you'll find that actually some good combinations of popular word beginnings or endings added to "snack" are still available! It doesn't suggest cute animal suffixes, but can find for example that "SnackGlobal.com", "SnackGate.com", "EpicSnack.com", "ViaSnack.com" and "SnackBoss.com" among many others are still out there for grabs.
 
 # What is it like running a subscription box?
 
