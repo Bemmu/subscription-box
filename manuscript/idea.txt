@@ -78,17 +78,21 @@ Another place for browsing listings is [Flippa](https://flippa.com/domains/just-
 
 As you can see the range of prices is huge. 
 
-There really is no one answer to the question "what should this domain name cost"? If you happen to have two wealthy bidders competing with each other to secure a name, then the price is as high as those bidders can afford to go. 
+There really is no one answer to the question "what should this domain name cost"? If you happen to have two wealthy or venture-backed bidders competing against each other to secure a name, then the price is as high as those bidders can afford to go. 
 
-Besides bidding on auctions, you can also try contacting current domain owners directly. The problem here is that it is difficult to start negotiating on the price at all if you make too low an offer and fail to grab their attention. This is because the owner of your desired name may prefer to avoid spending time making smaller trades and is concentrating on the bigger wins. They may not even bother to reply if you don’t make a sufficiently interesting offer right off the bat. Another route is to be a bit more mysterious and simply ask "is this domain for sale?" without mentioning a price.
+### Domain name price negotiation
+
+Besides bidding on auctions, you can also try contacting the current domain owners directly. The problem here is that it is difficult to start negotiating on the price at all if you start off with too low an offer, failing to grab their attention. This is because the owner of your desired name may prefer to avoid spending time making smaller trades when they could be concentrating on the bigger wins. They may not even bother to reply if you don’t make a sufficiently interesting offer right off the bat. Another route is to be a bit more mysterious and simply ask "is this domain for sale?" without mentioning a price.
 
 If you do manage to get them interested, the game begins. If they are experienced domainers, they will likely try to play some psychological games with you to make you pay more. One of these is to make you believe that they are currently engaged in multiple bids for the name and that you need to outbid your competition. Whether this is true or just a trick you have no way of knowing, so you may be tempted to increase your price to outbid these possibly imaginary competitors. 
 
-Another mental trick they might use is to claim that they acquired the name for use in a project which they have currently underway. The release of their amazing site is just right around the corner and they would be unwilling to sell the name  -- except of course they might reconsider for a considerably higher price to justify scrapping their current plans. The last time this happened to me and I walked away, the current owner still after years has not used their name for anything.
+Another mental trick they might use is to claim that they acquired the name for use in a project which they currently have underway. The release of their amazing site is just right around the corner and they would be unwilling to sell the name  -- except of course they might reconsider for a considerably higher price to justify scrapping their current plans. The last time this happened to me and I walked away, the current owner still after years has not used their name for anything.
 
 Counter-tactics to these also exist, which is why you might want to consider hiring a domain broker to buy the name for you. They can navigate these negotiations in a more cool manner since they are more detached from the name than you are and get a better price.
 
 There are many more tricks involved in domain price negotiation, I recommend reading the blog post [How to Buy Domain Names Like a Pro](http://fourhourworkweek.com/2009/02/27/how-to-buy-domain-names-like-a-pro-10-tips-from-the-founder-of-phonetagcom/). Two great tips in that post are using historical whois services to help find the current domain owner and avoiding giving out any personal information in case that might serve as a justification to quote a higher price to you.
+
+*Let us never negotiate out of fear. But let us never fear to negotiate.* -John F. Kennedy
 
 ### Transferring a domain name from the previous owner
 
@@ -123,6 +127,8 @@ A non-generic name can have other benefits as well. If you have an animal name o
 Another great example of a name with benefits is [MailChimp](http://www.mailchimp.com/), an email marketing service provider which uses a chimp as their mascot. This might give you an idea: use your desired noun + some branding word as your name. Have your desired term in there along with an interesting prefix or suffix. You can put these ideas through [Instant Domain Search](http://instantdomainsearch.com) to try them quickly, but there is an even faster way. There are services where you can enter lists of words to try as prefixes and suffixes and it tells you which ones are available. Some even have those lists built in. 
 
 The best one I have found is called [Lean Domain Search](http://www.leandomainsearch.com/). Suppose for example that you are thinking of starting a snack-related subscription box. As there are already dozens of snack boxes and many domain speculators out there, you will find that almost any good name is already taken. Entering the word "snack" into Lean Domain Search, you'll find that actually some good combinations of popular word beginnings or endings added to "snack" are still available! It doesn't suggest cute animal suffixes, but can find for example that "SnackGlobal.com", "SnackGate.com", "EpicSnack.com", "ViaSnack.com" and "SnackBoss.com" among many others are still out there for grabs.
+
+I hope some of these tips helped you find a great domain name for your subscription box.
 
 # What is it like running a subscription box?
 
