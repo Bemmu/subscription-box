@@ -1,7 +1,45 @@
 # Why start a subscription box?
 
-## Higher customer value than traditional ecommerce
+## Cheap to get started
 
-## Examples of subscription boxes
+## Higher customer value than traditional e-commerce
 
+## Easier to predict needed inventory
 
+## Types of subscription boxes
+
+### Sampling vs. selections of full products
+
+Some subscription boxes contain full-price items in each box, while others consist of product samples. These are very different models, as full-price items are typically acquired from wholesalers only at a slight discount, while samples can be completely free, but come with strings attached. 
+
+The manufacturer providing you with free samples expects you to help turn these samplers into full product buyers. Having a samples-based box basically means you **need** to also have a shop, otherwise it makes no sense for your suppliers if customers have no way to order more.
+
+How profit is generated also differs between these, as for full-price items the monthly box itself may be the biggest money maker, while for sampling boxes the box might be a loss-leader and the real profit comes from full-size purchases made in the more typical e-commerce section of your website. Depending on how the sampling box is priced, it may even just be an advertising medium for the online store and have zero profit built in.
+
+### Pick items from a list with optional recurring
+
+Some subscription boxes are fully curated with no choices to be made by the customer. Others let the customer customize their box. [ManPacks](http://www.manpacks.com) among others uses this model. 
+
+Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system where the box is automatically customized for each customer. 
+
+### Join with option to skip 
+
+### Automatic monthly surprise
+
+# What is it like running a subscription box?
+
+## Fulfillment
+
+## Marketing
+
+## Customer support
+
+## Bookkeeping
+
+## Curation
+
+## Growth & improvements
+
+# Software ...
+
+## Case study: Panty by Post
