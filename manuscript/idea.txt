@@ -130,19 +130,47 @@ The best one I have found is called [Lean Domain Search](http://www.leandomainse
 
 I hope some of these tips helped you find a great domain name for your subscription box, or convinced you to stop obsessing about it until later!
 
-# What is it like running a subscription box?
+# What goes into running a subscription box?
+
+The biggest tasks are marketing, fulfillment, website maintenance, customer support, bookkeeping tasks, curation and investigating directions to expansion and things to optimize. 
 
 ## Fulfillment
 
+Of these for our twice-monthly candy box Candy Japan, fulfillment was the easiest to delegate to someone else to do, as it is purely manual labor. Some effort is required to gather the list of addresses and sanity-check that the entered addresses and amounts make sense. You can either do fulfillment in-house or hire an outside third-party logistics company.
+
 ## Marketing
+
+You can spend all your time on marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the options to tweak ad campaigns are endless. On the other hand marketing through the seemingly free social media and content-marketing channels is an endlessly time-consuming task as well. Somewhere between these paid and free channels is providing free sample boxes for bloggers, which ends up taking time just to evaluate which blogs are worth sending to and keeping in touch with them to maintain relationships.
 
 ## Customer support
 
+Customer support gets tiresome, as you are often dealing with very similar issues. If you are using a home-grown system, you may find that the information you need to answer these question is buried somewhere in a database which only you understand, which makes outsourcing this more challenging. This is one good reason to use a ready-made subscription management system such as CrateJoy or Subbly. Besides just the usual support questions, there are always new situations occurring which can only be answered by you, meaning with a somewhat successful box you will always end up having some email to answer yourself every day.
+
+For instance I often find myself having to dig for some information manually in our database or try to make educated guesses when a customer requests something to be done, but is emailing from a different address than the one they registered with. These examples sound bad and probably make you feel like “well, that should be easily fixable”. And they are, which is part of the support task, improving things so that those things will no longer get asked.
+
 ## Bookkeeping
 
-## Improving your box
+Bookkeeping is required for you to be able to correctly pay taxes and have some picture of whether you are making any profit with your box. It involves mostly storing offline and online receipts and entering their information into spreadsheets. Even with a hired bookkeeper you still end up doing some of this, as when for instance you make an order for some product which will be included in the box, you will be the one who gets the receipt. 
 
-# Software ...
+When you sign up for an online product such as CrateJoy or ZenDesk, those receipts will get sent to your account. Each month you will need to find all these receipts and summarize them somehow for your books. Last month for out subscription box Candy Japan I had 50 receipts for various purchases and online services and just summarizing this for my bookkeeper takes several evenings to do. Mostly because it is such a dull task it is very easy to get distracted while doing it! Luckily this task at least has a well-defined end to it, but it keeps repeating each month.
+
+We are paying a bookkeeper, but that doesn’t mean you never need to deal with the issue. You must still be able to explain each receipt and HAVE each receipt. Each time you pay for something online, you have to figure out how to get the receipt for that later. You may be using an email system, a hosting site, buy tape and envelopes online, perhaps travel somewhere and use cash to buy your tickets etc. and for all of these things you will need to have the receipts and organize them in some way. 
+
+## The fun parts
+
+Curation is about finding the items to put in your box. Not every item you can think of is necessarily possible to purchase by you in the desired quantities. You might have a dream box in mind, but find out that half of the items have already been discontinued and are no longer available. Some might be available only in awkward quantities, such as a box of 200 pieces when all you needed was 150. 
+
+These limitations mean that to find a box containing 5 items, you might need to investigate more than 10 to be able to settle down to 5 which are practically possible. This can be made easier by using a catalogue of products which you know are available. Curation can be a bit tricky because of these limitations, but it is definitely one of the more fun parts of running a box.
+
+After all of the above tasks are dealt with, comes what at least to me is the most fun part: expansion! This means discovering new marketing channels to try, optimizing your homepage for conversions, improving your box, hiring staff, including new types of inserts in your box etc. things which will change the month-to-month operation, hopefully for the better. Perhaps you could increase the variety of your subscription plans or start/acquire completely new lines of business. 
+
+It is also quite enjoyable to think of ways to improve operations, such as eliminating some steps required for putting together your box or finding a way to otherwise not do something you were previously having to do every month. Before running a subscription box I never thought I would get so excited about reading up on different ways to do shipping labels more efficiently.
+
+This sort of improvement is very useful for your sanity as well, as it will make you feel optimism: "ah, things can get better". But soon the next repetitive monthly tasks are around again and you go from floating on your idea cloud back to the trenches; and the cycle continues.
+
+# Setting up your site
+
+# Marketing
 
 # More to read
 
