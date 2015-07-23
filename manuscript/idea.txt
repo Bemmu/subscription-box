@@ -6,11 +6,13 @@
 
 ## Easier to predict needed inventory
 
-## Case study: Panty by Post
+## Example box: Panty by Post
 
-# What is it like running a subscription box?
+# Coming up with your box idea
 
 ## Types of subscription boxes
+
+
 
 ### Sampling vs. selections of full products
 
@@ -30,6 +32,10 @@ Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system wh
 
 ### Automatic monthly surprise
 
+## Domain
+
+# What is it like running a subscription box?
+
 ## Fulfillment
 
 ## Marketing
@@ -38,9 +44,27 @@ Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system wh
 
 ## Bookkeeping
 
-## Curation
-
-## Growth & improvements
+## Improving your box
 
 # Software ...
+
+# More to read
+
+Several more ebooks have been written about starting a subscription box. I've read them for you, below are my short reviews of each.
+
+## How to Start a Subscription Box Business: With 50 + Money Making Ideas
+
+$5.97 		45 		
+
+## Ultimate guide to starting a subscription box business
+
+$2.99 		48 		
+
+## How to Start a Subscription Box Company: Be the Next Box Millionaire
+
+$5.49 		30 		
+
+## The Subscription Box Start Up Guide: An entrepreneur's guidebook for starting a subscription business
+
+$9.99 		57 		
 
