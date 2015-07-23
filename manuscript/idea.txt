@@ -58,6 +58,12 @@ If you find someone already has your name, chances are it is being held by a pro
 
 They may be holding massive amounts of domain names, hoping that one will end up being a hit valuable enough to cover all the costs spent on the rest. Sadly this means that they are often not very cheap. What do they cost? While many transactions happen in private, some are sold through online or real-life auction events. You can browse the prices of names that have sold in these events in the past. 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 For example [dnjournal](http://www.dnjournal.com/ytd-sales-charts.htm) has such a listing, from which you can see some examples such as:
 
 |------------------|-----------------|
