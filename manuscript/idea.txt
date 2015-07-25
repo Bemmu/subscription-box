@@ -52,6 +52,8 @@ The manufacturer providing you with free samples expects you to help turn these 
 
 How profit is generated also differs between these, as for full-price items the monthly box itself may be the biggest money maker, while for sampling boxes the box might be a loss-leader and the real profit comes from full-size purchases made in the more typical e-commerce section of your website. Depending on how the sampling box is priced, it may even just be an advertising medium for the online store and have zero profit built in.
 
+Some boxes are based on product sampling with the hope that customers will later come back to purchase full-sized products, which in some cases works, as for instance the beauty box BirchBox [has mentioned](http://techcrunch.com/2013/08/15/birchbox/) that after shipping a sample eye shadow palette, as many as 11.2% came back to buy the full product. For a boxes based on this model, it is possible to receive products from manufacturers for free under the understanding that by letting customers try these samples they will be very likely to buy full products later on.
+
 ### Pick items from a list with optional recurring
 
 Some subscription boxes are fully curated with no choices to be made by the customer. Others let the customer customize their box. [ManPacks](http://www.manpacks.com) among others uses this model. Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system where the box is automatically customized for each customer. 
@@ -88,11 +90,17 @@ When you sign up for an online product such as CrateJoy or ZenDesk, those receip
 
 We are paying a bookkeeper, but that doesn’t mean you never need to deal with the issue. You must still be able to explain each receipt and HAVE each receipt. Each time you pay for something online, you have to figure out how to get the receipt for that later. You may be using an email system, a hosting site, buy tape and envelopes online, perhaps travel somewhere and use cash to buy your tickets etc. and for all of these things you will need to have the receipts and organize them in some way. 
 
-### The fun parts
+### Curating items
 
 Curation is about finding the items to put in your box. Not every item you can think of is necessarily possible to purchase by you in the desired quantities. You might have a dream box in mind, but find out that half of the items have already been discontinued and are no longer available. Some might be available only in awkward quantities, such as a box of 200 pieces when all you needed was 150. 
 
 These limitations mean that to find a box containing 5 items, you might need to investigate more than 10 to be able to settle down to 5 which are practically possible. This can be made easier by using a catalogue of products which you know are available. Curation can be a bit tricky because of these limitations, but it is definitely one of the more fun parts of running a box.
+
+In [an interview](http://www.mysubscriptionaddiction.com/2013/11/how-to-start-a-subscription-box-company.html) Sam Gold, founder of the snack box Yumvelope, listed the following sources for new items for their boxes: suggestions received via email from brands, suggestions from customers, attending trade shows and searching for products online.
+
+For us at Candy Japan our selection has always been by searching physical and online stores in Japan, as despite our service being covered well in Japan, we have never received a single email from a brand suggesting their products to us. That's probably because our site is completely in English and we only send products manufactured by Japanese companies!
+
+### The fun parts
 
 After all of the above tasks are dealt with, comes what at least to me is the most fun part: expansion! This means discovering new marketing channels to try, optimizing your homepage for conversions, improving your box, hiring staff, including new types of inserts in your box etc. things which will change the month-to-month operation, hopefully for the better. Perhaps you could increase the variety of your subscription plans or start/acquire completely new lines of business. 
 
@@ -221,7 +229,11 @@ After signing up you’ll have access to a drag and drop site builder which come
 
 # Marketing
 
-Now you have your idea and your site is set up, what now? Well, you have to tell the world about it. Whether anyone will know that your box exists really makes or breaks it. Still, this does not mean that you should blindly go out and throw money at advertising. Even if you are normally more fond of intuitive thinking rather than very strategic and logical, this is one field in which you should know a few things before jumping in. The two most important concepts are the **funnel** and **customer lifetime value (LTV)**.
+Now you have your idea and your site is set up, now what? Well, you have to tell the world about it. Whether anyone will know that your box exists really makes or breaks it. Still, this does not mean that you should blindly go out and throw money at advertising! That would be an expensive mistake.
+
+Even if you are normally more fond of intuitive thinking rather than very strategic and logical, this is one field in which you should know a few things before jumping in. The two most important concepts are the **funnel** and **customer lifetime value (LTV)**. If you spend money on ads without setting things up to measure the effect properly, you may later regret not getting the full benefit out of your ad experiment.
+
+When advertising one goal is to make sales. But another equally important goal is **to learn**. You must record the effectiveness of your ad campaigns, otherwise you will not know which advertising channels to double down on and which ones to phase out -- knowledge too valuable to simply throw away due to impatience.
 
 # More to read
 
