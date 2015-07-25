@@ -167,7 +167,9 @@ I hope some of these tips helped you find a great domain name for your subscript
 
 For our box Candy Japan we built our own system from scratch on top of Google App Engine, PayPal and Recurly. If you are sending monthly boxes like most other subscription box companies, there is no longer any reason to build your own system. I strongly recommend using one of the many existing subscription e-commerce platforms if at all possible.
 
-# Setting up a LaunchRock page
+# Setting up your website
+
+## Starting with a LaunchRock page
 
 Now you have your domain name and you are full of energy to get going. If you are not feeling quite ready yet to set up your whole site and ecommerce system, what would be the next step then? An easy one to start with is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and providing a form where interested visitors can enter their email addresses to be notified when you do launch.
 
