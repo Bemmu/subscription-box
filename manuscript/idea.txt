@@ -18,6 +18,8 @@ While the amount of subscribers you have will change month-to-month, you can pre
 
 You can even arrange things so that if you have items left over from the previous month, you can send it to future new subscribers as their first box. If you do this, you can reach 100% usage of your inventory. This is fantastic, as with traditional online shops it is not untypical to never be able to sell some items which just end up in storage forever or get disposed of.
 
+As the founder of [Carnivore Club](https://www.carnivoreclub.co) said in a [Financial Post interview](http://business.financialpost.com/entrepreneur/fp-startups/need-recurring-revenue-think-subscription-boxes), *"From a business perspective, it’s the most efficient, flexible and easy to operate business model in ecommerce"*.
+
 ## Example box: Panty by Post
 
 Need a jolt more inspiration for starting your own box? Here is Natalie Grunberg on how her monthly lingerie club [PantybyPost.com](http://www.pantybypost.com) got started.
@@ -52,17 +54,13 @@ How profit is generated also differs between these, as for full-price items the 
 
 ### Pick items from a list with optional recurring
 
-Some subscription boxes are fully curated with no choices to be made by the customer. Others let the customer customize their box. [ManPacks](http://www.manpacks.com) among others uses this model. 
-
-Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system where the box is automatically customized for each customer. 
+Some subscription boxes are fully curated with no choices to be made by the customer. Others let the customer customize their box. [ManPacks](http://www.manpacks.com) among others uses this model. Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system where the box is automatically customized for each customer. 
 
 ### Skippable vs. automatic boxes
 
 One choice to make when setting up your subscription box is whether to let the customers skip shipments. You can either send everyone the current items with no confirmation, or you might announce first what the contents are and let your customers choose whether they want that box or not. For instance [Blissmo](http://www.blissmo.com/) and [Wantable](https://www.wantable.com) let you skip months. You can find more examples of skippable boxes [here](http://www.ramblingsofasuburbanmom.com/2013/08/list-of-monthly-subscription-boxes-with-a-skip-option/).
 
 The upside of having no skipping option is that you will be able to better predict the demand each box will have. This has a customer upside also, as some customers are subscribing to these boxes precisely because they are interested in the surprise factor and won’t even want to know beforehand what your box will contain before opening it. It's like having a birthday present each month. The downside is that customers may be less likely to subscribe or stay on for long if they feel there is a big risk that they may receive items which they did not desire. 
-
-### Automatic monthly surprise
 
 ## Buying the perfect domain name
 
@@ -203,6 +201,24 @@ It is also quite enjoyable to think of ways to improve operations, such as elimi
 This sort of improvement is very useful for your sanity as well, as it will make you feel optimism: "ah, things can get better". But soon the next repetitive monthly tasks are around again and you go from floating on your idea cloud back to the trenches; and the cycle continues.
 
 # Setting up your site
+
+For our box Candy Japan we built our own system from scratch on top of Google App Engine, PayPal and Recurly. If you are sending monthly boxes like most other subscription box companies, there is no longer any reason to build your own system. I strongly recommend using one of the many existing subscription e-commerce platforms if at all possible.
+
+# Setting up a LaunchRock page
+
+Now you have your domain name and you are full of energy to get going. If you are not feeling quite ready yet to set up your whole site and ecommerce system, what would be the next step then? An easy one to start with is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and providing a form where interested visitors can enter their email addresses to be notified when you do launch.
+
+![An awesome sword](images/launchrock.png)
+
+The purpose of such a page is to begin gathering an audience as early as possible. Some also think that Google favors older sites slightly more when ranking search results, so having your site up earlier might help there (although probably not much!).
+
+A service called LaunchRock enables you to set up your launch pages easily and start gathering an audience as early as possible. People can express their interest for your subscription box even before you have everything else set up. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
+
+While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", but to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. I would recommend going with a custom domain, as after all you would probably prefer building excitement for your own site rather than for LaunchRock! If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up.
+
+![An awesome sword](images/launchrock2.png)
+
+After signing up you’ll have access to a drag and drop site builder which comes with everything you need to collect email addresses from interested people visiting your site. Later on when your box is ready to accept customers, you can send an email to everyone telling them that they can now go and subscribe to your box. Not everyone will, but a certain percentage of visitors who entered their email probably will likely order. 
 
 # Marketing
 
