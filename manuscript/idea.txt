@@ -8,7 +8,15 @@ Besides voluntary costs such as site design, there really aren't any big initial
 
 ## Higher customer value than traditional e-commerce
 
+Unlike an online shop focusing on one-time sales, a subscription box is attractive because customers agree to pay again and again for each box. Customers’ credit cards are charged automatically unless they explicitly terminate their subscription. This is the opposite way compared to typical e-commerce, where no further purchase is assumed unless the customer returns to the website to make another purchase. In a subscription box the default is multiple sales, with the immediate ending of the relationship a sad less likely occurrence.
+
+This doesn’t mean that each customer is infinitely valuable as people do eventually cancel. At the end of the day a new subscriber for a subscription box is still a “conversion” with a somewhat known value to it, so in that sense it does not differ from a one-off ecommerce site. However it can mean that one customer is MORE valuable for a subscription box company. That means that if you are advertising using Google ads for instance, a subscription box can afford to outbid the traditional online retailer, as each customer has a higher lifetime value (LTV).
+
 ## Easier to predict needed inventory
+
+While the amount of subscribers you have will change month-to-month, you can predict how many items you will be needing. If you send the same product to everyone on the same schedule, it gets easier still, as you can even know which items to prepare. Compare this to a normal ecommerce business where you are holding small amounts of a large variety of goods. 
+
+You can even arrange things so that if you have items left over from the previous month, you can send it to future new subscribers as their first box. If you do this, you can reach 100% usage of your inventory. This is fantastic, as with traditional online shops it is not untypical to never be able to sell some items which just end up in storage forever or get disposed of.
 
 ## Example box: Panty by Post
 
@@ -193,6 +201,8 @@ This sort of improvement is very useful for your sanity as well, as it will make
 # Setting up your site
 
 # Marketing
+
+Now you have your idea and your site is set up, what now? Well, you have to tell the world about it. Whether anyone will know that your box exists really makes or breaks it. Still, this does not mean that you should blindly go out and throw money at advertising. Even if you are normally more fond of intuitive thinking rather than very strategic and logical, this is one field in which you should know a few things before jumping in. The two most important concepts are the **funnel** and **customer lifetime value (LTV)**.
 
 # More to read
 
