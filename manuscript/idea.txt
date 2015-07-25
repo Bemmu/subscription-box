@@ -56,7 +56,11 @@ Some subscription boxes are fully curated with no choices to be made by the cust
 
 Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system where the box is automatically customized for each customer. 
 
-### Join with option to skip 
+### Skippable vs. automatic boxes
+
+One choice to make when setting up your subscription box is whether to let the customers skip shipments. You can either send everyone the current items with no confirmation, or you might announce first what the contents are and let your customers choose whether they want that box or not. For instance [Blissmo](http://www.blissmo.com/) and [Wantable](https://www.wantable.com) let you skip months. You can find more examples of skippable boxes [here](http://www.ramblingsofasuburbanmom.com/2013/08/list-of-monthly-subscription-boxes-with-a-skip-option/).
+
+The upside of having no skipping option is that you will be able to better predict the demand each box will have. This has a customer upside also, as some customers are subscribing to these boxes precisely because they are interested in the surprise factor and won’t even want to know beforehand what your box will contain before opening it. It's like having a birthday present each month. The downside is that customers may be less likely to subscribe or stay on for long if they feel there is a big risk that they may receive items which they did not desire. 
 
 ### Automatic monthly surprise
 
