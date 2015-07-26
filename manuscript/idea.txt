@@ -193,13 +193,19 @@ The trouble with testing ideas is that you can’t really just ask if someone is
 
 If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to find their credit card, complete the subscription process online and actually pay. What would be better instead would be to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. You can make it better later and convince an even higher percentage of visitors to sign up, but it would be better to have something that feels real and that can be ordered.
 
+Remember the initial site is mostly for discovering if people are truly interested in this idea, without you being around influencing them to agree to not hurt your feelings. You can still tweak pricing, your value proposition etc. later, it doesn’t have to be set in stone. For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). 
+
+And if later on you do decide you don’t actually want to pursue your subscription box idea at all but have paying subscribers signed up, you can cancel and issue refunds. I did this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
+
+If at all possible you have to make the test as real as possible and what is more real than actually having a site up that can accept payments? 
+
 ## Static site with PayPal subscription buttons
 
-If you are already comfortable with setting up static websites, there is an very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. 
+If you are already comfortable with setting up static websites, there is an very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
 
 ### Leveraging your LaunchRock page
 
-Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
+Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. 
 
 ![Copying the subscription button link from PayPal](images/launchrock3.png)
 
