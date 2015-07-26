@@ -179,11 +179,33 @@ The purpose of such a page is to begin gathering an audience as early as possibl
 
 A service called LaunchRock enables you to set up your launch pages easily and start gathering an audience as early as possible. People can express their interest for your subscription box even before you have everything else set up. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
 
-While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", but to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. I would recommend going with a custom domain, as after all you would probably prefer building excitement for your own site rather than for LaunchRock! If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up.
+While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", but to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. I would recommend going with a custom domain, as after all you would probably prefer building excitement for your own site rather than for LaunchRock! If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up. There are also other features which are not available in the free plan, such as entering custom HTML code.
 
 ![Launchrock launch page editor](images/launchrock2.png)
 
 After signing up you’ll have access to a drag and drop site builder which comes with everything you need to collect email addresses from interested people visiting your site. Later on when your box is ready to accept customers, you can send an email to everyone telling them that they can now go and subscribe to your box. Not everyone will, but a certain percentage of visitors who entered their email probably will likely order. 
+
+## Idea validation
+
+First try to discover if people are even interested in what you are offering, in other words validate that your idea has legs. While LaunchRock is fine for getting a rough idea on the number of interested people and many who signed up are likely to become subscribers, it's still not quite the same thing as actually getting subscribers.
+
+The trouble with testing ideas is that you can’t really just ask if someone is interested. If you ask "would you subscribe to X if it existed?”" many people will answer yes because there is no risk or downside for them to agree and they want to be nice to you. It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk often mentions in his interviews the following piece of advice on getting product feedback: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
+
+If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to find their credit card, complete the subscription process online and actually pay. What would be better instead would be to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. You can make it better later and convince an even higher percentage of visitors to sign up, but it would be better to have something that feels real and that can be ordered.
+
+## Static site with PayPal subscription buttons
+
+If you are already comfortable with setting up static websites, there is an very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. 
+
+### Leveraging your LaunchRock page
+
+Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
+
+![Copying the subscription button link from PayPal](images/launchrock3.png)
+
+To get the PayPal subscription button, first create a PayPal account unless you already have one. Then go to the "Merchant Services" tab and choose "Subscriptions & Recurring Payments". After creating your button, click on the "email" tab to get a convenient link instead of an HTML snippet. You can use this simple link on your LaunchRock page, for example as the link from an image of a subscription button. Now you have a working subscription site for only $5/month.
+
+![Pasting subscription link to LaunchRock](images/launchrock4.png)
 
 # Fulfillment
 
