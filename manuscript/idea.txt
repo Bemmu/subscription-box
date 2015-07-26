@@ -201,17 +201,28 @@ If at all possible you have to make the test as real as possible and what is mor
 
 ## Static site with PayPal subscription buttons
 
-If you are already comfortable with setting up static websites, there is an very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
+If you are already comfortable with setting up static websites, there is a very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
 
 ### Leveraging your LaunchRock page
 
-Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. 
+Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. When you’re getting started one way to get going is to set up a static website, but just add PayPal subscription buttons on it to make orders possible. If you have a PayPal account, you can find these in the merchant tools.
+
+![Where to find the merchant tools](images/paypal_payments.png)
+
+To get the PayPal subscription button, first create a PayPal account if you don't already have one. Then go to the "Merchant Services" tab and choose "Subscriptions & Recurring Payments". You will just need to choose the name of your subscription product, the currency and monthly charging. After that you get HTML code which you can copy and paste to your static site, resulting in a subscription button. For use with LaunchRock, it may be easier to use the simple link intended for using in emails.
+
+![Setting up the PayPal button](images/paypal_payments_standard.png)
+
+Incidentally, if you already have an email list, you don't need a website at all as you can just mail out this link. This is how we started with Candy Japan, just emailing some people I had dealt with before with this link to see if they would subscribe. Since some did, I was encouraged to actually do the effort of setting up a proper website. On the site we used just the PayPal button for a long time. It was plenty enough to see if anyone would subscribe. Even after we added more payment options later, it did not noticeably affect the amount of subscribers we were getting, so going with just PayPal would have probably been fine as well.
 
 ![Copying the subscription button link from PayPal](images/launchrock3.png)
 
-To get the PayPal subscription button, first create a PayPal account unless you already have one. Then go to the "Merchant Services" tab and choose "Subscriptions & Recurring Payments". After creating your button, click on the "email" tab to get a convenient link instead of an HTML snippet. You can use this simple link on your LaunchRock page, for example as the link from an image of a subscription button. Now you have a working subscription site for only $5/month.
+After creating your button, click on the "email" tab to get a convenient link instead of an HTML snippet. You can use this simple link on your LaunchRock page to create a subscription button. First use the editor to add a button ([here, you can use mine](http://i.imgur.com/v86Zyb6.png)), then click on it to set the link to go to the PayPal subscription page. Now you have a bare-bones working subscription site for only $5/month!
 
 ![Pasting subscription link to LaunchRock](images/launchrock4.png)
+
+By the way, these simple recurring payment buttons are called “PayPal Payments Standard”. This will be important to know when looking at documentation, as PayPal also has other ways to interface with it. Make sure you are looking at Payments Standard pages, not BrainTree or Express Checkout lest you be confused. The more advanced integration methods Express Checkout requires more technical expertise to use, but allow for a more customized experience. It is only available in certain countries, while Standard Payments has better global availability.
+
 
 # Fulfillment
 
