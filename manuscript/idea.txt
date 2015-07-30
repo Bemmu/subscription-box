@@ -250,6 +250,39 @@ To help in all of these matters, there are now several subscription e-commerce p
 
 There are several such subscription e-commerce platforms in existence now, perhaps the most famous one being CrateJoy. I will not go too deeply into the set-up of each of these, as you can find much better information in their own documentation and websites. But just as an overview, I will list a few of the options that are out there.
 
+## CrateJoy
+
+Founded is an Austin, Texas based subscription e-commerce company founded by Amir Elaguizy. In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is an excellent resource for monthly box entrepreneurs. Actually, you should probably be reading that site instead of this book if you have decided to go with CrateJoy.
+
+CrateJoy was started as part of the startup incubator Y Combinator (which by the way accepts applications [here](http://www.ycombinator.com/) in case you need funding, although it is not easy to get accepted). In each funding round they have multiple companies getting funded simultaneously and attending startup dinners together. 
+
+Amir was [inspired to start CrateJoy](http://socialnerdia.com/blog/cratejoy-founder-amir-elaguizy) upon noticing how well subscription box companies were doing and how despite their successes there was still no good solution available yet for running them. Many box startups were operating their businesses using various systems not really geared for subscription sites. They were specifically targeting to make a better solution than the Shopify + Chargify combination.
+
+### Comparison of CrateJoy vs. our home-grown system
+
+For over 4 years we have been running our subscription box Candy Japan with a self-made system as well, until recently giving CrateJoy a try. It was not really a switch per se, rather the site we bought was already running on it. When recently acquiring our second subscription site, the monthly Japanese anime box [FaniPack](http://www.fanipack.com), we started also using CrateJoy. I must say it has been a joy so far, although at the time of writing we had only been using it for one month. 
+
+Compared to our own system CrateJoy provides quite a natural interface for managing subscriptions. With an in-house system, you tend not to really care much about how nice your user interface is. And when you’re the only one using it, it doesn’t really matter. But when you keep using your system for years and then eventually want to have other people helping you or even sell your business, it starts to matter a great deal.
+
+In addition to subscription products, CrateJoy also offers the usual ecommerce-style one-time products. The joy of browsing these in a beautifully crafted interface is palpable after using a quickly mashed up home-grown system for years. Now writing about CrateJoy set-up in great detail seems like it would be a very good thing to have in this book, but I would never be able to outmatch [their own tutorials](http://subscriptionschool.com/), so I suggest going directly to the source to learn more about CrateJoy if you are interested in choosing them.
+
+### Managing shipments through CrateJoy
+
+An interesting feature when doing CrateJoy shipments which you might not expect is that you can print labels *including postage* directly from the app. Instead of affixing stamps, they are printed out as QR codes along with the recipient and sender address information. 
+
+Through the CrateJoy interface you are able to see what you are supposed to ship in the current time period and the next one. If you have a monthly box, you can see which boxes you are supposed to ship this month and also how many confirmed orders there are already for the next one. 
+
+Future confirmed orders can occur in case you have multiple month subscriptions. For example if it is before the July box cut-off date and a customer puts in a 3-month box order, then you would already be able to see them as a confirmed order for August as well. However if they are a subscriber paying monthly, then their order would not show up until the rebill has not gone through. This is because they might still cancel or their credit card could stop working before the payment has a chance to clear, so it is not certain yet if there really will be an order.
+
+If you are really wanting to just go ahead and assume anyway that every rebill really will go through, it is possible to see the list of such shipments by browsing or exporting the current active subscriber list. We needed to do this when acquiring the anime box FaniPack from the previous owner and needing to complete a shipment earlier as the shipping country changed from USA to Japan and wanting to avoid any delays. Some rebills not going through was a risk we were willing to take to make sure the transition would go smoothly.
+
+This was our process for getting the list of addresses to send to with the assumption that any active subscriber would need to be sent to despite their payment not yet going through.
+
+* Go to CrateJoy’s customer list and filter by the desired product
+* Press the upper right green "export" button.
+* Choose "CSV - all customers"
+* Process the CSV in Excel (or a script, [here's ours](https://github.com/Bemmu/cratejoy-scripts/blob/master/csv_to_shipping_list.py) for reference) to filter inactive subscribers and create address list
+
 # Fulfillment
 
 Of all the tasks for our twice-monthly candy box Candy Japan, fulfillment was the easiest to delegate. It is purely manual labor. Fold a box, insert stuff, attach stickers and tape. It can be taught to anyone in 10 minutes. You can either do fulfillment in-house (by yourself or hiring help) or hire an outside third-party logistics company.
