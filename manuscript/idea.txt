@@ -169,17 +169,23 @@ For our box Candy Japan we built our own system from scratch on top of Google Ap
 
 # Setting up your website
 
-## Starting with a LaunchRock page
+## Starting with a launch page
 
-Now you have your domain name and you are full of energy to get going. If you are not feeling quite ready yet to set up your whole site and ecommerce system, what would be the next step then? An easy one to start with is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and providing a form where interested visitors can enter their email addresses to be notified when you do launch.
+You have your domain name ready to go and you are full of enthusiasm to get a site up quickly. Yet you are not feeling quite ready to set up your ecommerce system. What would be an easy next step instead? 
+
+One simple way to get started is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and to provide a form where interested visitors can enter their email addresses to be notified when you are ready to launch your actual site.
+
+With a launch page you can begin to gather an audience as early as possible. Google might also favor older sites slightly more when ranking search results, so having your site up earlier might not hurt there either (although it probably won't make a huge difference). 
+
+### How to set up your LaunchRock page
 
 ![LaunchRock landing page](images/launchrock.png)
 
-The purpose of such a page is to begin gathering an audience as early as possible. Some also think that Google favors older sites slightly more when ranking search results, so having your site up earlier might help there (although probably not much!).
+A service called LaunchRock enables you to set up your launch pages easily, so you can start gathering your audience as early as possible. People can express their interest for your subscription box even before you have everything else set up. On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
 
-A service called LaunchRock enables you to set up your launch pages easily and start gathering an audience as early as possible. People can express their interest for your subscription box even before you have everything else set up. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
+While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. That's still extremely cheap and I recommend going with the paid plan. You should have the custom domain (which you probably already purchased) as after all you would probably prefer building excitement for your own site rather than for LaunchRock! 
 
-While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", but to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. I would recommend going with a custom domain, as after all you would probably prefer building excitement for your own site rather than for LaunchRock! If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up. There are also other features which are not available in the free plan, such as entering custom HTML code.
+If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up. However there are also other features which are not available in the free plan, such as entering custom HTML code.
 
 ![Launchrock launch page editor](images/launchrock2.png)
 
@@ -187,17 +193,24 @@ After signing up you’ll have access to a drag and drop site builder which come
 
 ## Idea validation
 
-First try to discover if people are even interested in what you are offering, in other words validate that your idea has legs. While LaunchRock is fine for getting a rough idea on the number of interested people and many who signed up are likely to become subscribers, it's still not quite the same thing as actually getting subscribers.
+First try to discover if people are even interested in what you are offering, in other words validate that your idea has legs. While LaunchRock is fine for getting a rough idea on the number of interested people and many who sign up will likely become subscribers, it's still not quite the same as actually getting paying subscribers.
 
-The trouble with testing ideas is that you can’t really just ask if someone is interested. If you ask "would you subscribe to X if it existed?”" many people will answer yes because there is no risk or downside for them to agree and they want to be nice to you. It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk often mentions in his interviews the following piece of advice on getting product feedback: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
+The trouble with testing ideas without asking for payment is that you can’t really just ask if someone is truly interested. If you ask "would you subscribe to X if it existed?”" many people will answer yes because there is no risk or downside for them to agree and they want to be nice to you. 
 
-If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to find their credit card, complete the subscription process online and actually pay. What would be better instead would be to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. You can make it better later and convince an even higher percentage of visitors to sign up, but it would be better to have something that feels real and that can be ordered.
+It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk often mentions in his interviews the following piece of advice on getting product feedback: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
+
+If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to complete the subscription process online by finding their credit card and actually paying. It would be better instead to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. 
+
+This differs from having your real final site open in that it doesn't need to be much better than just your launch page. Just have *SOMETHING* up so that truly interested people can show that they are serious by actually paying. You can make it better later and convince an even higher percentage of visitors to sign up, but it would be better to have something that feels real and that can be ordered.
 
 Remember the initial site is mostly for discovering if people are truly interested in this idea, without you being around influencing them to agree to not hurt your feelings. You can still tweak pricing, your value proposition etc. later, it doesn’t have to be set in stone. For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). 
+What if you collect payments but then cannot actually deliver what you promised, or decide you don’t actually want to pursue your subscription box idea at all? While you do have paying subscribers signed up and it is sad if you must shut down, you can still cancel them and issue refunds. 
 
-And if later on you do decide you don’t actually want to pursue your subscription box idea at all but have paying subscribers signed up, you can cancel and issue refunds. I did this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
+I did this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
 
-If at all possible you have to make the test as real as possible and what is more real than actually having a site up that can accept payments? 
+While it sucks to build up excitement and then not deliver, the alternative may be wasting a ton of time building something and then finding out that no-one cares. Which is worse, spending months of your time perfecting something that falls flat on its face, or slightly disappointing a handful of early customers, who still get refunds? If you hadn't started early, those people would not even have had the chance to show their interest towards your project.
+
+So if at all possible, you want to validate your idea in as real as possible a way, and what is more real than actually having a site up that can accept payments? 
 
 ## Static site with PayPal subscription buttons
 
@@ -205,7 +218,7 @@ If you are already comfortable with setting up static websites, there is a very 
 
 ### Leveraging your LaunchRock page
 
-Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. When you’re getting started one way to get going is to set up a static website, but just add PayPal subscription buttons on it to make orders possible. If you have a PayPal account, you can find these in the merchant tools.
+Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. If you have a PayPal account, you can find the subscription buttons in the merchant tools.
 
 ![Where to find the merchant tools](images/paypal_payments.png)
 
@@ -213,7 +226,9 @@ To get the PayPal subscription button, first create a PayPal account if you don'
 
 ![Setting up the PayPal button](images/paypal_payments_standard.png)
 
-Incidentally, if you already have an email list, you don't need a website at all as you can just mail out this link. This is how we started with Candy Japan, just emailing some people I had dealt with before with this link to see if they would subscribe. Since some did, I was encouraged to actually do the effort of setting up a proper website. On the site we used just the PayPal button for a long time. It was plenty enough to see if anyone would subscribe. Even after we added more payment options later, it did not noticeably affect the amount of subscribers we were getting, so going with just PayPal would have probably been fine as well.
+Incidentally, if you already have an email list, you wouldn't even need a website at all, as you can just mail out this link along with an explanation of what your subscription box is about. That is how we started with Candy Japan. I just emailed some of the customers of my previous online store to ask if they would be interested to subscribe to a twice-monthly candy service and just included the PayPal subscription sign-up link in those emails.
+
+Since some did subscribe that way, I was encouraged to actually do the effort of setting up a proper website. On the site we used just the same PayPal subscription button for a long time. It was plenty enough to see if anyone would subscribe. Even after we added more payment options later, it did not noticeably affect the amount of subscribers we were getting, so going with just PayPal would have probably been fine as well.
 
 ![Copying the subscription button link from PayPal](images/launchrock3.png)
 
@@ -223,6 +238,17 @@ After creating your button, click on the "email" tab to get a convenient link in
 
 By the way, these simple recurring payment buttons are called “PayPal Payments Standard”. This will be important to know when looking at documentation, as PayPal also has other ways to interface with it. Make sure you are looking at Payments Standard pages, not BrainTree or Express Checkout lest you be confused. The more advanced integration methods Express Checkout requires more technical expertise to use, but allow for a more customized experience. It is only available in certain countries, while Standard Payments has better global availability.
 
+## Subscription e-commerce platforms
+
+The problem with using just the PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Your customers are difficult to browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. 
+
+With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible on PayPal's site.
+
+Perhaps the biggest reason is that by just using PayPal buttons, you are locked into a relationship with only PayPal. If you have any trouble with them, you could lose access to your subscribers. It might also be better to provide some other payment options for those who do not want to use or cannot use PayPal.
+
+To help in all of these matters, there are now several subscription e-commerce platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. They will be able to update their accounts and see the shipping status of their orders right on your site. Some of these systems even make it possible to buy postage stamps to print directly on your shipments with your own printer.
+
+There are several such subscription e-commerce platforms in existence now, perhaps the most famous one being CrateJoy. I will not go too deeply into the set-up of each of these, as you can find much better information in their own documentation and websites. But just as an overview, I will list a few of the options that are out there.
 
 # Fulfillment
 
@@ -305,3 +331,5 @@ $9.99 		57
 ## Websites
 
 Subscription School
+
+http://www.viperchill.com/private-niche-box/
