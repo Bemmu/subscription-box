@@ -248,7 +248,57 @@ Perhaps the biggest reason is that by just using PayPal buttons, you are locked 
 
 To help in all of these matters, there are now several subscription e-commerce platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. They will be able to update their accounts and see the shipping status of their orders right on your site. Some of these systems even make it possible to buy postage stamps to print directly on your shipments with your own printer.
 
-There are several such subscription e-commerce platforms in existence now, perhaps the most famous one being CrateJoy. I will not go too deeply into the set-up of each of these, as you can find much better information in their own documentation and websites. But just as an overview, I will list a few of the options that are out there.
+There are several such subscription e-commerce platforms in existence now, perhaps the most famous one being CrateJoy. I will not go too deeply into the set-up of each of these, as you can find much better information in their own documentation and websites. But just as an overview, I will list a few of the options that are out there. 
+
+Among the most important aspects when comparing ways to set up your subscription site are:
+
+* Provided layout templates / editor
+* Supported payment methods
+* Ease of preparing shipments
+* Ease of set-up
+* App/extension ecosystem
+* Cost of the platform
+* Customer-facing 
+
+### Provided layout templates / editor
+
+The death or success of your site will be highly impacted by the conversion ratio of your landing page - getting visitors to convert to customers. If you need 100 visitors to get one customer, you will be radically better off than a competitor who needs 200 visitors for the same customer. How you compose your site will have a big impact on this For this reason, having good templates that are known to convert well is important. If you use a popular system and see other successful subscription boxes using layouts similar to those offered, at least you'll know those to be a good starting point.
+
+Besides just the attractive layout, things like copywriting, photos and video on your site will of course also have a huge impact on this, but those too will need to be laid out somehow. So either your template should already have places for presenting those well or there should be an editor which is comfortable enough for you to use.
+
+In practice it will be impossible to know which layout will work for you, so it should also be possible to customize the site freely by editing HTML/CSS directly. Even if that is not something you want to do yourself, you should have the option of being able to hire a freelancer to do any changes which you need.
+
+### Supported payment methods
+
+There are many ways to pay online. You can have a form on your site where users can enter credit cards directly, just as they do on Amazon and many other online store. While this can make your site look very professional, another fine option is to take your customers over to PayPal to complete their payment. Some people prefer to enter their cards directly, others are comforted by having a trusted third party appear between the site and their purchase. Some are even [against PayPal on principle](http://www.paypalsucks.com/) (note: we have never had a single problem with PayPal after ~5 years of accepting payments through them).
+
+When accepting credit cards directly, there are multiple gateways behind the scenes processing payments, which will affects things such as the processing fees you pay, fraud detection and which countries' cards are accepted. One such gateway is Stripe, which is very smooth to use for the customer, as their credit card information is already pre-filled in if they have previously used Stripe to purchase somewhere else, which can make ordering very easy. 
+
+However the downside of Stripe is that while they accept merchants from most countries, not all are supported. You can see the currently supported Stripe countries [here](https://stripe.com/global). PayPal also restricts their more advanced payment APIs to some countries only, while PayPal Payments Standard (the simple subscription buttons) is more widely available.
+
+If there is a certain payment gateway you wish to use, for example if you are based in Russia and need to use a local payment provider, then you would need to find a subscription e-commerce platform which also supports that gateway. If you are based in the US, you will have a lot of choice. In some countries you might be happy just to find any working way for accepting payments. For example in my case as a sole-proprietor foreigner living in Japan, I couldn't initially find any gateway which would accept my strange situation, until I found [WireCard](https://www.wirecard.com/).
+
+### Ease of preparing shipments
+
+Actually shipping out stuff is a repetitive step which you will need to do every single month (if not more). It should be as easy as possible to print out multiple shipping labels in one batch. You definitely don't want to have to write labels by hand or even click one-by-one for each label to generate. If you are shipping abroad, you would also need a way to print any customs labels. 
+
+### Ease of set-up
+
+While other aspects will dominate in importance over time, ease of set-up is still very important, as otherwise you might not get started with your club at all. You are much more likely to remain motivated to continue with your project if you can easily set up a default site and start accepting payments in only a few clicks.
+
+### App/extension ecosystem
+
+One reason I don't own a Windows Phone is that any apps I would want to use would quite likely not be available for it. I would rather have an Android device or an iPhone to have access to all the cool and useful apps out there. While it is still early days at the time of writing, similarly there is bound to be an app ecosystem for subscription e-commerce platforms as well. Going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you.
+
+### Cost of the platform
+
+You might be tempted to focus on the cost alone, but it is one of the less important aspects to consider. For example if platform A costs $50 / month and platform B is $100 / month, if B brought you just one extra customer each month or saved just a bit of your time, then it would very likely already be worth the difference.
+
+The systems tend to be priced such that the cost scales as your customer base grows, often with a base fee and an additional per-transaction fee. $39.00 per month + 1.25% + $0.10 per transaction. If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs you $39.00 + (100*$29)*0.0125 + 100 * $0.10 = $85.25.
+
+Really any of the commonly available platforms are cheap enough that the cost is not much of an issue and your expenses will be likely dominated by other costs such as shipping and marketing expenses.
+
+Only if you started custom building a completely new system by hiring programmers would you really start feeling the pain. If you hired an experienced west-coast US freelance developer for 6 months to develop your site, that alone might cost nearly $100k. You should feel very lucky that there are already platforms that accomplish the same with a fraction of the cost of custom development.
 
 ## CrateJoy
 
@@ -268,15 +318,19 @@ In addition to subscription products, CrateJoy also offers traditional ecommerce
 
 ### Managing shipments through CrateJoy
 
-Through the CrateJoy interface you are able to see what you are supposed to ship in the current time period and the next one. If you have a monthly box, you can see which boxes you are supposed to ship this month and also how many confirmed orders there are already for the next one. 
+Through the CrateJoy interface you are able to see what you are supposed to ship in the current time period and any confirmed orders you have for future months. You can have confirmed future orders, because in addition to month-to-month payments, through CrateJoy it is easy to also accept pre-payments for several months in advance. 
 
-In addition to month-to-month payments, through CrateJoy it is easy to also accept pre-payments for several months in advance. These show up in the list of shipments to complete even before that month arrives, in case you want to prepare the boxes in advance. Future confirmed orders can occur in case you have multiple month subscriptions. For example if it is before the July box cut-off date and a customer puts in a 3-month box order, then you would already be able to see them as a confirmed order for August as well. 
+These show up in the list of shipments to complete even before that month arrives, in case you want to prepare the boxes in advance. Future confirmed orders can occur in case you have multiple month subscriptions. For example if it is before the July box cut-off date and a customer puts in a 3-month box order, then you would already be able to see them as a confirmed order for August as well. 
 
 However if the subscriber is paying monthly, then their order would not show up until the rebill has not gone through. This is because they might still cancel or their credit card could stop working before the payment has a chance to clear, so it is not certain yet if there really will be an order.
 
 An interesting feature is that you can print labels *including postage* directly from the app. Instead of affixing stamps to your boxes yourself or have the post office measure and stamp them, the stamp information is printed out as QR codes on the label, right alongside the recipient and sender address. 
 
 (If you happen to have a need to prepare and/or send shipments to active subscribers whose rebill has not gone through yet, that is a bit harder, but [here's my own script for doing that for reference](https://github.com/Bemmu/cratejoy-scripts)) 
+
+## Subbly
+
+Subbly is a competitor to CrateJoy.
 
 # Fulfillment
 
