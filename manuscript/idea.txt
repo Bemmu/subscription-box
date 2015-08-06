@@ -328,6 +328,16 @@ An interesting feature is that you can print labels *including postage* directly
 
 (If you happen to have a need to prepare and/or send shipments to active subscribers whose rebill has not gone through yet, that is a bit harder, but [here's my own script for doing that for reference](https://github.com/Bemmu/cratejoy-scripts)) 
 
+### Provided layout templates / editor
+
+CrateJoy has a "design store" where you can purchase site templates for use in your subscription box site. After you purchase and install a template, you can edit the text and images to your liking via a visual editor, called the "designer".
+
+![CrateJoy designer](images/cratejoy_designer.png)
+
+HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP.
+
+![Editing a CrateJoy template code online](images/cratejoy_code.png)
+
 ## Subbly
 
 Subbly is a competitor to CrateJoy.
