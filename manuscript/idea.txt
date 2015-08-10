@@ -264,9 +264,8 @@ Among the most important aspects when comparing ways to set up your subscription
 * Supported payment methods
 * Ease of preparing shipments
 * Ease of set-up
-* App/extension ecosystem
 * Cost of the platform
-* Customer-facing 
+* App/extension ecosystem
 
 ### Provided layout templates / editor
 
@@ -294,10 +293,6 @@ Actually shipping out stuff is a repetitive step which you will need to do every
 
 While other aspects will dominate in importance over time, ease of set-up is still very important, as otherwise you might not get started with your club at all. You are much more likely to remain motivated to continue with your project if you can get the first few subscribers easily. That means setting up a simple site which can accept payments should be as painless as possible. If you are working on this project alone, your likelihood of going through with it will be much less if you need to set up your own server and configure software to get started. Most popular solutions nowadays gladly require no such efforts.
 
-### App/extension ecosystem
-
-One reason I don't own an obscure smartphone is that any apps I would want to use would quite likely not be available for it. I would rather have a more popular device such as Android or an iPhone, so that I can have access to all the cool and useful apps out there. As phones have their own app ecosystems, likely the same will emerge for subscription e-commerce platforms as well. This is not a big consideration at the moment, but going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you in the future.
-
 ### Cost of the platform
 
 You might be tempted to focus on the cost alone, but it is one of the less important aspects to consider. For example if platform A costs $50 / month and platform B is $100 / month, if B brought you just one extra customer each month or saved just a bit of your time, then it would very likely already be worth the difference.
@@ -305,6 +300,10 @@ You might be tempted to focus on the cost alone, but it is one of the less impor
 The systems tend to be priced such that the cost scales as your customer base grows, often with a base fee and an additional per-transaction fee. Really any of the commonly available platforms is cheap enough that the cost is not much of an issue and your expenses will be likely dominated by other costs such as shipping and marketing expenses.
 
 Only if you started custom building a completely new system by hiring programmers would you really start feeling the pain. If you hired an experienced west-coast US freelance developer for 6 months to develop your site, that alone might cost nearly $100k. You should feel very lucky that there are already platforms that accomplish the same with a fraction of the cost of custom development.
+
+### App/extension ecosystem
+
+One reason I don't own an obscure smartphone is that any apps I would want to use would quite likely not be available for it. I would rather have a more popular device such as Android or an iPhone, so that I can have access to all the cool and useful apps out there. As phones have their own app ecosystems, likely the same will emerge for subscription e-commerce platforms as well. This is not a big consideration at the moment, but going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you in the future.
 
 ## CrateJoy
 
@@ -314,13 +313,31 @@ CrateJoy was started as part of the startup incubator Y Combinator (which by the
 
 Amir was [inspired to start CrateJoy](http://socialnerdia.com/blog/cratejoy-founder-amir-elaguizy) upon noticing how well subscription box companies were doing and how despite their successes there was still no good solution available yet for running them. Many subscription box startups were operating their businesses using various systems not really geared for subscription sites. They were specifically targeting to make a better solution than the Shopify + Chargify combination.
 
-### Comparison of CrateJoy vs. our home-grown system
-
 For over 4 years we have also been running our subscription box Candy Japan with a self-made system, until recently giving CrateJoy a try. It was not really a switch per se, rather we bought an existing site which was already running on it. When recently acquiring our second subscription site, a monthly Japanese anime box called [FaniPack](http://www.fanipack.com), we started also using CrateJoy. I must say it has been a joy so far, although at the time of writing we had only been using it for one month. 
 
 Compared with our own system, CrateJoy provides quite a natural interface for managing subscriptions. With an in-house system, you tend not to really care much about how nice your user interface is. And when you’re the only one using it, at first it doesn’t really matter. But when you keep using your system for years and then eventually want to have other people helping you or want to even sell your business, it starts to matter much more. CrateJoy is a lot more pleasant to use than our in-house one, which lacks even navigation menus (hey, I can remember the URLs!).
 
 In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. The joy of browsing all the configuration options in a beautifully crafted interface is palpable after using a quickly mashed up home-grown system for years. While having a detailed CrateJoy set-up guide might be a good addition to this book, it could never be as up to date and authoritative as [their own tutorials](http://subscriptionschool.com/), so I suggest going directly to the source to learn more about CrateJoy if you are interested in choosing them.
+
+### CrateJoy templates / editor
+
+CrateJoy has a "design store" where you can purchase site templates for use in your subscription box site. After you purchase and install a template, you can edit the text and images to your liking via a visual editor, called the "designer". If needed, even images can be edited directly on CrateJoy, as they integrate the browser-based Aviary image editor.
+
+![CrateJoy designer](images/cratejoy_designer.png)
+
+HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching the code.
+
+![Editing a CrateJoy template code online](images/cratejoy_code.png)
+
+### CrateJoy supported payment gateways
+
+The default gateway offered on CrateJoy is Stripe and you are highly encouraged to use it. While it is unlikely to be a coincidence that both Stripe and CrateJoy are backed by the same startup accelerator, Stripe also genuinely seems like a very good choice for accepting payments. 
+
+In addition to Stripe, CrateJoy also supports the payment gateways Authorize.net, PayTrace, BrainTree, PayMill, WorldPay and CyberSource. However [Stripe support suggests going with Stripe](https://cratejoy.zendesk.com/hc/en-us/articles/201885619-What-payment-processors-does-Cratejoy-support-) in these words: *"We strongly recommend usage of Stripe and will only enable a non-stripe payment processor when there is a good reason to do so (such as being in a non-stripe supported country)."*.
+
+While Stripe payments can be accepted from any country, you as the merchant must be located in a country supported by Stripe. At the time of writing the supported merchant countries were Australia, Canada, Denmark, Finland, Ireland, Norway, Sweden, United Kingdom and United States. There are other countries where Stripe is in beta. You can find the up-to-date list on [Stripe's site](https://support.stripe.com/questions/what-countries-does-stripe-support).
+
+One of the best things about Stripe is that if your potential customer has already bought something from another site using the Stripe gateway, they can prefill their credit card details. This means that to order the customer won't have to refill their CC number, but it can be a matter of just clicking "OK". This is fantastic, as the less friction you have in your checkout flow the better in terms of your conversion rate from visitor to customer.
 
 ### Managing shipments through CrateJoy
 
@@ -334,15 +351,7 @@ If you happen to have a need to prepare and/or send shipments to active subscrib
 
 An interesting feature is that you can print labels *including postage* directly from the app. Instead of affixing stamps to your boxes yourself or have the post office measure and stamp them, proof of stamp payment is printed out as QR codes on the label. That means you can neatly have just one label for the recipient and sender addresses with postage included in it as well.
 
-### CrateJoy supported payment gateways
-
-The default gateway offered on CrateJoy is Stripe and you are highly encouraged to use it. While it is unlikely to be a coincidence that both Stripe and CrateJoy are backed by the same startup accelerator, Stripe also genuinely seems like a very good choice for accepting payments. 
-
-In addition to Stripe, CrateJoy also supports the payment gateways Authorize.net, PayTrace, BrainTree, PayMill, WorldPay and CyberSource. However [Stripe support suggests going with Stripe](https://cratejoy.zendesk.com/hc/en-us/articles/201885619-What-payment-processors-does-Cratejoy-support-) in these words: *"We strongly recommend usage of Stripe and will only enable a non-stripe payment processor when there is a good reason to do so (such as being in a non-stripe supported country)."*.
-
-While Stripe payments can be accepted from any country, you as the merchant must be located in a country supported by Stripe. At the time of writing the supported merchant countries were Australia, Canada, Denmark, Finland, Ireland, Norway, Sweden, United Kingdom and United States. There are other countries where Stripe is in beta. You can find the up-to-date list on [Stripe's site](https://support.stripe.com/questions/what-countries-does-stripe-support).
-
-One of the best things about Stripe is that if your potential customer has already bought something from another site using the Stripe gateway, they can prefill their credit card details. This means that to order the customer won't have to refill their CC number, but it can be a matter of just clicking "OK". This is fantastic, as the less friction you have in your checkout flow the better in terms of your conversion rate from visitor to customer.
+### Setting up CrateJoy
 
 ### Cost of CrateJoy
 
@@ -351,16 +360,6 @@ At the time of writing CrateJoy charged $39.00 / month + 1.25% + $0.10 for each 
 If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs you $39.00 + (100*$29)*0.0125 + 100 * $0.10 = $85.25.
 
 This does not include payment gateway fees. For example if Stripe is your gateway, then in the example case they would additionally charge you $114.10 (that's 2.9% + $0.30 per transaction).
-
-### CrateJoy templates / editor
-
-CrateJoy has a "design store" where you can purchase site templates for use in your subscription box site. After you purchase and install a template, you can edit the text and images to your liking via a visual editor, called the "designer". If needed, even images can be edited directly on CrateJoy, as they integrate the browser-based Aviary image editor.
-
-![CrateJoy designer](images/cratejoy_designer.png)
-
-HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching the code.
-
-![Editing a CrateJoy template code online](images/cratejoy_code.png)
 
 ### CrateJoy apps
 
