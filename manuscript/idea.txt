@@ -302,9 +302,7 @@ One reason I don't own an obscure smartphone is that any apps I would want to us
 
 You might be tempted to focus on the cost alone, but it is one of the less important aspects to consider. For example if platform A costs $50 / month and platform B is $100 / month, if B brought you just one extra customer each month or saved just a bit of your time, then it would very likely already be worth the difference.
 
-The systems tend to be priced such that the cost scales as your customer base grows, often with a base fee and an additional per-transaction fee. $39.00 per month + 1.25% + $0.10 per transaction. If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs you $39.00 + (100*$29)*0.0125 + 100 * $0.10 = $85.25.
-
-Really any of the commonly available platforms are cheap enough that the cost is not much of an issue and your expenses will be likely dominated by other costs such as shipping and marketing expenses.
+The systems tend to be priced such that the cost scales as your customer base grows, often with a base fee and an additional per-transaction fee. Really any of the commonly available platforms is cheap enough that the cost is not much of an issue and your expenses will be likely dominated by other costs such as shipping and marketing expenses.
 
 Only if you started custom building a completely new system by hiring programmers would you really start feeling the pain. If you hired an experienced west-coast US freelance developer for 6 months to develop your site, that alone might cost nearly $100k. You should feel very lucky that there are already platforms that accomplish the same with a fraction of the cost of custom development.
 
@@ -347,6 +345,12 @@ While Stripe payments can be accepted from any country, you as the merchant must
 One of the best things about Stripe is that if your potential customer has already bought something from another site using the Stripe gateway, they can prefill their credit card details. This means that to order the customer won't have to refill their CC number, but it can be a matter of just clicking "OK". This is fantastic, as the less friction you have in your checkout flow the better in terms of your conversion rate from visitor to customer.
 
 ### Cost of CrateJoy
+
+At the time of writing CrateJoy charged $39.00 / month + 1.25% + $0.10 for each transaction. 
+
+If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs you $39.00 + (100*$29)*0.0125 + 100 * $0.10 = $85.25.
+
+This does not include payment gateway fees. For example if Stripe is your gateway, then in the example case they would additionally charge you $114.10 (that's 2.9% + $0.30 per transaction).
 
 ### CrateJoy templates / editor
 
