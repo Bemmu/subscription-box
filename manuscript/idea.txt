@@ -1,6 +1,14 @@
 # Why start a subscription box?
 
-## Affordable to get started
+## It's fun for the customers
+
+Most people enjoy surprise gifts. A subscription box is not only a fun gift for someone else, but can be a way to "surprise your future self" by placing an order, forgetting about it for a while and later on be delighted when unexpected mail with a variety of goodies arrives. It's like Christmas every month. 
+
+It can also be a good shopping experience for trying a variety of goods without needing to consciously make product selections. According to [a study](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en), when presented with more choice, customers may be overwhelmed and end up purchasing less. 
+
+There is also a sense of community not present in traditional e-commerce stores. When each customer receives the same box, discussion and social media sharing over the box and its contents can take place.
+
+## Affordable to get started for the entrepreneur
 
 Unlike starting a restaurant franchise or other business where you have to make large investments from the get-go before you even know if you will have any customers, for a subscription box you get to send out the product AFTER you already know you can sell it. 
 
@@ -262,7 +270,7 @@ Among the most important aspects when comparing ways to set up your subscription
 
 ### Provided layout templates / editor
 
-The death or success of your site will be highly impacted by the conversion ratio of your landing page - getting visitors to convert to customers. If you need 100 visitors to get one customer, you will be radically better off than a competitor who needs 200 visitors for the same customer. How you compose your site will have a big impact on this For this reason, having good templates that are known to convert well is important. If you use a popular system and see other successful subscription boxes using layouts similar to those offered, at least you'll know those to be a good starting point.
+The success of your site will be highly impacted by the conversion ratio of your landing page - getting visitors to convert to customers. If you need 100 visitors to get one customer, you will be radically better off than a competitor who needs 200 visitors for the same customer. How you compose your site will have a big impact on this For this reason, having good templates that are known to convert well is important. If you use a popular system and see other successful subscription boxes using layouts similar to those offered, at least you'll know those to be a good starting point.
 
 Besides just the attractive layout, things like copywriting, photos and video on your site will of course also have a huge impact on this, but those too will need to be laid out somehow. So either your template should already have places for presenting those well or there should be an editor which is comfortable enough for you to use.
 
@@ -280,15 +288,15 @@ If there is a certain payment gateway you wish to use, for example if you are ba
 
 ### Ease of preparing shipments
 
-Actually shipping out stuff is a repetitive step which you will need to do every single month (if not more). It should be as easy as possible to print out multiple shipping labels in one batch. You definitely don't want to have to write labels by hand or even click one-by-one for each label to generate. If you are shipping abroad, you would also need a way to print any customs labels. 
+Actually shipping out stuff is a repetitive step which you will need to do every single month (if not more). It should be as easy as possible to print out multiple shipping labels in one batch. You definitely don't want to have to write labels by hand once you get past a few dozen subscribers. After a few hundred, even clicking one-by-one to generate each label starts to get tedious. If you are shipping abroad, you may also desire a way to fill any customs labels easily.
 
 ### Ease of set-up
 
-While other aspects will dominate in importance over time, ease of set-up is still very important, as otherwise you might not get started with your club at all. You are much more likely to remain motivated to continue with your project if you can easily set up a default site and start accepting payments in only a few clicks.
+While other aspects will dominate in importance over time, ease of set-up is still very important, as otherwise you might not get started with your club at all. You are much more likely to remain motivated to continue with your project if you can get the first few subscribers easily. That means setting up a simple site which can accept payments should be as painless as possible. If you are working on this project alone, your likelihood of going through with it will be much less if you need to set up your own server and configure software to get started. Most popular solutions nowadays gladly require no such efforts.
 
 ### App/extension ecosystem
 
-One reason I don't own a Windows Phone is that any apps I would want to use would quite likely not be available for it. I would rather have an Android device or an iPhone to have access to all the cool and useful apps out there. While it is still early days at the time of writing, similarly there is bound to be an app ecosystem for subscription e-commerce platforms as well. Going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you.
+One reason I don't own an obscure smartphone is that any apps I would want to use would quite likely not be available for it. I would rather have a more popular device such as Android or an iPhone, so that I can have access to all the cool and useful apps out there. As phones have their own app ecosystems, likely the same will emerge for subscription e-commerce platforms as well. This is not a big consideration at the moment, but going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you in the future.
 
 ### Cost of the platform
 
@@ -324,23 +332,45 @@ These show up in the list of shipments to complete even before that month arrive
 
 However if the subscriber is paying monthly, then their order would not show up until the rebill has not gone through. This is because they might still cancel or their credit card could stop working before the payment has a chance to clear, so it is not certain yet if there really will be an order.
 
-An interesting feature is that you can print labels *including postage* directly from the app. Instead of affixing stamps to your boxes yourself or have the post office measure and stamp them, the stamp information is printed out as QR codes on the label, right alongside the recipient and sender address. 
+If you happen to have a need to prepare and/or send shipments to active subscribers whose rebill has not gone through yet, you can always export the list of subscribers and filter it to only active subscribers by importing the CSV file to a spreadsheet program or using a [simple script](https://github.com/Bemmu/cratejoy-scripts).
 
-(If you happen to have a need to prepare and/or send shipments to active subscribers whose rebill has not gone through yet, that is a bit harder, but [here's my own script for doing that for reference](https://github.com/Bemmu/cratejoy-scripts)) 
+An interesting feature is that you can print labels *including postage* directly from the app. Instead of affixing stamps to your boxes yourself or have the post office measure and stamp them, proof of stamp payment is printed out as QR codes on the label. That means you can neatly have just one label for the recipient and sender addresses with postage included in it as well.
 
-### Provided layout templates / editor
+### CrateJoy supported payment gateways
 
-CrateJoy has a "design store" where you can purchase site templates for use in your subscription box site. After you purchase and install a template, you can edit the text and images to your liking via a visual editor, called the "designer".
+The default gateway offered on CrateJoy is Stripe and you are highly encouraged to use it. While it is unlikely to be a coincidence that both Stripe and CrateJoy are backed by the same startup accelerator, Stripe also genuinely seems like a very good choice for accepting payments. 
+
+In addition to Stripe, CrateJoy also supports the payment gateways Authorize.net, PayTrace, BrainTree, PayMill, WorldPay and CyberSource. However [Stripe support suggests going with Stripe](https://cratejoy.zendesk.com/hc/en-us/articles/201885619-What-payment-processors-does-Cratejoy-support-) in these words: *"We strongly recommend usage of Stripe and will only enable a non-stripe payment processor when there is a good reason to do so (such as being in a non-stripe supported country)."*.
+
+While Stripe payments can be accepted from any country, you as the merchant must be located in a country supported by Stripe. At the time of writing the supported merchant countries were Australia, Canada, Denmark, Finland, Ireland, Norway, Sweden, United Kingdom and United States. There are other countries where Stripe is in beta. You can find the up-to-date list on [Stripe's site](https://support.stripe.com/questions/what-countries-does-stripe-support).
+
+One of the best things about Stripe is that if your potential customer has already bought something from another site using the Stripe gateway, they can prefill their credit card details. This means that to order the customer won't have to refill their CC number, but it can be a matter of just clicking "OK". This is fantastic, as the less friction you have in your checkout flow the better in terms of your conversion rate from visitor to customer.
+
+### Cost of CrateJoy
+
+### CrateJoy templates / editor
+
+CrateJoy has a "design store" where you can purchase site templates for use in your subscription box site. After you purchase and install a template, you can edit the text and images to your liking via a visual editor, called the "designer". If needed, even images can be edited directly on CrateJoy, as they integrate the browser-based Aviary image editor.
 
 ![CrateJoy designer](images/cratejoy_designer.png)
 
-HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP.
+HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching the code.
 
 ![Editing a CrateJoy template code online](images/cratejoy_code.png)
 
+### CrateJoy apps
+
+At the time of writing CrateJoy had an app store with 9 apps in it. As the service is growing rapidly, the growth of the app store looks promising. Most of the apps are free, with only adding a referral program through the appropriately named "Referral Program" app costing an additional $99/month to use.
+
 ## Subbly
 
-Subbly is a competitor to CrateJoy.
+Subbly is a subscription e-commerce platform, founded by Stefan Pretty. It is designed to help make starting a subscription business as painless as possible. They pride themselves on great support, including personal help to grow your business. While this might be a time-limited offer, when I set up my own Subbly test site I was offered a free consultation session with the founder.
+
+### Subbly templates / editor
+
+
+
+### Subbly apps
 
 # Fulfillment
 
