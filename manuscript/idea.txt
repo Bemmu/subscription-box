@@ -423,7 +423,13 @@ When your box has just been released, the release itself can be news enough to g
 
 ### What's in a press release?
 
-Alright, so perhaps you are now ready to go ahead and proceed writing your press release.
+Alright, so perhaps you are now ready to go ahead and proceed writing your press release, which just means penning down an official statement to send to to journalists. For a reporter it can be the starting point of writing a story about the launch of your subscription box. 
+
+The first line in a press release indicates whether the information can be published immediately or if it is under an "**embargo**". You can use an embargo to give a date for when your launch announcement can be published to coordinate information going out at the same time. You should be aware though that many reporters dislike embargoes, so using one could hurt your chances for coverage.
+
+To indicate that the information can be released right away, start the press release with "FOR IMMEDIATE RELEASE", otherwise to indicate an embargo use for example "FOR RELEASE ON JAN. 8, 2019 AT 10 A.M. EST".
+
+After this comes the title of the press release, also known as the **slug**. Reporters receive hundreds of press releases, so this shouldn’t sound too dry. Use [action words such as](http://blog.prleap.com/archives/25-action-words-for-writing-a-newsworthy-headline/) "launches", "introduces", "releases", "announces" or "unveils" to make your press release sound interesting and newsworthy. 
 
 # Customer support
 
