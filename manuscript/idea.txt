@@ -365,9 +365,24 @@ At the time of writing CrateJoy had an app store with 9 apps in it. As the servi
 
 # Subbly
 
-Subbly is a subscription e-commerce platform, founded by Stefan Pretty. It is designed to help make starting a subscription business as painless as possible. They pride themselves on great support, including personal help to grow your business. While this might be a time-limited offer, when I set up my own Subbly test site I was offered a free consultation session with the founder.
+Subbly is a subscription e-commerce platform founded by Stefan Pretty. It is designed to help make starting a subscription business as painless as possible.
+
+As [Subbly's blog puts it](http://www.subbly.co/blog/what-is-subbly-5-things-you-need-to-know-about-the-subscription-box-ecommerce-platform/) "*Subbly is an all-in-one subscription eCommerce solution that provides vendors with everything they need to set up a subscription box business on one simple platform.*".
+
+Subbly team prides themselves on great support, including personal help to grow your business. When I set up my own Subbly test site I was even offered a free consultation session with the founder, although that might be a time-limited offer.
 
 ## Templates / editor
+
+At the time of writing there were two templates to choose from, both free. Subbly can also design your site template for you. The cost for this design service starts at $2500.
+
+Designing your site with one of the provided templates is a matter of choosing a logo and customizing which font and colors you would like. You can also include links to your social media presence. Next you can start entering the text to describe how your box works, its name, tagline and so on. To see the changes you save and refresh your shop.
+
+![Customizing your site template on Subbly](images/subbly_editor.png)
+
+Customizing the template is perhaps not quite as intuitive as CrateJoy, as you cannot edit texts by just clicking on them. Instead you need to find the right place in theme options to change your desired part. On the other hand having all the options laid out in front of you makes it very clear which parts are editable.
+
+![What I achieved in 15 minutes with Subbly](images/subbly_editor2.png)
+
 ## Supported payment gateways
 ## Managing shipments
 ## Pricing
