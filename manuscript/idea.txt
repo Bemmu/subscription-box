@@ -353,7 +353,7 @@ An interesting feature is that you can print labels *including postage* directly
 
 ## Pricing
 
-At the time of writing CrateJoy charged $39.00 / month + 1.25% + $0.10 for each transaction. 
+At the time of writing CrateJoy charged $39.00 / month and additionally 1.25% + $0.10 for each transaction. 
 
 If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs you $39.00 + (100*$29)*0.0125 + 100 * $0.10 = $85.25.
 
@@ -384,9 +384,20 @@ Customizing the template is perhaps not quite as intuitive as CrateJoy, as you c
 ![What I achieved in 15 minutes with Subbly](images/subbly_editor2.png)
 
 ## Supported payment gateways
+
+At the time of writing Subbly only supported Stripe, although that is what CrateJoy is also strongly pushing merchants to use.
+
 ## Managing shipments
+
+Scheduling shipments on Subbly is more limited than CrateJoy. You can select billing intervals and delivery intervals (weekly, monthly, every 3 months, annually or bi-annually), but cannot freely choose a cut-off date to lock your shipping list in preparation for a shipment. 
+
 ## Pricing
+
+Subbly is tiered based on subscriber count. Up to 10 subscribers for $24/month, 100 for $49/month, 300 for $99/month, 1000 for $199/month. There are no transaction fees.
+
 ## Apps
+
+Subbly has no available third-party apps.
 
 # Fulfillment
 
