@@ -1,9 +1,2 @@
 why.txt
 idea.txt
-domain.txt
-site_setup.txt
-marketing.txt
-fulfillment.txt
-support.txt
-trading.txt
-conversion_optimization.txt

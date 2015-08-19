@@ -246,15 +246,37 @@ After creating your button, click on the "email" tab to get a convenient link in
 
 By the way, these simple recurring payment buttons are called “PayPal Payments Standard”. This will be important to know when looking at documentation, as PayPal also has other ways to interface with it. Make sure you are looking at Payments Standard pages, not BrainTree or Express Checkout lest you be confused. The more advanced integration methods Express Checkout requires more technical expertise to use, but allow for a more customized experience. It is only available in certain countries, while Standard Payments has better global availability.
 
+## WooCommerce Subscriptions
+
+WooCommerce is an open source e-commerce plugin for the website creation tool (or CMS) called WordPress. While WooCommerce allows you to create an online store, it does not support recurring subscriptions out of the box. WooCommerce Subscriptions exists to add this support. With this combination, you could set up your own subscription box on top of WooCommerce.
+
+WooCommerce Subscriptions has a flat purchase price of $199, after which you can continue using it for free. The catch is that you have to be familiar with hosting your own website, or have someone to do it for you. That is outside the scope of this book.
+
+Another option is to use an existing WooCommerce host, which will cost roughly $15/month, depending on the kind of plan you would likely need. For example [SiteGround offers WooCommerce hosting](https://www.siteground.com/shared-hosting-features.htm).
+
+## Shopify + Chargify
+
+Not originally geared for subscription boxes, Shopify is an ecommerce system for starting online stores. Bonus fact: Shopify was originally started as software just to run a single snowboarding shop, but has since grown to handle $8 billion worth of sales for various online stores. Shopify can be extended by adding apps, one of which is Chargify. By combining Shopify and Chargify, you can also create a system suitable for running a subscription box.
+
+Chargify pricing is $65 for up to 20 customers, $129 for up to 500 and $459 for up to 2,000. Shopify costs $29/month and has gateway fees identical with Stripe, but with volume discounts for higher sales.
+
+## Other cart systems with subscription modules
+
+Besides Shopify, there are many other shopping cart systems which you can extend with a subscription module. For instance you could use [PrestaShop](https://www.prestashop.com/) and extend it with the [Subscriptions Module](http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/5031-subscriptions.html) add-on.
+
+Another option is to use the open source cart system [Magento](http://magento.com/) and extend it with the [Subscriptions and Recurring Payments plugin](http://ecommerce.aheadworks.com/magento-extensions/subscriptions-and-recurring-payments.html).
+
+The advantage of using a cart system extended to support subscriptions is that those subscription plug-ins tend to be one-time costs. PrestaShop add-on for subscriptions costs 99,99 EUR, while the Magento Subscriptions and Recurring Payments extension costs $299. In the long run either will be a lot cheaper than the monthly fees many dedicated subscription platforms have.
+
 ## Subscription e-commerce platforms
 
-The problem with using just the PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Your customers are difficult to browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. 
-
-With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible on PayPal's site.
+The problem with using just the PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Your customers are difficult to browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible on PayPal's site.
 
 Perhaps the biggest reason is that by just using PayPal buttons, you are locked into a relationship with only PayPal. If you have any trouble with them, you could lose access to your subscribers. It might also be better to provide some other payment options for those who do not want to use or cannot use PayPal.
 
-To help in all of these matters, there are now several subscription e-commerce platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. They will be able to update their accounts and see the shipping status of their orders right on your site. Some of these systems even make it possible to buy postage stamps to print directly on your shipments with your own printer.
+Also using a normal ecommerce cart system which has only been extended to support subscriptions might not be as integrated a solution as one which has been designed from the ground up for subscription sites, without it being merely an afterthought. Going with a company completely dedicated to subscription ecommerce means that they will be optimizing their systems to help retain customers as long as possible and have a good interface for customers to manage their subscriptions.
+
+To help in all of these matters, there are now several subscription e-commerce platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. They will be able to update their accounts and see the shipping status of their orders right on your site. Some of these systems even make it possible to buy postage stamps to print directly on your shipments with your own desktop printer.
 
 There are several such subscription e-commerce platforms in existence now, perhaps the most famous one being CrateJoy. I will not go too deeply into the set-up of each of these, as you can find much better information in their own documentation and websites. But just as an overview, I will list a few of the options that are out there. 
 
@@ -379,7 +401,7 @@ Designing your site with one of the provided templates is a matter of choosing a
 
 ![Customizing your site template on Subbly](images/subbly_editor.png)
 
-Customizing the template is perhaps not quite as intuitive as CrateJoy, as you cannot edit texts by just clicking on them. Instead you need to find the right place in theme options to change your desired part. On the other hand having all the options laid out in front of you makes it very clear which parts are editable.
+You cannot edit texts by just clicking on them, but you can see the editable texts side-by-side with your live site. Instead of clicking on the text you want to change, you need to find the right place in theme options to change your desired part. On the other hand having all the options clearly listed in front of you makes it very clear which parts are editable.
 
 ![What I achieved in 15 minutes with Subbly](images/subbly_editor2.png)
 
@@ -400,6 +422,8 @@ Subbly is tiered based on subscriber count. Up to 10 subscribers for $24/month, 
 ## Apps
 
 Subbly has no third-party app directory, but has ShipStation integration. ShipStation is a web-based software for handling shipments, through which you can integrate with USPS, UPS, FedEx and DHL. It is ideal when you are selling goods through multiple channels, for example if you have an online store selling the same products that your subscription box site is selling, you can use ShipStation to have just one shipment flow. It also helps you print labels.
+
+Zapier integration is coming soon. Zapier is a bit similar to IFTTT, providing an interface for creating triggered automations. For example Zapier could send you an email, iOS notification or a Slack message when an order comes in. There are many possibilities to use it to trigger useful actions, as Zapier can interact with almost anything.
 
 # Fulfillment
 
