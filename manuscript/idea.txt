@@ -389,7 +389,9 @@ At the time of writing Subbly only supported Stripe, although that is what Crate
 
 ## Managing shipments
 
-Scheduling shipments on Subbly is more limited than CrateJoy. You can select billing intervals and delivery intervals (weekly, monthly, every 3 months, annually or bi-annually), but cannot freely choose a cut-off date to lock your shipping list in preparation for a shipment. 
+When scheduling shipments you can select billing intervals and delivery intervals (weekly, monthly, every 3 months, annually or bi-annually), but cannot freely choose a cut-off date to lock your shipping list in preparation for a shipment. 
+
+![Shipment preparation screen](images/subbly_dispatch.png)
 
 ## Pricing
 
@@ -397,7 +399,7 @@ Subbly is tiered based on subscriber count. Up to 10 subscribers for $24/month, 
 
 ## Apps
 
-Subbly has no available third-party apps.
+Subbly has no third-party app directory, but has ShipStation integration. ShipStation is a web-based software for handling shipments, through which you can integrate with USPS, UPS, FedEx and DHL. It is ideal when you are selling goods through multiple channels, for example if you have an online store selling the same products that your subscription box site is selling, you can use ShipStation to have just one shipment flow. It also helps you print labels.
 
 # Fulfillment
 
