@@ -246,7 +246,13 @@ After creating your button, click on the "email" tab to get a convenient link in
 
 By the way, these simple recurring payment buttons are called “PayPal Payments Standard”. This will be important to know when looking at documentation, as PayPal also has other ways to interface with it. Make sure you are looking at Payments Standard pages, not BrainTree or Express Checkout lest you be confused. The more advanced integration methods Express Checkout requires more technical expertise to use, but allow for a more customized experience. It is only available in certain countries, while Standard Payments has better global availability.
 
-## WooCommerce Subscriptions
+## Using a traditional e-commerce cart system
+
+Instead of just slapping a PayPal button on a static site, using a proper e-commerce cart system would let your customers manage their orders more easily without having to contact you by e-mail to view their order status. You could also browse your orders, mark them shipped and have automatic emails sent to customers. 
+
+While there are completely dedicated systems geared for subscription box sites, for completeness here are some of the more traditional cart systems which can be extended to support subscription boxes as well.
+
+### WooCommerce Subscriptions
 
 WooCommerce is an open source e-commerce plugin for the website creation tool (or CMS) called WordPress. While WooCommerce allows you to create an online store, it does not support recurring subscriptions out of the box. WooCommerce Subscriptions exists to add this support. With this combination, you could set up your own subscription box on top of WooCommerce.
 
@@ -254,13 +260,17 @@ WooCommerce Subscriptions has a flat purchase price of $199, after which you can
 
 Another option is to use an existing WooCommerce host, which will cost roughly $15/month, depending on the kind of plan you would likely need. For example [SiteGround offers WooCommerce hosting](https://www.siteground.com/shared-hosting-features.htm).
 
-## Shopify + Chargify
+### Extending Shopify to support a subscription box
 
-Not originally geared for subscription boxes, Shopify is an ecommerce system for starting online stores. Bonus fact: Shopify was originally started as software just to run a single snowboarding shop, but has since grown to handle $8 billion worth of sales for various online stores. Shopify can be extended by adding apps, one of which is Chargify. By combining Shopify and Chargify, you can also create a system suitable for running a subscription box.
+Not originally geared for subscription boxes, [Shopify](http://www.shopify.com) is an ecommerce system for starting online stores. Bonus fact: Shopify was originally started as software just to run a single snowboarding shop, but has since grown to handle $8 billion worth of sales for various online stores. 
 
-Chargify pricing is $65 for up to 20 customers, $129 for up to 500 and $459 for up to 2,000. Shopify costs $29/month and has gateway fees identical with Stripe, but with volume discounts for higher sales.
+Shopify can be extended by adding apps, one of which is [Chargify](https://apps.shopify.com/chargify). By combining Shopify and Chargify, you can also create a system suitable for running a subscription box. Chargify pricing is $65 for up to 20 customers, $129 for up to 500 and $459 for up to 2,000. Shopify costs $29/month and has gateway fees identical with Stripe, but with volume discounts for higher sales.
 
-## Other cart systems with subscription modules
+Another option for Shopify is PayWhirl, which is used for example by the subscription box Death Wish Coffee. This app also enables you to add a subscription layer to Shopify. PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction. You can find them in the Shopify app directory or on PayWhirl’s own site.
+
+If your subscription plan is $29/month, then at 20 subscribers PayWhirl would cost only $11.60/month compared to Chargify’s $65, so it is cheaper to start with. At this plan when having a bit under 500 subscribers it would become more expensive, but it would be quite a trivial difference. You should be choosing the system rather based on which you feel is easier to use and most of all the better user experience for your customers.
+
+### Going with PrestaShop or Magento
 
 Besides Shopify, there are many other shopping cart systems which you can extend with a subscription module. For instance you could use [PrestaShop](https://www.prestashop.com/) and extend it with the [Subscriptions Module](http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/5031-subscriptions.html) add-on.
 
