@@ -333,6 +333,10 @@ The systems tend to be priced such that the cost scales as your customer base gr
 
 Only if you started custom building a completely new system by hiring programmers would you really start feeling the pain. If you hired an experienced west-coast US freelance developer for 6 months to develop your site, that alone might cost nearly $100k. You should feel very lucky that there are already platforms that accomplish the same with a fraction of the cost of custom development.
 
+If you are still concerned about price, here is a comparison of CrateJoy vs. Subbly pricing, assuming a box which costs $29/month. This does not include gateway fees.
+
+![CrateJoy vs. Subbly pricing](images/pricing.png)
+
 ### App/extension ecosystem
 
 One reason I don't own an obscure smartphone is that any apps I would want to use would quite likely not be available for it. I would rather have a more popular device such as Android or an iPhone, so that I can have access to all the cool and useful apps out there. As phones have their own app ecosystems, likely the same will emerge for subscription e-commerce platforms as well. This is not a big consideration at the moment, but going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you in the future.
