@@ -280,11 +280,15 @@ The advantage of using a cart system extended to support subscriptions is that t
 
 ## Subscription e-commerce platforms
 
-The problem with using just the PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Your customers are difficult to browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible on PayPal's site.
+The problem with using just the PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Customers are slow and cumbersome to find and browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. 
+
+You start dreading customer support questions merely because digging up the necessary information on PayPal will be so painful. Also you'll have no charts over your subscriber growth or retention rates.
+
+With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible on PayPal's site. This further increases customer support requests.
 
 Perhaps the biggest reason is that by just using PayPal buttons, you are locked into a relationship with only PayPal. If you have any trouble with them, you could lose access to your subscribers. It might also be better to provide some other payment options for those who do not want to use or cannot use PayPal.
 
-Also using a normal ecommerce cart system which has only been extended to support subscriptions might not be as integrated a solution as one which has been designed from the ground up for subscription sites, without it being merely an afterthought. Going with a company completely dedicated to subscription ecommerce means that they will be optimizing their systems to help retain customers as long as possible and have a good interface for customers to manage their subscriptions.
+Using a normal ecommerce cart system which has been extended to support subscriptions might work out OK, but will likely not be as pleasant to use for you or your customers as an integrated solution which has been designed from the ground up for subscription sites, without it merely being an afterthought. Going with a company completely dedicated to subscription ecommerce means that they will be optimizing their systems to help retain customers as long as possible and have a good interface for customers to manage their subscriptions.
 
 To help in all of these matters, there are now several subscription e-commerce platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. They will be able to update their accounts and see the shipping status of their orders right on your site. Some of these systems even make it possible to buy postage stamps to print directly on your shipments with your own desktop printer.
 
