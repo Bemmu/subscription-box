@@ -268,9 +268,9 @@ Shopify can be extended by adding apps, one of which is [Chargify](https://apps.
 
 Another option for Shopify is [PayWhirl](https://apps.shopify.com/paywhirl-recurring-payments), which is used for example by the subscription box [Death Wish Coffee](http://www.deathwishcoffee.com/). This app also enables you to add a subscription layer to Shopify. PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction. You can find them in the Shopify app directory or on PayWhirl’s own site.
 
-There also exists an app called [ReCharge](https://apps.shopify.com/shopify-recurring-payments), which is designed to be used both as a "subscribe & save" -type feature similar to Amazon or as the engine for subscription boxes. The [introduction video on their app page](https://www.youtube.com/watch?v=eNm1s_vU8N0) is excellent, I recommend checking it out. ReCharge is a $19.99/month + 1% per transaction for up to 500 subscribers, with a negotiable discount when you have more subscribers.
+There also exists an app called [ReCharge](https://apps.shopify.com/shopify-recurring-payments), which is designed to be used both as a "subscribe & save" -type feature similar to Amazon or as the engine for subscription boxes. The [introduction video on their app page](https://www.youtube.com/watch?v=eNm1s_vU8N0) is excellent, I recommend checking it out. ReCharge is $19.99/month + 1% per transaction for up to 500 subscribers, with a negotiable discount if you have a larger customer base.
 
-With ReCharge all recurring subscriptions appear as new orders within Shopify, with special new interfaces for managing them both for you and your customer.You can change the subscriptions and update credit cards etc. through the interface which ReCharge adds to your Shopify. It also sends notification emails (welcome email, charge failed and charge succeeded) to your customers automatically. ReCharge supports monthly and other frequencies.
+With ReCharge all recurring subscriptions appear as new orders within Shopify, with special new interfaces for managing them both for you and your customer. You can change the subscriptions and update credit cards etc. through the interface which ReCharge adds to your Shopify. It also sends notification emails (welcome email, charge failed and charge succeeded) to your customers automatically. ReCharge supports monthly and other frequencies.
 
 If your subscription plan is $29/month, then at 20 subscribers PayWhirl would cost only $11.60/month compared to Chargify’s $65, so it is cheaper to start with. At this plan when having a bit under 500 subscribers it would become more expensive, but it would be quite a trivial difference. You should be choosing the system rather based on which you feel is easier to use and most of all the better user experience for your customers.
 
@@ -485,8 +485,6 @@ Traditionally one of the first things you can do is a launch press release. This
 
 Why would you want press anyway? Because press mentions bring traffic and very valuable backlinks, which later on brings you even more traffic from Google. The social validation and legitimacy aren’t bad either, as it can help you get even more press later when reporters who are researching you [see that you're already being talked about](http://blog.clarity.fm/the-hackers-guide-to-getting-press/).
 
-While many say that press releases are useless, it is a rather low effort activity with a potentially high payoff, so perhaps it is something worth trying still. 
-
 When Candy Japan launched, just various blogs picking up the launch announcement was enough to gather a few hundred paying subscribers. We got lucky getting blog coverage without an official press release. Some kind bloggers happened to be reading the entrepreneur forum where the launch was announced and it got picked up that way. If I did it again I would additionally write a press release announcing the launch and make sure as many sites were aware of it as possible. Reporters get tons of such announcements, but you never know when you might get lucky.
 
 And you'll need the luck! As the past TechCrunch writer Jason Kincaid notes in his book "[The Burned-Out Blogger’s Guide to PR](http://www.burnoutpr.com/)": *"Because while it’s nice to think that reporters have structured and fair processes for deciding who is blessed with press coverage, you are at the mercy of the black box that is the reporter’s mind. They’re well-versed in explaining why they chose to write one story over another, but this deliberation is roughly as scientific as how they decided what to order for lunch."*
@@ -502,6 +500,38 @@ The first line in a press release indicates whether the information can be publi
 To indicate that the information can be released right away, start the press release with "FOR IMMEDIATE RELEASE", otherwise to indicate an embargo use for example "FOR RELEASE ON JAN. 8, 2019 AT 10 A.M. EST".
 
 After this comes the title of the press release, also known as the **slug**. Reporters receive hundreds of press releases, so this shouldn’t sound too dry. Use [action words such as](http://blog.prleap.com/archives/25-action-words-for-writing-a-newsworthy-headline/) "launches", "introduces", "releases", "announces" or "unveils" to make your press release sound interesting and newsworthy. 
+
+After the slug comes the **lead**. This is the first sentence after the slug and should contain the “five w’s”, which are: who what where when why.
+
+After the lead comes the more detailed content of the press release. In general the most important information in your press release should go to the top, with each paragraph having decreasingly important information. This is called the “**inverted triangle format**”.
+
+You should write in a factual way and avoid any hype terms only designed to make your box sound awesome. Keep your opinions out and stick to the facts. Reporters have a keen sense of when they are being marketed to and don’t want to just give you free advertising. The tone should be objective and be written in the third person, [avoiding usage of “you”, “I”, “we” etc.](http://service.prweb.com/learning/article/editorial-guidelines/)
+
+Luckily you are on the same side with many bloggers. You want coverage, they want pageviews. Some writers are even directly compensated for the pageviews they generate for the blog they are working for, but this still doesn’t mean they would publish absolutely anything. Especially higher profile bloggers can spend more of their time covering very important topics in-depth9 and are less likely to just post a rephrasing of your press release.
+
+Even if publishing more is better for them, there is still an opportunity cost to be covering your launch story instead of something more important that could be even more popular. The content should be interesting to their readership.
+
+The length of a press release should ideally be around one page, possibly two.
+
+A press release ends with “###”. This is used to indicate that the publicly releasable information is now over. After this you should include your contact information, including a phone number at which the reporter can reach you if they have any last minute questions.
+
+You can find many examples of a subscription box launch press releases by Googling for “FOR IMMEDIATE RELEASE” (the traditional starting phrase in “non-embargoed” press releases) and “subscription box”. You can also see some of the coverage those releases resulted in by Googling for the contents of the press release with [Google News search](http://news.google.com/news).
+
+### Are they useful?
+
+While many say that press releases are useless, it is a rather low effort activity with a potentially high payoff, so perhaps it is something worth trying still. 
+
+There are professional PR people who handle dealing with the press as their main work, but they are quite expensive to use. For instance the subscription box [Cooper And Kid](http://cooperandkid.com/) is using such a PR firm to help boost their press relations. According to Cooper And Kid, whether press releases are picked up by the media depends not only on the content of the release, but by the connections and relevancy to the people handling the press. Chances with a press release just randomly thrown cold at the media is low. 
+
+While the Cooper and Kid press release did result in some coverage, it only worked as part of a larger effort to reach media influencers, with launch coinciding with Father’s Day, which was a key day for the subscription box. Here you can see the beginning of their release.
+
+**New Dad-Driven Brand, Cooper & Kid, Launches The Cooper Kit: The First Subscription Activity Box Created Just for Dad’s & Kids**
+
+*Minneapolis, MN (March 26, 2013) – Cooper & Kid, a new retail brand that champions dads through dedicated products and services designed to help men embrace their roles as fathers, announces the launch of its first-ever offering, The Cooper Kits...*
+
+You can see the rest [here](http://www.cooperandkid.com/wp-content/themes/cooperkid/press/130326_PressRelease_CooperKit.pdf).
+
+
 
 # Customer support
 
