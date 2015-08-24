@@ -531,6 +531,45 @@ While the Cooper and Kid press release did result in some coverage, it only work
 
 You can see the rest [here](http://www.cooperandkid.com/wp-content/themes/cooperkid/press/130326_PressRelease_CooperKit.pdf).
 
+## Affiliates
+
+You can use **affiliates** to do sales for you. These are people who push other entrepreneurs' products online in exchange for a cut of the sale. The most well known example is Amazon Associates. Amazon can give you around 5% of each sale if you send them customers. Similarly you can also pay other affiliates to send customers to you.
+
+You pay them a fee for each subscriber they manage to acquire for you. For example if you figure that a new subscriber is worth $50 to you, you might agree to give your affiliate half of that. The higher the payout, the more motivated affiliates will be to promote your product instead of others. Other ways to structure this is to give the affiliate 100% of the first month sale or a certain percentage of all future transactions. For instance the dating site [SpeedDate](https://www.speeddate.com/) allows their affiliates to choose between these two ways to get paid.
+
+You can either set up your own affiliate system, or use a network such as [Subscription Box Network](https://www.subscriptionboxnetwork.com/). One thing to keep in mind with affiliates though is that you should be a bit careful when attributing sales to them. Do make sure you are not paying too much up front for subscribers the quality of which you cannot be sure of. Your affiliates may not be as concerned about your brand as you are and will market it as aggressively as you allow them, which may mean even spammy means if you are not careful.
+
+A bit less dangerous alternative to an affiliate program is a **referral program**. Instead of giving your affiliates cash, you reward referrals with free products or discounts. The potential for abuse is much less here, especially as such referral programs are usually limited only to your current customers. To set up a referral program, for instance on CrateJoy you can use their [referral program app](https://cratejoy.zendesk.com/hc/en-us/articles/202980689).
+
+## SEO
+
+### The promise of SEO
+
+The basic idea is as follows. Suppose you have a company that sells Japanese kokeshi dolls. You want to reach customers who are trying to find those. So you buy some advertising on Google, targeting the term "kokeshi doll" and pay $0.10 per click.
+
+That was easy, but you are missing a whole group of people. Those who never click on ads. This is also costing you a fair bit of money. Wouldn't it be nice if you didn't have to pay for each click?
+
+Lastly, if a competitor also decides to bid on these terms, you'll be locked in a zero-sum game, fighting over a finite number of people searching for those same keywords.
+
+What is the answer to this dilemma? Potentially it is this: instead of bidding on terms, write articles about those terms so that you can rank naturally, instead of on the paid side. This hypothetical person wanting to sell kokeshi dolls could create articles about them and appear in the free, organic, free-range all natural Google results instead of in the ad section.
+
+### Too good to be true?
+
+That's the promise of SEO, but does it work? Can you really just go ahead and create a bunch of articles and hope to rank for them in any meaningful way? That's what I am setting to find out. Here are some counterarguments I can think of.
+
+First of all it isn't really free, because you need to actually create the content in order to appear in the organic results. Even if you are creating it all yourself, that's time you could be spending on something else. Recall back to writing school essays. While I really enjoyed writing them, it did take a fair bit of time. Still, at least there is the possibility that once the content is done, it's done. The cost has been paid. Kind of like buying a house instead of just renting an apartment. Instead of paying for each click, your investment is complete and now you are saving money on each click, compared to AdWords. You are now owning instead of renting.
+
+Suppose you spend $100 to create an article. After a few months it rises up the ranks enough to replace a $1 / day keyword you used to bid on. Fantastic investment! It should pay itself back very quickly. Not to mention you can now reach the group of people that would not have been reachable through ads.
+
+It's still a zero-sum game though. Your competitors can create their own articles that can outrank you, but at least you'll now be competing in a battle that will lead to better web content, instead of just more ads.
+
+### Format of content to write
+
+When I started writing this section on SEO, I actually didn’t have total confidence at first. In theory all of this makes sense. I know that paid advertising on Google does lead to customers, so why a natural placing in the same results should also work. But to be sure, I wanted to test it out by producing some web content. I started by researching some keywords which I imagined might be good to rank for our twice-monthly Japanese candy box. 
+
+After thinking about the terms, I researched a bit about how long the articles should be. Of course the right answer is likely “as long as makes sense”, but since I would be getting some of this content made by using freelancers, they would likely want to know how many words they are supposed to write. According to Moz research, the sweet spot seemed to be [1822 - 2428 words](https://moz.com/blog/what-makes-a-link-worthy-post-part-1). That's 6 subheadings with about 400 words each. [Another source](http://www.orbitmedia.com/blog/ideal-blog-post-length/) suggests 1500 words. I tend to trust Moz, as one of the resources they use to gather their research is accessing thousands of Google Webmaster Tools accounts, which sounds like it would be on the more reliable end when it comes to SEO data sources.
+
+Also notable in Moz research was that "*Posts with all three media types (videos, images, and lists) will attract almost 6 times more ILDs than a plain text post*". Here ILDs mean “In-Linking Domains”, which is how many different sites link back to the content. Backlinks are one signal that Google uses to determine how high to rank content. Backlinks naturally also help you directly by sending visitors to you.
 
 
 # Customer support
