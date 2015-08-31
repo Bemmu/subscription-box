@@ -517,7 +517,7 @@ A press release ends with “###”. This is used to indicate that the publicly 
 
 You can find many examples of a subscription box launch press releases by Googling for “FOR IMMEDIATE RELEASE” (the traditional starting phrase in “non-embargoed” press releases) and “subscription box”. You can also see some of the coverage those releases resulted in by Googling for the contents of the press release with [Google News search](http://news.google.com/news).
 
-### Are they useful?
+### Are press releases useful?
 
 While many say that press releases are useless, it is a rather low effort activity with a potentially high payoff, so perhaps it is something worth trying still. 
 
@@ -531,25 +531,33 @@ While the Cooper and Kid press release did result in some coverage, it only work
 
 You can see the rest [here](http://www.cooperandkid.com/wp-content/themes/cooperkid/press/130326_PressRelease_CooperKit.pdf).
 
-## Affiliates
+## Get affiliates to market your subscription box for you
 
 You can use **affiliates** to do sales for you. These are people who push other entrepreneurs' products online in exchange for a cut of the sale. The most well known example is Amazon Associates. Amazon can give you around 5% of each sale if you send them customers. Similarly you can also pay other affiliates to send customers to you.
 
-You pay them a fee for each subscriber they manage to acquire for you. For example if you figure that a new subscriber is worth $50 to you, you might agree to give your affiliate half of that. The higher the payout, the more motivated affiliates will be to promote your product instead of others. Other ways to structure this is to give the affiliate 100% of the first month sale or a certain percentage of all future transactions. For instance the dating site [SpeedDate](https://www.speeddate.com/) allows their affiliates to choose between these two ways to get paid.
+You pay affiliates a fee for each subscriber they manage to acquire for you. For example if you figure that a new subscriber is worth $50 to you, you might agree to give your affiliate half of that. The higher the payout, the more motivated affiliates will be to promote your product instead of others. Other ways to structure this is to give the affiliate 100% of the first month sale or a certain percentage of all future transactions. For instance the dating site [SpeedDate](https://www.speeddate.com/) allows their affiliates to choose between these two ways to get paid.
 
-You can either set up your own affiliate system, or use a network such as [Subscription Box Network](https://www.subscriptionboxnetwork.com/). One thing to keep in mind with affiliates though is that you should be a bit careful when attributing sales to them. Do make sure you are not paying too much up front for subscribers the quality of which you cannot be sure of. Your affiliates may not be as concerned about your brand as you are and will market it as aggressively as you allow them, which may mean even spammy means if you are not careful.
+You can either set up your own affiliate system, or use a network such as [Subscription Box Network](https://www.subscriptionboxnetwork.com/). Perhaps the most well-known affiliate network is [Commission Junction](http://www.cj.com). After signing up you will be able to browse other subscription boxes which are offering affiliate fees. For instance [GlossyBox](http://www.tkqlhce.com/click-7844888-11120723-1429714569000) is willing to pay affiliate fees for new members, starting at $5 per subscriber, going up to $9 per subscriber if the affiliate sends more than 400. Also if the affiliate sends a visitor to the GlossyBox site but that visitor leaves, if they come back later to make a purchase then GlossyBox will also reward the affiliate for the sale in that case, as long as the purchase happens within 30 days.
+
+![GlossyBox affiliate program on Commission Junction](images/glossybox_aff.png)
+
+One thing to keep in mind with affiliates though is that you should be a bit careful when attributing sales to them. Do make sure you are not paying too much up front for subscribers the quality of which you cannot be sure of. Your affiliates may not be as concerned about your brand as you are and will market it as aggressively as you allow them, which may mean even spammy means if you are not careful.
 
 A bit less dangerous alternative to an affiliate program is a **referral program**. Instead of giving your affiliates cash, you reward referrals with free products or discounts. The potential for abuse is much less here, especially as such referral programs are usually limited only to your current customers. To set up a referral program, for instance on CrateJoy you can use their [referral program app](https://cratejoy.zendesk.com/hc/en-us/articles/202980689).
 
 ## SEO
 
+Sorry, I will not reveal any guaranteed secret that will get your box to be the top site on Google. I would if I knew one (OK maybe I would keep it to myself, but I would at least reveal that I know of one), but the truth is that no-one knows exactly how Google ranks their results. 
+
+We do know **some** general things on how to improve your ranking, but those tend to be things you should be doing anyway: make a good site that people don't immediately bounce back from, which is mentioned in a lot of places and has a lot of good content on it. If anyone contacts you by email promising to get you to the top of Google in exchange for a bit of cash, be wary.
+
+I am only suggesting here are some things which you might try and see if they work for you. I make absolutely no guarantees that these tips will land you in the first place in search rankings.
+
 ### The promise of SEO
 
-The basic idea is as follows. Suppose you have a company that sells Japanese kokeshi dolls. You want to reach customers who are trying to find those. So you buy some advertising on Google, targeting the term "kokeshi doll" and pay $0.10 per click.
+The basic idea is as follows. Suppose you have a company that sells traditional Japanese kokeshi dolls. You want to reach customers who are trying to find those. So you buy some advertising on Google, targeting the term "kokeshi doll" and pay $0.10 per click.
 
-That was easy, but you are missing a whole group of people. Those who never click on ads. This is also costing you a fair bit of money. Wouldn't it be nice if you didn't have to pay for each click?
-
-Lastly, if a competitor also decides to bid on these terms, you'll be locked in a zero-sum game, fighting over a finite number of people searching for those same keywords.
+That was easy, but you are missing a whole group of people: those who never click on ads. Reaching people through ads is also costing you a fair bit of money. Wouldn't it be great if you didn't have to pay for each click, but could have those customers for free?
 
 What is the answer to this dilemma? Potentially it is this: instead of bidding on terms, write articles about those terms so that you can rank naturally, instead of on the paid side. This hypothetical person wanting to sell kokeshi dolls could create articles about them and appear in the free, organic, free-range all natural Google results instead of in the ad section.
 
@@ -561,11 +569,32 @@ First of all it isn't really free, because you need to actually create the conte
 
 Suppose you spend $100 to create an article. After a few months it rises up the ranks enough to replace a $1 / day keyword you used to bid on. Fantastic investment! It should pay itself back very quickly. Not to mention you can now reach the group of people that would not have been reachable through ads.
 
-It's still a zero-sum game though. Your competitors can create their own articles that can outrank you, but at least you'll now be competing in a battle that will lead to better web content, instead of just more ads.
+It's still a zero-sum game though, meaning that there is only a certain amount of searches for each term and every company in that space is trying to get the biggest slice possible from those searches. Maybe you'll write a good article and get to the top for some term. Then a competitor writes an even better one and outranks you. You'll be locked into a content battle, although one with unclear rules, as no-one really knows how Google decides which one to rank on top. But at least in theory the quality of your content is what they are **trying** to rank you for (how well that works in practice is another question).
+
+Compared to spending money on AdWords, at least you'll now be competing in a battle that will lead to better web content, instead of just more ads. In that way spending on quality content creation at least seems like a better thing for the world than just mindlessly increasing ad spend.
+
+### Testing whether content creation leads to customers
+
+Paid advertising on Google leads to customers, so why shouldn't a natural placing in the same results should also work? It makes sense, but to know if it really works, you need to test it out. Personally I wanted to test it out by producing some web content myself and seeing whether it truly would bring new customers, or if it was just a waste of time.
+
+First of all, if you have not yet done so, you need to add [Google Analytics](http://www.google.com/analytics/) to your subscription box site. Then, you have to enable **goal tracking** in GA to be able to know how your sales are happening. This means that when someone buys from your subscription box website, that sale will show up in Google Analytics. Then you will be able to track how that sale happened. Here we are especially interested in seeing which page the user initially visited when that sale happened. If you have say a box about makeup and wrote an article about "top 10 makeup tips", you want to know if writing that article resulted in any sales. If you are using CrateJoy, [here is their set-up guide for getting Google Analytics tracking working](https://cratejoy.zendesk.com/hc/en-us/articles/202719545-How-to-set-up-Google-Analytics).
+
+### Coming up with article ideas
+
+People are searching for certain things, but not all of them will be a natural fit for your landing page. To targer those other terms, you will need a blog or article section on your website. The idea is that when people search for topics which would identify the searchers as people very likely to subscribe to your box, you want those people to land on your site. 
+
+But what should you write your blogposts or articles about? If you naturally have topics that you know you can write content about and many people would be probably searching as well, that would be a good start. For an extremely niche topic, it could be that no-one is looking for such articles. In that case you have to research a bit more to see what might be worth writing about.
+
+Maybe you have a subscription box about Belgian beer. Not only would people be searching for "Belgian beer", but possibly many related terms as well. While you might not appear very high in search rankings for the main term, by writing a high quality article on related terms you might still stand a chance.
+
+
+
+
+Now that you have tracking working, it's time to research for some 
+
+I started by researching some keywords which I imagined might be good to rank for our twice-monthly Japanese candy box [Candy Japan](http://www.candyjapan.com). Now unfortunately Google Analytics no longer shows most of the search terms that visitors used to find our website, so I could not use that as basis of terms to target. Instead I just proceeded with some common sense ideas.
 
 ### Format of content to write
-
-When I started writing this section on SEO, I actually didn’t have total confidence at first. In theory all of this makes sense. I know that paid advertising on Google does lead to customers, so why a natural placing in the same results should also work. But to be sure, I wanted to test it out by producing some web content. I started by researching some keywords which I imagined might be good to rank for our twice-monthly Japanese candy box. 
 
 After thinking about the terms, I researched a bit about how long the articles should be. Of course the right answer is likely “as long as makes sense”, but since I would be getting some of this content made by using freelancers, they would likely want to know how many words they are supposed to write. According to Moz research, the sweet spot seemed to be [1822 - 2428 words](https://moz.com/blog/what-makes-a-link-worthy-post-part-1). That's 6 subheadings with about 400 words each. [Another source](http://www.orbitmedia.com/blog/ideal-blog-post-length/) suggests 1500 words. I tend to trust Moz, as one of the resources they use to gather their research is accessing thousands of Google Webmaster Tools accounts, which sounds like it would be on the more reliable end when it comes to SEO data sources.
 
