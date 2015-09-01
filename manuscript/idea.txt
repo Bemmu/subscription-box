@@ -547,7 +547,7 @@ A bit less dangerous alternative to an affiliate program is a **referral program
 
 ## SEO
 
-Sorry, I will not reveal any guaranteed secret that will get your box to be the top result on Google. The truth is that no-one knows exactly how Google ranks their results, except perhaps the engineers working there. If anyone contacts you promising to get you to the top of Google in exchange for a bit of cash, be wary.
+SEO stands for "Search Engine Optimization", the act of trying to rank well in search engines. Sorry, I will not reveal any guaranteed secret that will get your box to be the top result on Google. The truth is that no-one knows exactly how Google ranks their results, except perhaps the engineers working there. If anyone contacts you promising to get you to the top of Google in exchange for a bit of cash, be wary.
 
 Here are some suggestions which you can try to see if they work for you. I make absolutely no guarantees that these tips will land you in the first place in search rankings.
 
@@ -609,13 +609,11 @@ Using the tool you can see what topics people are searching for. You can drill d
 
 #### Search volume
 
-![images/adwords_tool.png](AdWords tool)
+![Keyword planner](images/adwords_tool.png)
 
 For example in the screenshot above, you can see that people are looking for "weird japanese candy" 880 times per month. Now even if you wrote an article about "weird japanese candy", there is no guarantee that you would appear anywhere high enough to get any of that traffic to come to your own site. 
 
-#### Percentage of the volume your content is likely to capture
-
-Obviously people are most likely to click on the top result. Still the second highest result will also get some clicks, third one still some but much less and so on. The shape of this curve is known from various studies. For instance [Moz has done such a study](https://moz.com/blog/google-organic-click-through-rates-in-2014). 
+People are most likely to click on the top result. The second highest result will still get quite many clicks, third one still some but much less and so on. The shape of this curve is known from various studies. For instance [Moz has done such a study](https://moz.com/blog/google-organic-click-through-rates-in-2014). 
 
 | Position      | % of clicks     |
 | ------------- | --------------- |
@@ -625,13 +623,13 @@ Obviously people are most likely to click on the top result. Still the second hi
 | 4             | 7%              |
 | 5             | 6%              |
 
-As you can see, you lose more than half the potential visitors by having the second place compared to the first place. Let's be realistic here: in all likelihood unless there is almost no competition for your term, you probably won't get a first result for any important term. Actually you'll be lucky to even get to the first page with your content. 
+As you can see, you lose more than half the potential visitors by being in the second place compared to first. Let's be realistic here: in all likelihood unless there is almost no competition for your term, you probably won't get a first result for any important term. Actually you'll be lucky to even get to the first **page** with your content. There is a lot of content out there, much of it well written, older and with a large number of backlinks.
 
-Not that there even exists a "first place" anymore, as results are nowadays personalized to the individual searcher. There are still probably sites that will be high in the results for most people, so the concept of a good Google ranking still hasn't vanished.
+Not that there even exists a "first place" anymore, as results are nowadays personalized to the individual searcher. If you would like to see unpersonalized results, you can try searching in incognito mode. There will still be sites that generally are ranked high in the results for most people, so the concept of a good Google ranking hasn't vanished despite personalization.
 
-Perhaps a realistic expectation we could set is that with some good content and luck, you could get say 5% of the search traffic for that term. To get a bit more optimistic here, there will many more terms you never even considered that you will also additionally capture some traffic from. Those might even be the largest portion of traffic. 
+So reaching a good ranking on Google is very hard, but there is one reason for optimism. While trying to rank for your desired terms, you are accidentally going to rank for many more long-tail terms that you hadn't even considered when writing your content. While a top result gets the majority of clicks, it can be better to be the first result for something which is searched for 100 times a month than the 5th result for something searched for 500 times a month.
 
-If you wrote an article on the topic of say "dog goods subscription box" and included some sentences such as "this doggy box is perfect for your puppy, be it a labrador retriever or a spaniel" and expected to get people searching for "doggy box", you might find that is just happens to become the perfect result for something else entirely, such as "labrador retriever puppy box" or another unexpected term like that. Since a top result gets the majority of clicks, it can be better to be the first result for something which is searched for 100 times a month than the 5th result for something searched for 500 times a month.
+If you wrote an article on the topic of say "dog goods subscription box" and included some sentences such as "this doggy box is perfect for your puppy, be it a labrador retriever or a spaniel" and expected to get traffic from people searching for "doggy box", you might find that you just happen to rank really well for something else entirely, such as "labrador retriever puppy box" or another unexpected term like that. 
 
 #### Buying intent
 
