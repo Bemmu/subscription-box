@@ -583,9 +583,17 @@ First of all, if you have not yet done so, you need to add [Google Analytics](ht
 
 If you are using CrateJoy, [here is their set-up guide for getting Google Analytics tracking working](https://cratejoy.zendesk.com/hc/en-us/articles/202719545-How-to-set-up-Google-Analytics).
 
-If you have say a box about makeup and wrote an article about "top 10 makeup tips", you want to know if writing that article is what resulted in the sale. If you are unable to track which page the user initially visited to get you that sale, you won't know if you are just wasting time writing content or if you should double down on it.
+If you have say a box about makeup and wrote an article about "top 10 makeup tips", you want to know if writing that article is what resulted in the sale. If you are unable to track which page the user initially visited to get you that sale, you won't know if you are just wasting time writing content or if you should double down on it. 
 
-While your box home page may be able to be the answer to some of these queries, not all of them will be a natural fit for your main landing page. To targer those other topics, you may want a blog or article section on your website. Another way used by some boxes is to have a completely separate content site. For example the dog goods subscription box [BarkBox](https://barkbox.com/) also operates the viral puppy content site [BarkPost](http://barkpost.com/). 
+After you Google Analytics tracking set up, you can pull up reports to see how many sales each article on your site resulted in. There is so much data you can get with this tool that it can get confusing at times, but to find how many sales each article resulted in, check "Behavior > Site Content > Landing pages". Then click on the dropdown which says "Conversions" to select either "eCommerce" or "all goals" depending on whether you set up eCommerce tracking or goal based tracking. 
+
+Now you have the data, but it's still not ordered properly. You want to see the best articles first, so click on the "Transactions" or "Goal Completions" column to see which articles are sending you the most customers. If you set up goal values, you can also see a monetary value for the article. For instance in the hypothetical example below you would be able to see that in one month, the article on "Why Japanese Candy is Awesome" resulted in 50€ worth of sales. If that continued in the future, the article in question would soon pay back the effort of writing it.
+
+![Google Analytics landing page report](images/landing_pages.png)
+
+### Brainstorming more article ideas
+
+While your box home page may be able to be the answer to some of the queries Google users have in mind, not all of them will be a natural fit for your main landing page. For a dog goods box you might be happy to have your home page rank well for "dog goods subscription box", but it could be counterproductive to try to rank that same page for "tools for grooming a labrador retriever". If you would like to targer those other topics, you may want a blog or article section on your website. Another way used by some boxes is to have a completely separate content site. For example the dog goods subscription box [BarkBox](https://barkbox.com/) also operates the viral puppy content site [BarkPost](http://barkpost.com/). 
 
 Whether you want to have your content on your main site or on a separate one is a matter of opinion. Having them on the same site makes it less jarring to try to get people to subscribe to your box, as they are already on your one and only main site. However a separate content site may be able to garner more backlinks and shares, as it feels less commercial. 
 
@@ -635,13 +643,21 @@ If you wrote an article on the topic of say "dog goods subscription box" and inc
 
 Now you have an article and some people are even clicking through to your site after searching for some terms appearing in it. But will they actually subscribe? Having a lot of traffic might be fun, but unless they actually subscribe to your box, it is meaningless. What you want is buying intent. The difference between someone who is searching for "rolex pictures" and "buy rolex now" or "rolex discount coupons" is huge.
 
-The idea is that when people search for topics which would identify the searchers as people very likely to subscribe to your box, you want those people to land on your site. 
+The idea is that when people search for topics which would identify the searchers as people very likely to subscribe to your box, you want those people to land on your site. In practice it can be quite difficult to come up with article ideas, so you might not be able to be too picky about whether they show buying intent or not, but in case you have a ton of ideas to choose from, perhaps better to go with the ones where readers might be ready to buy.
 
 ### Format of content to write
 
 After thinking about the terms, I researched a bit about how long the articles should be. Of course the right answer is likely “as long as makes sense”, but since I would be getting some of this content made by using freelancers, they would likely want to know how many words they are supposed to write. According to Moz research, the sweet spot seemed to be [1822 - 2428 words](https://moz.com/blog/what-makes-a-link-worthy-post-part-1). That's 6 subheadings with about 400 words each. [Another source](http://www.orbitmedia.com/blog/ideal-blog-post-length/) suggests 1500 words. I tend to trust Moz, as one of the resources they use to gather their research is accessing thousands of Google Webmaster Tools accounts, which sounds like it would be on the more reliable end when it comes to SEO data sources.
 
 Also notable in Moz research was that "*Posts with all three media types (videos, images, and lists) will attract almost 6 times more ILDs than a plain text post*". Here ILDs mean “In-Linking Domains”, which is how many different sites link back to the content. Backlinks are one signal that Google uses to determine how high to rank content. Backlinks naturally also help you directly by sending visitors to you.
+
+### Finding freelancers to write your content
+
+If you have an idea for an article and rough bullet points on what it should cover, you can either go ahead and write it yourself, or you can find a freelancer to do the writing for you. Finding a lot of freelancers is extremely easy using a site such as [UpWork](https://www.upwork.com) (personal favorite) or [Freelancer.com](https://www.hittail.com/), but the challenge is finding quality authors. In fact if you post an open article writing job, you will likely get a dozen applications in a matter of hours, but when you try to hire them you may run into some poor quality writing. 
+
+You can help improve your article quality by hiring multiple bidders to write for you, look at the results and in the future focus on the better quality workers. Initially you will have to spend a bit more to find reliable help, but you can keep relying on those people for a long time. While especially for myself with an engineer background, I find the thought of having a magic box that turns dollars into articles very appealing. However think of it more as starting a possibly long-lasting relationship with talented authors and less like just an article machine.
+
+Instead of going out to hire writers yourself, there is also a tool called [HitTail](https://www.hittail.com/), which can analyze traffic that your website is getting and can facilitate commissioning writers to create articles on promising looking keywords.
 
 # Customer support
 
