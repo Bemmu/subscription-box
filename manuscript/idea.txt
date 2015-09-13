@@ -455,13 +455,30 @@ Before the fulfillment batch can begin, some effort is required to gather the li
 
 # Marketing
 
-By far what I get asked the most about is marketing. Now you have your idea and your site is set up, now what? Well, you have to tell the world about it. This is the hardest part. While you can of course find customers in the offline world as well, such as at conventions related to your product, I will here only write about online marketing, as that's what I'm most familiar with personally.
+By far what I get asked the most about is marketing. Now you have your idea and your site is set up, now what? Well, you have to tell the world about it. 
+
+This is the hardest part. While you can of course find customers in the offline world as well, such as at conventions related to your product, I will here only write about online marketing, as that's what I'm most familiar with personally.
 
 Whether anyone will know that your box exists really makes or breaks it. Still, this does not mean that you should blindly go out and throw money at advertising! That would be an expensive mistake. What's fascinating about online advertising is that you have to be creative, but perhaps even more you have to be very diligent at measuring the effectiveness of your campaigns.
 
+The two most important concepts are the **funnel** and **customer lifetime value (LTV)**. If you spend money on ads without setting things up to measure the campaign effect properly, you may later regret not getting the full benefit out of your ad experiment. I've done this and regretted it. Besides getting customers, what you want is to **learn** as much as possible.
+
+## The funnel
+
+Not everyone who hears about your site will visit it. Not everyone who visits your site will become a subscriber. While this much is obvious, it can be helpful to step back and try to visualize it. The comparison of choice is a funnel, the narrowing of it representing prospects who leave at each step before completing their purchase.
+
+![](images/funnel.jpg)
+
+The funnel is a useful analogy for realizing that there are several steps, all of which are required for a sale to happen. Improvement in later steps can be just as important as pouring more visitors to the top of the funnel. 
+
+Having a million visitors to your site would be useless if everyone drops out before completing a purchase. Even if your site could magically get every single visitor to subscribe, that would also be useless if no-one visits it.
+
+Similar is also true for less extreme examples. Having 1000 visitors to your site of which 1% convert to customers will get you 10 sales. But so does having 5000 visitors if your site is so ineffective that only 0.2% buy.
+
+
+
 If you don't know which of your efforts is actually producing results, how will you know what to double down on and what is just a waste of time? Even if you are normally more fond of intuitive thinking rather than very strategic and logical, when it comes to spending money on marketing, you should really try to switch on your most analytical mode of thinking from time to time.
 
-The two most important concepts are the **funnel** and **customer lifetime value (LTV)**. If you spend money on ads without setting things up to measure the campaign effect properly, you may later regret not getting the full benefit out of your ad experiment. I've done this and regretted it. Besides getting customers, what you want is to learn as much as possible.
 
 You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the options to tweak ad campaigns are endless.
 
@@ -591,9 +608,11 @@ Now you have the data, but it's still not ordered properly. You want to see the 
 
 ![Google Analytics landing page report](images/landing_pages.png)
 
-### Brainstorming more article ideas
+### Should you have a separate content site?
 
-While your box home page may be able to be the answer to some of the queries Google users have in mind, not all of them will be a natural fit for your main landing page. For a dog goods box you might be happy to have your home page rank well for "dog goods subscription box", but it could be counterproductive to try to rank that same page for "tools for grooming a labrador retriever". If you would like to targer those other topics, you may want a blog or article section on your website. Another way used by some boxes is to have a completely separate content site. For example the dog goods subscription box [BarkBox](https://barkbox.com/) also operates the viral puppy content site [BarkPost](http://barkpost.com/). 
+While your box home page may be able to be the answer to some of the queries Google users have in mind, not all of them will be a natural fit for your main landing page. For a dog goods box you might be happy to have your home page rank well for "dog goods subscription box", but it could be counterproductive to try to rank that same page for "tools for grooming a labrador retriever". 
+
+If you would like to targer those other topics, you may want a blog or article section on your website. Another way used by some boxes is to have a completely separate content site. For example the dog goods subscription box [BarkBox](https://barkbox.com/) also operates the viral puppy content site [BarkPost](http://barkpost.com/). 
 
 Whether you want to have your content on your main site or on a separate one is a matter of opinion. Having them on the same site makes it less jarring to try to get people to subscribe to your box, as they are already on your one and only main site. However a separate content site may be able to garner more backlinks and shares, as it feels less commercial. 
 
@@ -657,7 +676,7 @@ If you have an idea for an article and rough bullet points on what it should cov
 
 You can help improve your article quality by hiring multiple bidders to write for you, look at the results and in the future focus on the better quality workers. Initially you will have to spend a bit more to find reliable help, but you can keep relying on those people for a long time. While especially for myself with an engineer background, I find the thought of having a magic box that turns dollars into articles very appealing. However think of it more as starting a possibly long-lasting relationship with talented authors and less like just an article machine.
 
-Instead of going out to hire writers yourself, there is also a tool called [HitTail](https://www.hittail.com/), which can analyze traffic that your website is getting and can facilitate commissioning writers to create articles on promising looking keywords.
+There is also a tool called [HitTail](https://www.hittail.com/), which combines keyword research with a way to hire writers. It can analyze traffic that your website is getting and facilitates the creation of articles for keywords that look promising.
 
 # Customer support
 
