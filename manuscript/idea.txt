@@ -475,10 +475,17 @@ Having a million visitors to your site would be useless if everyone drops out be
 
 Similar is also true for less extreme examples. Having 1000 visitors to your site of which 1% convert to customers will get you 10 sales. But so does having 5000 visitors if your site is so ineffective that only 0.2% buy.
 
+## Customer lifetime value (LTV)
 
+In reality, different sources of traffic to your subscription box site will not be equally valuable. Someone who types the name of your box into Google and navigates to your site that way will be much more likely to order than someone just clicking from one random site to the next on StumbleUpon or Reddit.
+
+Each traffic source will also have a different cost. Paid clicks on Google AdWords can be very expensive. Producing content for SEO or updating your Facebook takes time, which also has some monetary value to it. How do you know if an effort is worthwhile, how do you quantify it?
+
+To do this you should have at least a rough idea of your customer lifetime value. Suppose your subscription box costs $25/month to subscribe to and after non-marketing expenses you have $7/month of profit left. You also estimate that on average a customer will subscribe for 7 months. You could then roughly say that your customer lifetime value (LTV) is about $7 * 7 = $49. Let's round that to $50.
+
+Now you have something more real to work with. When evaluating the clicks you are buying on AdWords, you can compare their cost to the LTV to decide whether the campaign makes sense. Similarly you can consider if the time spent on other marketing channels is wildly profitable or a waste of time.
 
 If you don't know which of your efforts is actually producing results, how will you know what to double down on and what is just a waste of time? Even if you are normally more fond of intuitive thinking rather than very strategic and logical, when it comes to spending money on marketing, you should really try to switch on your most analytical mode of thinking from time to time.
-
 
 You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the options to tweak ad campaigns are endless.
 
