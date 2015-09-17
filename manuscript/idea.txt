@@ -685,6 +685,59 @@ You can help improve your article quality by hiring multiple bidders to write fo
 
 There is also a tool called [HitTail](https://www.hittail.com/), which combines keyword research with a way to hire writers. It can analyze traffic that your website is getting and facilitates the creation of articles for keywords that look promising.
 
+## Reddit
+
+If you are unfamiliar with [reddit.com](http://www.reddit.com) and visit their homepage, you might be confused. This site doesn't look very professional at all, just a list of random links. But Reddit is huuuge. How huge? At the time of writing [Reddit is serving 7.55 **billion** pageviews a month](http://expandedramblings.com/index.php/reddit-stats/).
+
+It is attractive especially as anyone can submit content to Reddit. There are no editors or gatekeepers. As long as your link gets enough upvotes, it has a chance of being shown to millions of visitors just like any other content on the site. There is no review process for submitted links, all is based on user voting.
+
+The most powerful part of Reddit is the main page, which is what is shown by default. How powerful? As an example from today, the top image submitted to the site has been viewed 900,000 times in only 6 hours! Imagine if that was your brand and you could turn even a fraction of those views into subscribers.
+
+### Posting to subreddits
+
+Besides the main page, there are also subsections to Reddit, called "subreddits". When you submit a link to Reddit, you need to select which subreddit it goes to. Subreddits are like niche forums. Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
+
+Some subreddits can appear on the main page, others are only visible to users who are specifically visiting those them directly. Still even non-mainpage subreddits can have quite large audiences. With smaller subreddits while the potential is perhaps not as great, you will also have better chances as there will be less competing posts on those subreddits.
+
+To find suitable subreddits for your posts, you can browse them on [Reddit Metrics](http://redditmetrics.com/). Especially their [list of biggest subreddits](http://redditmetrics.com/top) is very useful. You can also [use Reddit's search to find subreddits](https://www.reddit.com/search). Besides searching for keywords related to your concept, another way to use the search is to look into what other subscription boxes are posting about.
+
+While Reddit has the potential of sending an amazing amount of traffic to you, redditors tend to be quite anti-commercial. Spamming Reddit will get you nowhere, but if your promotions are useful or entertaining enough, then you may be able to get a pass to post even with commercial intent.
+
+Even when the likelihood of success is low, such as with an AMA post, it's still worth giving it a shot, as if it fails you really didn't lose anything. You can even delete such posts later, if you prefer. 
+
+While there is no direct penalty for having an unsuccessful Reddit post, it IS possible to get shadowbanned if you promote yourself too aggressively. If you do push things too far and get considered as overtly spammy, it may lead to you getting [shadowbanned](https://www.reddit.com/r/AskReddit/comments/11ggji/can_someone_please_explain_to_me_what_shadow/). Everything will seemingly work as normal, except no-one besides you can actually see your posts. Also don't try to be clever and create more than one account in order to upvote yourself, as there are countermeasures in place for such abuse.
+
+Reddit [allows verified users to post up to](https://www.reddit.com/r/help/comments/14erjc/psa_if_you_get_the_looks_like_youre_either_a/) 3 times per hour, 10 times per day, 50 times a week or a total of 150 posts per month. Users who have not verified their email address can only post 5 times per month. As a rule of thumb, consider being active on Reddit and limiting your self-promotional posts to one out of ten posts you make. Your other posts should also be high-quality to give you a good posting track record. 
+
+
+#### Sharing your entrepreneurial journey
+
+One of the easiest posts to make is by sharing your own subscription box story so far on business-related subreddits. Of these perhaps the best one is [/r/entrepreneur](https://www.reddit.com/r/entrepreneur), where you can post about your box IF you do it in the context of sharing something useful you have learned while starting it. 
+
+As always with subreddits, take a look at other posts in the subreddit and read the instructions in the right sidepanel before posting. Other similar ones are [/r/startups](https://www.reddit.com/r/startups), [/r/EntrepreneurRideAlong](https://www.reddit.com/r/entrepreneurridealong) and [/r/smallbusiness](http://www.reddit.com/r/smallbusiness), where you may also be able to post about your learnings. 
+
+Sadly none of these business subreddits can appear on the main page. Additionally you will only be reaching other entrepreneurs who may even be inspired enough to start their own sites to compete with your idea. Still, the benefit likely outweighs the risk, as these subreddits are quite large and successful posts can lead to dozens of new subscribers.
+
+### Doing an AMA
+
+AMA stands for "ask me anything". On the subreddit [/r/iama](https://www.reddit.com/r/iama) you can invite others to post questions to you. You are then expected to answer these questions as they pour in over the hours. For instance you could post "I started <your box name here> and we send <your product here> to people every month. AMA!". 
+ 
+As /r/iama is one of the default subreddits, popular posts have a chance of appearing on the coveted main page as well. However even by itself /r/iama has millions of readers. Your AMA may be more successful if you are already somewhat well known, but there is no reason not to try even if you aren't. If your AMA flops, you can always just delete your post.
+
+You will have more success if you respond to questions promptly, as people will be more encouraged to participate if they see you doing so as well. One of the biggest sins of an AMA is to start one and then disappear. The second biggest is to be evasive in your answers to tough questions. To do an AMA post you need to have a thick skin, as anonymous internet users may not always be so kind with their words.
+
+### Play the InternetIsBeautiful lottery
+
+One of the biggest small business success stories on this subreddit is no doubt [ShipYourEnemiesGlitter](http://shipyourenemiesglitter.com/), a service which ships boxes full of glitter to your unsuspecting target. In mid-January the site got posted to /r/internetisbeautiful, which is a subreddit for *"awesome websites that offer a unique service"*. 
+
+How useful was that post? **Very.** Just in the first day ShipYourEnemiesGlitter received **over 1 million** visitors. Take a look at their Google Analytics screenshot below, made available because the site [was on sale on Flippa](https://flippa.com/3783970-20-000-in-sales-and-2-5-million-visits-in-4-days-hugely-popular-viral-site).
+
+![](images/glitter.png)
+
+Sadly as a direct result of the huge success of ShipYourEnemiesGlitter and the influx of similar sites to the subreddit, /r/internetisbeautiful [changed their rules](https://www.reddit.com/r/InternetIsBeautiful/comments/3063r6/how_are_you_doing_were_doing_great_we_have_a_few/) to be less friendly to online stores. 
+
+**"Online Stores/Paid Services/sites just selling stuff - some of these are funny, some of them are terrible, a LOT of them are people just trying to make that paper. we don't think online stores or sites that deliver cow poop to your friends are really what any of us are looking for in this subreddit. plus, there's like five bajillion of them now since the Great Glitter Gold Rush of 2015. they're far past being unique."**
+
 # Customer support
 
 Customer support gets tiresome, as you are often dealing with very similar issues. If you are using a home-grown system, you may find that the information you need to answer these question is buried somewhere in a database which only you understand, which makes outsourcing this more challenging. This is one good reason to use a ready-made subscription management system such as CrateJoy or Subbly. Besides just the usual support questions, there are always new situations occurring which can only be answered by you, meaning with a somewhat successful box you will always end up having some email to answer yourself every day.
