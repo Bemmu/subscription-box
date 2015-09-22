@@ -224,6 +224,40 @@ So if at all possible, you want to validate your idea in as real as possible a w
 
 If you are already comfortable with setting up static websites, there is a very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
 
+**PayPal money saving tip**: If you have enough transaction volume, make sure you apply for the [merchant discounts](https://www.paypal.com/us/cgi-bin/webscr?cmd=_fees-rate-about-outside). For example if you are doing $5000 / month in transactions, you could save $250 / month with just a few clicks.
+
+![](images/paypal_discount.png)
+
+If you hire support staff, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least for EU this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
+
+### Customizing the subscription button HTML code
+
+After you have your basic button set up, there are additional options available for customizing the button by editing the HTML code, most importantly to change the page users are directed back to after completing their subscription to your own “thank you” page. You can set that one with the hidden form field “return”. See the details [here](https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/formbasics/).
+
+In order to keep track of PayPal subscriptions, you can browse your subscribers on the PayPal site and see their shipping addresses there. Their system is not at all geared for subscription boxes however and if you grow larger than 100 subscribers, it will become somewhat awkward to keep track of what you are supposed to be sending to each subscriber. For example it is very very slow to browse your subscriber list. Predicting future need for stock will be more challenging as well, as frustratingly there is no chart of subscriber growth.
+
+Even with the limitations, PayPal Payments Standard should be perfectly sufficient for testing the waters to see if people would subscribe to your box. The best thing about it is how easy it is to integrate, if you know how to copy & paste code to a static site, you can start accepting subscriptions in less than an hour.
+
+One risk with using these buttons is that it will be more difficult to switch to something else later, as not all support scanning PayPal for new payments from those simple buttons (called "PayPal Payments Standard").
+
+### Going with SquareSpace
+
+If you are not comfortable coding up your own site, one of the easiest ways to set up a static site is using an online content management system such as [SquareSpace](http://www.squarespace.com). Calling it a “content management system” makes it sound a bit scary, but really it’s just a way to easily drag, snap and pop your page layout together while adding some content to your pages.
+
+You can use ready-made templates that even by default work also on mobile as well. While you can set up your site by just dragging around widgets and typing in text using an online interface, if you are perfectionist enough to want to arrange your site with pixel-perfect accuracy, it will require editing the templates manually, but for roughly arranging images, text and buttons as you want it is enough to just drag things around using the visual interface. 
+
+As a test to try it out, I attempted to remake our current site for Candy Japan which I had initially hand-coded in HTML. In a few hours I was able to remake the main page to be somewhat like the the current design, but it was quite hard to get it exactly right. in SquareSpace, I found that some things such as arranging buttons next to each other as I wanted wasn’t easy to do precisely using the interface, but for a basic layout it should be more than sufficient. 
+
+Who knows, perhaps those limitations are even useful as they can help prevent you from making an ugly arrangement of components even if you have no eye for visual design. In particular many SquareSpace designs are a lot more whitespace-heavy than I would feel is necessary, which probably means my feeling is wrong and that SquareSpace is forcing me to do the right thing :-)
+
+### Using 99designs to have designers compete on a site design
+
+Besides hiring a designer directly or learning HTML yourself, another option is to have your site designed by starting a design competition on [99designs](http://99designs.com). Using this competition site for illustrators, each designer can submit their own work and you can pick the one you liked the most.
+
+This option requires a bit of an investment, but is still quite cheap considering the amount of total work you will be getting from several designers. The price depends on how many designers you want competing, but prices go from around $500 for 15 designs to $1500 for 35 designs. There are additional optional fees (up-sells!) for getting more promotion for your contest such as having the @99designs tweet about the contest or promote it in their newsletter. The add-ons are quite attractively packaged and you might have trouble resisting using some of these extra options.
+
+Besides whole site designs, 99designs can also be used for other work, such as logos and packaging design. For instance the cover of the book you are reading was designed through such a contest (thank you [OberonZG](https://en.99designs.jp/profiles/1273461))! The 99designs process is to first start your contest, then allow some time to pass and select your top favorite designs. From there on the top still have extra time to submit more ideas and perfect their submissions, before you finally select your favorite design. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
+
 ### Leveraging your LaunchRock page
 
 Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. If you have a PayPal account, you can find the subscription buttons in the merchant tools.
@@ -711,8 +745,9 @@ Don't try to be clever and create more than one account in order to upvote yours
 
 Reddit [allows verified users to post up to](https://www.reddit.com/r/help/comments/14erjc/psa_if_you_get_the_looks_like_youre_either_a/) 3 times per hour, 10 times per day, 50 times a week or a total of 150 posts per month. Users who have not verified their email address can only post 5 times per month. As a rule of thumb, consider being active on Reddit and limiting your self-promotional posts to one out of ten posts you make. Your other posts should also be high-quality to give you a good posting track record. 
 
+Here are some ideas for subreddits where you could try posting to.
 
-#### Sharing your entrepreneurial journey
+#### Share your entrepreneurial journey
 
 One of the easiest posts to make is by sharing your own subscription box story so far on business-related subreddits. Of these perhaps the best one is [/r/entrepreneur](https://www.reddit.com/r/entrepreneur), where you can post about your box IF you do it in the context of sharing something useful you have learned while starting it. 
 
@@ -720,7 +755,7 @@ As always with subreddits, take a look at other posts in the subreddit and read 
 
 Sadly none of these business subreddits can appear on the main page. Additionally you will only be reaching other entrepreneurs who may even be inspired enough to start their own sites to compete with your idea. Still, the benefit likely outweighs the risk, as these subreddits are quite large and successful posts can lead to dozens of new subscribers.
 
-### Doing an AMA
+#### Do an AMA
 
 AMA stands for "ask me anything". On the subreddit [/r/iama](https://www.reddit.com/r/iama) you can invite others to post questions to you. You are then expected to answer these questions as they pour in over the hours. For instance you could post "I started <your box name here> and we send <your product here> to people every month. AMA!". 
  
@@ -728,7 +763,7 @@ As /r/iama is one of the default subreddits, popular posts have a chance of appe
 
 You will have more success if you respond to questions promptly, as people will be more encouraged to participate if they see you doing so as well. One of the biggest sins of an AMA is to start one and then disappear. The second biggest is to be evasive in your answers to tough questions. To do an AMA post you need to have a thick skin, as anonymous internet users may not always be so kind with their words.
 
-### Play the InternetIsBeautiful lottery
+#### Play the InternetIsBeautiful lottery
 
 One of the biggest small business success stories on this subreddit is no doubt [ShipYourEnemiesGlitter](http://shipyourenemiesglitter.com/), a service which ships boxes full of glitter to your unsuspecting target. In mid-January the site got posted to /r/internetisbeautiful, which is a subreddit for *"awesome websites that offer a unique service"*. 
 
@@ -739,6 +774,42 @@ How useful was that post? **Very.** Just in the first day ShipYourEnemiesGlitter
 Sadly as a direct result of the huge success of ShipYourEnemiesGlitter and the influx of similar sites to the subreddit, /r/internetisbeautiful [changed their rules](https://www.reddit.com/r/InternetIsBeautiful/comments/3063r6/how_are_you_doing_were_doing_great_we_have_a_few/) to be less friendly to online stores. 
 
 *"Online Stores/Paid Services/sites just selling stuff - some of these are funny, some of them are terrible, a LOT of them are people just trying to make that paper. we don't think online stores or sites that deliver cow poop to your friends are really what any of us are looking for in this subreddit. plus, there's like five bajillion of them now since the Great Glitter Gold Rush of 2015. they're far past being unique."*
+
+It may still be worthwhile to attempt a post, just in case the mods happen to be in a particularly good mood that day. Another option is to come up with a widget or a free related service that **can** be posted and use that to drive traffic to your main site.
+
+#### Post from customer point of view
+
+Instead of posting yourself about your box, have a customer make a post such as "I received my ABC box today, it was full of XYZ goodness!". You can ask the customer to make this post on /r/pics or to any subreddit related to the products you are sending.
+
+#### Do a giveaway
+
+The subreddit /r/giveaways and /r/sweepstakes are for giving out free stuff. You accept entries from people who want a free box and then pick one randomly. While sweepstakes will definitely drive a lot of traffic if you have a nice prize, the quality of the traffic may be very low. These are visitors who are not necessarily looking to buy anything, but rather just looking for free stuff. I would suggest keeping a careful eye on how well this traffic is converting before making a habit out of hosting these contests.
+
+There are also Facebook apps you can use to host the giveaway on your FB page and even require customers to take an action such as posting to Facebook or Tweeting in order to enter your contest. If you do decide to run a contest, it may be worthwhile to also post a link to your giveaway to dedicated sweepstakes sites such as [Online-Sweepstakes](http://www.online-sweepstakes.com/).
+
+## Conversion optimization
+
+Let's go back and think about the funnel some more. One way to make more sales is to have more customers arriving at the top of the funnel. But that's not the only way. Another way is to make sure that as many of those customers as possible actually become members, at the most profitable price.
+
+### Collect emails
+
+While you may not be able to get everyone to become a paying subscriber right away, if you can collect a visitor's email address you may be able to convince them to join later.
+
+You can create an email subscription form using services such as [MailChimp](http://mailchimp.com/) or [Campaign Monitor](https://www.campaignmonitor.com/). Various other sites such as [SumoMe](https://sumome.com/app/list-builder) also provide sleek ways to collect email signups. 
+
+Many savvy online marketers have fancy multi-email "drip campaigns". In a drip campaign the customer joins an email sequence which tries to educate them about the product and convince them to buy in a multi-email sequence. There are services such as [Drip](http://www.getdrip.com) which allow you to set up email drip campaigns.
+
+### Have tiers
+
+Your subscription box can have multiple tiers, so you can get the most out of each subscriber. Having multiple tiers can increase revenue, as people willing to spend more can choose your premium tier, while you can still capture customers who perhaps are not out to spend as much. 
+
+While we have not tried more expensive tiers for Candy Japan (although we probably should!), some companies that have published statistics for having multiple tiers have posted very promising results. Our competitors such as [Japan Crate](http://www.japancrate.com/) are prominently displaying their multiple tiers on their site, and I must say having the tiers makes them all look more attractive. It is easy to picture the different customers that would be attracted to these tiers.
+
+Tiers can also help get the most profit out of each customer. For instance in the case study for the programming-related ebook Discover Meteor which has multiple sales tiers, the [author reported](http://blog.asmartbear.com/perfect-pricing.html) that more people bought the premium version of the book than the basic version, leading to much higher profits than if there had only been one cheap tier available. You can see their sales stats in quite careful detail in their [case study](http://blog.gumroad.com/post/97148570338/discover-meteor-case-study-making-300000-from-a#_=_).
+
+In addition to getting customers to self-select themselves into price groups, there is also the effect of price anchoring at work, which refers to the effect of how seeing a cheaper price next to a higher one can make people feel like the cheaper one is a better deal than if they had seen the lower price alone. For example if you see a premium box for $49 / month and then the normal subscription next to it for $25 / month, it seems much more reasonable than if you had seen the normal price alone. 
+
+This means that even if you originally only intended to sell normal subscriptions instead of premium ones, just having the premium option might increase sales of your basic tier. Combined with the fact that for some people it makes no difference what your item costs and they always buy premium no matter what and you will likely see many sales for the premium version as well.
 
 # Other tasks for running a subscription box
 
@@ -792,7 +863,7 @@ I started reading a bit more about how this underworld works. Apparently these c
 
 To be able to compile and sell these packs, the carders need to know which ones are valid. To do this, they will use an online store or service to place an order for the sole purpose of seeing if the charge goes through or not. 
 
-If a store ends up as such a checking endpoint, they will see a sudden influx of a lot of fake orders. That's what was happening to me (and recently also to jsbin).
+If a store ends up as such a checking endpoint, they will see a sudden influx of a lot of fake orders. That's what was happening to me.
 
 Carder uses my store to test 10 cards before they find one that works. For each attempt I pay a 0.15€ transaction fee to my gateway and another $0.10 fee to subscription middleware Recurly. So even before a successful order comes in, I'm already out around three dollars.
 
@@ -814,11 +885,9 @@ Later on these shipments will likely return to sender, as the fraudsters very li
 
 ### Conclusion
 
-I lost weeks of productive time and thousands of dollars in money and product.
+Keep an eye on payments coming in, especially if you suddenly have a ton of new members joining. You're probably just growing your box really well, but it could be that you are under attack as I was. I lost weeks of productive time and thousands of dollars in money and product over this issue. 
 
-Currently I have credit cards disabled until I can integrate with a fraud detection system, but if you would like me to send you some candy and PayPal is OK with you, you can subscribe here. I'm also working on an ebook.
-
-DiCaprio is cool, but I will be rooting for Tom Hanks next time.
+In the future to prevent this problem from happening, I plan to integrate with a fraud detection system. These are systems which analyze an incoming order and decide whether it is likely to be fraud or not. If the likelihood of fraud is high, the system either adds some extra security checks such as 3-D Secure verification, or it can block the payment.
 
 ## Bookkeeping
 
