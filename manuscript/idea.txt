@@ -697,15 +697,17 @@ The most powerful part of Reddit is the main page, which is what is shown by def
 
 Besides the main page, there are also subsections to Reddit, called "subreddits". When you submit a link to Reddit, you need to select which subreddit it goes to. Subreddits are like niche forums. Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
 
-Some subreddits can appear on the main page, others are only visible to users who are specifically visiting those them directly. Still even non-mainpage subreddits can have quite large audiences. With smaller subreddits while the potential is perhaps not as great, you will also have better chances as there will be less competing posts on those subreddits.
+Some subreddits can appear on the main page, others are only visible to users who are visiting them directly or subscribing to them. Still, even non-mainpage subreddits can have quite large audiences. With a smaller subreddits the potential for world domination is perhaps not as great, they may be good opportunities to get some highly targeted traffic specific to your niche. With a small subreddit there will be less competition as well, and you will have an easier time of getting noticed.
 
-To find suitable subreddits for your posts, you can browse them on [Reddit Metrics](http://redditmetrics.com/). Especially their [list of biggest subreddits](http://redditmetrics.com/top) is very useful. You can also [use Reddit's search to find subreddits](https://www.reddit.com/search). Besides searching for keywords related to your concept, another way to use the search is to look into what other subscription boxes are posting about.
+To find suitable subreddits for your posts, you can browse them on [Reddit Metrics](http://redditmetrics.com/). Especially the [list of biggest subreddits](http://redditmetrics.com/top) is very useful. I suggest going through the list and trying to brainstorm on each one how you could angle your box to appear as a submission there.
 
-While Reddit has the potential of sending an amazing amount of traffic to you, redditors tend to be quite anti-commercial. Spamming Reddit will get you nowhere, but if your promotions are useful or entertaining enough, then you may be able to get a pass to post even with commercial intent.
+You can also [use Reddit's search to find subreddits](https://www.reddit.com/search). Besides searching for keywords related to your concept, another way to use the search is to look into what other subscription boxes are posting about. This can be especially useful to follow your competitor's activities on Reddit, or to get ideas what other similar boxes are doing on the site.
 
-Even when the likelihood of success is low, such as with an AMA post, it's still worth giving it a shot, as if it fails you really didn't lose anything. You can even delete such posts later, if you prefer. 
+While Reddit has the potential of sending an amazing amount of traffic to you, redditors tend to be quite anti-commercial. Spamming Reddit will get you nowhere, but if your promotions are useful or entertaining enough, then you may be able to get a pass to post even with commercial intent. 
 
-While there is no direct penalty for having an unsuccessful Reddit post, it IS possible to get shadowbanned if you promote yourself too aggressively. If you do push things too far and get considered as overtly spammy, it may lead to you getting [shadowbanned](https://www.reddit.com/r/AskReddit/comments/11ggji/can_someone_please_explain_to_me_what_shadow/). Everything will seemingly work as normal, except no-one besides you can actually see your posts. Also don't try to be clever and create more than one account in order to upvote yourself, as there are countermeasures in place for such abuse.
+While there is no direct penalty for having an unsuccessful Reddit post, it IS possible to get [shadowbanned](https://www.reddit.com/r/AskReddit/comments/11ggji/can_someone_please_explain_to_me_what_shadow/) if you promote yourself too aggressively. When you are shadowbanned, everything will seemingly work as normal, except no-one besides you can actually see your posts. 
+
+Don't try to be clever and create more than one account in order to upvote yourself, as there are countermeasures in place for such abuse, such as voting ring detection.
 
 Reddit [allows verified users to post up to](https://www.reddit.com/r/help/comments/14erjc/psa_if_you_get_the_looks_like_youre_either_a/) 3 times per hour, 10 times per day, 50 times a week or a total of 150 posts per month. Users who have not verified their email address can only post 5 times per month. As a rule of thumb, consider being active on Reddit and limiting your self-promotional posts to one out of ten posts you make. Your other posts should also be high-quality to give you a good posting track record. 
 
@@ -736,15 +738,87 @@ How useful was that post? **Very.** Just in the first day ShipYourEnemiesGlitter
 
 Sadly as a direct result of the huge success of ShipYourEnemiesGlitter and the influx of similar sites to the subreddit, /r/internetisbeautiful [changed their rules](https://www.reddit.com/r/InternetIsBeautiful/comments/3063r6/how_are_you_doing_were_doing_great_we_have_a_few/) to be less friendly to online stores. 
 
-**"Online Stores/Paid Services/sites just selling stuff - some of these are funny, some of them are terrible, a LOT of them are people just trying to make that paper. we don't think online stores or sites that deliver cow poop to your friends are really what any of us are looking for in this subreddit. plus, there's like five bajillion of them now since the Great Glitter Gold Rush of 2015. they're far past being unique."**
+*"Online Stores/Paid Services/sites just selling stuff - some of these are funny, some of them are terrible, a LOT of them are people just trying to make that paper. we don't think online stores or sites that deliver cow poop to your friends are really what any of us are looking for in this subreddit. plus, there's like five bajillion of them now since the Great Glitter Gold Rush of 2015. they're far past being unique."*
 
-# Customer support
+# Other tasks for running a subscription box
+
+## Customer support
 
 Customer support gets tiresome, as you are often dealing with very similar issues. If you are using a home-grown system, you may find that the information you need to answer these question is buried somewhere in a database which only you understand, which makes outsourcing this more challenging. This is one good reason to use a ready-made subscription management system such as CrateJoy or Subbly. Besides just the usual support questions, there are always new situations occurring which can only be answered by you, meaning with a somewhat successful box you will always end up having some email to answer yourself every day.
 
 For instance I often find myself having to dig for some information manually in our database or try to make educated guesses when a customer requests something to be done, but is emailing from a different address than the one they registered with. These examples sound bad and probably make you feel like “well, that should be easily fixable”. And they are, which is part of the support task, improving things so that those things will no longer get asked.
 
-# Other tasks for running a subscription box
+## Verifying payments
+
+Have you heard about chargebacks? Did you know that after a customer makes a credit card payment, you still cannot be completely sure that you will really receive the money? Here's how I found about that the hard way.
+
+After our first child was born two months ago, I was very much preoccupied with trying to learn the basics of infant care. I still had to know how much candy to order for our subscription box, so one day I got online for a moment to check how many new subscribers had joined during my time away.
+
+### Wow, a ton of new members are joining, hooray!
+
+Seems they are all finding us through Google. We must have been mentioned in the media somewhere. Fantastic news! I went straight to Slack to brag about the great sales numbers.
+
+Then I decided to look at the traffic in a bit more detail, to see where this sudden good luck was springing from.
+
+Hmm, odd. 
+
+![](images/chargeback_ga.png)
+
+The conversion ratio for organic search traffic is unnaturally high. In other words, the number of people searching for Candy Japan on Google hadn't changed, but somehow the amount of orders coming in from search had massively increased.
+
+Having a conversion ratio over 5% for one day is a statistical anomaly. Sustaining it for the better part of the week means that something strange is going on. 
+
+### Could it be fraud?
+
+I knew that there are people out there buying stuff with stolen credit cards. Hey I've seen Tom Hanks chase DiCaprio in Catch Me If You Can. 
+
+I was aware that a certain percentage of transactions is always fraudulent, but I had always assumed that these transactions would be mixed in with real ones. Hundred real orders there, then one fraud case dripping in here. 
+
+Since the level of fraud I had experienced so far was at an acceptable level, I assumed everything is OK.
+
+### Everything is not OK.
+
+What I hadn't expected was having a wave of fraud crash in suddenly with such force. 
+
+While from Google Analytics I had noticed that a lot of sales had happened, it didn't reveal the severity of the issue. Looking at the list of transactions, I saw that **thousands** of payment attempts had been made with different cards during those 4 days. For each successful sale, the fraudsters had tried a dozen cards that had failed.
+
+After starting to deal with this, I got contacted by a police officer in Ohio. To be doubly sure he really was a police officer, I called the local police directly and asked for him by name. "Thanks for calling me, let me just pull over". He was on patrol. His reason for contacting me was that someone had noticed an unexpected charge from "candy japan" on their card and had filed a police report.
+
+I exchanged any information I had of the particular fraud incident he was investigating, but he seemed not to have much hope with the case, telling me that they just had to follow up as they'd received a report of an unknown transaction happening. I think he even said the words "this won't lead anywhere". I agree. Assuming fake IP, fake address, card number bought from someone online, what could he possibly do about it?
+
+### Easy money
+
+I started reading a bit more about how this underworld works. Apparently these criminals are called "carders". The stolen cards originate from credit card security breaches, resulting in a big list of card numbers. These are later sold online in packs filtered to working card numbers only, which can be purchased for about $10 per valid card.
+
+To be able to compile and sell these packs, the carders need to know which ones are valid. To do this, they will use an online store or service to place an order for the sole purpose of seeing if the charge goes through or not. 
+
+If a store ends up as such a checking endpoint, they will see a sudden influx of a lot of fake orders. That's what was happening to me (and recently also to jsbin).
+
+Carder uses my store to test 10 cards before they find one that works. For each attempt I pay a 0.15€ transaction fee to my gateway and another $0.10 fee to subscription middleware Recurly. So even before a successful order comes in, I'm already out around three dollars.
+
+Then they hit upon a card that works. Now the fee to charge that card is a bit higher, since money is actually moving. Our candy subscription is $25 / month, which costs me $1.76 in fees to charge (Recurly fee is $0.10 + 1.25%, gateway fee is 0.15€ + 2.75%).
+
+Believing this to be a real transaction, I ship the product to them. Candy itself, shipping, labor etc. will cost something around $15. So now I'm out $19.76, but I received $25. What's the problem?
+
+### Chargeback
+
+When the real owner of the card notices the surprising charge on their card, they will dispute it by contacting their bank or credit card company. The customer receives their money back, as they should.
+
+The money I thought I had is taken from me and on top of that there is a 15€ chargeback fee. The end result is that I lost not only the transaction fees, but also the product and labor cost and on top of that get hit with an extra penalty.
+
+As I wasn't set up to handle these fees, I had to spend weeks just to understand what all this means and to write a bunch of glue code to export the chargeback information and convert them from gateway internal IDs to the ones understood by the Recurly gateway. Then even more code to cancel and adjust all those subscriptions to avoid charging them again or shipping any more product.
+
+For orders which I later noticed as very likely being fraudulent, I proactively refunded them, despite having already shipped many of those orders, leading to more losses. 
+
+Later on these shipments will likely return to sender, as the fraudsters very likely used false names and addresses, leading to more work still.
+
+### Conclusion
+
+I lost weeks of productive time and thousands of dollars in money and product.
+
+Currently I have credit cards disabled until I can integrate with a fraud detection system, but if you would like me to send you some candy and PayPal is OK with you, you can subscribe here. I'm also working on an ebook.
+
+DiCaprio is cool, but I will be rooting for Tom Hanks next time.
 
 ## Bookkeeping
 
