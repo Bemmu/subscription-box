@@ -1,2 +1,4 @@
-why.txt
-idea.txt
+section1.txt
+section2.txt
+section3.txt
+section4.txt
