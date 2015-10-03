@@ -1,6 +1,6 @@
 # Why start a monthly subscription box?
 
-Hi, how's it going? Thank you for buying this book. As you probably know full well, a monthly subscription box is a business model where customers receive curated assortments of items in the mail periodically in exchange for an automatically recurring payment. Like a magazine subscription.
+As you probably know full well, a monthly subscription box is a business model where customers receive curated assortments of items in the mail periodically in exchange for an automatically recurring payment. Like a magazine subscription.
 
 We started our subscription box [Candy Japan](http://www.candyjapan.com) back in 2011 and it has since reached 1000 paying subscribers. Our concept is sending random assortments of Japanese candies to subscribers twice each month. I decided to treat the service more as a "business experiment" where I would [blog](http://www.candyjapan.com/blog)) about all aspects of running the box, skipping the usual secrecy.
 
@@ -59,7 +59,7 @@ Need a jolt more inspiration for starting your own box? Here is Natalie Grunberg
 
 ## What should you send?
 
-### It helps to choose items you are personally interested in
+### Choose items you are personally interested in
 
 I have attempted to run other boxes besides Candy Japan too. I started a stationery box, but shut it down after a few months upon realizing that I'm just not that passionate about clever pens, pencils, paper, and envelopes.
 
@@ -77,22 +77,117 @@ Is there a place where they are gathering, such as a Facebook group or a discuss
 
 ### Make sure there is a large variety of products available
 
-If you are sending a new box each month with say 4 items in it, is there enough variety that you will be able to find 48 new products each year? You may not be able to buy wholesale quantities of just any product. 
-
-When curating new candies to include in our box, we usually have to look into twice as many products as we end up sending, as many are not available for a variety of reasons. Some are no longer manufactured, some limited to certain regions only, some have a special deal with certain stores and cannot be bought directly, or are only manufactured once a year and need to be pre-ordered months in advance.
+If you are sending a new box each month with say 4 items in it, is there enough variety that you will be able to find 48 new products each year? You may have to research even more products than this, as you may not be able to buy your required quantities of just any product, or at least not at a reasonable price.
 
 For Candy Japan I chose to go with Japanese candy, simply because I happened to be living in Japan myself and candy is a good combination of light weight, fun and endless variety. As new candy is coming out every month, customers would not easily get tired of it. Since candy is consumable it would not pile up. And who doesn't like candy?
+
+When curating new candies to include in our box, we usually have to look into twice as many products as we end up sending, as many are not available for a variety of reasons. Some are no longer manufactured, some limited to certain regions only, some have a special deal with certain stores and cannot be bought directly, or are only manufactured once a year and need to be pre-ordered months in advance.
 
 Having a large selection of different manufacturers will also help you buy the items at better discounts, as you will have more buying choices. Even if one provider does not want to work with you, there are others you can ask. Still in the beginning it may be smart to build in enough margin that you can get started profitably, even if you are unable to get any discount over the retail price at all.
 
 ### Easy to ship?
 
-Almost anything can be shipped, but some will be more economical than others. Antarctican ice cube of the month club might seem like a good idea, until you look up the shipping cost of a refridgerated heavy shipment from the South Pole.
-
-Are the items affordable to send? Depending on where you send from, the cost of postage is usually determined by weight, although within the United States you can also opt for "cubic pricing" where pricing is based on distance and volume instead. 
+Almost anything can be shipped, but some items will be more economical to send than others. Antarctican ice cube of the month club might seem like a good idea, until you look up the shipping cost of a refridgerated heavy shipment from the South Pole. Depending on where you send from, the cost of postage is usually determined by weight, although within the United States you can also opt for "cubic pricing" where pricing is based on distance and volume instead. 
 
 If you choose items with no expiration date, you will have more flexibility in preparing for future orders. For candy we end up throwing a lot of it out just because we cannot always order the specific amount needed. If you can go with something non-perishable, you can use them later in the first boxes sent to new members.
 
 Some items can be more difficult to send without damage. For instance chocolate can melt on the way if sent during hot months. 
 
+## Buying the perfect domain name
+
+Did you come up with an idea for what to send? You might want to continue brainstorming by checking if any good names for such a box are available. For Candy Japan we got really lucky that the most obvious name for a Japanese candy box happened to still be up for grabs.
+
+I wouldn’t necessarily recommend spending too much time thinking of a good name to start with, because once you've done enough other work, it will be easier to come up with the name. For instance if you have spent days thinking about all the different aspects of your subscription site, planning up a prototype box, thought about what kind of customers you would attempt to attract and many other details, thinking up a good name for your box will come more naturally. 
+
+If you go ahead and register a name first, one thing that often happens is that you may find your passion for the idea vanes, but you get stuck having the name. Every year when it comes time to renew your registration you'll feel like perhaps later on you will start using the name, so better renew your registration. Have a few more such "just in case" domains and soon you'll find yourself paying $100 / year just squatting on some unused names.
+
+It can also be a bit of a trap to be unable to proceed just because you got stuck on thinking about the name, but if you are dead set on choosing a name first, well alright, let me give you a push and try to help you get unstuck.
+
+### How to quickly check domain name availability
+
+To try out different name ideas, it's useful to be able to quickly check the availability of various names.
+
+One of my favorite tools for brainstorming domain names is called [Instant Domain Search](http://instantdomainsearch.com). It shows whether a domain is available or not in real time while you type in the name. Sometimes it does give false positives, so don’t party until double-checking the result using another tool, such as your domain registrar’s reservation page. 
+
+If you find your favorite name was unavailable, you’re not alone with this problem. Hundreds of millions of names have already been registered. This means that pretty much any single word and many good combinations of two words are no longer up for grabs. While you might desire a short name if possible, you're unlikely to be able to register a super-short name anymore these days. Every possible combination of four letters or less is taken, unless you include special characters in the name. 
+
+### Purchasing an existing name
+
+Your name is taken, but does that mean you cannot have it? Not necessarily. If you have some money to spend, you can buy it from the existing owner.
+
+If you find someone already has your name, chances are it is being held by a professional “domainer”. These are people who speculate on domain names by buying, holding and trading promising ones in the hope that later on someone like you will come along to buy it.
+
+They may be holding massive amounts of domain names, hoping that one will end up being a hit valuable enough to cover all the costs spent on the rest. Sadly this means that they are often not very cheap. What do they cost? While many transactions happen in private, some are sold through online or real-life auction events. You can browse the prices of names that have sold in these events in the past. 
+
+For example [dnjournal](http://www.dnjournal.com/ytd-sales-charts.htm) has such a listing, from which you can see some examples such as:
+
+| Domain name      | Sale price      |
+| ---------------- | --------------- |
+| HomeCare.com     | $350,000        |
+| FlowerBox.com    | $55,000         |
+| MegaDeal.com     | $50,000         |
+| Moon.co          | £6,000          |
+
+Another place for browsing listings is [Flippa](https://flippa.com/domains/just-sold), which had trades such as:
+
+| Domain name      | Sale price      |
+| ---------------- | --------------- |
+| Mini-Series.com  | $6              |
+| TakeSail.com     | $100            |
+| Swore.com        | $2,300          |
+| Cloud.io         | $45,000         |
+
+As you can see the range of prices is huge. 
+
+There really is no one answer to the question "what should this domain name cost"? If you happen to have two wealthy or venture-backed bidders competing against each other to secure a name, then the price is as high as those bidders can afford to go. 
+
+### Domain name price negotiation
+
+Besides bidding on auctions, you can also try contacting the current domain owners directly. The problem here is that it is difficult to start negotiating on the price at all if you start off with too low an offer, failing to grab their attention. This is because the owner of your desired name may prefer to avoid spending time making smaller trades when they could be concentrating on the bigger wins. They may not even bother to reply if you don’t make a sufficiently interesting offer right off the bat. Another route is to be a bit more mysterious and simply ask "is this domain for sale?" without mentioning a price.
+
+If you do manage to get them interested, the game begins. If they are experienced domainers, they will likely try to play some psychological games with you to make you pay more. One of these is to make you believe that they are currently engaged in multiple bids for the name and that you need to outbid your competition. Whether this is true or just a trick you have no way of knowing, so you may be tempted to increase your price to outbid these possibly imaginary competitors. 
+
+Another mental trick they might use is to claim that they acquired the name for use in a project which they currently have underway. The release of their amazing site is just right around the corner and they would be unwilling to sell the name  -- except of course they might reconsider for a considerably higher price to justify scrapping their current plans. The last time this happened to me and I walked away, the current owner still after years has not used their name for anything.
+
+Counter-tactics to these also exist, which is why you might want to consider hiring a domain broker to buy the name for you. They can navigate these negotiations in a more cool manner since they are more detached from the name than you are and get a better price.
+
+There are many more tricks involved in domain price negotiation, I recommend reading the blog post [How to Buy Domain Names Like a Pro](http://fourhourworkweek.com/2009/02/27/how-to-buy-domain-names-like-a-pro-10-tips-from-the-founder-of-phonetagcom/). Two great tips in that post are using historical whois services to help find the current domain owner and avoiding giving out any personal information in case that might serve as a justification to quote a higher price to you.
+
+*Let us never negotiate out of fear. But let us never fear to negotiate.* -John F. Kennedy
+
+### Transferring a domain name from the previous owner
+
+If you manage to get the domain seller's attention and negotiate a sale, the transfer process itself is not difficult. When you buy an existing name, the act of transferring the domain is called a “push”. The owner of the current domain needs to log in for their registrar and then request a push through the web interface. 
+
+You may need to send the current owner of the domain a special "authorization code" in order for them to do the push. You can find this authorization code in the web interface of your registrar. If you have your registrar set up to allow all incoming domains, then the push auth code may not be necessary.
+
+### Securing the domain transfer with an escrow service
+
+How do you guarantee that you won’t get scammed in the process of transferring the name? If you send the money first before receiving the domain, the seller might decide to just forget to transfer the domain to you. On the other hand if you are the one requesting the sale, then it is very unlikely that the seller would agree to transfer the domain to a stranger before receiving payment. Stalemate?
+
+Escrow services exist to smooth out situations like these. Such a service acts as a third party to guarantee that the transaction goes through with neither side having to put themselves at risk. The escrow process can be done completely online. The most famous of these services is likely [escrow.com](http://escrow.com/). It is a US-based service which has been operating since 1999, protecting transactions with total worth of billions of dollars. 
+
+From the buyer point of view the domain transaction using an escrow service is quite painless. When you are on the buying side, first you will receive an email saying that a transaction is waiting for you. You then set up an escrow.com account if you have not yet created one. Then you wire the payment to escrow. They will hold the payment until you have confirmed that the domain was transferred to you and only then is the money released to the domain seller.
+
+### Grabbing an expiring name
+
+Domain names are reserved for a limited period of time. What if someone no longer wants their name lets it expire? At first it enters a grace period for 30-90 days, during which the original owner can still renew the domain. After that it enters the redemption period, during which the original owner can still renew the domain, but there is a fee involved. If even after the redemption period is over the original owner has still not renewed, then it "drops" (becomes available). 
+
+You might think that if you see a domain registration expire, you could just wait until the redemption period is over and register it yourself. However there are groups which use special software that rapidly attempt re-registration of these expired domain names over and over again in order to be the very first to re-register it. You will not be able to beat them manually. 
+
+Luckily these companies are sort of mercenaries for hire. By paying them a small fee you can use their guns to get you the domain you want. If you want to know more about this subject, I highly recommend Mike Davidson’s classic article [How to Snatch an Expiring Domain](http://www.mikeindustries.com/blog/archive/2005/03/how-to-snatch-an-expiring-domain). 
+
+The gist of it is that you can maximize your chances of getting your domain by instructing several of these “drop catching services” to attempt to get your name. I’ve had some luck using [pool.com](http://pool.com/) for this purpose, but there are many others as well. You can enter as many domains as you wish on their site, which they will then attempt to get for you. You can also browse domain names which will be expiring soon.
+
+### Consider a brandable variation of your key term
+
+In the beginning I wrote that all the good names are taken. That's not entirely true. Actually only all **obvious** names are taken. Your best option may be to come up with a new unique name that no-one else has thought of. Something catchy, with personality and branding potential. 
+
+A non-generic name can have other benefits as well. If you have an animal name or an object in the name, then it instantly gives you ideas of what the mascot or logo of the club might be like. For example the Japanese anime box of the month club "[boxychan.com](http://www.boxychan.com/)" has a cute box as their mascot, which makes it a lot more memorable than if it was something generic such as "monthlyanimebox.com".
+
+Another great example of a name with benefits is [MailChimp](http://www.mailchimp.com/), an email marketing service provider which uses a chimp as their mascot. This might give you an idea: use your desired noun + some branding word as your name. Have your desired term in there along with an interesting prefix or suffix. You can put these ideas through [Instant Domain Search](http://instantdomainsearch.com) to try them quickly, but there is an even faster way. There are services where you can enter lists of words to try as prefixes and suffixes and it tells you which ones are available. Some even have those lists built in. 
+
+The best one I have found is called [Lean Domain Search](http://www.leandomainsearch.com/). Suppose for example that you are thinking of starting a snack-related subscription box. As there are already dozens of snack boxes and many domain speculators out there, you will find that almost any good name is already taken. Entering the word "snack" into Lean Domain Search, you'll find that actually some good combinations of popular word beginnings or endings added to "snack" are still available! It doesn't suggest cute animal suffixes, but can find for example that "SnackGlobal.com", "SnackGate.com", "EpicSnack.com", "ViaSnack.com" and "SnackBoss.com" among many others are still out there for grabs.
+
+I hope some of these tips helped you find a great domain name for your subscription box, or convinced you to stop obsessing about it until later! It's perfectly fine to keep going despite not yet deciding on a domain name for your subscription box yet, maybe even better as it can be a bit of a distraction to focus all your attention on the name.
 
