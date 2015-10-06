@@ -1,10 +1,18 @@
+# ハロー　ワールド　
+
+昔々。。。
+
 # Why start a monthly subscription box?
 
-As you probably know full well, a monthly subscription box is a business model where customers receive curated assortments of items in the mail periodically in exchange for an automatically recurring payment. Like a magazine subscription.
+Hi, I'm Bemmu. Thank you for buying my book.
+
+As you probably know full well by now, a monthly subscription box is a business model where customers receive curated assortments of items in the mail periodically in exchange for an automatically recurring payment. Like a magazine subscription.
 
 We started our subscription box [Candy Japan](http://www.candyjapan.com) back in 2011 and it has since reached 1000 paying subscribers. Our concept is sending random assortments of Japanese candies to subscribers twice each month. I decided to treat the service more as a "business experiment" where I would [blog](http://www.candyjapan.com/blog)) about all aspects of running the box, skipping the usual secrecy.
 
-This book attempts to cover everything I have learned about running and growing a subscription box business over the years. In addition I have researched some completely new topics that I thought would be useful to include for you in starting your own box. I hope the information here will help you achieve success.
+This book attempts to cover everything I have learned about running and growing a subscription box business over the years. In addition I have researched some completely new topics that I thought would be useful to include for you in starting your own box. I hope the information here will help you achieve success. 
+
+If you still have unanswered questions, feel free to contact me@bemmu.com. I would love to hear about how you are getting your subscription business off the ground.
 
 ## Advantages of the subscription model
 
@@ -27,6 +35,24 @@ Besides voluntary costs such as site design, there really aren't any big initial
 Unlike an online shop focusing on one-time sales, a subscription box is attractive because customers agree to pay again and again for each box. Customers’ credit cards are charged automatically unless they explicitly terminate their subscription. This is the opposite way compared to typical e-commerce, where no further purchase is assumed unless the customer returns to the website to make another purchase. In a subscription box the default is multiple sales, with the immediate ending of the relationship a sad less likely occurrence.
 
 This doesn’t mean that each customer is infinitely valuable as people do eventually cancel. At the end of the day a new subscriber for a subscription box is still a “conversion” with a somewhat known value to it, so in that sense it does not differ from a one-off ecommerce site. However it can mean that one customer is MORE valuable for a subscription box company. That means that if you are advertising using Google ads for instance, a subscription box can afford to outbid the traditional online retailer, as each customer has a higher lifetime value (LTV).
+
+### How to find out how much revenue other sub boxes are generating?
+
+#### Find overshareres
+
+Candy Japan currently has about 1000 subscribers. The monthly subscription cost is $25.00, of which roughly $5 is left after all the expenses as profit, meaning if everything goes smoothly (often it does not) I can receive an income of around $5000/month from running this box. Most box companies keep their sales numbers secret. There are good reasons for this. Being too vocal could cause trouble, as it can make you a target for scams and many might hesitate to share as it could be seen as arrogant. In practice this has not been a huge problem. If your numbers are even a bit attractive, it can inspire competition. 
+
+Some boxes such as our box [Candy Japan](http://www.candyjapan.com/blog) and Rohan Gilkes' box [Wet Shave Club](https://www.reddit.com/r/Entrepreneur/comments/2h1mlt/the_inner_workings_of_a_subscription_box_company/) share their numbers likely partly because it acts as a form of marketing in itself. In my case the other reason is that I like to help and have a hopeless tendency to overshare! You can find more examples of such sharing from the non-box world, such as ebook author [Sacha Greif revealing his sales numbers](http://bloggerjet.com/sacha-greif-on-earning-15000-from-selling-his-ebook/) or ... what was that, kraci.net?
+
+#### Find sites for sale
+
+Sometimes you can get a glimpse at revenue numbers by finding sites which the owner is attempting to sell. You can find such sites on auction sites such as Flippa. You can get a lot of ideas about what kind of revenues different sites have by browsing Flippa's "established sites" and filtering to only those which have posted verified Google Analytics screenshots. The sites for sale are mostly not subscription boxes, but occassionally you can find some box companies for sale as well. For instance the snack box [PaleoLifeBox.com](https://flippa.com/5545303-snack-of-the-month-subscription-box-club-hitting-5k-mrr-consistent-growth) has been on sale on Flippa and reported revenues of ~$4000/month. Another one for sale was an anime good box [FaniPack](http://flippingethics.com/2015/05-16/fanipack-com-being-sold-by-jvan6-on-flippa.html) (which I bought) with reported revenues of $2500/month.
+
+#### Be rude
+
+Another somewhat underhanded way of getting this information is to email a site owner directly and ask if they would be interested in selling their site and in the process finding out the sales numbers. It is rather unrespectful of peoples' time (and possibly unethical) if you have no real intention to buy the site in question, but it can work as I have been on the receiving end, responding to such requests myself. 
+
+#### Look at search stats %%%
 
 ### Easier to predict needed inventory
 
@@ -55,7 +81,6 @@ Need a jolt more inspiration for starting your own box? Here is Natalie Grunberg
 > We have a renew and refer program, so our customer retention is high. We work very hard to make sure our customers are 100% satisfied. Our business is based on referrals, so we work excessively hard to value each client. We do CPC (cost per click) ads with google but this takes a long time to tweak to get good results. We enlist the help of bloggers to do reviews and we've been fortunate to be picked up my People and Style Magazines. 
 >
 > Our new plans for growing the business are to expand our social media reach. We love our Pinterest board and we have a new writer on staff to help us with our blog. We are always looking for good international relationships and we're currently in talks with business people in Turkey and Brazil. Who knows, we could be creating our own lingerie line next (wink)?
-
 
 ## What should you send?
 
@@ -92,6 +117,12 @@ Almost anything can be shipped, but some items will be more economical to send t
 If you choose items with no expiration date, you will have more flexibility in preparing for future orders. For candy we end up throwing a lot of it out just because we cannot always order the specific amount needed. If you can go with something non-perishable, you can use them later in the first boxes sent to new members.
 
 Some items can be more difficult to send without damage. For instance chocolate can melt on the way if sent during hot months. 
+
+### Choosing what items to send isn't everything
+
+While choosing the right type of items to send is important, it's not by any means the only factor determining the success of your box. To give an example I really recommmend reading the [story of Wet Shave Club](https://www.reddit.com/r/Entrepreneur/comments/2h1mlt/the_inner_workings_of_a_subscription_box_company/). The site was already established, but after an ownership change and a lot of rebranding it really took off. Site owner [Rohan Gilkes]() has posted [another very detailed guide](https://www.reddit.com/r/EntrepreneurRideAlong/comments/tltuy/day_26_from_zero_to_website_launcha_recap_of/) from launching his other business as well. I strongly suggest reading the guide, as most of the content applies to any online business.
+
+As further evidence of how choosing the right items isn't everything, our box [Candy Japan](http://www.candyjapan.com) is not the only subscription box selling Japanese candies. There are plenty of others in the space, such as [Japan Crate](http://www.japancrate.com), who despite having started their boxes much later and sending the same items, have reached higher subscriber numbers through better execution. As you can see, the type of items you choose to send does not have to be unique. Success lies more in other details.
 
 ## Buying the perfect domain name
 
