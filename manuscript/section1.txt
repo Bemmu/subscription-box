@@ -1,13 +1,6 @@
-# ハロー　ワールド　
-
-昔々。。。
-何か
-
 # Why start a monthly subscription box?
 
-Hi, I'm Bemmu. Thank you for buying my book.
-
-As you probably know full well by now, a monthly subscription box is a business model where customers receive curated assortments of items in the mail periodically in exchange for an automatically recurring payment. Like a magazine subscription.
+As you probably know full well having bought this book, a subscription box retail service is a business model where customers pay a monthly fee to receive a box of products delivered to them directly on a recurring basis. The product could be anything from makeup, groceries to clothing.
 
 We started our subscription box [Candy Japan](http://www.candyjapan.com) back in 2011 and it has since reached 1000 paying subscribers. Our concept is sending random assortments of Japanese candies to subscribers twice each month. I decided to treat the service more as a "business experiment" where I would [blog](http://www.candyjapan.com/blog)) about all aspects of running the box, skipping the usual secrecy.
 
@@ -27,7 +20,7 @@ A subscription box can provide a sense of community not present in with a tradit
 
 ### Affordable to get started for the entrepreneur
 
-Unlike starting a restaurant franchise or other business where you have to make large investments from the get-go before you even know if you will have any customers, for a subscription box you get to send out the product AFTER you already know you can sell it. 
+Unlike starting a restaurant franchise or other business where you have to make large investments from the get-go before you even know if you will have any customers, for a subscription box you get to send out the product AFTER you already know you can sell it.
 
 Besides voluntary costs such as site design, there really aren't any big initial investments to make for a subscription box. Even commissioning fancy custom boxes you can put off until after you have built a customer base to justify placing larger orders for packaging materials.
 
@@ -37,23 +30,45 @@ Unlike an online shop focusing on one-time sales, a subscription box is attracti
 
 This doesn’t mean that each customer is infinitely valuable as people do eventually cancel. At the end of the day a new subscriber for a subscription box is still a “conversion” with a somewhat known value to it, so in that sense it does not differ from a one-off ecommerce site. However it can mean that one customer is MORE valuable for a subscription box company. That means that if you are advertising using Google ads for instance, a subscription box can afford to outbid the traditional online retailer, as each customer has a higher lifetime value (LTV).
 
-### How to find out how much revenue other sub boxes are generating?
+### How much money can you make?
 
-#### Find overshareres
+The range is huge. Anything between bundles of money lost, building a nice lifestyle business all the way up to multimillion dollar exits.
 
-Candy Japan currently has about 1000 subscribers. The monthly subscription cost is $25.00, of which roughly $5 is left after all the expenses as profit, meaning if everything goes smoothly (often it does not) I can receive an income of around $5000/month from running this box. Most box companies keep their sales numbers secret. There are good reasons for this. Being too vocal could cause trouble, as it can make you a target for scams and many might hesitate to share as it could be seen as arrogant. In practice this has not been a huge problem. If your numbers are even a bit attractive, it can inspire competition. 
+The jackpot is making millions when your box really takes off, riding off to the sunset on your own unicorn. Three example startups that have found the pot of gold at the end of the rainbow are Birchbox, Ipsy and Joliebox. All of these are in the beauty space.
 
-Some boxes such as our box [Candy Japan](http://www.candyjapan.com/blog) and Rohan Gilkes' box [Wet Shave Club](https://www.reddit.com/r/Entrepreneur/comments/2h1mlt/the_inner_workings_of_a_subscription_box_company/) share their numbers likely partly because it acts as a form of marketing in itself. In my case the other reason is that I like to help and have a hopeless tendency to overshare! You can find more examples of such sharing from the non-box world, such as ebook author [Sacha Greif revealing his sales numbers](http://bloggerjet.com/sacha-greif-on-earning-15000-from-selling-his-ebook/) or ... what was that, kraci.net?
+The beauty sampling box [Birchbox](http://www.birchbox.com), [has been valued at over $500 million and sports 1 million monthly paying members](http://www.usatoday.com/videos/money/business/2015/09/29/73016704/). Make-up box [Ipsy has 1.5 million subscribers each paying $10/month](http://techcrunch.com/2015/09/14/makeup-subscription-delivery-service-ipsy-raises-100m/#.ifvogw:deQE) for its monthly "glam bags". Joliebox was similar to Birchbox except being based in Europe, [until Birchbox outright bought them](http://www.forbes.com/sites/meghancasserly/2012/09/13/birchbox-goes-global-acquires-paris-based-copycat-joliebox/). While the purchase price isn't public, it is likely a nice multiple of the $12 million that was invested in the company.
 
-#### Find sites for sale
+For many successful boxes a large part of their sales comes from selling individual items in a more traditional online store, with the subscription box acting as a way to introduce members to these new items. [For the South Korean beauty box Memebox, over 70 percent of revenue comes from straight-up online retail. The company makes US$1.3 million in sales a month](https://www.techinasia.com/beauty-boxes-great-ecommerce-fad-asia-unraveled/).
 
-Sometimes you can get a glimpse at revenue numbers by finding sites which the owner is attempting to sell. You can find such sites on auction sites such as Flippa. You can get a lot of ideas about what kind of revenues different sites have by browsing Flippa's "established sites" and filtering to only those which have posted verified Google Analytics screenshots. The sites for sale are mostly not subscription boxes, but occassionally you can find some box companies for sale as well. For instance the snack box [PaleoLifeBox.com](https://flippa.com/5545303-snack-of-the-month-subscription-box-club-hitting-5k-mrr-consistent-growth) has been on sale on Flippa and reported revenues of ~$4000/month. Another one for sale was an anime good box [FaniPack](http://flippingethics.com/2015/05-16/fanipack-com-being-sold-by-jvan6-on-flippa.html) (which I bought) with reported revenues of $2500/month.
+There are bound to be many horror stories as well.
 
-#### Be rude
+Want to find some more real-life examples? Here are some additional ways to get insight into how much money other subscription boxes are making.
 
-Another somewhat underhanded way of getting this information is to email a site owner directly and ask if they would be interested in selling their site and in the process finding out the sales numbers. It is rather unrespectful of peoples' time (and possibly unethical) if you have no real intention to buy the site in question, but it can work as I have been on the receiving end, responding to such requests myself. 
+#### Find oversharers
 
-#### Look at search stats %%%
+Our box Candy Japan currently has about 1000 subscribers. The monthly subscription cost is $25.00, of which roughly $5 is left after all the expenses as profit, meaning. When everything goes smoothly (often it does not) I can receive an income of around $5000/month from running this box. Most box companies keep these sales numbers secret, for good reasons. Being too vocal could cause trouble, as it can make you a target for scams and can be seen as distasteful / arrogant. If your numbers are even a bit attractive, it can inspire competition. While in practice this has not been a huge problem for us, these are good valid reasons that most businesses keep silent.
+
+Some boxes such as our box [Candy Japan](http://www.candyjapan.com/blog) and Rohan Gilkes' box [Wet Shave Club](https://www.reddit.com/r/Entrepreneur/comments/2h1mlt/the_inner_workings_of_a_subscription_box_company/) share their numbers likely partly because it acts as a form of marketing in itself. In my case the other reason is that I like to help and have a hopeless tendency to overshare!
+
+Another example is the beef jerky box [SumoJerky](http://www.sumojerky.com/). [In a Reddit post](https://www.reddit.com/r/Entrepreneur/comments/3mdcwj/for_anyone_who_wants_to_see_the_inner_numbers/) the founder shared that their yearly sales were $159,000 and profit was $35,000. 
+
+You can find even more examples of such income report sharing from the non-box world, such as ebook author [Sacha Greif revealing his sales numbers](http://bloggerjet.com/sacha-greif-on-earning-15000-from-selling-his-ebook/) or [KreCi with his Android app sales reports](http://www.kreci.net/reports/developer-income-report-8/).
+
+#### Find box businesses for sale
+
+Sometimes you can get a glimpse at revenue numbers by finding sites which the owner is attempting to sell. You can find such sites on auction sites such as Flippa. You can get a lot of ideas about what kind of revenues different sites have by browsing Flippa's "established sites" and filtering to only those which have posted verified Google Analytics screenshots. Besides getting a peek at their financials, you might even find buying such a box a good starting point for your own business. If you have some money to invest, you could continue from an established subscriber base instead of starting from scratch.
+
+The sites for sale on Flippa are mostly not subscription boxes, but occassionally you can find some box companies as well. For instance the snack box [PaleoLifeBox.com](https://flippa.com/5545303-snack-of-the-month-subscription-box-club-hitting-5k-mrr-consistent-growth) has been on sale on Flippa and reported revenues of ~$4000/month. Another one for sale was an anime good box [FaniPack](http://flippingethics.com/2015/05-16/fanipack-com-being-sold-by-jvan6-on-flippa.html) (which I bought) with reported revenues of $2500/month.
+
+If you are truly interested in purchasing an existing box business, you don't necessarily have to limit your search to only those listed on online auction sites. If there is a box you feel is within your budget to acquire, you can email the owner directly to express your interest. However if you have no real intention of buying the site in question, you should not be rude and pretend to be interested just to spy on their sales numbers. It is rather disrespectful of peoples' time and unethical (it can work though, as I have been on the receiving end of such requests and did share my stats).
+
+#### Look at search stats 
+
+Here's an interesting hack to roughly see how popular a box is. To save some money, many customers search for box discount coupons before making a subscribing. Therefore if you could know how many such coupon searches are taking place, you could very roughly estimate how many new subscribers are joining each month. Turns out you can, using the Google AdWords online advertising program's feature called [Keyword Planner](https://adwords.google.com/keywordplanner).
+
+![Monthly searches for BirchBox promo code](images/birchbox_promo_code.png)
+
+As an example take BirchBox, the very popular beauty product sampling box. In the screenshot above you can see that around 50,000 people each month are searching for their coupons. Actually the term "promo code" seems to be the most common one, although "discount code" also makes an appearance. That means that as the lower bound they are getting at least that many new subscribers each month, probably a large multiple of that as not everyone will search for a promo code before subscribing. Again, this is just a quick hack to see a rough number and by no means a surefire method.
 
 ### Easier to predict needed inventory
 
