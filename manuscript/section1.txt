@@ -1,12 +1,18 @@
 # Why start a monthly subscription box?
 
-As you probably know full well having bought this book, a subscription box retail service is a business model where customers pay a monthly fee to receive a box of products delivered to them directly on a recurring basis. The product could be anything from makeup, groceries to clothing.
+As you probably know full well having bought this book, a subscription box retail service is a business model where customers pay a monthly fee to receive a box of products delivered to them on a recurring basis. The product could be anything from makeup, snacks to clothing.
 
-We started our subscription box [Candy Japan](http://www.candyjapan.com) back in 2011 and it has since reached 1000 paying subscribers. Our concept is sending random assortments of Japanese candies to subscribers twice each month. I decided to treat the service more as a "business experiment" where I would [blog](http://www.candyjapan.com/blog)) about all aspects of running the box, skipping the usual secrecy.
+We started our subscription box [Candy Japan](http://www.candyjapan.com) back in 2011 and it has since reached 1000 paying subscribers. Our concept is to send curated assortments of Japanese candies to subscribers twice a month. 
 
-This book attempts to cover everything I have learned about running and growing a subscription box business over the years. In addition I have researched some completely new topics that I thought would be useful to include for you in starting your own box. I hope the information here will help you achieve success. 
+![Candy Japan](images/candyjapanshare.png)
+
+I decided to treat the candy service more as a "business experiment" where I would [blog](http://www.candyjapan.com/blog)) about all aspects of running the box, skipping the usual secrecy.
+
+This book attempts expand upon that, covering everything I have learned about running and growing a subscription box business over the years. In addition I have researched some completely new topics that I thought would be useful to include for you in starting your own box.
 
 If you still have unanswered questions, feel free to contact me@bemmu.com. I would love to hear about how you are getting your subscription business off the ground.
+
+I hope the information here will help you achieve success. 
 
 ## Advantages of the subscription model
 
@@ -38,7 +44,7 @@ You can even arrange things so that if you have items left over from the previou
 
 As the founder of [Carnivore Club](https://www.carnivoreclub.co) said in a [Financial Post interview](http://business.financialpost.com/entrepreneur/fp-startups/need-recurring-revenue-think-subscription-boxes), *"From a business perspective, it’s the most efficient, flexible and easy to operate business model in ecommerce"*.
 
-### Example box: Panty by Post
+### Another example box: Panty by Post
 
 Need a jolt more inspiration for starting your own box? Here is Natalie Grunberg on how her monthly lingerie club [PantybyPost.com](http://www.pantybypost.com) got started.
 
@@ -85,7 +91,13 @@ You can find even more examples of such income report sharing from the non-box w
 
 ### Find box businesses for sale
 
-Sometimes you can get a glimpse at revenue numbers by finding sites which the owner is attempting to sell. You can find such sites on auction sites such as Flippa. You can get a lot of ideas about what kind of revenues different sites have by browsing Flippa's "established sites" and filtering to only those which have posted verified Google Analytics screenshots. Besides getting a peek at their financials, you might even find buying such a box a good starting point for your own business. If you have some money to invest, you could continue from an established subscriber base instead of starting from scratch.
+Sometimes you can get a glimpse at revenue numbers by finding sites which the owner is attempting to sell. You can find such sites on auction sites such as Flippa. 
+
+You can get a lot of ideas about what kind of revenues different sites have by browsing Flippa's "established sites" and filtering to only those which have posted verified Google Analytics screenshots. 
+
+Besides getting a peek at their financials, you might even find buying such a box a good starting point for your own business. If you have some money to invest, you could continue from an established subscriber base instead of starting from scratch.
+
+![Paleo Life Box sold on Flippa for $13,000](images/flippa_paleo.png)
 
 The sites for sale on Flippa are mostly not subscription boxes, but occassionally you can find some box companies as well. For instance the snack box [PaleoLifeBox.com](https://flippa.com/5545303-snack-of-the-month-subscription-box-club-hitting-5k-mrr-consistent-growth) has been on sale on Flippa and reported revenues of ~$4000/month. Another one for sale was an anime good box [FaniPack](http://flippingethics.com/2015/05-16/fanipack-com-being-sold-by-jvan6-on-flippa.html) (which I bought) with reported revenues of $2500/month.
 
@@ -93,11 +105,17 @@ If you are truly interested in purchasing an existing box business, you don't ne
 
 ### Look at search stats 
 
-Here's an interesting hack to roughly see how popular a box is. To save some money, many customers search for box discount coupons before making a subscribing. Therefore if you could know how many such coupon searches are taking place, you could very roughly estimate how many new subscribers are joining each month. Turns out you can, using the Google AdWords online advertising program's feature called [Keyword Planner](https://adwords.google.com/keywordplanner).
+Here's a small trick to roughly see how popular an established box is. This will only work for businesses that have thousands of new subscribers each month.
+
+The idea is that to save some money, many customers search for box discount coupons before making a subscribing. Therefore if you could know how many such coupon searches are taking place, you could very roughly estimate how many new subscribers are joining each month. Turns out you can, using the Google AdWords online advertising program's feature called [Keyword Planner](https://adwords.google.com/keywordplanner).
 
 ![Monthly searches for BirchBox promo code](images/birchbox_promo_code.png)
 
-As an example take BirchBox, the very popular beauty product sampling box. In the screenshot above you can see that around 50,000 people each month are searching for their coupons. Actually the term "promo code" seems to be the most common one, although "discount code" also makes an appearance. That means that as the lower bound they are getting at least that many new subscribers each month, probably a large multiple of that as not everyone will search for a promo code before subscribing. Again, this is just a quick hack to see a rough number and by no means a surefire method.
+As an example take BirchBox, the very popular beauty product sampling box. In the screenshot above you can see that around 50,000 people each month are searching for their coupons. Actually the term "promo code" seems to be the most common one, although "discount code" also makes an appearance. 
+
+That means that as a lower bound, they are getting at least 50,000 new subscribers each month. The reality is probably even better for them, a large multiple of that. Not everyone will search for a promo code before subscribing, making the search numbers lower than reality. 
+
+Again, this is just a quick hack to see a rough number and by no means a surefire method. It still serves an interesting signal that a box may be onto something if the business is otherwise flying under the radar but has impressive numbers showing up in the keyword tool.
 
 ## What should you send?
 
