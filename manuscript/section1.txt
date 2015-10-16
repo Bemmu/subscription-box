@@ -54,7 +54,9 @@ As the founder of [Carnivore Club](https://www.carnivoreclub.co) said in a [Fina
 
 ### Another example box: Panty by Post
 
-Need a jolt more inspiration for starting your own box? Here is Natalie Grunberg on how her monthly lingerie club [PantybyPost.com](http://www.pantybypost.com) got started.
+Need a jolt more inspiration for starting your own box? Here is my interview with Natalie Grunberg, the founder of the monthly lingerie club [PantybyPost.com](http://www.pantybypost.com).
+
+![Panty by Post](images/pant.png)
 
 > I run the successful subscription commerce enterprise [PantybyPost.com](http://www.pantybypost.com). We ship a pretty French panty every month in the mail worldwide. We have partners in Paris and an office in Moscow. How do we do it? I will reveal a few of my secrets but please keep in mind, there is no recipe to success other than a good idea mixed with stubborn, unforgiving hard work. If you are prepared to take your idea and mix it with your blood and sweat, then you may have a chance at shipping thousands of your own products all over the world too. 
 >
@@ -95,7 +97,7 @@ Candy Japan is by no means a hugely successful box and many can achieve similar 
 
 Some boxes such as our box [Candy Japan](http://www.candyjapan.com/blog) and Rohan Gilkes' box [Wet Shave Club](https://www.reddit.com/r/Entrepreneur/comments/2h1mlt/the_inner_workings_of_a_subscription_box_company/) share their numbers likely partly because it acts as a form of marketing in itself. In my case the other reason is that I like to help and have a hopeless tendency to overshare! Most keep their financials secret, as reporting even moderately attractive results can spawn competition.
 
-![SumoJerky is a jerky of the month club](images/sumojerky.jpg)
+![SumoJerky shipped $159k worth of beef snacks](images/sumojerky.jpg)
 
 Another example is the beef jerky box [SumoJerky](http://www.sumojerky.com/). [In a Reddit post](https://www.reddit.com/r/Entrepreneur/comments/3mdcwj/for_anyone_who_wants_to_see_the_inner_numbers/) the founder shared that their yearly sales were $159,000 and profit was $35,000. 
 
@@ -140,6 +142,41 @@ I have attempted to run other boxes besides Candy Japan too. I started a station
 Similarly for your own box you might consider your own interests a bit. If you are starting from nothing by yourself with no existing customer base or budget for a huge marketing campaign, in the first months you will have to be willing to curate and send boxes to only a handful of customers. 
 
 Can you stay motivated? To survive this phase it might be helpful to choose a topic you are actually interested in. If your box business starts growing rapidly then the booming revenues will probably be motivation enough, but there may be times when your number of customers stays flat and you still somehow have to keep going. 
+
+#### How I ended up starting Candy Japan
+
+> As a teenager I had read about this thing called the “Internet”. I set up a dial-up connection and started exploring. I had Windows 3.11 which didn’t even come with proper networking support built in, but thankfully there was another piece of software called Trumpet Winsock, which enabled me to get online. 
+>
+> And that’s how I got into subscription boxes. 
+>
+> No, maybe I’m skipping ahead a bit.
+>
+> I started exploring. One of the more curious things I encountered on my online adventures was a place called Japan. Their music, comic books and language was just fascinating. I wanted to see more of Japanese animation, but at this time it still took an hour to download just a few images and full video was just out of the question. YouTube wouldn’t exist for another 10 years.
+> 
+> I talked with someone from Germany online, who had somehow managed to get tapes of an animation called Ranma ½ on VHS tapes. I suppose the Internet was a bit more close-knit place then when not everyone was online yet, so he graciously agreed to send these tapes to me, free of charge.
+>
+> This only deepened my interest. I went on a search to find any more animation, no matter how bad the quality. I started getting more and more curious about whether the language would be learnable. Thankfully with the Internet now available to me, I was able to find an image of the Japanese hiragana alphabet and started learning it.
+>
+> I hit a wall when I realized that I would never be able to make any real progress with the language with just an image of the alphabet, so I gave up on the idea of learning the language for a while and concentrated more on my other interest: computer programming. These two things would later collide.
+>
+> Years later during my undergraduate studies I finally had access to real Japanese classes and was able to resume. Actually a big part of even enrolling was that I would be able to take these classes freely (and no longer by secretly sneaking into the classroom). Our university even had an exchange program with Japan, which I naturally applied to. I had a choice of two schools, one of which was in Tokyo. That was the city I had been long dreaming of living in one day. I ecstatically accepted.
+>
+> Now because of this program, there were Japanese students coming from the partner university to our school as well. Of course I wanted to meet these students and I made several Japanese friends who patiently taught more things about Japan and helpfully corrected my broken Japanese. 
+>
+> Finally the exchange study started! It was a really exciting period in my life. The university campus is gorgeous and we had 5 hours of nothing but Japanese lessons every day. Every morning would start with a test of Japanese characters. After that we had lessons on speaking, reading and writing. Speaking lessons would be debates with other students on various topics. Reading was about going through a chosen text, dissecting one sentence at a time. Writing had us come up with essays, which we wrote in Japanese characters by hand on genkō yōshi sheets. 
+>
+> After two years of this I got to perhaps an intermediate level, still a long way from understanding as much as I had hoped for. Eventually one of the students I met already back at my home university would end up becoming my wife.
+>
+> Returning with her from the exchange, I read the book “Hackers and Painters” by Paul Graham. In this book he describes how besides having a normal job, there is another path, doing your own startup. While I did not end up starting the kind of high-growth startup as the book advocates, the idea of doing something online and earning enough money to live that way stuck with me. 
+>
+> Trialing this out with various small online projects that still managed to make more money than my job, I started believing that this is something that really is possible to do. The major difference from a job is that there are no guarantees and no-one to tell you what to do. This makes things more exciting, but also more terrifying when things seem to be going wrong. Perhaps this is why the venture backed route didn’t really interest me as much. 
+>
+> Another concept I learned during this time was “bootstrapping”, which means using existing resources to grow your business. Instead of borrowing money to get started or taking venture funding, you try to make even just a tiny bit of profit and then reinvest it. This way at worst I would be wasting my time on an interesting activity.
+>
+> After completing my degree, I started missing Japan. I wrapped up the projects I was then involved in and we headed back. My wife applied for a job in Japan and as is the local way, they can assign you to any office in any city they think you are suitable for. She got assigned to Tokushima, a small city 8 hours drive away from Tokyo, and since I had no location preference we moved here and have been living happily ever after :-)
+With no job and little income after ending my previous projects, I started thinking of something else I could do. That’s how I decided to start a subscription box, as they are called now. 
+>
+> Back then the box boom had not started yet, so in my mind it was more of a “random souvenir from Asia periodically”. I was initially thinking of traveling to various countries to send local goods from each, but soon realized I was plenty comfy staying mostly in Japan, so it gradually morphed into “random Candy from Japan twice a month”. 
 
 ### Choose a topic for which customers are easy to reach
 
