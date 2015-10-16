@@ -10,7 +10,7 @@ I decided to treat the candy service more as a "business experiment" where I wou
 
 This book attempts expand upon that, covering everything I have learned about running and growing a subscription box business over the years. In addition I have researched some completely new topics that I thought would be useful to include for you in starting your own box.
 
-If you still have unanswered questions, feel free to contact me@bemmu.com. I would love to hear about how you are getting your subscription business off the ground.
+If there is anything I can help you with, feel free to contact me@bemmu.com. I would love to hear about how you are getting your subscription business off the ground.
 
 I hope the information here will help you achieve success. 
 
@@ -20,21 +20,25 @@ I hope the information here will help you achieve success.
 
 Most people enjoy surprise gifts. A subscription box is not only a fun gift for someone else, but can be a way to "surprise your future self" by placing an order, forgetting about it for a while and later on be delighted when an unexpected box with a variety of goodies inside arrives. It's like Christmas every month. 
 
-It can be a good shopping experience for trying a variety of goods without needing to consciously make product selections. When presented with too many choices, [some customers may be overwhelmed and end up purchasing less](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en). 
+It can be a good shopping experience for trying a variety of goods without needing to consciously make product selections. When presented with too many choices, [some customers may be overwhelmed and end up purchasing less](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en). Subscription boxes combat this by curating the selection for the customer.
 
-A subscription box can provide a sense of community not present in with a traditional e-commerce store. While in an online store customers are isolated when completing their own personal purchases, subscription commerce is more like a club when many people are receiving the same boxes. Discussion and social media sharing over the box and its contents can take place.
+Additionally a subscription box can provide a sense of community not present in with a traditional e-commerce store. While in an online store customers are isolated when completing their own personal purchases, subscription commerce is more like a club when many people are receiving the same boxes. Discussion and social media sharing over the box and its contents can take place.
 
-### Affordable to get started for the entrepreneur
+### Low start-up costs
 
 Unlike starting a restaurant franchise or other business where you have to make large investments from the get-go before you even know if you will have any customers, for a subscription box you get to send out the product AFTER you already know you can sell it.
 
 Besides voluntary costs such as site design, there really aren't any big initial investments to make for a subscription box. Even commissioning fancy custom boxes you can put off until after you have built a customer base to justify placing larger orders for packaging materials.
 
+If you have any existing audience, you don't even necessarily have to set up a website. You can handle your first subscriptions manually and collect payments through PayPal email subscription links, even with no fancy membership system in place. This way you can skip even the initial web set-up costs such as ecommerce system fees, logos, illustrations and so on. For Candy Japan it all started with just an email to a few existing customers to see if they would also be interested in receiving candy monthly.
+
 ### Higher customer value than traditional e-commerce
 
-Unlike an online shop focusing on one-time sales, a subscription box is attractive because customers agree to pay again and again for each box. Customers’ credit cards are charged automatically unless they explicitly terminate their subscription. This is the opposite way compared to typical e-commerce, where no further purchase is assumed unless the customer returns to the website to make another purchase. In a subscription box the default is multiple sales, with the immediate ending of the relationship a sad less likely occurrence.
+Unlike an online shop focusing on one-time sales, a subscription box is attractive because customers agree to pay again and again for each box. Customers’ credit cards are charged automatically unless they explicitly terminate their subscription. This is the opposite way compared to typical e-commerce, where no further purchase is assumed unless the customer explicitly returns to the website to shop more. 
 
-This doesn’t mean that each customer is infinitely valuable as people do eventually cancel. At the end of the day a new subscriber for a subscription box is still a “conversion” with a somewhat known value to it, so in that sense it does not differ from a one-off ecommerce site. However it can mean that one customer is MORE valuable for a subscription box company. That means that if you are advertising using Google ads for instance, a subscription box can afford to outbid the traditional online retailer, as each customer has a higher lifetime value (LTV).
+This doesn’t mean that each customer is infinitely valuable as people do eventually cancel. Still in a monthly box the default is multiple sales, with the immediate ending of the subscription a less likely occurrence. Your best customers can stay on for years. Many who subscribed to our box 4 years ago are still continuing each month even today.
+
+At the end of the day a new subscriber for a subscription box is still a “conversion” with a somewhat known value to it, so in that sense it does not differ from a one-off ecommerce site. However it can mean that one customer is MORE valuable for a subscription box company. That means that if you are advertising using Google ads for instance, a subscription box can afford to outbid the traditional online retailer, as each customer has a higher lifetime value (LTV).
 
 ### Easier to predict needed inventory
 
