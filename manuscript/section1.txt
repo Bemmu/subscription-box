@@ -308,6 +308,8 @@ A non-generic name can have other benefits as well. If you have an animal name o
 
 Another great example of a name with benefits is [MailChimp](http://www.mailchimp.com/), an email marketing service provider which uses a chimp as their mascot. This might give you an idea: use your desired noun + some branding word as your name. Have your desired term in there along with an interesting prefix or suffix. You can put these ideas through [Instant Domain Search](http://instantdomainsearch.com) to try them quickly, but there is an even faster way. There are services where you can enter lists of words to try as prefixes and suffixes and it tells you which ones are available. Some even have those lists built in. 
 
+![MailChimp mascot "Freddie"](images/mailchimp_freddie.png)
+
 The best one I have found is called [Lean Domain Search](http://www.leandomainsearch.com/). Suppose for example that you are thinking of starting a snack-related subscription box. As there are already dozens of snack boxes and many domain speculators out there, you will find that almost any good name is already taken. Entering the word "snack" into Lean Domain Search, you'll find that actually some good combinations of popular word beginnings or endings added to "snack" are still available! It doesn't suggest cute animal suffixes, but can find for example that "SnackGlobal.com", "SnackGate.com", "EpicSnack.com", "ViaSnack.com" and "SnackBoss.com" among many others are still out there for grabs.
 
 ![Lean Domain Search](images/leandomain.png)
