@@ -204,7 +204,7 @@ Only if you started custom building a completely new system by hiring programmer
 
 One reason I don't own an obscure smartphone is that any apps I would want to use would quite likely not be available for it. I would rather have a more popular device such as Android or an iPhone, so that I can have access to all the cool and useful apps out there. As phones have their own app ecosystems, likely the same will emerge for subscription e-commerce platforms as well. This is not a big consideration at the moment, but going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you in the future.
 
-# CrateJoy
+## CrateJoy
 
 Founded is an Austin, Texas based subscription e-commerce company founded by Amir Elaguizy. He [estimates that out of the 10,000+ subscription boxes on the market 4,000 use Cratejoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is an excellent resource for monthly box entrepreneurs. Actually, you should probably be reading that site instead of this book if you have decided to go with CrateJoy and are looking to really jump into the setup.
 
@@ -218,7 +218,7 @@ Compared with our own system, CrateJoy provides quite a natural interface for ma
 
 In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. The joy of browsing all the configuration options in a beautifully crafted interface is palpable after using a quickly mashed up home-grown system for years. While having a detailed CrateJoy set-up guide might be a good addition to this book, it could never be as up to date and authoritative as [their own tutorials](http://subscriptionschool.com/), so I suggest going directly to the source to learn more about CrateJoy if you are interested in choosing them.
 
-## Templates / editor
+### Templates / editor
 
 CrateJoy has a "design store" where you can purchase site templates for use in your subscription box site. After you purchase and install a template, you can edit the text and images to your liking via a visual editor, called the "designer". If needed, even images can be edited directly on CrateJoy, as they integrate the browser-based Aviary image editor.
 
@@ -228,7 +228,7 @@ HTML/CSS can also be freely edited using the built-in code editor, or by accessi
 
 ![Editing a CrateJoy template code online](images/cratejoy_code.png)
 
-## Supported payment gateways
+### Supported payment gateways
 
 The default gateway offered on CrateJoy is Stripe and you are highly encouraged to use it. While it is unlikely to be a coincidence that both Stripe and CrateJoy are backed by the same startup accelerator, Stripe also genuinely seems like a very good choice for accepting payments. 
 
@@ -238,7 +238,7 @@ While Stripe payments can be accepted from any country, you as the merchant must
 
 One of the best things about Stripe is that if your potential customer has already bought something from another site using the Stripe gateway, they can prefill their credit card details. This means that to order the customer won't have to refill their CC number, but it can be a matter of just clicking "OK". This is fantastic, as the less friction you have in your checkout flow the better in terms of your conversion rate from visitor to customer.
 
-## Managing shipments
+### Managing shipments
 
 Through the CrateJoy interface you are able to see what you are supposed to ship in the current time period and any confirmed orders you have for future months. You can have confirmed future orders, because in addition to month-to-month payments, through CrateJoy it is easy to also accept pre-payments for several months in advance. 
 
@@ -250,7 +250,7 @@ If you happen to have a need to prepare and/or send shipments to active subscrib
 
 An interesting feature is that you can print labels *including postage* directly from the app. Instead of affixing stamps to your boxes yourself or have the post office measure and stamp them, proof of stamp payment is printed out as QR codes on the label. That means you can neatly have just one label for the recipient and sender addresses with postage included in it as well.
 
-## Pricing
+### Pricing
 
 At the time of writing CrateJoy charged $39.00 / month and additionally 1.25% + $0.10 for each transaction. 
 
@@ -258,11 +258,11 @@ If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs
 
 This does not include payment gateway fees. For example if Stripe is your gateway, then in the example case they would additionally charge you $114.10 (that's 2.9% + $0.30 per transaction).
 
-## Apps
+### Apps
 
-At the time of writing CrateJoy had an app store with 9 apps in it. As the service is growing rapidly, the growth of the app store looks promising. Most of the apps are free, with only adding a referral program through the appropriately named "Referral Program" app costing an additional $99/month to use.
+At the moment CrateJoy had an app store with 9 apps in it. As the service is growing rapidly, the growth of the app store looks promising. Most of the apps are free, with only adding a referral program through the appropriately named "Referral Program" app costing an additional $99/month to use.
 
-# Subbly
+## Subbly
 
 Subbly is a subscription e-commerce platform founded by Stefan Pretty. It is designed to help make starting a subscription business as painless as possible.
 
@@ -270,7 +270,7 @@ As [Subbly's blog puts it](http://www.subbly.co/blog/what-is-subbly-5-things-you
 
 Subbly team prides themselves on great support, including personal help to grow your business. When I set up my own Subbly test site I was even offered a free consultation session with the founder, although that might be a time-limited offer.
 
-## Templates / editor
+### Templates / editor
 
 At the time of writing there were two templates to choose from, both free. Subbly can also design your site template for you. The cost for this design service starts at $2500.
 
@@ -282,17 +282,17 @@ You cannot edit texts by just clicking on them, but you can see the editable tex
 
 ![What I achieved in 15 minutes with Subbly](images/subbly_editor2.png)
 
-## Supported payment gateways
+### Supported payment gateways
 
 At the time of writing Subbly only supported Stripe, although that is what CrateJoy is also strongly pushing merchants to use.
 
-## Managing shipments
+### Managing shipments
 
 When scheduling shipments you can select billing intervals and delivery intervals (weekly, monthly, every 3 months, annually or bi-annually), but cannot freely choose a cut-off date to lock your shipping list in preparation for a shipment. 
 
 ![Shipment preparation screen](images/subbly_dispatch.png)
 
-## Pricing
+### Pricing
 
 Subbly is tiered based on subscriber count. Up to 10 subscribers for $24/month, 100 for $49/month, 300 for $99/month, 1000 for $199/month. There are no transaction fees.
 
@@ -300,7 +300,7 @@ In most cases that is significantly cheaper than CrateJoy. Here is a comparison 
 
 ![CrateJoy vs. Subbly pricing](images/pricing.png)
 
-## Apps
+### Apps
 
 Subbly has no third-party app directory, but has ShipStation integration. ShipStation is a web-based software for handling shipments, through which you can integrate with USPS, UPS, FedEx and DHL. It is ideal when you are selling goods through multiple channels, for example if you have an online store selling the same products that your subscription box site is selling, you can use ShipStation to have just one shipment flow. It also helps you print labels.
 
