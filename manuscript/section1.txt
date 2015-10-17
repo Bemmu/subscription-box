@@ -143,6 +143,8 @@ Similarly for your own box you might consider your own interests a bit. If you a
 
 Can you stay motivated? To survive this phase it might be helpful to choose a topic you are actually interested in. If your box business starts growing rapidly then the booming revenues will probably be motivation enough, but there may be times when your number of customers stays flat and you still somehow have to keep going. 
 
+Just in case you are interested how I ended up living in Japan and doing a box like this, below is an unnecessary detailed account of what happened in my life up to that point. Feel free to skip!
+
 #### How I ended up starting Candy Japan
 
 > As a teenager I had read about this thing called the “Internet”. I set up a dial-up connection and started exploring. I had Windows 3.11 which didn’t even come with proper networking support built in, but thankfully there was another piece of software called Trumpet Winsock, which enabled me to get online. 
