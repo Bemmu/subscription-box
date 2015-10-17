@@ -1,6 +1,8 @@
 # Setting up your website
 
-For our box Candy Japan we built our own system from scratch (built with Python on Google App Engine, PayPal, Recurly and WireCard). If you are sending monthly boxes like most other subscription box companies, there is no longer any reason to build your own system. I strongly recommend using one of the many existing subscription e-commerce platforms if at all possible. Had I been able to use a readymade system, months of development time could have been saved. Don't build your own if you can avoid it!
+For our box Candy Japan we built our own system from scratch. If you are sending monthly boxes in a similar way to most other subscription box companies, there is no longer any reason to build your own custom system. I strongly recommend using one of the many existing subscription e-commerce platforms if at all possible. 
+
+Had I been able to use a ready-made system, months of fiddling with Python, Google App Engine, PayPal API, Recurly and WireCard could have been saved. Thankfully you will no longer need to know about any of that. Don't build your own if you can avoid it! 
 
 ## Starting with a launch page
 
