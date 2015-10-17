@@ -210,11 +210,13 @@ Some items can be more difficult to send without damage. For instance chocolate 
 
 While choosing the right type of items to send is important, it's not by any means the only factor determining the success of your box. To give an example I really recommmend reading the [story of Wet Shave Club](https://www.reddit.com/r/Entrepreneur/comments/2h1mlt/the_inner_workings_of_a_subscription_box_company/). The site was already established, but after an ownership change and a lot of rebranding it really took off. Site owner [Rohan Gilkes]() has posted [another very detailed guide](https://www.reddit.com/r/EntrepreneurRideAlong/comments/tltuy/day_26_from_zero_to_website_launcha_recap_of/) from launching his other business as well. I strongly suggest reading the guide, as most of the content applies to any online business.
 
-As further evidence of how choosing the right items isn't everything, our box [Candy Japan](http://www.candyjapan.com) is not the only subscription box selling Japanese candies. There are plenty of others in the space, such as [Japan Crate](http://www.japancrate.com), who despite having started their boxes much later and sending the same items, have reached higher subscriber numbers through better execution. As you can see, the type of items you choose to send does not have to be unique. Success lies more in other details.
+As further evidence of how choosing the right items isn't everything, our box [Candy Japan](http://www.candyjapan.com) is not the only subscription box selling Japanese candies. There are plenty of others in the space, such as [Japan Crate](http://www.japancrate.com), who despite having started their boxes much later and sending the same items, have reached higher subscriber numbers through better execution. As you can see, the type of items you choose to send does not have to be unique. Success lies more in the details.
 
 ## Buying the perfect domain name
 
-Did you come up with an idea for what to send? You might want to continue brainstorming by checking if any good names for such a box are available. For Candy Japan we got really lucky that the most obvious name for a Japanese candy box happened to still be up for grabs.
+Did you come up with an idea for what to send? You might want to continue brainstorming by checking if any good domain names for such a box are available. 
+
+For Candy Japan we got really lucky that the most obvious name (candyjapan.com) for a Japanese candy box happened to still be up for grabs.
 
 I wouldn’t necessarily recommend spending too much time thinking of a good name to start with, because once you've done enough other work, it will be easier to come up with the name. For instance if you have spent days thinking about all the different aspects of your subscription site, planning up a prototype box, thought about what kind of customers you would attempt to attract and many other details, thinking up a good name for your box will come more naturally. 
 
@@ -310,3 +312,4 @@ The best one I have found is called [Lean Domain Search](http://www.leandomainse
 
 I hope some of these tips helped you find a great domain name for your subscription box, or convinced you to stop obsessing about it until later! It's perfectly fine to keep going despite not yet deciding on a domain name for your subscription box yet, maybe even better as it can be a bit of a distraction to focus all your attention on the name.
 
+Now if you have an idea for your box and possibly even a domain name, let's continue by looking at some options for setting up your website.
