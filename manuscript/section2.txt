@@ -1,1 +1,307 @@
 # Setting up your website
+
+For our box Candy Japan we built our own system from scratch (built with Python on Google App Engine, PayPal, Recurly and WireCard). If you are sending monthly boxes like most other subscription box companies, there is no longer any reason to build your own system. I strongly recommend using one of the many existing subscription e-commerce platforms if at all possible. Had I been able to use a readymade system, months of development time could have been saved. Don't build your own if you can avoid it!
+
+## Starting with a launch page
+
+You have your domain name ready to go and you are full of enthusiasm to get a site up quickly. Yet you are not feeling quite ready to set up your ecommerce system. What would be an easy next step instead? 
+
+One simple way to get started is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and to provide a form where interested visitors can enter their email addresses to be notified when you are ready to launch your actual site.
+
+With a launch page you can begin to gather an audience as early as possible. Google might also favor older sites slightly more when ranking search results, so having your site up earlier might not hurt there either (although it probably won't make a huge difference). 
+
+### How to set up your LaunchRock page
+
+![LaunchRock landing page](images/launchrock.png)
+
+A service called LaunchRock enables you to set up your launch pages easily, so you can start gathering your audience as early as possible. People can express their interest for your subscription box even before you have everything else set up. On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
+
+While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. That's still extremely cheap and I recommend going with the paid plan. You should have the custom domain (which you probably already purchased) as after all you would probably prefer building excitement for your own site rather than for LaunchRock! 
+
+If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up. However there are also other features which are not available in the free plan, such as entering custom HTML code.
+
+![Launchrock launch page editor](images/launchrock2.png)
+
+After signing up you’ll have access to a drag and drop site builder which comes with everything you need to collect email addresses from interested people visiting your site. Later on when your box is ready to accept customers, you can send an email to everyone telling them that they can now go and subscribe to your box. Not everyone will, but a certain percentage of visitors who entered their email probably will likely order. 
+
+## Idea validation
+
+First try to discover if people are even interested in what you are offering, in other words validate that your idea has legs. While LaunchRock is fine for getting a rough idea on the number of interested people and many who sign up will likely become subscribers, it's still not quite the same as actually getting paying subscribers.
+
+The trouble with testing ideas without asking for payment is that you can’t really just ask if someone is truly interested. If you ask "would you subscribe to X if it existed?”" many people will answer yes because there is no risk or downside for them to agree and they want to be nice to you. 
+
+It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk often mentions in his interviews the following piece of advice on getting product feedback: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
+
+If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to complete the subscription process online by finding their credit card and actually paying. It would be better instead to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. 
+
+This differs from having your real final site open in that it doesn't need to be much better than just your launch page. Just have *SOMETHING* up so that truly interested people can show that they are serious by actually paying. You can make it better later and convince an even higher percentage of visitors to sign up, but it would be better to have something that feels real and that can be ordered.
+
+Remember the initial site is mostly for discovering if people are truly interested in this idea, without you being around influencing them to agree to not hurt your feelings. You can still tweak pricing, your value proposition etc. later, it doesn’t have to be set in stone. For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). 
+What if you collect payments but then cannot actually deliver what you promised, or decide you don’t actually want to pursue your subscription box idea at all? While you do have paying subscribers signed up and it is sad if you must shut down, you can still cancel them and issue refunds. 
+
+I did this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
+
+While it sucks to build up excitement and then not deliver, the alternative may be wasting a ton of time building something and then finding out that no-one cares. Which is worse, spending months of your time perfecting something that falls flat on its face, or slightly disappointing a handful of early customers, who still get refunds? If you hadn't started early, those people would not even have had the chance to show their interest towards your project.
+
+So if at all possible, you want to validate your idea in as real as possible a way, and what is more real than actually having a site up that can accept payments? 
+
+## Static site with PayPal subscription buttons
+
+If you are already comfortable with setting up static websites, there is a very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
+
+**PayPal money saving tip**: If you have enough transaction volume, make sure you apply for the [merchant discounts](https://www.paypal.com/us/cgi-bin/webscr?cmd=_fees-rate-about-outside). For example if you are doing $5000 / month in transactions, you could save $250 / month with just a few clicks.
+
+![](images/paypal_discount.png)
+
+If you hire support staff, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least for EU this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
+
+### Customizing the subscription button HTML code
+
+After you have your basic button set up, there are additional options available for customizing the button by editing the HTML code, most importantly to change the page users are directed back to after completing their subscription to your own “thank you” page. You can set that one with the hidden form field “return”. See the details [here](https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/formbasics/).
+
+In order to keep track of PayPal subscriptions, you can browse your subscribers on the PayPal site and see their shipping addresses there. Their system is not at all geared for subscription boxes however and if you grow larger than 100 subscribers, it will become somewhat awkward to keep track of what you are supposed to be sending to each subscriber. For example it is very very slow to browse your subscriber list. Predicting future need for stock will be more challenging as well, as frustratingly there is no chart of subscriber growth.
+
+Even with the limitations, PayPal Payments Standard should be perfectly sufficient for testing the waters to see if people would subscribe to your box. The best thing about it is how easy it is to integrate, if you know how to copy & paste code to a static site, you can start accepting subscriptions in less than an hour.
+
+One risk with using these buttons is that it will be more difficult to switch to something else later, as not all support scanning PayPal for new payments from those simple buttons (called "PayPal Payments Standard").
+
+### Going with SquareSpace
+
+If you are not comfortable coding up your own site, one of the easiest ways to set up a static site is using an online content management system such as [SquareSpace](http://www.squarespace.com). Calling it a “content management system” makes it sound a bit scary, but really it’s just a way to easily drag, snap and pop your page layout together while adding some content to your pages.
+
+You can use ready-made templates that even by default work also on mobile as well. While you can set up your site by just dragging around widgets and typing in text using an online interface, if you are perfectionist enough to want to arrange your site with pixel-perfect accuracy, it will require editing the templates manually, but for roughly arranging images, text and buttons as you want it is enough to just drag things around using the visual interface. 
+
+As a test to try it out, I attempted to remake our current site for Candy Japan which I had initially hand-coded in HTML. In a few hours I was able to remake the main page to be somewhat like the the current design, but it was quite hard to get it exactly right. in SquareSpace, I found that some things such as arranging buttons next to each other as I wanted wasn’t easy to do precisely using the interface, but for a basic layout it should be more than sufficient. 
+
+Who knows, perhaps those limitations are even useful as they can help prevent you from making an ugly arrangement of components even if you have no eye for visual design. In particular many SquareSpace designs are a lot more whitespace-heavy than I would feel is necessary, which probably means my feeling is wrong and that SquareSpace is forcing me to do the right thing :-)
+
+### Using 99designs to have designers compete on a site design
+
+Besides hiring a designer directly or learning HTML yourself, another option is to have your site designed by starting a design competition on [99designs](http://99designs.com). Using this competition site for illustrators, each designer can submit their own work and you can pick the one you liked the most.
+
+This option requires a bit of an investment, but is still quite cheap considering the amount of total work you will be getting from several designers. The price depends on how many designers you want competing, but prices go from around $500 for 15 designs to $1500 for 35 designs. There are additional optional fees (up-sells!) for getting more promotion for your contest such as having the @99designs tweet about the contest or promote it in their newsletter. The add-ons are quite attractively packaged and you might have trouble resisting using some of these extra options.
+
+Besides whole site designs, 99designs can also be used for other work, such as logos and packaging design. For instance the cover of the book you are reading was designed through such a contest (thank you [OberonZG](https://en.99designs.jp/profiles/1273461))! The 99designs process is to first start your contest, then allow some time to pass and select your top favorite designs. From there on the top still have extra time to submit more ideas and perfect their submissions, before you finally select your favorite design. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
+
+### Leveraging your LaunchRock page
+
+Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. If you have a PayPal account, you can find the subscription buttons in the merchant tools.
+
+![Where to find the merchant tools](images/paypal_payments.png)
+
+To get the PayPal subscription button, first create a PayPal account if you don't already have one. Then go to the "Merchant Services" tab and choose "Subscriptions & Recurring Payments". You will just need to choose the name of your subscription product, the currency and monthly charging. After that you get HTML code which you can copy and paste to your static site, resulting in a subscription button. For use with LaunchRock, it may be easier to use the simple link intended for using in emails.
+
+![Setting up the PayPal button](images/paypal_payments_standard.png)
+
+Incidentally, if you already have an email list, you wouldn't even need a website at all, as you can just mail out this link along with an explanation of what your subscription box is about. That is how we started with Candy Japan. I just emailed some of the customers of my previous online store to ask if they would be interested to subscribe to a twice-monthly candy service and just included the PayPal subscription sign-up link in those emails.
+
+Since some did subscribe that way, I was encouraged to actually do the effort of setting up a proper website. On the site we used just the same PayPal subscription button for a long time. It was plenty enough to see if anyone would subscribe. Even after we added more payment options later, it did not noticeably affect the amount of subscribers we were getting, so going with just PayPal would have probably been fine as well.
+
+![Copying the subscription button link from PayPal](images/launchrock3.png)
+
+After creating your button, click on the "email" tab to get a convenient link instead of an HTML snippet. You can use this simple link on your LaunchRock page to create a subscription button. First use the editor to add a button ([here, you can use mine](http://i.imgur.com/v86Zyb6.png)), then click on it to set the link to go to the PayPal subscription page. Now you have a bare-bones working subscription site for only $5/month!
+
+![Pasting subscription link to LaunchRock](images/launchrock4.png)
+
+By the way, these simple recurring payment buttons are called “PayPal Payments Standard”. This will be important to know when looking at documentation, as PayPal also has other ways to interface with it. Make sure you are looking at Payments Standard pages, not BrainTree or Express Checkout lest you be confused. The more advanced integration methods Express Checkout requires more technical expertise to use, but allow for a more customized experience. It is only available in certain countries, while Standard Payments has better global availability.
+
+## Using a traditional e-commerce cart system
+
+Instead of just slapping a PayPal button on a static site, using a proper e-commerce cart system would let your customers manage their orders more easily without having to contact you by e-mail to view their order status. You could also browse your orders, mark them shipped and have automatic emails sent to customers. 
+
+While there are completely dedicated systems geared for subscription box sites, for completeness here are some of the more traditional cart systems which can be extended to support subscription boxes as well.
+
+### WooCommerce Subscriptions
+
+WooCommerce is an open source e-commerce plugin for the website creation tool (or CMS) called WordPress. While WooCommerce allows you to create an online store, it does not support recurring subscriptions out of the box. WooCommerce Subscriptions exists to add this support. With this combination, you could set up your own subscription box on top of WooCommerce.
+
+WooCommerce Subscriptions has a flat purchase price of $199, after which you can continue using it for free. The catch is that you have to be familiar with hosting your own website, or have someone to do it for you. That is outside the scope of this book.
+
+Another option is to use an existing WooCommerce host, which will cost roughly $15/month, depending on the kind of plan you would likely need. For example [SiteGround offers WooCommerce hosting](https://www.siteground.com/shared-hosting-features.htm).
+
+### Extending Shopify to support a subscription box
+
+Not originally geared for subscription boxes, [Shopify](http://www.shopify.com) is an ecommerce system for starting online stores. Bonus fact: Shopify was originally started as software just to run a single snowboarding shop, but has since grown to handle $8 billion worth of sales for various online stores. 
+
+Shopify can be extended by adding apps, one of which is [Chargify](https://apps.shopify.com/chargify). By combining Shopify and Chargify, you can also create a system suitable for running a subscription box. Chargify pricing is $65 for up to 20 customers, $129 for up to 500 and $459 for up to 2,000. Shopify costs $29/month and has gateway fees identical with Stripe, but with volume discounts for higher sales.
+
+Another option for Shopify is [PayWhirl](https://apps.shopify.com/paywhirl-recurring-payments), which is used for example by the subscription box [Death Wish Coffee](http://www.deathwishcoffee.com/). This app also enables you to add a subscription layer to Shopify. PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction. You can find them in the Shopify app directory or on PayWhirl’s own site.
+
+There also exists an app called [ReCharge](https://apps.shopify.com/shopify-recurring-payments), which is designed to be used both as a "subscribe & save" -type feature similar to Amazon or as the engine for subscription boxes. The [introduction video on their app page](https://www.youtube.com/watch?v=eNm1s_vU8N0) is excellent, I recommend checking it out. ReCharge is $19.99/month + 1% per transaction for up to 500 subscribers, with a negotiable discount if you have a larger customer base.
+
+With ReCharge all recurring subscriptions appear as new orders within Shopify, with special new interfaces for managing them both for you and your customer. You can change the subscriptions and update credit cards etc. through the interface which ReCharge adds to your Shopify. It also sends notification emails (welcome email, charge failed and charge succeeded) to your customers automatically. ReCharge supports monthly and other frequencies.
+
+If your subscription plan is $29/month, then at 20 subscribers PayWhirl would cost only $11.60/month compared to Chargify’s $65, so it is cheaper to start with. At this plan when having a bit under 500 subscribers it would become more expensive, but it would be quite a trivial difference. You should be choosing the system rather based on which you feel is easier to use and most of all the better user experience for your customers.
+
+### Going with PrestaShop or Magento
+
+Besides Shopify, there are many other shopping cart systems which you can extend with a subscription module. For instance you could use [PrestaShop](https://www.prestashop.com/) and extend it with the [Subscriptions Module](http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/5031-subscriptions.html) add-on.
+
+Another option is to use the open source cart system [Magento](http://magento.com/) and extend it with the [Subscriptions and Recurring Payments plugin](http://ecommerce.aheadworks.com/magento-extensions/subscriptions-and-recurring-payments.html).
+
+The advantage of using a cart system extended to support subscriptions is that those subscription plug-ins tend to be one-time costs. PrestaShop add-on for subscriptions costs 99,99 EUR, while the Magento Subscriptions and Recurring Payments extension costs $299. In the long run either will be a lot cheaper than the monthly fees many dedicated subscription platforms have.
+
+## Subscription e-commerce platforms
+
+The problem with using just the PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Customers are slow and cumbersome to find and browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. 
+
+You start dreading customer support questions merely because digging up the necessary information on PayPal will be so painful. Also you'll have no charts over your subscriber growth or retention rates.
+
+With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible on PayPal's site. This further increases customer support requests.
+
+Perhaps the biggest reason is that by just using PayPal buttons, you are locked into a relationship with only PayPal. If you have any trouble with them, you could lose access to your subscribers. It might also be better to provide some other payment options for those who do not want to use or cannot use PayPal.
+
+Using a normal ecommerce cart system which has been extended to support subscriptions might work out OK, but will likely not be as pleasant to use for you or your customers as an integrated solution which has been designed from the ground up for subscription sites, without it merely being an afterthought. Going with a company completely dedicated to subscription ecommerce means that they will be optimizing their systems to help retain customers as long as possible and have a good interface for customers to manage their subscriptions.
+
+To help in all of these matters, there are now several subscription e-commerce platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. They will be able to update their accounts and see the shipping status of their orders right on your site. Some of these systems even make it possible to buy postage stamps to print directly on your shipments with your own desktop printer.
+
+There are several such subscription e-commerce platforms in existence now, perhaps the most famous one being CrateJoy. I will not go too deeply into the set-up of each of these, as you can find much better information in their own documentation and websites. But just as an overview, I will list a few of the options that are out there. 
+
+Among the most important aspects when comparing ways to set up your subscription site are:
+
+* Provided layout templates / editor
+* Supported payment methods
+* Ease of preparing shipments
+* Ease of set-up
+* Cost of the platform
+* App/extension ecosystem
+
+### Provided layout templates / editor
+
+The success of your site will be highly impacted by the conversion ratio of your landing page - getting visitors to convert to customers. If you need 100 visitors to get one customer, you will be radically better off than a competitor who needs 200 visitors for the same customer. How you compose your site will have a big impact on this For this reason, having good templates that are known to convert well is important. If you use a popular system and see other successful subscription boxes using layouts similar to those offered, at least you'll know those to be a good starting point.
+
+Besides just the attractive layout, things like copywriting, photos and video on your site will of course also have a huge impact on this, but those too will need to be laid out somehow. So either your template should already have places for presenting those well or there should be an editor which is comfortable enough for you to use.
+
+In practice it will be impossible to know which layout will work for you, so it should also be possible to customize the site freely by editing HTML/CSS directly. Even if that is not something you want to do yourself, you should have the option of being able to hire a freelancer to do any changes which you need.
+
+### Supported payment methods
+
+There are many ways to pay online. You can have a form on your site where users can enter credit cards directly, just as they do on Amazon and many other online store. While this can make your site look very professional, another fine option is to take your customers over to PayPal to complete their payment. Some people prefer to enter their cards directly, others are comforted by having a trusted third party appear between the site and their purchase. Some are even [against PayPal on principle](http://www.paypalsucks.com/) (note: we have never had a single problem with PayPal after ~5 years of accepting payments through them).
+
+When accepting credit cards directly, there are multiple gateways behind the scenes processing payments, which will affects things such as the processing fees you pay, fraud detection and which countries' cards are accepted. One such gateway is Stripe, which is very smooth to use for the customer, as their credit card information is already pre-filled in if they have previously used Stripe to purchase somewhere else, which can make ordering very easy. 
+
+However the downside of Stripe is that while they accept merchants from most countries, not all are supported. You can see the currently supported Stripe countries [here](https://stripe.com/global). PayPal also restricts their more advanced payment APIs to some countries only, while PayPal Payments Standard (the simple subscription buttons) is more widely available.
+
+If there is a certain payment gateway you wish to use, for example if you are based in Russia and need to use a local payment provider, then you would need to find a subscription e-commerce platform which also supports that gateway. If you are based in the US, you will have a lot of choice. In some countries you might be happy just to find any working way for accepting payments. For example in my case as a sole-proprietor foreigner living in Japan, I couldn't initially find any gateway which would accept my strange situation, until I found [WireCard](https://www.wirecard.com/).
+
+### Ease of preparing shipments
+
+Actually shipping out stuff is a repetitive step which you will need to do every single month (if not more). It should be as easy as possible to print out multiple shipping labels in one batch. You definitely don't want to have to write labels by hand once you get past a few dozen subscribers. After a few hundred, even clicking one-by-one to generate each label starts to get tedious. If you are shipping abroad, you may also desire a way to fill any customs labels easily.
+
+### Ease of set-up
+
+While other aspects will dominate in importance over time, ease of set-up is still very important, as otherwise you might not get started with your club at all. You are much more likely to remain motivated to continue with your project if you can get the first few subscribers easily. That means setting up a simple site which can accept payments should be as painless as possible. If you are working on this project alone, your likelihood of going through with it will be much less if you need to set up your own server and configure software to get started. Most popular solutions nowadays gladly require no such efforts.
+
+### Cost of the platform
+
+You might be tempted to focus on the cost alone, but it is one of the less important aspects to consider. For example if platform A costs $50 / month and platform B is $100 / month, if B brought you just one extra customer each month or saved just a bit of your time, then it would very likely already be worth the difference.
+
+The systems tend to be priced such that the cost scales as your customer base grows, often with a base fee and an additional per-transaction fee. Really any of the commonly available platforms is cheap enough that the cost is not much of an issue and your expenses will be likely dominated by other costs such as shipping and marketing expenses.
+
+Only if you started custom building a completely new system by hiring programmers would you really start feeling the pain. If you hired an experienced west-coast US freelance developer for 6 months to develop your site, that alone might cost nearly $100k. You should feel very lucky that there are already platforms that accomplish the same with a fraction of the cost of custom development.
+
+### App/extension ecosystem
+
+One reason I don't own an obscure smartphone is that any apps I would want to use would quite likely not be available for it. I would rather have a more popular device such as Android or an iPhone, so that I can have access to all the cool and useful apps out there. As phones have their own app ecosystems, likely the same will emerge for subscription e-commerce platforms as well. This is not a big consideration at the moment, but going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you in the future.
+
+# CrateJoy
+
+Founded is an Austin, Texas based subscription e-commerce company founded by Amir Elaguizy. He [estimates that out of the 10,000+ subscription boxes on the market 4,000 use Cratejoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is an excellent resource for monthly box entrepreneurs. Actually, you should probably be reading that site instead of this book if you have decided to go with CrateJoy and are looking to really jump into the setup.
+
+CrateJoy was started as part of the startup incubator Y Combinator (which by the way accepts applications [here](http://www.ycombinator.com/) in case you need funding, although it is not easy to get accepted). In each funding round they have multiple companies receiving investment simultaneously and attending startup dinners together. 
+
+Amir was [inspired to start CrateJoy](http://socialnerdia.com/blog/cratejoy-founder-amir-elaguizy) upon noticing how well subscription box companies were doing and how despite their successes there was still no good solution available yet for running them. Many subscription box startups were operating their businesses using various systems not really geared for subscription sites. They were specifically targeting to make a better solution than the Shopify + Chargify combination.
+
+For over 4 years we have also been running our subscription box Candy Japan with a self-made system, until recently giving CrateJoy a try. It was not really a switch per se, rather we bought an existing site which was already running on it. When recently acquiring our second subscription site, a monthly Japanese anime box called [FaniPack](http://www.fanipack.com), we started also using CrateJoy. I must say it has been a joy so far, although at the time of writing we had only been using it for one month. 
+
+Compared with our own system, CrateJoy provides quite a natural interface for managing subscriptions. With an in-house system, you tend not to really care much about how nice your user interface is. And when you’re the only one using it, at first it doesn’t really matter. But when you keep using your system for years and then eventually want to have other people helping you or want to even sell your business, it starts to matter much more. CrateJoy is a lot more pleasant to use than our in-house one, which lacks even navigation menus (hey, I can remember the URLs!).
+
+In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. The joy of browsing all the configuration options in a beautifully crafted interface is palpable after using a quickly mashed up home-grown system for years. While having a detailed CrateJoy set-up guide might be a good addition to this book, it could never be as up to date and authoritative as [their own tutorials](http://subscriptionschool.com/), so I suggest going directly to the source to learn more about CrateJoy if you are interested in choosing them.
+
+## Templates / editor
+
+CrateJoy has a "design store" where you can purchase site templates for use in your subscription box site. After you purchase and install a template, you can edit the text and images to your liking via a visual editor, called the "designer". If needed, even images can be edited directly on CrateJoy, as they integrate the browser-based Aviary image editor.
+
+![CrateJoy designer](images/cratejoy_designer.png)
+
+HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching the code.
+
+![Editing a CrateJoy template code online](images/cratejoy_code.png)
+
+## Supported payment gateways
+
+The default gateway offered on CrateJoy is Stripe and you are highly encouraged to use it. While it is unlikely to be a coincidence that both Stripe and CrateJoy are backed by the same startup accelerator, Stripe also genuinely seems like a very good choice for accepting payments. 
+
+In addition to Stripe, CrateJoy also supports the payment gateways Authorize.net, PayTrace, BrainTree, PayMill, WorldPay and CyberSource. However [Stripe support suggests going with Stripe](https://cratejoy.zendesk.com/hc/en-us/articles/201885619-What-payment-processors-does-Cratejoy-support-) in these words: *"We strongly recommend usage of Stripe and will only enable a non-stripe payment processor when there is a good reason to do so (such as being in a non-stripe supported country)."*.
+
+While Stripe payments can be accepted from any country, you as the merchant must be located in a country supported by Stripe. At the time of writing the supported merchant countries were Australia, Canada, Denmark, Finland, Ireland, Norway, Sweden, United Kingdom and United States. There are other countries where Stripe is in beta. You can find the up-to-date list on [Stripe's site](https://support.stripe.com/questions/what-countries-does-stripe-support).
+
+One of the best things about Stripe is that if your potential customer has already bought something from another site using the Stripe gateway, they can prefill their credit card details. This means that to order the customer won't have to refill their CC number, but it can be a matter of just clicking "OK". This is fantastic, as the less friction you have in your checkout flow the better in terms of your conversion rate from visitor to customer.
+
+## Managing shipments
+
+Through the CrateJoy interface you are able to see what you are supposed to ship in the current time period and any confirmed orders you have for future months. You can have confirmed future orders, because in addition to month-to-month payments, through CrateJoy it is easy to also accept pre-payments for several months in advance. 
+
+These show up in the list of shipments to complete even before that month arrives, in case you want to prepare the boxes in advance. Future confirmed orders can occur in case you have multiple month subscriptions. For example if it is before the July box cut-off date and a customer puts in a 3-month box order, then you would already be able to see them as a confirmed order for August as well. 
+
+However if the subscriber is paying monthly, then their order would not show up until the rebill has not gone through. This is because they might still cancel or their credit card could stop working before the payment has a chance to clear, so it is not certain yet if there really will be an order.
+
+If you happen to have a need to prepare and/or send shipments to active subscribers whose rebill has not gone through yet, you can always export the list of subscribers and filter it to only active subscribers by importing the CSV file to a spreadsheet program or using a [simple script](https://github.com/Bemmu/cratejoy-scripts).
+
+An interesting feature is that you can print labels *including postage* directly from the app. Instead of affixing stamps to your boxes yourself or have the post office measure and stamp them, proof of stamp payment is printed out as QR codes on the label. That means you can neatly have just one label for the recipient and sender addresses with postage included in it as well.
+
+## Pricing
+
+At the time of writing CrateJoy charged $39.00 / month and additionally 1.25% + $0.10 for each transaction. 
+
+If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs you $39.00 + (100*$29)*0.0125 + 100 * $0.10 = $85.25.
+
+This does not include payment gateway fees. For example if Stripe is your gateway, then in the example case they would additionally charge you $114.10 (that's 2.9% + $0.30 per transaction).
+
+## Apps
+
+At the time of writing CrateJoy had an app store with 9 apps in it. As the service is growing rapidly, the growth of the app store looks promising. Most of the apps are free, with only adding a referral program through the appropriately named "Referral Program" app costing an additional $99/month to use.
+
+# Subbly
+
+Subbly is a subscription e-commerce platform founded by Stefan Pretty. It is designed to help make starting a subscription business as painless as possible.
+
+As [Subbly's blog puts it](http://www.subbly.co/blog/what-is-subbly-5-things-you-need-to-know-about-the-subscription-box-ecommerce-platform/) "*Subbly is an all-in-one subscription eCommerce solution that provides vendors with everything they need to set up a subscription box business on one simple platform.*".
+
+Subbly team prides themselves on great support, including personal help to grow your business. When I set up my own Subbly test site I was even offered a free consultation session with the founder, although that might be a time-limited offer.
+
+## Templates / editor
+
+At the time of writing there were two templates to choose from, both free. Subbly can also design your site template for you. The cost for this design service starts at $2500.
+
+Designing your site with one of the provided templates is a matter of choosing a logo and customizing which font and colors you would like. You can also include links to your social media presence. Next you can start entering the text to describe how your box works, its name, tagline and so on. To see the changes you save and refresh your shop.
+
+![Customizing your site template on Subbly](images/subbly_editor.png)
+
+You cannot edit texts by just clicking on them, but you can see the editable texts side-by-side with your live site. Instead of clicking on the text you want to change, you need to find the right place in theme options to change your desired part. On the other hand having all the options clearly listed in front of you makes it very clear which parts are editable.
+
+![What I achieved in 15 minutes with Subbly](images/subbly_editor2.png)
+
+## Supported payment gateways
+
+At the time of writing Subbly only supported Stripe, although that is what CrateJoy is also strongly pushing merchants to use.
+
+## Managing shipments
+
+When scheduling shipments you can select billing intervals and delivery intervals (weekly, monthly, every 3 months, annually or bi-annually), but cannot freely choose a cut-off date to lock your shipping list in preparation for a shipment. 
+
+![Shipment preparation screen](images/subbly_dispatch.png)
+
+## Pricing
+
+Subbly is tiered based on subscriber count. Up to 10 subscribers for $24/month, 100 for $49/month, 300 for $99/month, 1000 for $199/month. There are no transaction fees.
+
+In most cases that is significantly cheaper than CrateJoy. Here is a comparison of CrateJoy vs. Subbly pricing, assuming a box which costs $29/month. The comparison does not include gateway fees, but those would be the same if you use Stripe for both.
+
+![CrateJoy vs. Subbly pricing](images/pricing.png)
+
+## Apps
+
+Subbly has no third-party app directory, but has ShipStation integration. ShipStation is a web-based software for handling shipments, through which you can integrate with USPS, UPS, FedEx and DHL. It is ideal when you are selling goods through multiple channels, for example if you have an online store selling the same products that your subscription box site is selling, you can use ShipStation to have just one shipment flow. It also helps you print labels.
+
+Zapier integration is coming soon. Zapier is a bit similar to IFTTT, providing an interface for creating triggered automations. For example Zapier could send you an email, iOS notification or a Slack message when an order comes in. There are many possibilities to use it to trigger useful actions, as Zapier can interact with almost anything.
