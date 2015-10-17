@@ -206,7 +206,7 @@ If you choose items with no expiration date, you will have more flexibility in p
 
 Some items can be more difficult to send without damage. For instance chocolate can melt on the way if sent during hot months. 
 
-### Choosing what items to send isn't everything
+### Choosing your product isn't everything
 
 While choosing the right type of items to send is important, it's not by any means the only factor determining the success of your box. To give an example I really recommmend reading the [story of Wet Shave Club](https://www.reddit.com/r/Entrepreneur/comments/2h1mlt/the_inner_workings_of_a_subscription_box_company/). The site was already established, but after an ownership change and a lot of rebranding it really took off. Site owner [Rohan Gilkes]() has posted [another very detailed guide](https://www.reddit.com/r/EntrepreneurRideAlong/comments/tltuy/day_26_from_zero_to_website_launcha_recap_of/) from launching his other business as well. I strongly suggest reading the guide, as most of the content applies to any online business.
 
@@ -258,7 +258,7 @@ Another place for browsing listings is [Flippa](https://flippa.com/domains/just-
 | Swore.com        | $2,300          |
 | Cloud.io         | $45,000         |
 
-As you can see the range of prices is huge. 
+As you can see the price range is huge. 
 
 There really is no one answer to the question "what should this domain name cost"? If you happen to have two wealthy or venture-backed bidders competing against each other to secure a name, then the price is as high as those bidders can afford to go. 
 
@@ -273,8 +273,6 @@ Another mental trick they might use is to claim that they acquired the name for 
 Counter-tactics to these also exist, which is why you might want to consider hiring a domain broker to buy the name for you. They can navigate these negotiations in a more cool manner since they are more detached from the name than you are and get a better price.
 
 There are many more tricks involved in domain price negotiation, I recommend reading the blog post [How to Buy Domain Names Like a Pro](http://fourhourworkweek.com/2009/02/27/how-to-buy-domain-names-like-a-pro-10-tips-from-the-founder-of-phonetagcom/). Two great tips in that post are using historical whois services to help find the current domain owner and avoiding giving out any personal information in case that might serve as a justification to quote a higher price to you.
-
-*Let us never negotiate out of fear. But let us never fear to negotiate.* -John F. Kennedy
 
 ### Transferring a domain name from the previous owner
 
@@ -306,9 +304,13 @@ In the beginning I wrote that all the good names are taken. That's not entirely 
 
 A non-generic name can have other benefits as well. If you have an animal name or an object in the name, then it instantly gives you ideas of what the mascot or logo of the club might be like. For example the Japanese anime box of the month club "[boxychan.com](http://www.boxychan.com/)" has a cute box as their mascot, which makes it a lot more memorable than if it was something generic such as "monthlyanimebox.com".
 
+![BoxyChan mascot](images/boxychan.png)
+
 Another great example of a name with benefits is [MailChimp](http://www.mailchimp.com/), an email marketing service provider which uses a chimp as their mascot. This might give you an idea: use your desired noun + some branding word as your name. Have your desired term in there along with an interesting prefix or suffix. You can put these ideas through [Instant Domain Search](http://instantdomainsearch.com) to try them quickly, but there is an even faster way. There are services where you can enter lists of words to try as prefixes and suffixes and it tells you which ones are available. Some even have those lists built in. 
 
 The best one I have found is called [Lean Domain Search](http://www.leandomainsearch.com/). Suppose for example that you are thinking of starting a snack-related subscription box. As there are already dozens of snack boxes and many domain speculators out there, you will find that almost any good name is already taken. Entering the word "snack" into Lean Domain Search, you'll find that actually some good combinations of popular word beginnings or endings added to "snack" are still available! It doesn't suggest cute animal suffixes, but can find for example that "SnackGlobal.com", "SnackGate.com", "EpicSnack.com", "ViaSnack.com" and "SnackBoss.com" among many others are still out there for grabs.
+
+![Lean Domain Search](images/leandomain.png)
 
 I hope some of these tips helped you find a great domain name for your subscription box, or convinced you to stop obsessing about it until later! It's perfectly fine to keep going despite not yet deciding on a domain name for your subscription box yet, maybe even better as it can be a bit of a distraction to focus all your attention on the name.
 
