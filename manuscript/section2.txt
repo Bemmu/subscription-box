@@ -18,27 +18,31 @@ With a launch page you can begin to gather an audience as early as possible. Goo
 
 ### How to set up your LaunchRock page
 
-A service called LaunchRock enables you to set up your launch pages easily, so you can start gathering your audience as early as possible. There are many ways to put up a simple launch page. While I'm not advocating LaunchRock as the ultimate best solution, it's an easy-to-use well known option, so let's explore that a bit. If you already have a webhost and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved.
+With a "coming soon" launch page, people can express their interest for your subscription box even before you have everything else set up. There are many ways to put up a simple launch page. One option is a service called LaunchRock, which enables you to set up your launch pages easily, so you can start gathering your audience as early as possible.  
+
+If you already have a webhost and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved. While I'm not advocating LaunchRock as the ultimate best solution for every situation, it's an easy-to-use well known option, so let's explore that a bit. 
 
 ![LaunchRock landing page](images/launchrock.png)
 
-With a "coming soon" launch page, people can express their interest for your subscription box even before you have everything else set up. On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
+On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
 
 While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. That's still extremely cheap and I recommend going with the paid plan. You should have the custom domain (which you probably already purchased) as after all you would probably prefer building excitement for your own site rather than for LaunchRock! 
 
-If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up. However there are also other features which are not available in the free plan, such as entering custom HTML code.
+If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up. Some features are not available in the free plan, such as entering custom HTML code.
 
 ![Launchrock launch page editor](images/launchrock2.png)
 
-After signing up you’ll have access to a drag and drop site builder which comes with everything you need to collect email addresses from interested people visiting your site. Later on when your box is ready to accept customers, you can send an email to everyone telling them that they can now go and subscribe to your box. Not everyone will, but a certain percentage of visitors who entered their email probably will likely order. 
+After signing up you’ll have access to a drag and drop site builder, which comes with everything you need to collect email addresses from interested people visiting your site. Later on when your box is ready to accept customers, you can send an email to everyone telling them that they can now go and subscribe to your box. Not everyone will, but a certain percentage of visitors who entered their email will order, giving you an initial boost to get you going.
 
 ## Idea validation
 
-First try to discover if people are even interested in what you are offering, in other words validate that your idea has legs. While LaunchRock is fine for getting a rough idea on the number of interested people and many who sign up will likely become subscribers, it's still not quite the same as actually getting paying subscribers.
+You might think of this simple launch page as a way for discovering if people are even interested in what you are offering. Why waste weeks building something, only to discover that no-one cares?
 
-The trouble with testing ideas without asking for payment is that you can’t really just ask if someone is truly interested. If you ask "would you subscribe to X if it existed?”" many people will answer yes because there is no risk or downside for them to agree and they want to be nice to you. 
+While LaunchRock is fine for getting a rough idea on the number of interested people and many who sign up will likely become subscribers, it's still not quite the same as actually getting paying subscribers.
 
-It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk often mentions in his interviews the following piece of advice on getting product feedback: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
+The trouble with testing ideas without asking for payment is that you can’t really just ask if someone is truly interested. If you ask "would you subscribe to X if it existed?", many people will answer yes, just because there is no risk or downside for them to agree.
+
+Your friends want to be nice to you. Even if it causes you to waste weeks building something useless. It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk often mentions in his interviews: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
 
 If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to complete the subscription process online by finding their credit card and actually paying. It would be better instead to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. 
 
