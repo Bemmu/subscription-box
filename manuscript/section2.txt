@@ -4,11 +4,13 @@ If you are sending monthly boxes in a similar way to most other subscription box
 
 For our box Candy Japan we built our own system from scratch. Had I been able to use a ready-made system, months of fiddling with Python, Google App Engine, PayPal API, Recurly and WireCard could have been saved. Thankfully you will no longer need to know about any of that. Don't build your own if you can avoid it! 
 
-## Starting with a launch page
-
 You might not even need any fancy system at all.
 
-Or it could be that you have your domain name ready to go and are full of enthusiasm to get a site up quickly. Yet you are not feeling quite ready to figure out an ecommerce system. What would be an easy next step instead? 
+## Starting with a launch page
+
+Even a simple sign-up page can do before you have your real site together.
+
+You have your domain name ready to go and are full of enthusiasm to get a site up quickly. Yet you are not feeling quite ready to figure out an ecommerce system. What would be an easy next step instead? 
 
 One simple way to get started is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and to provide a form where interested visitors can enter their email addresses to be notified when you are ready to launch your actual site.
 
