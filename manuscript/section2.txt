@@ -14,21 +14,25 @@ You have your domain name ready to go and are full of enthusiasm to get a site u
 
 One simple way to get started is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and to provide a form where interested visitors can enter their email addresses to be notified when you are ready to launch your actual site.
 
-With a launch page you can begin to gather an audience as early as possible. Google might also favor older sites slightly more when ranking search results, so having your site up earlier might not hurt there either (although it probably won't make a huge difference). 
+With a "coming soon" launch page, people can express their interest for your subscription box even before you have everything else set up, enabling you to start gathering an audience as early as possible. Google might also favor older sites slightly more when ranking search results, so having your site up earlier might not hurt there either (although it probably won't make a huge difference). 
 
 ### How to set up your LaunchRock page
 
-With a "coming soon" launch page, people can express their interest for your subscription box even before you have everything else set up. There are many ways to put up a simple launch page. One option is a service called LaunchRock, which enables you to set up your launch pages easily, so you can start gathering your audience as early as possible.  
+There are many ways to put up a simple launch page. One option is a service called LaunchRock, which enables you to set up your launch pages easily, so you can start gathering your audience as early as possible.  
 
-If you already have a webhost and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved. While I'm not advocating LaunchRock as the ultimate best solution for every situation, it's an easy-to-use well known option, so let's explore that a bit. 
+If you already have a webhost and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved. 
+
+While I'm not advocating LaunchRock as the ultimate best solution for every situation, it's an easy-to-use well known option, so let's explore that a bit. 
 
 ![LaunchRock landing page](images/launchrock.png)
 
 On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
 
-While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. That's still extremely cheap and I recommend going with the paid plan. You should have the custom domain (which you probably already purchased) as after all you would probably prefer building excitement for your own site rather than for LaunchRock! 
+While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. That's still extremely cheap and I recommend going with the paid plan, because you really should have a custom domain (which maybe you already bought). 
 
-If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up. Some features are not available in the free plan, such as entering custom HTML code.
+After all you would probably prefer building excitement for your own site, rather than for LaunchRock! 
+
+If you do feel that just the subdomain is enough or want to kick the tires before paying anything, you can proceed with the free account set-up. Some features are not available in the free plan, such as entering custom HTML code.
 
 ![Launchrock launch page editor](images/launchrock2.png)
 
@@ -38,22 +42,31 @@ After signing up you’ll have access to a drag and drop site builder, which com
 
 You might think of this simple launch page as a way for discovering if people are even interested in what you are offering. Why waste weeks building something, only to discover that no-one cares?
 
-While LaunchRock is fine for getting a rough idea on the number of interested people and many who sign up will likely become subscribers, it's still not quite the same as actually getting paying subscribers.
+While LaunchRock is fine for getting a rough idea on the number of interested people and many who sign up will likely become subscribers, it's still not quite as good a signal as actually getting paying subscribers.
 
-The trouble with testing ideas without asking for payment is that you can’t really just ask if someone is truly interested. If you ask "would you subscribe to X if it existed?", many people will answer yes, just because there is no risk or downside for them to agree.
+The trouble with testing ideas without asking for payment is that you can’t really be sure if someone is truly interested, or just humoring you. If you ask "would you subscribe to X if it existed?", many people will answer yes also just because there is no risk or downside for them to agree.
 
-Your friends want to be nice to you. Even if it causes you to waste weeks building something useless. It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk often mentions in his interviews: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
+People want to be nice to you. Even if it causes you to waste weeks building something useless. It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk [often mentions](https://www.youtube.com/watch?v=0Bo-RA0sGLU) in his interviews: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
 
-If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to complete the subscription process online by finding their credit card and actually paying. It would be better instead to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. 
+If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to find their credit card and place an order. It would be better instead to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. 
 
-This differs from having your real final site open in that it doesn't need to be much better than just your launch page. Just have *SOMETHING* up so that truly interested people can show that they are serious by actually paying. You can make it better later and convince an even higher percentage of visitors to sign up, but it would be better to have something that feels real and that can be ordered.
+This differs from having your real final site open in that it doesn't need to be much better than just your launch page. Just have *SOMETHING* up so that truly interested people can show that they are serious by actually paying. You can make it better later and convince an even higher percentage of visitors to sign up, but at this point it's still an improvement over just a launch page to have something that feels real with an actual way to pay.
 
-Remember the initial site is mostly for discovering if people are truly interested in this idea, without you being around influencing them to agree to not hurt your feelings. You can still tweak pricing, your value proposition etc. later, it doesn’t have to be set in stone. For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). 
+This step is for discovering if people are truly interested in this idea AND if some will actually pay for it. You can still tweak pricing, your value proposition etc. later, it doesn’t have to be set in stone.
+
+For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). They put something simple up, then improved it iteratively. You can do the same. It doesn't have to be perfect from the start.
+
+It's also incredibly motivational to actually start having even a handful of people pay you. You'll work harder just so you wouldn't disappoint them.
+
 What if you collect payments but then cannot actually deliver what you promised, or decide you don’t actually want to pursue your subscription box idea at all? While you do have paying subscribers signed up and it is sad if you must shut down, you can still cancel them and issue refunds. 
 
-I did this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
+I had to do this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
 
-While it sucks to build up excitement and then not deliver, the alternative may be wasting a ton of time building something and then finding out that no-one cares. Which is worse, spending months of your time perfecting something that falls flat on its face, or slightly disappointing a handful of early customers, who still get refunds? If you hadn't started early, those people would not even have had the chance to show their interest towards your project.
+*So there's actually a free tip in there for you. If you're into both Japan and pens, you could try doing a club for Japanese stationery. The response was promising.*
+
+While it sucks to build up excitement and then not deliver, it beats the alternative of wasting a ton of time building your site and then finding out that no-one cares. You can choose to either spending weeks or months of your time perfecting something that falls flat on its face, or possibly slightly disappointing a handful of early customers. 
+
+If you hadn't started early, people will have a chance to show their interested towards your project early on and keep you going. Even if it doesn't pan out, your customers are no worse off, as you can still refund them for any undelivered shipments. 
 
 So if at all possible, you want to validate your idea in as real as possible a way, and what is more real than actually having a site up that can accept payments? 
 
@@ -65,35 +78,17 @@ If you are already comfortable with setting up static websites, there is a very 
 
 ![](images/paypal_discount.png)
 
-If you hire support staff, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least for EU this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
+If you hire support staff, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least inside Europe this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
 
 ### Customizing the subscription button HTML code
 
-After you have your basic button set up, there are additional options available for customizing the button by editing the HTML code, most importantly to change the page users are directed back to after completing their subscription to your own “thank you” page. You can set that one with the hidden form field “return”. See the details [here](https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/formbasics/).
+After you have your basic button set up, there are additional options available for customizing the button by editing the HTML code, most importantly to change the page users are directed back to after completing their subscription to your own "thank you" page. You can set that one with the hidden form field "return". See the details [here](https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/formbasics/).
 
-In order to keep track of PayPal subscriptions, you can browse your subscribers on the PayPal site and see their shipping addresses there. Their system is not at all geared for subscription boxes however and if you grow larger than 100 subscribers, it will become somewhat awkward to keep track of what you are supposed to be sending to each subscriber. For example it is very very slow to browse your subscriber list. Predicting future need for stock will be more challenging as well, as frustratingly there is no chart of subscriber growth.
+In order to keep track of PayPal subscriptions, you can browse your subscribers on the PayPal site and see their shipping addresses there. Their system is not at all geared for subscription boxes however and if you grow larger than 100 subscribers, it will become somewhat awkward to keep track of what you are supposed to be sending to each subscriber. For example it is very very slow to browse your subscriber list on the PayPal site. Predicting future need for stock will be more challenging as well, as frustratingly there is no chart of subscriber growth.
 
-Even with the limitations, PayPal Payments Standard should be perfectly sufficient for testing the waters to see if people would subscribe to your box. The best thing about it is how easy it is to integrate, if you know how to copy & paste code to a static site, you can start accepting subscriptions in less than an hour.
+Even with the limitations, PayPal Payments Standard should be perfectly sufficient for testing the waters to see if people would subscribe to your box. The best thing about it is how easy it is to set up. If you know how to copy & paste code to a static site, you can start accepting subscriptions within a day.
 
 One risk with using these buttons is that it will be more difficult to switch to something else later, as not all support scanning PayPal for new payments from those simple buttons (called "PayPal Payments Standard").
-
-### Going with SquareSpace
-
-If you are not comfortable coding up your own site, one of the easiest ways to set up a static site is using an online content management system such as [SquareSpace](http://www.squarespace.com). Calling it a “content management system” makes it sound a bit scary, but really it’s just a way to easily drag, snap and pop your page layout together while adding some content to your pages.
-
-You can use ready-made templates that even by default work also on mobile as well. While you can set up your site by just dragging around widgets and typing in text using an online interface, if you are perfectionist enough to want to arrange your site with pixel-perfect accuracy, it will require editing the templates manually, but for roughly arranging images, text and buttons as you want it is enough to just drag things around using the visual interface. 
-
-As a test to try it out, I attempted to remake our current site for Candy Japan which I had initially hand-coded in HTML. In a few hours I was able to remake the main page to be somewhat like the the current design, but it was quite hard to get it exactly right. in SquareSpace, I found that some things such as arranging buttons next to each other as I wanted wasn’t easy to do precisely using the interface, but for a basic layout it should be more than sufficient. 
-
-Who knows, perhaps those limitations are even useful as they can help prevent you from making an ugly arrangement of components even if you have no eye for visual design. In particular many SquareSpace designs are a lot more whitespace-heavy than I would feel is necessary, which probably means my feeling is wrong and that SquareSpace is forcing me to do the right thing :-)
-
-### Using 99designs to have designers compete on a site design
-
-Besides hiring a designer directly or learning HTML yourself, another option is to have your site designed by starting a design competition on [99designs](http://99designs.com). Using this competition site for illustrators, each designer can submit their own work and you can pick the one you liked the most.
-
-This option requires a bit of an investment, but is still quite cheap considering the amount of total work you will be getting from several designers. The price depends on how many designers you want competing, but prices go from around $500 for 15 designs to $1500 for 35 designs. There are additional optional fees (up-sells!) for getting more promotion for your contest such as having the @99designs tweet about the contest or promote it in their newsletter. The add-ons are quite attractively packaged and you might have trouble resisting using some of these extra options.
-
-Besides whole site designs, 99designs can also be used for other work, such as logos and packaging design. For instance the cover of the book you are reading was designed through such a contest (thank you [OberonZG](https://en.99designs.jp/profiles/1273461))! The 99designs process is to first start your contest, then allow some time to pass and select your top favorite designs. From there on the top still have extra time to submit more ideas and perfect their submissions, before you finally select your favorite design. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
 
 ### Leveraging your LaunchRock page
 
@@ -115,7 +110,36 @@ After creating your button, click on the "email" tab to get a convenient link in
 
 ![Pasting subscription link to LaunchRock](images/launchrock4.png)
 
-By the way, these simple recurring payment buttons are called “PayPal Payments Standard”. This will be important to know when looking at documentation, as PayPal also has other ways to interface with it. Make sure you are looking at Payments Standard pages, not BrainTree or Express Checkout lest you be confused. The more advanced integration methods Express Checkout requires more technical expertise to use, but allow for a more customized experience. It is only available in certain countries, while Standard Payments has better global availability.
+By the way, these simple recurring payment buttons are called "PayPal Payments Standard". This will be important to know when looking at documentation, as PayPal also has other ways to interface with it. Make sure you are looking at Payments Standard pages, not BrainTree or Express Checkout lest you be confused. The more advanced integration methods Express Checkout requires more technical expertise to use, but allow for a more customized experience. It is only available in certain countries, while Standard Payments has better global availability.
+
+### Going with SquareSpace
+
+If you are not comfortable coding up your own site and LaunchRock didn't seem attractive to you, another one of the easiest ways to set up a static site is using an online content management system such as [SquareSpace](http://www.squarespace.com). Calling it a "content management system" makes it sound a bit scary, but really it’s just a way to easily drag and drop your page layout together while adding some content to your pages.
+
+You can use ready-made templates that work on mobile as well. 
+
+As a test to try it out, I attempted to remake our current site for Candy Japan which I had initially hand-coded in HTML. In a few hours I was able to remake the main page to be somewhat like the the current design, but it was quite hard to get it exactly right. I found that some things such as arranging buttons next to each other as I wanted wasn’t easy to do precisely using the interface, but for a basic layout it should be more than sufficient. 
+
+If you want to get pixel-perfectionist about arranging your site, you may find that the drag and drop interface won't let you do everything you might want to do. But as long as you are satisfied going along with what the template author had in mind, you'll be golden. More accurately arranging your site will require editing the templates manually. For roughly arranging images, text and buttons as you want it is enough to just drag things around using the visual interface. 
+
+Who knows, perhaps those limitations are even useful as they can help prevent you from making an ugly arrangement of components even if you have no eye for visual design. In particular many SquareSpace designs are a lot more whitespace-heavy than I would feel is necessary, which probably means my feeling is wrong and that SquareSpace is forcing me to do the right thing :-)
+
+### Using 99designs to have designers compete on a site design
+
+What if you want a cool custom design, but have no design sense and/or no HTML skills?
+
+Besides hiring a designer directly or learning HTML yourself, another option is to have your site designed by starting a design competition on [99designs](http://99designs.com). On the site each designer can submit their own work and you can pick the one you liked the most. Besides whole site designs, 99designs can also be used for other work, such as logos and packaging design.
+
+For instance the cover of the book you are reading was designed through such a contest (thank you [OberonZG](https://en.99designs.jp/profiles/1273461)). You can see [some of the other cover designs that were submitted](https://en.99designs.jp/book-cover-design/contests/create-e-book-cover-subscription-boxes-502795/overview). I had so many good options it was tough to choose.
+
+![Winning design](images/99designs.png)
+
+Using 99designs requires a bit of an investment, but is still quite cheap considering the amount of total work you will be getting from several designers. The price depends on how many designers you want competing, but prices go from around $500 for 15 designs to $1500 for 35 designs. There are additional optional fees (up-sells!) for getting more promotion for your contest such as having the @99designs tweet about the contest or promote it in their newsletter. The add-ons are quite attractively packaged and you might have trouble resisting using some of these extra options.
+
+The 99designs process is to first start your contest by explaining the kind of design you are looking for in as much detail as possible. To host the contest for making the cover of this book, I submitted my own extremely rough sketch on what the cover might look like. Then some time passed and I started getting first draft designs coming in. 
+
+
+From the early drafts I could give the designers feedback so they could continue to perfect their designs. From there I could then select my top favorite designs. At this point the top submitters still have time to make their designs even better, until finally you pick the best one. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
 
 ## Using a traditional e-commerce cart system
 
@@ -125,11 +149,11 @@ While there are completely dedicated systems geared for subscription box sites, 
 
 ### WooCommerce Subscriptions
 
-WooCommerce is an open source e-commerce plugin for the website creation tool (or CMS) called WordPress. While WooCommerce allows you to create an online store, it does not support recurring subscriptions out of the box. WooCommerce Subscriptions exists to add this support. With this combination, you could set up your own subscription box on top of WooCommerce.
+WooCommerce is an open source e-commerce plugin for the website creation tool (or CMS) called WordPress. While WooCommerce allows you to create an online store, it does not support recurring subscriptions by default. WooCommerce Subscriptions is an add-on which exists to add this support. With this combination, you could set up your own subscription box on top of WooCommerce.
 
-WooCommerce Subscriptions has a flat purchase price of $199, after which you can continue using it for free. The catch is that you have to be familiar with hosting your own website, or have someone to do it for you. That is outside the scope of this book.
+![BlueHost offers WooCommerce hosting](images/bluehost.png)
 
-Another option is to use an existing WooCommerce host, which will cost roughly $15/month, depending on the kind of plan you would likely need. For example [SiteGround offers WooCommerce hosting](https://www.siteground.com/shared-hosting-features.htm).
+WooCommerce Subscriptions has a flat purchase price of $199, after which you can continue using it for free. The catch is that you have to be familiar with hosting your own website, or have someone do it for you. There are hosting services which make things easier, such as [BlueHost](http://www.bluehost.com/wordpress-woocommerce) which supports both WooCommerce and WooCommerce Subscriptions. Such hosting will cost roughly $15/month, depending on the kind of plan you would likely need. [SiteGround also offers WooCommerce hosting](https://www.siteground.com/shared-hosting-features.htm).
 
 ### Extending Shopify to support a subscription box
 
