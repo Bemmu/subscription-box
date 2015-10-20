@@ -1,12 +1,14 @@
 # Setting up your website
 
-For our box Candy Japan we built our own system from scratch. If you are sending monthly boxes in a similar way to most other subscription box companies, there is no longer any reason to build your own custom system. I strongly recommend using one of the many existing subscription e-commerce platforms if at all possible. 
+If you are sending monthly boxes in a similar way to most other subscription box companies, there is no longer any reason to build your own custom system. I strongly recommend using one of the many existing subscription e-commerce platforms if at all possible. 
 
-Had I been able to use a ready-made system, months of fiddling with Python, Google App Engine, PayPal API, Recurly and WireCard could have been saved. Thankfully you will no longer need to know about any of that. Don't build your own if you can avoid it! 
+For our box Candy Japan we built our own system from scratch. Had I been able to use a ready-made system, months of fiddling with Python, Google App Engine, PayPal API, Recurly and WireCard could have been saved. Thankfully you will no longer need to know about any of that. Don't build your own if you can avoid it! 
 
 ## Starting with a launch page
 
-You have your domain name ready to go and you are full of enthusiasm to get a site up quickly. Yet you are not feeling quite ready to set up your ecommerce system. What would be an easy next step instead? 
+You might not even need any fancy system at all.
+
+Or it could be that you have your domain name ready to go and are full of enthusiasm to get a site up quickly. Yet you are not feeling quite ready to figure out an ecommerce system. What would be an easy next step instead? 
 
 One simple way to get started is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and to provide a form where interested visitors can enter their email addresses to be notified when you are ready to launch your actual site.
 
@@ -14,9 +16,11 @@ With a launch page you can begin to gather an audience as early as possible. Goo
 
 ### How to set up your LaunchRock page
 
+A service called LaunchRock enables you to set up your launch pages easily, so you can start gathering your audience as early as possible. There are many ways to put up a simple launch page. While I'm not advocating LaunchRock as the ultimate best solution, it's an easy-to-use well known option, so let's explore that a bit. If you already have a webhost and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved.
+
 ![LaunchRock landing page](images/launchrock.png)
 
-A service called LaunchRock enables you to set up your launch pages easily, so you can start gathering your audience as early as possible. People can express their interest for your subscription box even before you have everything else set up. On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
+With a "coming soon" launch page, people can express their interest for your subscription box even before you have everything else set up. On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
 
 While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. That's still extremely cheap and I recommend going with the paid plan. You should have the custom domain (which you probably already purchased) as after all you would probably prefer building excitement for your own site rather than for LaunchRock! 
 
