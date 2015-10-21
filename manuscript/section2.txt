@@ -295,11 +295,11 @@ CrateJoy was started as part of the startup incubator Y Combinator (which by the
 
 Despite their success, there was still no good solution available for running such subscription boxes. Many were operating their businesses using various systems not really geared for subscription sites. From the start CrateJoy was specifically targeting to make a better solution than the Shopify + Chargify combination.
 
-### Let's try
+### Giving it a go
 
-For over 4 years we have also been running our subscription box Candy Japan with a self-made system. How can I then write about CrateJoy, if I'm not even using it? To address this dilemma, I bought another subscription box business, a monthly Japanese anime box called [FaniPack](http://www.fanipack.com), which had already been running on CrateJoy.
+For over 4 years we have also been running our subscription box Candy Japan with a self-made system. How can I then write about CrateJoy, if I'm not even using it? To address this dilemma, I bought another subscription box business, a small monthly Japanese anime box called [FaniPack](http://www.fanipack.com), which had already been running on CrateJoy.
 
-I have been using CrateJoy for three months now, and must say I find it a joy to use.
+I have been using CrateJoy to run FaniPack for three months now, and must say I find it a joy to use.
 
 Compared with our own system, CrateJoy provides quite a natural interface for managing subscriptions. With an in-house system, you tend not to really care much about how nice your user interface is. And when you’re the only one using it, at first it doesn’t really matter. 
 
@@ -335,7 +335,7 @@ Through the CrateJoy shipments interface you are able to see the boxes you are c
 
 However if the subscriber is paying monthly, then their order would not show up until the rebill has gone through. This is because they might still cancel or their credit card could stop working before the payment has a chance to clear, so it is not certain yet if there really will be an order.
 
-!(CrateJoy shipments view)[images/cratejoy_shipments.png]
+![CrateJoy shipments view](images/cratejoy_shipments.png)
 
 If you happen to have a need to prepare and/or send shipments to active subscribers whose rebill has not gone through yet, you can always export the list of subscribers and filter it to only active subscribers by importing the CSV file to a spreadsheet program or using a [simple script](https://github.com/Bemmu/cratejoy-scripts).
 
