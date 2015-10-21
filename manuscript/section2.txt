@@ -50,11 +50,11 @@ People want to be nice to you. Even if it causes you to waste weeks building som
 
 If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to find their credit card and place an order. It would be better instead to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. 
 
-This differs from having your real final site open in that it doesn't need to be much better than just your launch page. Just have *SOMETHING* up so that truly interested people can show that they are serious by actually paying. You can make it better later and convince an even higher percentage of visitors to sign up, but at this point it's still an improvement over just a launch page to have something that feels real with an actual way to pay.
+This differs from having your real final site open in that it doesn't need to be much better than just your launch page. Just have **something** up so that truly interested people can show that they are serious by actually paying. You can make it better later and convince an even higher percentage of visitors to sign up, but at this point it's still an improvement over just a launch page to have something that feels real with an actual way to pay.
 
-This step is for discovering if people are truly interested in this idea AND if some will actually pay for it. You can still tweak pricing, your value proposition etc. later, it doesn’t have to be set in stone.
+This step is for discovering if people are truly interested in this idea **and** if some will actually pay for it. You can still tweak pricing, your value proposition etc. later, it doesn’t have to be set in stone.
 
-For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). They put something simple up, then improved it iteratively. You can do the same. It doesn't have to be perfect from the start.
+For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). They put something simple up, then improved it iteratively. You can do the same. It doesn't have to be perfect from the start. [Ship it. Ship it. Ship it. Optimize for learning over perfection.](https://vimeo.com/129913527)
 
 It's also incredibly motivational to actually start having even a handful of people pay you. You'll work harder just so you wouldn't disappoint them.
 
@@ -62,7 +62,7 @@ What if you collect payments but then cannot actually deliver what you promised,
 
 I had to do this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
 
-*So there's actually a free tip in there for you. If you're into both Japan and pens, you could try doing a club for Japanese stationery. The response was promising.*
+**Free subscription box idea**: If you're into both Japan and pens, you could try doing a club for Japanese stationery. The response was promising.
 
 While it sucks to build up excitement and then not deliver, it beats the alternative of wasting a ton of time building your site and then finding out that no-one cares. You can choose to either spending weeks or months of your time perfecting something that falls flat on its face, or possibly slightly disappointing a handful of early customers. 
 
