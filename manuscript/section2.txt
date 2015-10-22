@@ -301,25 +301,23 @@ This is not a big consideration at the moment, but going with a well-known provi
 
 ## CrateJoy
 
-CrateJoy is an Austin, Texas based subscription e-commerce company founded by Amir Elaguizy. He [estimates that out of the 10,000+ subscription boxes on the market 4,000 use Cratejoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is another excellent resource for monthly box entrepreneurs, especially when you have decided to go with CrateJoy.
+CrateJoy is an Austin, Texas based subscription e-commerce company founded by Amir Elaguizy. With CrateJoy you can both host your site, do recurring billing, see analytics about your subscribers, send automatic customer emails and even print postage stamps, all using the same online interface. In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. 
+
+Amir [estimates that out of the 10,000+ subscription boxes on the market 4,000 use CrateJoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is another excellent resource for monthly box entrepreneurs, especially when you have decided to go with CrateJoy.
 
 ![](images/cratejoy.jpg)
 
 CrateJoy was started as part of the startup incubator Y Combinator (which by the way accepts applications [here](http://www.ycombinator.com/) in case you need funding, although it is not easy to get accepted). In each funding round they have multiple companies receiving investment simultaneously and attending startup dinners together. Amir was [inspired to start CrateJoy](http://socialnerdia.com/blog/cratejoy-founder-amir-elaguizy) upon noticing how well the subscription box companies in the incubator were doing. 
 
-Despite their success, there was still no good solution available for running such subscription boxes. Many were operating their businesses using various systems not really geared for subscription sites. From the start CrateJoy was specifically targeting to make a better solution than the Shopify + Chargify combination.
+Despite the success of those subscription boxes, there was still no great solution available for running them. Many were operating their businesses using various systems not really geared for subscription sites. From the start CrateJoy was specifically targeting to make a better solution than the Shopify + Chargify combination.
 
 ### Giving it a go
 
-For over 4 years we have also been running our subscription box Candy Japan with a self-made system. How can I then write about CrateJoy, if I'm not even using it? To address this dilemma, I bought another subscription box business, a small monthly Japanese anime box called [FaniPack](http://www.fanipack.com), which had already been running on CrateJoy.
+For over 4 years we have been running our subscription box Candy Japan with a self-made system. How can I then write about CrateJoy properly, if I'm not even using it? To address this dilemma, I bought another subscription box business, a small monthly Japanese anime box called [FaniPack](http://www.fanipack.com), which had already been running on CrateJoy.
 
-I have been using CrateJoy to run FaniPack for three months now, and must say I find it a joy to use.
+The staff at CrateJoy helped me transition the site from the previous owner. I have been using CrateJoy to run FaniPack for three months now, and must say I find it a joy to use. Compared with our own system, CrateJoy provides quite a natural interface for managing subscriptions. With an in-house system, you tend not to really care much about how nice your user interface is.
 
-Compared with our own system, CrateJoy provides quite a natural interface for managing subscriptions. With an in-house system, you tend not to really care much about how nice your user interface is. And when you’re the only one using it, at first it doesn’t really matter. 
-
-But when you keep using your system for years and then eventually want to have other people helping you or want to even sell your business, it starts to matter much more. CrateJoy is a lot more pleasant to use than our in-house one, which lacks even navigation menus (hey, I can remember the URLs!).
-
-In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. While having a detailed CrateJoy set-up guide might be a good addition to this book, it could never be as up to date and authoritative as [their own tutorials](http://subscriptionschool.com/), so I suggest going directly to the source to learn more about CrateJoy if you are interested in setting it up.
+When you’re the only one using it, at first the interface doesn’t really matter. But when you keep using your system for years and then eventually want to have other people helping you or want to even sell your business, it starts to matter much more. CrateJoy is a lot more pleasant to use than our in-house one, which lacks even navigation menus (hey, I can remember the URLs!).
 
 ### Templates / editor
 
@@ -366,6 +364,10 @@ This does not include payment gateway fees. For example if Stripe is your gatewa
 ### Apps
 
 At the moment CrateJoy had an app store with 9 apps in it. As the service is growing rapidly, the growth of the app store looks promising. Most of the apps are free, with only adding a referral program through the appropriately named "Referral Program" app costing an additional $99/month to use.
+
+### Would you like to learn more?
+
+While having a detailed CrateJoy set-up guide might be a good addition to this book, it could never be as up to date and authoritative as [their own tutorials](http://subscriptionschool.com/), so I suggest going directly to the source to learn more about CrateJoy if you are interested in setting it up.
 
 ## Subbly
 
