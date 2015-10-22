@@ -160,7 +160,7 @@ The 99designs process goes as follows. First you start your contest by explainin
 
 From the early drafts I could give the designers feedback, so that they could continue  perfecting their designs. From there I could then select my top favorite designs. At this point the top submitters still have time to make their designs even better, until finally you pick the best one. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
 
-## Shopping cart system as basis for your sub box site
+## Shopping cart with a recurring payments app
 
 Instead of just slapping a PayPal button on a static site, using a proper e-commerce cart system would let your customers manage their orders more easily without having to contact you by e-mail to view their order status. You could also browse your orders, mark them shipped and have automatic emails sent to customers. 
 
@@ -186,7 +186,9 @@ One of the recurring payment apps is [Chargify](https://apps.shopify.com/chargif
 
 #### PayWhirl
 
-Another option for adding a subscription layer to Shopify is PayWhirl, which is used for example by the soap subscription box [JFSoaperie](http://www.jfsoaperie.com/soapscription). PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction. 
+Another option for adding a subscription layer to Shopify is PayWhirl, which is used for example by the soap subscription box [JFSoaperie](http://www.jfsoaperie.com/soapscription). PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction.
+
+
 ![PayWhirl dashboard screenshot from their documentation](images/paywhirl_screenshot.png)
 
 You can find [PayWhirl in the Shopify app directory](https://apps.shopify.com/paywhirl-recurring-payments) or on [PayWhirl’s own site](http://www.paywhirl.com). Besides Shopify, PayWhirl can also be used in other contexts, [such as with SquareSpace](http://blog.paywhirl.com/blog/post/how-sockscapade-uses-paywhirl-to-power-their-online-monthly-sock-subscription-business).
