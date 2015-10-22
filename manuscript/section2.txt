@@ -160,7 +160,7 @@ The 99designs process goes as follows. First you start your contest by explainin
 
 From the early drafts I could give the designers feedback, so that they could continue  perfecting their designs. From there I could then select my top favorite designs. At this point the top submitters still have time to make their designs even better, until finally you pick the best one. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
 
-## Using an e-commerce shopping cart system as basis for your sub box site
+## Shopping cart system as basis for your sub box site
 
 Instead of just slapping a PayPal button on a static site, using a proper e-commerce cart system would let your customers manage their orders more easily without having to contact you by e-mail to view their order status. You could also browse your orders, mark them shipped and have automatic emails sent to customers. 
 
