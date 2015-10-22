@@ -98,6 +98,16 @@ One risk with using these buttons is that it will be more difficult to switch to
 
 If you hire support staff later on, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least inside Europe this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
 
+#### Downsides 
+
+The problem with using just the standard PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Customers are slow and cumbersome to find and browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. 
+
+You start dreading customer support questions merely because digging up the necessary information on PayPal will be so painful. Also you'll have no charts over your subscriber growth or retention rates.
+
+With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible through PayPal. This further increases customer support requests.
+
+Perhaps the biggest reason is that by just using PayPal buttons, you are locked into a relationship with only PayPal. If you have any trouble with them, you could lose access to your subscribers. It might also be better to provide some other payment options for those who do not want to use or cannot use PayPal.
+
 ### Leveraging your LaunchRock page
 
 Actually if you tried out LaunchRock, you already have a static site you can use -- your LaunchRock page! Just add a PayPal subscription button to the launch page and bam, you have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. If you have a PayPal account, you can find the subscription buttons in the merchant tools.
@@ -208,23 +218,11 @@ The options don't stop there. Another subscriptions app which works with Shopify
 
 ### Going with PrestaShop or Magento
 
-Besides Shopify, there are many other shopping cart systems which you can extend with a subscription module. For instance you could use [PrestaShop](https://www.prestashop.com/) and extend it with the [Subscriptions Module](http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/5031-subscriptions.html) add-on.
-
-Another option is to use the open source cart system [Magento](http://magento.com/) and extend it with the [Subscriptions and Recurring Payments plugin](http://ecommerce.aheadworks.com/magento-extensions/subscriptions-and-recurring-payments.html).
+Besides Shopify, there are many other shopping cart systems which you can extend with a subscription module. For instance you could use [PrestaShop](https://www.prestashop.com/) and extend it with the [Subscriptions Module](http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/5031-subscriptions.html) add-on. Or go with [Magento](http://magento.com/) shopping cart system and extend it with the [Subscriptions and Recurring Payments plugin](http://ecommerce.aheadworks.com/magento-extensions/subscriptions-and-recurring-payments.html).
 
 PrestaShop add-on for subscriptions costs 99,99 EUR, while the Magento Subscriptions and Recurring Payments extension costs $299. In the long run either will be a lot cheaper than the monthly fees many dedicated subscription platforms have. But in the end you should not decide based on just the price, as either will only be a small part of the cost of your box and you should go with the solution that feels like the best fit, not necessarily the cheapest one.
 
 ## Subscription e-commerce platforms
-
-The problem with using just the standard PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Customers are slow and cumbersome to find and browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. 
-
-You start dreading customer support questions merely because digging up the necessary information on PayPal will be so painful. Also you'll have no charts over your subscriber growth or retention rates.
-
-With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible through PayPal. This further increases customer support requests.
-
-Perhaps the biggest reason is that by just using PayPal buttons, you are locked into a relationship with only PayPal. If you have any trouble with them, you could lose access to your subscribers. It might also be better to provide some other payment options for those who do not want to use or cannot use PayPal.
-
-### Going with a full solution
 
 Using a normal ecommerce cart system which has been extended to support subscriptions might work out OK, but will likely not be as pleasant to use for you or your customers as an integrated solution which has been designed from the ground up for subscription sites, without it merely being an afterthought. 
 
