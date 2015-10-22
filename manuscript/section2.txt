@@ -224,11 +224,11 @@ PrestaShop add-on for subscriptions costs 99,99 EUR, while the Magento Subscript
 
 ## Subscription e-commerce platforms
 
-Using a normal ecommerce cart system which has been extended to support subscriptions might work out OK, but will likely not be as pleasant to use for you or your customers as an integrated solution which has been designed from the ground up for subscription sites, without it merely being an afterthought. 
+Using a normal ecommerce cart system which has been extended to support subscriptions might work out OK, but will likely not be as pleasant to use for you or your customers as an integrated solution which has been designed from the ground up for subscription boxes, without it merely being an afterthought. 
 
 Going with a company completely dedicated to subscription ecommerce means that they will be optimizing their systems to help retain customers as long as possible and have a good interface for customers to manage their subscriptions.
 
-To help in all of these matters, there are now several subscription e-commerce platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. 
+To help in all of these matters, there are now several platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. 
 
 ### Member zone and streamlined shipping
 
@@ -247,55 +247,55 @@ Among the most important aspects when comparing ways to set up your subscription
 
 ### Provided layout templates / editor
 
-The success of your site will be highly impacted by the conversion ratio of your landing page - getting visitors to convert to customers. If you need 100 visitors to get one customer, you will be radically better off than a competitor who needs 200 visitors for the same gain. 
+The success of your site will be highly impacted by the conversion ratio of your landing page - getting visitors to convert to customers. If you need 100 visitors to get one customer, you will be radically better off than a competitor who needs 200 visitors for the same gain. How you design your site will have a big impact on how well your visitors will convert to customers. Full solutions will already come with proven templates to choose from.
 
-How you design your site will have a big impact on how well your visitors will convert. For this reason, having a good templates that works well is important. If you use a popular system and see other successful subscription boxes using layouts similar to those offered, at least you'll know those to be a good starting point.
+Besides just the attractive layout, things like copywriting, photos and video on your site will of course also have a huge impact on how effectively your site sells. To make sure you can easily keep your site updated, the template should be easy to edit. Either by having slots where you can place your desired text or images, or an easy-to-use editor that allows you to drag components around.
 
-Besides just the attractive layout, things like copywriting, photos and video on your site will of course also have a huge impact on how effectively your site sells. The template should be easy to edit, so that you will be more likely to update it. Either your template should already have slots for presenting those well or there should be an editor which is comfortable enough for you to use.
-
-In practice it will be impossible to know which layout will work for you, so it should also be possible to customize the site freely by editing HTML/CSS directly. Even if that is not something you want to do yourself, you should have the option of being able to hire a freelancer to do any changes which you need.
+In practice it will be impossible to know which layout will work for you, so it should also be possible to customize the site freely by editing HTML/CSS directly if need be. That does not necessarily have to be something you would do yourself, but you should have the option of being able to hire a freelancer to do any detailed changes which you need.
 
 ### Supported payment methods
 
-There are many ways to pay online. You can have a form on your site where users can enter credit cards directly, just as they do on Amazon and many other online store. While this can make your site look very professional, another fine option is to take your customers over to PayPal to complete their payment. 
+There are many ways to pay online. You can have a form on your site where users can enter credit cards directly, similar to Amazon and many other online stores. While this can make your site look very professional, another fine option is to take your customers over to PayPal to complete their payment. 
 
 Some customers prefer to enter their cards directly, others are comforted by having a trusted third party appear between the site and their purchase. Some are even [against PayPal on principle](http://www.paypalsucks.com/), although personally I have never had a single problem with PayPal after ~5 years of accepting payments through them.
 
 #### Gateways
 
-When accepting credit cards directly, your payment gateway will affect the processing fees you pay, fraud detection and which countries' cards are accepted. The gateway Candy Japan uses is a German company called [WireCard](http://wirecard.com/).
+When accepting credit cards directly, your payment gateway will affect the processing fees you pay. Gateways can offer other services as well, such as fraud detection. The gateway Candy Japan uses is a German company called [WireCard](http://wirecard.com/).
 
 Recently the most popular gateway for subscription boxes is Stripe. It is very smooth to use for the customer, as their credit card information is often already pre-filled. The way that works is that if the customer has previously used Stripe to purchase somewhere else, the payment details are remembered for future purchases on other stores.
 
-However the downside of Stripe is that while they accept merchants from most countries, not all are supported. You can see the currently supported Stripe countries [here](https://stripe.com/global). PayPal also restricts their more advanced payment APIs to some countries only, while PayPal Payments Standard (the simple subscription buttons) is more widely available.
+However the downside of Stripe is that while they accept merchants from most countries, not all are supported. You can see the currently supported Stripe countries [here](https://stripe.com/global). Your customers can be anywhere, but as a merchant you need to be in one of the supported countries. 
+
+PayPal also restricts their more advanced payment APIs to some countries only, while PayPal Payments Standard (the simple subscription buttons) is more widely available.
 
 If there is a certain payment gateway you wish to use, for example if you are based in Russia and need to use a local payment provider, then you would need to find a subscription e-commerce platform which also supports that gateway. 
 
-If you are US-based, you have a lot of choice. In some countries you might be happy just to find any working way for accepting payments. For example in my case as a sole-proprietor foreigner living in Japan, I couldn't initially find any gateway which would accept my strange situation, until I found [WireCard](https://www.wirecard.com/).
+If you are US-based, congratulations: you have a lot of choice. In some countries you might be happy just to find any working way for accepting payments. In my case as a sole-proprietor foreigner living in Japan, I couldn't initially find any gateway which would accept me, until I found [WireCard](https://www.wirecard.com/).
 
 ### Ease of preparing shipments
 
-As shipping out stuff is a repetitive step which you will need to do every single month (if not more), it should be as easy as possible. There are different ways to schedule your shipments, which will affect how your day-to-day shipping activity will go. To see these options, check the section on fulfillment in this book.
+As shipping out stuff is a repetitive step which you will need to do every single month (if not more), it should be as easy as possible. There are different ways to schedule your shipments, which will affect how your day-to-day shipping activity will go. 
 
 If you send in batches, you definitely don't want to have to write labels by hand once you get past a few dozen subscribers. After a few hundred, even clicking one-by-one to generate each label starts to get tedious. For Candy Japan our shipping list is one big PDF file with over a hundred pages, which then gets printed on shipping labels in one go. 
 
 ### Ease of set-up
 
-While other aspects will dominate in importance over time, ease of set-up is still very important, as otherwise you might give up on your box idea before it goes anywhere. You are much more likely to remain motivated to continue with your project if you can get to the point of having the first few subscribers. 
+While other aspects will eventually dominate in importance, ease of set-up matters too, as otherwise you might give up on your box idea before it goes anywhere. You are much more likely to remain motivated to continue with your project if you can get to the point of having the first few subscribers. 
 
 That means setting up a simple site which can accept payments should be as painless as possible. If you are working on this project alone, your likelihood of going through with it will be much less if you need to set up your own server and configure software to get started. Luckily there are now good solutions which require minimal effort to set up.
 
 ### Cost of the platform
 
-You might be tempted to focus on the cost alone, but it is one of the less important aspects to consider. For example if subscription platform A costs $50 / month and platform B is $100 / month, if B brought you just one extra customer each month or saved just a bit of your time, then it would very likely already be worth the difference.
+You might be tempted to focus on the cost alone, but while important, you might want to put more weight on other considerations. For example if subscription platform A costs $50 / month and platform B is $100 / month, if B brought you just one extra customer each month or saved just a bit of your time, then it would very likely already be worth the difference.
 
 The systems tend to be priced such that the cost scales as your customer base grows, often with a base fee and an additional per-transaction fee. Any of the commonly available platforms is cheap enough that the cost is not much of an issue and your expenses will be likely dominated by other costs such as shipping and marketing expenses.
 
-As a point of comparison, if you hired a west-coast US freelance web developer for 6 months to make an entirely new site and system just for you, that alone might cost nearly $100k. You should feel very lucky that there are already platforms that accomplish the same with a fraction of the cost of custom development.
+As a point of comparison, if you hired a web developer to make an entirely new subscription system just for you, that alone could easily cost tens of thousands of dollars. You should feel very lucky that there are now platforms that accomplish the same with a fraction of the cost of custom development.
 
 ### App/extension ecosystem
 
-Similar to how smartphones have their own app ecosystems, likely the same will emerge for subscription e-commerce platforms as well. If you go with a bigger player, your app selection will likely be better as well.
+Similar to how smartphones have their own app ecosystems, the same is emerging for subscription e-commerce platforms as well. If you go with a bigger player, your app selection will likely be larger as well.
 
 This is not a big consideration at the moment, but going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you in the future.
 
