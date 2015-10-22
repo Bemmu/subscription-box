@@ -188,7 +188,6 @@ One of the recurring payment apps is [Chargify](https://apps.shopify.com/chargif
 
 Another option for adding a subscription layer to Shopify is PayWhirl, which is used for example by the soap subscription box [JFSoaperie](http://www.jfsoaperie.com/soapscription). PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction.
 
-
 ![PayWhirl dashboard screenshot from their documentation](images/paywhirl_screenshot.png)
 
 You can find [PayWhirl in the Shopify app directory](https://apps.shopify.com/paywhirl-recurring-payments) or on [PayWhirl’s own site](http://www.paywhirl.com). Besides Shopify, PayWhirl can also be used in other contexts, [such as with SquareSpace](http://blog.paywhirl.com/blog/post/how-sockscapade-uses-paywhirl-to-power-their-online-monthly-sock-subscription-business).
@@ -204,6 +203,8 @@ If your subscription plan is $29/month, then at 20 subscribers PayWhirl would co
 #### ChargeBee
 
 The options don't stop there. Another subscriptions app which works with Shopify is [ChargeBee](https://apps.shopify.com/chargebee-recurring-billing?ref=shopstorm), priced in tiers based on how many monthly invoices you have. Starting at $49/month for 50 invoices, going to $79 for 200 with finally $249 for 2000. For monthly charges ChargeBee creates its own invoices instead of making normal Shopify orders, but on the other hand it supports several payment processors.
+
+![ChargeBee dashboard screenshot from their documentation](images/chargebee_screenshot.png)
 
 ### Going with PrestaShop or Magento
 
