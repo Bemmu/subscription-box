@@ -20,11 +20,9 @@ With a "coming soon" launch page, people can express their interest for your sub
 
 There are many ways to put up a simple launch page. One option is a service called LaunchRock, which enables you to set up your launch pages easily, so you can start gathering your audience as early as possible.  
 
-If you already have a webhost and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved. 
-
-While I'm not advocating LaunchRock as the ultimate best solution for every situation, it's an easy-to-use well known option, so let's explore that a bit. 
-
 ![LaunchRock landing page](images/launchrock.png)
+
+If you already have a webhost and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved. 
 
 On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
 
@@ -60,9 +58,11 @@ This step is for discovering if people are truly interested in this idea **and**
 
 ### Make it perfect later
 
-For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). They put something simple up, then improved it iteratively. You can do the same. It doesn't have to be perfect from the start. [Ship it. Ship it. Ship it. Optimize for learning over perfection.](https://vimeo.com/129913527)
+For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). They put something simple up, then improved it iteratively. You can do the same. It doesn't have to be perfect from the start. 
 
-It's also incredibly motivational to actually start having even a handful of people pay you. You'll work harder just so you wouldn't disappoint them.
+It's also incredibly motivational to actually have even a handful of people paying you. You'll work harder just so you wouldn't disappoint them.
+
+#### If it fails
 
 What if you collect payments but then cannot actually deliver what you promised, or decide you don’t actually want to pursue your subscription box idea at all? While you do have paying subscribers signed up and it is sad if you must shut down, you can still cancel them and issue refunds. 
 
@@ -70,21 +70,15 @@ I had to do this once when I attempted to start a Japanese stationary subscripti
 
 **Free subscription box idea**: If you're into both Japan and pens, you could try doing a club for Japanese stationery. The response was promising.
 
-While it sucks to build up excitement and then not deliver, it beats the alternative of wasting a ton of time building your site and then finding out that no-one cares. You can choose to either spending weeks or months of your time perfecting something that falls flat on its face, or possibly slightly disappointing a handful of early customers. 
+While it sucks to build up excitement and then not deliver, it beats the alternative of wasting a ton of time building your site only to find out that no-one cares. You can choose to either spend weeks or months of your time perfecting something that falls flat on its face, or possibly slightly disappointing a handful of early customers. 
 
-If you hadn't started early, people will have a chance to show their interested towards your project early on and keep you going. Even if it doesn't pan out, your customers are no worse off, as you can still refund them for any undelivered shipments. 
+If you launch early, people will have a chance to show their interest towards your project early on and keep you going. Even if it doesn't pan out, your customers are no worse off, as you can still refund them for any undelivered shipments. 
 
 So if at all possible, you want to validate your idea in as real as possible a way, and what is more real than actually having a site up that can accept payments? 
 
 ## Static site with PayPal subscription buttons
 
 If you are already comfortable with setting up static websites, there is a very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
-
-**PayPal money saving tip**: If you have enough transaction volume, make sure you apply for the [merchant discounts](https://www.paypal.com/us/cgi-bin/webscr?cmd=_fees-rate-about-outside). For example if you are doing $5000 / month in transactions, you could save $250 / month with just a few clicks.
-
-![](images/paypal_discount.png)
-
-If you hire support staff, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least inside Europe this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
 
 ### Customizing the subscription button HTML code
 
@@ -96,21 +90,29 @@ In order to keep track of PayPal subscriptions, you can browse your subscribers 
 
 Even with the limitations, PayPal Payments Standard should be perfectly sufficient for testing the waters to see if people would subscribe to your box. The best thing about it is how easy it is to set up. If you know how to copy & paste code to a static site, you can start accepting subscriptions within a day.
 
-One risk with using these buttons is that it will be more difficult to switch to something else later, as not all support scanning PayPal for new payments from those simple buttons (called "PayPal Payments Standard").
+One risk with using these buttons is that it will be more difficult to switch to something else later, as not all support scanning PayPal for new payments from those simple buttons (called "PayPal Payments Standard"). Most notably the subscription box platform CrateJoy doesn't support this.
+
+**PayPal money saving tip**: If you have enough transaction volume, make sure you apply for the [merchant discounts](https://www.paypal.com/us/cgi-bin/webscr?cmd=_fees-rate-about-outside). For example if you are doing $5000 / month in transactions, you could save $250 / month with just a few clicks.
+
+![](images/paypal_discount.png)
+
+If you hire support staff later on, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least inside Europe this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
 
 ### Leveraging your LaunchRock page
 
-Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. If you have a PayPal account, you can find the subscription buttons in the merchant tools.
+Actually if you tried out LaunchRock, you already have a static site you can use -- your LaunchRock page! Just add a PayPal subscription button to the launch page and bam, you have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. If you have a PayPal account, you can find the subscription buttons in the merchant tools.
 
 ![Where to find the merchant tools](images/paypal_payments.png)
 
-To get the PayPal subscription button, first create a PayPal account if you don't already have one. Then go to the "Merchant Services" tab and choose "Subscriptions & Recurring Payments". You will just need to choose the name of your subscription product, the currency and monthly charging. After that you get HTML code which you can copy and paste to your static site, resulting in a subscription button. For use with LaunchRock, it may be easier to use the simple link intended for using in emails.
+To get the PayPal subscription button, first create a PayPal account if you don't already have one. Then go to the "Merchant Services" tab and choose "Subscriptions & Recurring Payments". You will just need to choose the name of your subscription product, the currency and monthly charging. After that you get HTML code which you can copy and paste to your static site, resulting in a subscription button. For use with LaunchRock, it may be easier to use the simple link intended for use in emails.
 
 ![Setting up the PayPal button](images/paypal_payments_standard.png)
 
-Incidentally, if you already have an email list, you wouldn't even need a website at all, as you can just mail out this link along with an explanation of what your subscription box is about. That is how we started with Candy Japan. I just emailed some of the customers of my previous online store to ask if they would be interested to subscribe to a twice-monthly candy service and just included the PayPal subscription sign-up link in those emails.
+Incidentally, if you already have an email list, you wouldn't even need a website at all, as you can just mail out this link along with an explanation of what your subscription box is about. That is how I got started with Candy Japan.
 
-Since some did subscribe that way, I was encouraged to actually do the effort of setting up a proper website. On the site we used just the same PayPal subscription button for a long time. It was plenty enough to see if anyone would subscribe. Even after we added more payment options later, it did not noticeably affect the amount of subscribers we were getting, so going with just PayPal would have probably been fine as well.
+I just emailed some of the customers of my previous online store to ask if they would be interested in subscribing to a twice-monthly candy service. In the email I just included the PayPal subscription sign-up link in those emails, there was no home page at all.
+
+Since some did subscribe that way, I was encouraged to actually do the effort of setting up a proper website. On the site we used just the same PayPal subscription button for a long time. It was plenty enough to see if anyone would subscribe. Even after we added more payment options later, it did not noticeably increase the amount of subscribers we were getting, so going with just PayPal would probably have worked fine as well.
 
 ![Copying the subscription button link from PayPal](images/launchrock3.png)
 
@@ -122,37 +124,43 @@ By the way, these simple recurring payment buttons are called "PayPal Payments S
 
 ### Going with SquareSpace
 
-If you are not comfortable coding up your own site and LaunchRock didn't seem attractive to you, another one of the easiest ways to set up a static site is using an online content management system such as [SquareSpace](http://www.squarespace.com). Calling it a "content management system" makes it sound a bit scary, but really it’s just a way to easily drag and drop your page layout together while adding some content to your pages.
+If you are not comfortable coding up your own site and LaunchRock didn't seem attractive to you, another easy way to set up a static site is by using an online content management system such as [SquareSpace](http://www.squarespace.com). 
+
+Calling it a "content management system" makes it sound a bit scary, but really it’s just a way to easily drag and drop your page layout together while adding some content to your pages.
 
 You can use ready-made templates that work on mobile as well. 
 
-As a test to try it out, I attempted to remake our current site for Candy Japan which I had initially hand-coded in HTML. In a few hours I was able to remake the main page to be somewhat like the the current design, but it was quite hard to get it exactly right. I found that some things such as arranging buttons next to each other as I wanted wasn’t easy to do precisely using the interface, but for a basic layout it should be more than sufficient. 
-
-#### It can be a drag
+#### Dragging and dropping or just a drag?
 
 If you want to get pixel-perfectionist about arranging your site, you may find that the drag and drop interface won't let you do everything you might want to do. But as long as you are satisfied going along with what the template author had in mind, you'll be golden. More accurately arranging your site will require editing the templates manually. For roughly arranging images, text and buttons as you want it is enough to just drag things around using the visual interface. 
 
+As a test to try out the SquareSpace site designer, I attempted to remake our current site for Candy Japan. I initially hand-coded it in HTML and now wanted to get the same result by just dragging and dropping. In a few hours I was able to remake the main page to be somewhat like the the current design, but it was quite hard to get it exactly right. I found that some things such as arranging buttons next to each other as I wanted wasn’t easy to do precisely using the interface, but for a basic layout it should be more than sufficient. 
+
 Who knows, perhaps those limitations are even useful as they can help prevent you from making an ugly arrangement of components even if you have no eye for visual design. In particular many SquareSpace designs are a lot more whitespace-heavy than I would feel is necessary, which probably means my feeling is wrong and that SquareSpace is forcing me to do the right thing :-)
 
-### Using 99designs to have designers compete on a site design
+### Using 99designs to have designers compete on your site design
 
 What if you want a cool custom design, but have no design sense and/or no HTML skills?
 
-Besides hiring a designer directly or learning HTML yourself, another option is to have your site designed by starting a design competition on [99designs](http://99designs.com). On the site each designer can submit their own work and you can pick the one you liked the most. Besides whole site designs, 99designs can also be used for other work, such as logos and packaging design.
+Besides hiring a designer directly or learning HTML yourself, another option is to have your site layout made by starting a design competition on [99designs](http://99designs.com). On the site each designer can submit their own work and then you pick the one you liked the most. Besides whole site designs, 99designs can also be used for other work, such as logos and packaging design.
 
 For instance the cover of the book you are reading was designed through such a contest (thank you [OberonZG](https://en.99designs.jp/profiles/1273461)). You can see [some of the other cover designs that were submitted](https://en.99designs.jp/book-cover-design/contests/create-e-book-cover-subscription-boxes-502795/overview). I had so many good options it was tough to choose.
 
 ![Winning design](images/99designs.png)
 
-Using 99designs requires a bit of an investment, but is still quite cheap considering the amount of total work you will be getting from several designers. The price depends on how many designers you want competing, but prices go from around $500 for 15 designs to $1500 for 35 designs. There are additional optional fees (up-sells!) for getting more promotion for your contest such as having the @99designs tweet about the contest or promote it in their newsletter. The add-ons are quite attractively packaged and you might have trouble resisting using some of these extra options.
+Using 99designs requires a bit of an investment, but is still quite cheap considering the amount of total work you will be getting from several designers. 
+
+The price depends on how many designers you want competing, but prices go from around $500 for 15 designs to $1500 for 35 designs. 
+
+There are additional optional fees (up-sells!) for getting more promotion for your contest, such as having @99designs tweet about your contest or promote it in their newsletter. The add-ons are sold quite convincingly and I could not resist using some of the up-sells, so you might want to assume that you will end up paying a bit extra.
 
 #### How it works
 
-The 99designs process is to first start your contest by explaining the kind of design you are looking for in as much detail as possible. To host the contest for making the cover of this book, I submitted my own extremely rough sketch on what the cover might look like. Then some time passed and I started getting first draft designs coming in. 
+The 99designs process goes as follows. First you start your contest by explaining the kind of design you are looking for in as much detail as possible. To host the cover contest for this book, I submitted my own extremely rough sketch on what the cover might look like. Just describing your idea in words is enough, but I wanted to be extra clear. Then some time passed and I started getting several first draft designs coming in. 
 
-From the early drafts I could give the designers feedback so they could continue to perfect their designs. From there I could then select my top favorite designs. At this point the top submitters still have time to make their designs even better, until finally you pick the best one. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
+From the early drafts I could give the designers feedback, so that they could continue  perfecting their designs. From there I could then select my top favorite designs. At this point the top submitters still have time to make their designs even better, until finally you pick the best one. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
 
-## Using a traditional e-commerce cart system
+## Using an e-commerce shopping cart system as basis for your sub box site
 
 Instead of just slapping a PayPal button on a static site, using a proper e-commerce cart system would let your customers manage their orders more easily without having to contact you by e-mail to view their order status. You could also browse your orders, mark them shipped and have automatic emails sent to customers. 
 
@@ -160,7 +168,7 @@ While there are completely dedicated systems geared for subscription box sites, 
 
 ### WooCommerce Subscriptions
 
-WooCommerce is an open source e-commerce plugin for the website creation tool (or CMS) called WordPress. While WooCommerce allows you to create an online store, it does not support recurring subscriptions by default. WooCommerce Subscriptions is an add-on which exists to add this support. With this combination, you could set up your own subscription box on top of WooCommerce.
+WooCommerce is an open source e-commerce plugin for the website creation tool (or CMS) called WordPress. While WooCommerce allows you to create an online store, it does not support recurring subscriptions by default. WooCommerce Subscriptions is an add-on which exists to add this support. With this combination, you can set up your own subscription box site on top of WooCommerce.
 
 ![BlueHost offers WooCommerce hosting](images/bluehost.png)
 
@@ -168,15 +176,20 @@ WooCommerce Subscriptions has a flat purchase price of $199, after which you can
 
 ### Extending Shopify to support a subscription box
 
-Not originally geared for subscription boxes, [Shopify](http://www.shopify.com) is an ecommerce system for starting online stores. Bonus fact: Shopify [was originally created to run a single snowboarding shop](http://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/), but has since grown to handle multiple stores and $8 billion worth of sales. By default Shopify does not support recurring payments, but it can be extended to do that by using apps.
+Not originally geared for subscription boxes, [Shopify](http://www.shopify.com) is an ecommerce system for starting online stores. Bonus fact: Shopify [was originally created to run a single snowboarding shop](http://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/), but has since grown to handle multiple stores and $8 billion worth of sales. By default Shopify does not support recurring payments, but it can be extended to do that by using apps. Turns out there is quite a selection of such apps available.
 
 #### Chargify
 
 One of the recurring payment apps is [Chargify](https://apps.shopify.com/chargify). By combining Shopify and Chargify, you have a system suitable for running a subscription box. Chargify pricing is $65 for up to 20 customers, $129 for up to 500 and $459 for up to 2,000. Shopify costs $29/month and has gateway fees identical with Stripe, but with volume discounts for higher sales.
 
+![Chargify dashboard screenshot from their documentation](images/chargify_screenshot.png)
+
 #### PayWhirl
 
-Another option for adding a subscription layer to Shopify is [PayWhirl](https://apps.shopify.com/paywhirl-recurring-payments), which is used for example by the subscription box [Death Wish Coffee](http://www.deathwishcoffee.com/). PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction. You can find them in the Shopify app directory or on PayWhirl’s own site. Besides Shopify, PayWhirl can also be used in other contexts, [such as with SquareSpace](http://blog.paywhirl.com/blog/post/how-sockscapade-uses-paywhirl-to-power-their-online-monthly-sock-subscription-business).
+Another option for adding a subscription layer to Shopify is PayWhirl, which is used for example by the soap subscription box [JFSoaperie](http://www.jfsoaperie.com/soapscription). PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction. 
+![PayWhirl dashboard screenshot from their documentation](images/paywhirl_screenshot.png)
+
+You can find [PayWhirl in the Shopify app directory](https://apps.shopify.com/paywhirl-recurring-payments) or on [PayWhirl’s own site](http://www.paywhirl.com). Besides Shopify, PayWhirl can also be used in other contexts, [such as with SquareSpace](http://blog.paywhirl.com/blog/post/how-sockscapade-uses-paywhirl-to-power-their-online-monthly-sock-subscription-business).
 
 #### ReCharge
 
