@@ -204,7 +204,7 @@ If your subscription plan is $29/month, then at 20 subscribers PayWhirl would co
 
 The options don't stop there. Another subscriptions app which works with Shopify is [ChargeBee](https://apps.shopify.com/chargebee-recurring-billing?ref=shopstorm), priced in tiers based on how many monthly invoices you have. Starting at $49/month for 50 invoices, going to $79 for 200 with finally $249 for 2000. For monthly charges ChargeBee creates its own invoices instead of making normal Shopify orders, but on the other hand it supports several payment processors.
 
-![ChargeBee dashboard screenshot from their documentation](images/chargebee_screenshot.png)
+![ChargeBee dashboard screenshot from their documentation](images/chargebee_screenshot.jpg)
 
 ### Going with PrestaShop or Magento
 
