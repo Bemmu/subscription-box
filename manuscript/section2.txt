@@ -186,11 +186,17 @@ WooCommerce Subscriptions has a flat purchase price of $199, after which you can
 
 ### Extending Shopify to support a subscription box
 
-Not originally geared for subscription boxes, [Shopify](http://www.shopify.com) is an ecommerce system for starting online stores. Bonus fact: Shopify [was originally created to run a single snowboarding shop](http://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/), but has since grown to handle multiple stores and $8 billion worth of sales. By default Shopify does not support recurring payments, but it can be extended to do that by using apps. Turns out there is quite a selection of such apps available.
+Not originally geared for subscription boxes, [Shopify](http://www.shopify.com) is an ecommerce system for starting online stores. Bonus fact: Shopify [was originally created to run a single snowboarding shop](http://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/), but has since grown to handle multiple stores and $8 billion worth of sales. 
+
+Shopify costs $29/month and has gateway fees identical with Stripe, but with volume discounts for higher sales. By default Shopify does not support recurring payments, but it can be extended to do that by using apps. 
+
+You can see a quick price comparison chart of the apps below. The chart assumes you have a product which you are charging $29/month for and shows how much various Shopify billing apps would cost at different subscriber counts. On top of this cost you would also need to pay Shopify's own fees.
+
+![](images/shopify_apps_chart.png)
 
 #### Chargify
 
-One of the recurring payment apps is [Chargify](https://apps.shopify.com/chargify). By combining Shopify and Chargify, you have a system suitable for running a subscription box. Chargify pricing is $65 for up to 20 customers, $129 for up to 500 and $459 for up to 2,000. Shopify costs $29/month and has gateway fees identical with Stripe, but with volume discounts for higher sales.
+One of the recurring payment apps is [Chargify](https://apps.shopify.com/chargify). By combining Shopify and Chargify, you have a system suitable for running a subscription box. Chargify pricing is $65 for up to 20 customers, $129 for up to 500 and $459 for up to 2,000. 
 
 ![Chargify dashboard screenshot from their documentation](images/chargify_screenshot.png)
 
@@ -210,7 +216,7 @@ If your subscription plan is $29/month, then at 20 subscribers PayWhirl would co
 
 There also exists an app called [ReCharge](https://apps.shopify.com/shopify-recurring-payments), which is designed to be used both as a "subscribe & save" -type feature similar to Amazon or as the engine for subscription boxes. The [introduction video on their app page](https://www.youtube.com/watch?v=eNm1s_vU8N0) is excellent, I recommend checking it out. ReCharge is $19.99/month + 1% per transaction for up to 500 subscribers, with a negotiable discount if you have a larger customer base.
 
-![Setting up a ReCharge subscription plan](images/recharge_1.png)
+![ReCharge subscription plan set-up screen](images/recharge_1.png)
 
 With ReCharge all recurring subscriptions appear as new orders within Shopify, with special new interfaces for managing them both for you and your customer. You can change the subscriptions and update credit cards etc. through the interface which ReCharge adds to your Shopify. It also sends notification emails (welcome email, charge failed and charge succeeded) to your customers automatically. ReCharge supports monthly and other frequencies.
 
