@@ -202,13 +202,17 @@ Another option for adding a subscription layer to Shopify is PayWhirl, which is 
 
 You can find [PayWhirl in the Shopify app directory](https://apps.shopify.com/paywhirl-recurring-payments) or on [PayWhirl’s own site](http://www.paywhirl.com). Besides Shopify, PayWhirl can also be used in other contexts, [such as with SquareSpace](http://blog.paywhirl.com/blog/post/how-sockscapade-uses-paywhirl-to-power-their-online-monthly-sock-subscription-business).
 
+If your subscription plan is $29/month, then at 20 subscribers PayWhirl would cost only $11.60/month compared to Chargify’s $65, so it is cheaper to start with. At this plan when having a bit under 500 subscribers it would become more expensive, but it would be quite a trivial difference. You should be choosing the system rather based on which you feel is easier to use and most of all the better user experience for your customers.
+
 #### ReCharge
+
+![ReCharge dashboard](images/recharge_2.png)
 
 There also exists an app called [ReCharge](https://apps.shopify.com/shopify-recurring-payments), which is designed to be used both as a "subscribe & save" -type feature similar to Amazon or as the engine for subscription boxes. The [introduction video on their app page](https://www.youtube.com/watch?v=eNm1s_vU8N0) is excellent, I recommend checking it out. ReCharge is $19.99/month + 1% per transaction for up to 500 subscribers, with a negotiable discount if you have a larger customer base.
 
-With ReCharge all recurring subscriptions appear as new orders within Shopify, with special new interfaces for managing them both for you and your customer. You can change the subscriptions and update credit cards etc. through the interface which ReCharge adds to your Shopify. It also sends notification emails (welcome email, charge failed and charge succeeded) to your customers automatically. ReCharge supports monthly and other frequencies.
+![Setting up a ReCharge subscription plan](images/recharge_1.png)
 
-If your subscription plan is $29/month, then at 20 subscribers PayWhirl would cost only $11.60/month compared to Chargify’s $65, so it is cheaper to start with. At this plan when having a bit under 500 subscribers it would become more expensive, but it would be quite a trivial difference. You should be choosing the system rather based on which you feel is easier to use and most of all the better user experience for your customers.
+With ReCharge all recurring subscriptions appear as new orders within Shopify, with special new interfaces for managing them both for you and your customer. You can change the subscriptions and update credit cards etc. through the interface which ReCharge adds to your Shopify. It also sends notification emails (welcome email, charge failed and charge succeeded) to your customers automatically. ReCharge supports monthly and other frequencies.
 
 #### ChargeBee
 
