@@ -377,17 +377,17 @@ At the moment CrateJoy had an app store with a handful of apps in it. As the ser
 
 ![CrateJoy app store](images/cratejoy_apps.png)
 
-### Would you like to learn more?
+### More to read on CrateJoy
 
 While having a detailed CrateJoy set-up guide might be a good addition to this book, it could never be as up to date and authoritative as [their own tutorials](http://subscriptionschool.com/), so I suggest going directly to the source to learn more about CrateJoy if you are interested in setting it up.
 
 ## Subbly
 
-Subbly is a subscription e-commerce platform founded by Stefan Pretty. It is designed to help make starting a subscription business as painless as possible.
+Subbly is a subscription e-commerce platform founded by Stefan Pretty. It is designed to make starting a subscription business as painless as possible.
 
 As [Subbly's blog puts it](http://www.subbly.co/blog/what-is-subbly-5-things-you-need-to-know-about-the-subscription-box-ecommerce-platform/) "*Subbly is an all-in-one subscription eCommerce solution that provides vendors with everything they need to set up a subscription box business on one simple platform.*".
 
-Subbly team prides themselves on great support, including personal help to grow your business. When I set up my own Subbly test site I was even offered a free consultation session with the founder, although that might be a time-limited offer.
+Subbly team prides themselves on great support, including personal help to grow your business. When I set up my own Subbly test site I was even offered a free consultation session with the founder, although that might have been a time-limited offer.
 
 ### Templates / editor
 
@@ -397,7 +397,7 @@ Designing your site with one of the provided templates is a matter of choosing a
 
 ![Customizing your site template on Subbly](images/subbly_editor.png)
 
-You cannot edit texts by just clicking on them, but you can see the editable texts side-by-side with your live site. Instead of clicking on the text you want to change, you need to find the right place in theme options to change your desired part. On the other hand having all the options clearly listed in front of you makes it very clear which parts are editable.
+With the old editor you could not edit texts by just clicking on them, but you could see the editable texts side-by-side with your live site. It seems that Subbly has also recently been shifting more towards a visual editor. When I tested it, instead of clicking on the text you want to change, you need to find the right place in theme options to change your desired part. This was actually not that unintuitive, as having all the options clearly listed in front of you makes it very clear which parts are editable.
 
 ![What I achieved in 15 minutes with Subbly](images/subbly_editor2.png)
 
@@ -421,6 +421,6 @@ In most cases that is significantly cheaper than CrateJoy. Here is a comparison 
 
 ### Apps
 
-Subbly has no third-party app directory, but has ShipStation integration. ShipStation is a web-based software for handling shipments, through which you can integrate with USPS, UPS, FedEx and DHL. It is ideal when you are selling goods through multiple channels, for example if you have an online store selling the same products that your subscription box site is selling, you can use ShipStation to have just one shipment flow. It also helps you print labels.
+Subbly has no third-party app directory, but it does have ShipStation integration. ShipStation is a web-based software for handling shipments, through which you can integrate with USPS, UPS, FedEx and DHL. It is ideal when you are selling goods through multiple channels, for example if you have an online store selling the same products that your subscription box site is selling, you can use ShipStation to have just one shipment flow. It also helps you print labels.
 
 Zapier integration is coming soon. Zapier is a bit similar to IFTTT, providing an interface for creating triggered automations. For example Zapier could send you an email, iOS notification or a Slack message when an order comes in. There are many possibilities to use it to trigger useful actions, as Zapier can interact with almost anything.
