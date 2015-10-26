@@ -6,9 +6,9 @@ For our box Candy Japan we did build our own system from scratch, because at the
 
 Actually, in the beginning you might not even need any fancy system at all.
 
-## Starting with a launch page
-
 Even a simple sign-up page can do before you have your real site together.
+
+## Starting with a launch page
 
 You have your domain name ready to go and are full of enthusiasm to get a site up quickly. Yet you are not feeling quite ready to figure out an ecommerce system. What would be an easy next step instead? 
 
@@ -66,15 +66,21 @@ It's also incredibly motivational to actually have even a handful of people payi
 
 What if you collect payments but then cannot actually deliver what you promised, or decide you don’t actually want to pursue your subscription box idea at all? While you do have paying subscribers signed up and it is sad if you must shut down, you can still cancel them and issue refunds. 
 
-I had to do this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
-
-**Free subscription box idea**: If you're into both Japan and pens, you could try doing a club for Japanese stationery. The response was promising.
+I had to do this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. Actually that's a free idea for you right there. If you're into both Japan and pens, you could try doing this club. The response was promising.
 
 While it sucks to build up excitement and then not deliver, it beats the alternative of wasting a ton of time building your site only to find out that no-one cares. You can choose to either spend weeks or months of your time perfecting something that falls flat on its face, or possibly slightly disappointing a handful of early customers. 
 
 If you launch early, people will have a chance to show their interest towards your project early on and keep you going. Even if it doesn't pan out, your customers are no worse off, as you can still refund them for any undelivered shipments. 
 
 So if at all possible, you want to validate your idea in as real as possible a way, and what is more real than actually having a site up that can accept payments? 
+
+## Crowdfunding
+
+While I'm going to mostly talk about putting up a static site yourself, another great option recently is to list your project on [KickStarter](https://www.kickstarter.com/) or [IndieGogo](https://www.indiegogo.com/). Through these crowdfunding platforms, you can get committed paying customers without even having to put up your own website. Not only is it a great way to test if your idea truly has legs, but it can serve as marketing as well.
+
+Both sites allow you to describe your subscription box idea and have people commit to paying for your first boxes. If you get enough orders that way, you'll then know that there is interest towards your concept and can go ahead and launch the actual site. Projects are only funded if they reach their funding goal, so stopping your project is easy if you discover that there is no interest.
+
+The only downside is that at the moment these crowdfunding sites do not support recurring payments. While you can collect initial orders, to have them automatically recur you would then need to reach out to customers and try to get them to re-subscribe to your recurring plan on your site.
 
 ## Static site with PayPal subscription buttons
 
@@ -90,13 +96,13 @@ In order to keep track of PayPal subscriptions, you can browse your subscribers 
 
 Even with the limitations, PayPal Payments Standard should be perfectly sufficient for testing the waters to see if people would subscribe to your box. The best thing about it is how easy it is to set up. If you know how to copy & paste code to a static site, you can start accepting subscriptions within a day.
 
-One risk with using these buttons is that it will be more difficult to switch to something else later, as not all support scanning PayPal for new payments from those simple buttons (called "PayPal Payments Standard"). Most notably the subscription box platform CrateJoy doesn't support this.
+One risk with using these buttons is that it will be more difficult to switch to something else later, as not all support scanning PayPal Payments Standard for new payments from subscriptions started through those simple buttons. Most notably neither of the major subscription box platforms CrateJoy and Subbly supports this.
 
 **PayPal money saving tip**: If you have enough transaction volume, make sure you apply for the [merchant discounts](https://www.paypal.com/us/cgi-bin/webscr?cmd=_fees-rate-about-outside). For example if you are doing $5000 / month in transactions, you could save $250 / month with just a few clicks.
 
 ![](images/paypal_discount.png)
 
-If you hire support staff later on, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least inside Europe this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
+**Another quick tip**: If you hire support staff later on, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least inside Europe this required sending PayPal a scan of their passport or other identity document, but at least the process can be completed online.
 
 #### Downsides 
 
