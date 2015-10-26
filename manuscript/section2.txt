@@ -335,11 +335,11 @@ CrateJoy has a "design store" where you can purchase site templates for use in y
 
 ![CrateJoy designer](images/cratejoy_designer.png)
 
-HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching any code.
+Now I must admit that when I actually did some edits on my own CrateJoy subscription site, I wanted to change some things that turned out to be impossible to do through the visual editor. For example the top menu had "FAQ" and "Shop" tabs that I wanted to remove, but there seemed to be no way to do that from the editor and I had to go edit the HTML directly.
 
 ![Editing a CrateJoy template code online](images/cratejoy_code.png)
 
-Now I must admit that when I actually did some edits on my own CrateJoy subscription site, I wanted to change some things that turned out to be impossible to do through the visual editor. For example the top menu had "FAQ" and "Shop" tabs that I wanted to remove, but there seemed to be no way to do that from the editor and I had to go edit the HTML directly. It was possible to do that using the online HTML editor with minimum fuss, but if you don't know HTML then at this point you would have needed to ask someone to help you. 
+Luckily HTML/CSS can be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching any code. In the end it was possible to do my desired edits using the online HTML editor with minimum fuss, but if you didn't know HTML, then at this point you might have needed to ask someone to help you. 
 
 ### Supported payment gateways
 
