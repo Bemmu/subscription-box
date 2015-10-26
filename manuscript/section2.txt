@@ -313,9 +313,9 @@ This is not a big consideration at the moment, but going with a well-known provi
 
 CrateJoy is an Austin, Texas based subscription e-commerce company founded by Amir Elaguizy. With CrateJoy you can both host your site, do recurring billing, see analytics about your subscribers, send automatic customer emails and even print postage stamps, all using the same online interface. In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. 
 
-Amir [estimates that out of the 10,000+ subscription boxes on the market 4,000 use CrateJoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is another excellent resource for monthly box entrepreneurs, especially when you have decided to go with CrateJoy.
-
 ![](images/cratejoy.jpg)
+
+Amir [estimates that out of the 10,000+ subscription boxes on the market 4,000 use CrateJoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is another excellent resource for monthly box entrepreneurs, especially when you have decided to go with CrateJoy.
 
 CrateJoy was started as part of the startup incubator Y Combinator (which by the way accepts applications [here](http://www.ycombinator.com/) in case you need funding, although it is not easy to get accepted). In each funding round they have multiple companies receiving investment simultaneously and attending startup dinners together. Amir was [inspired to start CrateJoy](http://socialnerdia.com/blog/cratejoy-founder-amir-elaguizy) upon noticing how well the subscription box companies in the incubator were doing. 
 
@@ -338,6 +338,8 @@ CrateJoy has a "design store" where you can purchase site templates for use in y
 HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching any code.
 
 ![Editing a CrateJoy template code online](images/cratejoy_code.png)
+
+Now I must admit that when I actually did some edits on my own CrateJoy subscription site, I wanted to change some things that turned out to be impossible to do through the visual editor. For example the top menu had "FAQ" and "Shop" tabs that I wanted to remove, but there seemed to be no way to do that from the editor and I had to go edit the HTML directly. It was possible to do that using the online HTML editor with minimum fuss, but if you don't know HTML then at this point you would have needed to ask someone to help you. 
 
 ### Supported payment gateways
 
