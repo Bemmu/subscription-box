@@ -311,11 +311,11 @@ This is not a big consideration at the moment, but going with a well-known provi
 
 ## CrateJoy
 
-CrateJoy is an Austin, Texas based subscription e-commerce company founded by Amir Elaguizy. With CrateJoy you can both host your site, do recurring billing, see analytics about your subscribers, send automatic customer emails and even print postage stamps, all using the same online interface. In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. 
+CrateJoy is an Austin, Texas based subscription e-commerce company. With CrateJoy you can both host your site, do recurring billing, see analytics about your subscribers, send automatic customer emails and even print postage stamps, all using the same online interface. In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. 
 
 ![](images/cratejoy.jpg)
 
-Amir [estimates that out of the 10,000+ subscription boxes on the market 4,000 use CrateJoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is another excellent resource for monthly box entrepreneurs, especially when you have decided to go with CrateJoy.
+CrateJoy founder Amir Elaguizy [has estimated that out of the 10,000+ subscription boxes on the market 4,000 use CrateJoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is another excellent resource for monthly box entrepreneurs, especially when you have decided to go with CrateJoy.
 
 CrateJoy was started as part of the startup incubator Y Combinator (which by the way accepts applications [here](http://www.ycombinator.com/) in case you need funding, although it is not easy to get accepted). In each funding round they have multiple companies receiving investment simultaneously and attending startup dinners together. Amir was [inspired to start CrateJoy](http://socialnerdia.com/blog/cratejoy-founder-amir-elaguizy) upon noticing how well the subscription box companies in the incubator were doing. 
 
@@ -339,7 +339,7 @@ Now I must admit that when I actually did some edits on my own CrateJoy subscrip
 
 ![Editing a CrateJoy template code online](images/cratejoy_code.png)
 
-Luckily HTML/CSS can be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching any code. In the end it was possible to do my desired edits using the online HTML editor with minimum fuss, but if you didn't know HTML, then at this point you might have needed to ask someone to help you. 
+Luckily HTML/CSS can be freely edited using the built-in code editor, or by accessing the template through FTP. For dynamic parts CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching any code. In the end it was possible to do my desired edits using the online HTML editor with minimum fuss, but if you didn't know HTML, then at this point you might have needed to ask someone to help you. 
 
 ### Supported payment gateways
 
@@ -361,8 +361,6 @@ However if the subscriber is paying monthly, then their order would not show up 
 
 ![CrateJoy shipments view](images/cratejoy_shipments.png)
 
-If you happen to have a need to prepare and/or send shipments to active subscribers whose rebill has not gone through yet, you can always export the list of subscribers and filter it to only active subscribers by importing the CSV file to a spreadsheet program or using a [simple script](https://github.com/Bemmu/cratejoy-scripts).
-
 An interesting feature is that you can print labels *including postage* directly from the app. Instead of affixing stamps to your boxes yourself or have the post office measure and stamp them, proof of stamp payment is printed out as QR codes on the label. That means you can neatly have just one label for the recipient and sender addresses with postage included in it as well.
 
 ### Pricing
@@ -371,11 +369,13 @@ At the time of writing CrateJoy charged $39.00 / month and additionally 1.25% + 
 
 If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs you $39.00 + (100*$29)*0.0125 + 100 * $0.10 = $85.25.
 
-This does not include payment gateway fees. For example if Stripe is your gateway, then in the example case they would additionally charge you $114.10 (that's 2.9% + $0.30 per transaction).
+This does not include payment gateway fees. If Stripe is your gateway, then in the example case they would additionally charge you $114.10 (2.9% + $0.30 per transaction).
 
 ### Apps
 
-At the moment CrateJoy had an app store with 9 apps in it. As the service is growing rapidly, the growth of the app store looks promising. Most of the apps are free, with only adding a referral program through the appropriately named "Referral Program" app costing an additional $99/month to use.
+At the moment CrateJoy had an app store with a handful of apps in it. As the service is growing rapidly, the growth of the app store looks promising. All of the apps were free, with only exception being a "referral program" app which was priced at $99/month.
+
+![CrateJoy app store](images/cratejoy_apps.png)
 
 ### Would you like to learn more?
 
