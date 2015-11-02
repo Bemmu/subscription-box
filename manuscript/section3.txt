@@ -24,9 +24,9 @@ While again rather obvious, it's useful to think about this because it makes you
 
 There may be other reasons that you lose customers at a step, for example if your site doesn't work properly on mobile, doesn't support your customers' favorite payment methods or has too many steps during check-out, those could all make people leave that otherwise may have subscribed.
 
-The funnel is a useful analogy for realizing that there are several steps, all of which are required for a sale to happen. Improvement in later steps can be just as important as pouring more visitors to the top of the funnel.
-
 Even if your site could magically get every single visitor to subscribe, that would be useless if no-one visits it. On the other hand, having a million visitors to your site would be useless if everyone drops out before completing a purchase. 
+
+The funnel is a useful analogy for realizing that there are several steps, all of which are required for a sale to happen. Improvement in later steps can be just as important as pouring more visitors to the top of the funnel.
 
 Similar is also true for less extreme examples. Having 1000 visitors to your site and converting 1% of them to customers will get you 10 sales, but so would having 5000 visitors if only 0.2% buy.
 
@@ -63,5 +63,11 @@ Which of these to focus on you can only learn by experimenting. You might think 
 You can't do everything, but at least knowing your numbers helps you focus on better performing channels.
 
 With advertising one goal is to make sales. But another equally important goal is **to learn**. You should record the effectiveness of your ad campaigns, otherwise you will not know which advertising channels to double down on and which ones to phase out.
+
+### OK, how do I really do it?
+
+The simplest way is to just have a spreadsheet, where each row represents a specific marketing attempt. You can decide how detailed you want to be, but my spreadsheet for Candy Japan has the following columns:
+
+![](images/channels_spreadsheet.png)
 
 
