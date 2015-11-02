@@ -4,37 +4,53 @@ You have your box site set up. It might not be perfect yet, but it works well en
 
 Actually, it's time to start getting into the habit of marketing, as it isn't just something you do in a burst in the beginning, but is something that you will need to constantly work on to keep your subscriber numbers growing.
 
-Sadly there isn't any one easy trick or marketing channel for finding subscribers. New marketing channels pop up, old ones wither and you have to keep looking. If something works really well, other marketers will catch on and lead to that channel getting more difficult to compete in.
+Sadly there isn't any one easy trick or marketing channel for finding subscribers. New marketing channels pop up, old ones wither and you have to keep looking. If something works really well, other marketers will catch, which can lead to that channel getting more difficult to compete in.
 
-For example you might find that Google AdWords works really well for you and you are happily paying $0.10 a click for your niche keywords and making a profit. Then over time you will have more and more competitors bidding on the same keywords, your click cost multiplies and suddenly the channel isn't profitable anymore.
+For example you might find that paid advertising with Google AdWords works really well for you. Say you are happily paying $0.10 a click for your niche keywords and making a profit. Over time you might find you have more and more competitors bidding on the same keywords, driving your click so high that suddenly it isn't profitable anymore.
 
-The same thing can happen to other channels as well. The key is to keep estimating how profitable each one is and constantly keep tweaking your campaigns or looking for new places to promote your box.
+The same thing can happen to other channels as well. The key is to keep estimating how well each one is doing. Constantly keep tweaking your campaigns or look for new places to promote your box.
 
-The hard but important thing is not to delude yourself into thinking that something is working, if you have no data to back it up. If you are spending a lot of money growing your Facebook likes or Twitter followers, you won't really know if you are just throwing that money away unless you have some proof to back it up.
+That might sound very obvious, but it's quite easy to delude yourself into thinking that something is working, even with no data to back that up. For example if you are spending a lot of money growing your Facebook likes or Twitter followers, you won't really know if you are just throwing that money away unless you have some proof to back it up. Tracking things is not fun, but without it you are driving blind.
 
 ## The funnel
 
 Not everyone who hears about your site will visit it. Not everyone who visits your site will become a subscriber. While this much is obvious, it can be helpful to step back and try to visualize it. The comparison of choice is a funnel, the narrowing of it representing prospects who leave at each step before completing their purchase.
 
+Here's some lame stock photography I found for you to illustrate this.
+
 ![](images/funnel.jpg)
 
-The funnel is a useful analogy for realizing that there are several steps, all of which are required for a sale to happen. Improvement in later steps can be just as important as pouring more visitors to the top of the funnel. 
+While again rather obvious, it's useful to think about this because it makes you see that you have several places which could be improved to gain more customers. You could have more or better quality visitors coming in at the top of the funnel, or just try to convince more of your current visitors to actually place an order. 
 
-Having a million visitors to your site would be useless if everyone drops out before completing a purchase. Even if your site could magically get every single visitor to subscribe, that would also be useless if no-one visits it.
+There may be other reasons that you lose customers at a step, for example if your site doesn't work properly on mobile, doesn't support your customers' favorite payment methods or has too many steps during check-out, those could all make people leave that otherwise may have subscribed.
 
-Similar is also true for less extreme examples. Having 1000 visitors to your site of which 1% convert to customers will get you 10 sales. But so does having 5000 visitors if your site is so ineffective that only 0.2% buy.
+The funnel is a useful analogy for realizing that there are several steps, all of which are required for a sale to happen. Improvement in later steps can be just as important as pouring more visitors to the top of the funnel.
+
+Even if your site could magically get every single visitor to subscribe, that would be useless if no-one visits it. On the other hand, having a million visitors to your site would be useless if everyone drops out before completing a purchase. 
+
+Similar is also true for less extreme examples. Having 1000 visitors to your site and converting 1% of them to customers will get you 10 sales, but so would having 5000 visitors if only 0.2% buy.
 
 ## Customer lifetime value (LTV)
 
-In reality, different sources of traffic to your subscription box site will not be equally valuable. Someone who types the name of your box into Google and navigates to your site that way will be much more likely to order than someone just clicking from one random site to the next on StumbleUpon or Reddit.
+Here's a bit of justification why you should have a rough estimate of what your customer lifetime value is. If you are just starting out and have no customers at all, this will be impossible to calculate. In that case just keep this in mind for the future.
 
-Each traffic source will also have a different cost. Paid clicks on Google AdWords can be very expensive. Producing content for SEO or updating your Facebook takes time, which also has some monetary value to it. How do you know if an effort is worthwhile, how do you quantify it?
+Different sources of traffic to your subscription box site will not be equally valuable. Someone who types the name of your box into Google and navigates to your site that way will be much more likely to order than someone just clicking from one random site to the next on StumbleUpon or Reddit.
 
-To do this you should have at least a rough idea of your customer lifetime value. Suppose your subscription box costs $25/month to subscribe to and after non-marketing expenses you have $7/month of profit left. You also estimate that on average a customer will subscribe for 7 months. You could then roughly say that your customer lifetime value (LTV) is about $7 * 7 = $49. Let's round that to $50.
+Each traffic source will have a different cost. Paid clicks on Google AdWords can be very expensive. Producing content for SEO or updating your Facebook takes time, which also has a monetary value to it (especially clear if you are paying someone to do it). How do you know if an effort is worthwhile, how do you quantify it?
 
-Now you have something more real to work with. When evaluating the clicks you are buying on AdWords, you can compare their cost to the LTV to decide whether the campaign makes sense. Similarly you can consider if the time spent on other marketing channels is wildly profitable or a waste of time.
+To do this you should have at least a rough idea of your customer lifetime value. Suppose your subscription box costs $25/month to subscribe to and after non-marketing expenses you have $7/month of profit left. You also estimate that on average a customer will subscribe for 7 months. 
 
-If you don't know which of your efforts is actually producing results, how will you know what to double down on and what is just a waste of time? Even if you are normally more fond of intuitive thinking rather than very strategic and logical, when it comes to spending money on marketing, you should really try to switch on your most analytical mode of thinking from time to time.
+You could then roughly say that your customer lifetime value (LTV) is about $7 * 7 months = $49. Let's round that to $50.
+
+Now you have something more real to work with. When evaluating the clicks you are buying on AdWords, you can compare their cost to the LTV to decide whether the campaign makes sense. If it costs you $60 to gain a customer and you know that the customer will only turn you a $50 profit, then continuing to use that campaign is just wasted money.
+
+Similarly you can consider if the time spent on other marketing channels is wildly profitable or a waste of time. You can use the LTV value to estimate which campaigns to keep, which to expand, which to scrap or try to improve upon.
+
+If you don't know which of your efforts is actually producing results, how will you know what to double down on and what is just a waste of time? 
+
+While coming up with new campaigns can require creativity, when it comes to controlling your spend on marketing, you should try to switch on your most analytical mode of thinking from time to time.
+
+## Keeping track of channel performance
 
 You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the options to tweak ad campaigns are endless.
 
@@ -42,10 +58,10 @@ On the other hand, promotion through the seemingly free social media and content
 
 Somewhere between these paid and free channels is providing free sample boxes for bloggers, which ends up taking time just to evaluate which blogs are worth sending to and keeping in touch with them to maintain relationships. 
 
-Which of these to focus on you can only learn by experimenting. You might think "oh well I'll just do everything". You should not. If you can know that one customer is worth say $50 to you and you spent 10 hours updating your Facebook page to get that one customer, you just worked for $5/hour. Probably not a good idea. Not to mention the variety of things you could be doing is almost boundless. 
+Which of these to focus on you can only learn by experimenting. You might think "oh well I'll just do everything". You should not. If you can know that one customer is worth say $50 to you and you spent 10 hours updating your Facebook page to get that one customer, you just worked for $5/hour. 
 
-You just can't do everything, but at least knowing your numbers helps you focus on better performing channels.
+You can't do everything, but at least knowing your numbers helps you focus on better performing channels.
 
-With advertising one goal is to make sales. But another equally important goal is **to learn**. You must record the effectiveness of your ad campaigns, otherwise you will not know which advertising channels to double down on and which ones to phase out -- knowledge too valuable to simply throw away due to impatience.
+With advertising one goal is to make sales. But another equally important goal is **to learn**. You should record the effectiveness of your ad campaigns, otherwise you will not know which advertising channels to double down on and which ones to phase out.
 
 
