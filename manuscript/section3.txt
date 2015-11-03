@@ -112,11 +112,23 @@ On Reddit you can either do paid advertising or by posting your own links for fr
 
 ![](images/reddit_ads.png)
 
+After creating a Reddit account, you can start a paid promotion at [reddit.com/advertising/](https://www.reddit.com/advertising/). You will likely want to start by showing your ads targeted to certain subreddit relevant to the niche your subscription box is about.
+
+If you prefer, you can show your ads to everyone visiting the reddit.com homepage, but targeted traffic tends to be much better. You don't want just traffic for its own sake, you want people to visit your site who are likely to subscribe to your box.
+
+Besides the main page, there are also subsections to Reddit, called "subreddits". Subreddits are like niche forums. When links are submitted to Reddit, the submitter needs to select which subreddit it goes to. But similarly ads can also be targeted to subreddits.
+
+Since my box is about Japanese candy, I ran many campaigns on subreddits related to Japan. For example I ran one on /r/anime, which is a subreddit for Japanese animation. You can see the stats below.
+
 ![](images/reddit_ads2.png)
+
+That campaign resulted in only a single sale and very few people clicked on the ad after seeing it. Since the campaign cost more than I estimated my LTV to be, I stopped advertising on this subreddit. I ran similar campaigns on other subreddits, as shown in the spreadsheet screenshot (repeated below with the subreddit campaigns bolded).
+
+![](images/channels_spreadsheet_bolded.png)
 
 ### Posting to subreddits
 
-Besides the main page, there are also subsections to Reddit, called "subreddits". When you submit a link to Reddit, you need to select which subreddit it goes to. Subreddits are like niche forums. Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
+Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
 
 Some subreddits can appear on the main page, others are only visible to users who are visiting them directly or subscribing to them. Still, even non-mainpage subreddits can have quite large audiences. With a smaller subreddits the potential for world domination is perhaps not as great, they may be good opportunities to get some highly targeted traffic specific to your niche. With a small subreddit there will be less competition as well, and you will have an easier time of getting noticed.
 
