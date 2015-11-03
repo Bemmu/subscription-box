@@ -96,6 +96,8 @@ By the way, in the spreadsheet above those are actually real numbers from some o
 
 ## Marketing on Reddit
 
+In the marketing spreadsheet, several rows are dealing with experiments on Reddit.
+
 If you are unfamiliar with [reddit.com](http://www.reddit.com) and visit their homepage, you might be confused. This site doesn't look very professional at all, just a list of random links? But Reddit is huuuge. How huge? At the time of writing [Reddit is serving 7.55 **billion** pageviews a month](http://expandedramblings.com/index.php/reddit-stats/).
 
 The most powerful part of Reddit is the main page, which is what is shown by default. How powerful? As an example from today, the top image submitted to the site has been viewed 900,000 times in only 6 hours! Imagine if that was your brand and you could turn even a fraction of those views into subscribers.
@@ -103,6 +105,12 @@ The most powerful part of Reddit is the main page, which is what is shown by def
 It is attractive especially as anyone can submit content to Reddit. As long as your link gets enough upvotes, it has a chance of being shown to millions of visitors just like any other content on the site. There is no review process for submitted links, all is based on user voting (although some users have admin powers on subreddits and can insta-delete posts they don't like).
 
 While there are no gatekeepers or editors for posting to Reddit, the community is self-policing and to post you will want to be a good redditor by following the [reddiquette](https://www.reddit.com/wiki/reddiquette). One of the most relevant guidelines is that you should only self-promote in 1 out of 10 submissions.
+
+On Reddit you can either do paid advertising or by posting your own links for free. It might actually be easier to start with paid advertising, as the community can be quite tough on post quality and it is difficult to get noticed otherwise.
+
+### Paid advertising on Reddit
+
+![](images/reddit_ads.png)
 
 ### Posting to subreddits
 
