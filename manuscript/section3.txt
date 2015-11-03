@@ -112,6 +112,8 @@ On Reddit you can either do paid advertising or by posting your own links for fr
 
 ![](images/reddit_ads.png)
 
+![](images/reddit_ads2.png)
+
 ### Posting to subreddits
 
 Besides the main page, there are also subsections to Reddit, called "subreddits". When you submit a link to Reddit, you need to select which subreddit it goes to. Subreddits are like niche forums. Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
