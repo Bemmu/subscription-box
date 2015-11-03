@@ -104,11 +104,11 @@ The most powerful part of Reddit is the main page, which is what is shown by def
 
 It is attractive especially as anyone can submit content to Reddit. As long as your link gets enough upvotes, it has a chance of being shown to millions of visitors just like any other content on the site. There is no review process for submitted links, all is based on user voting (although some users have admin powers on subreddits and can insta-delete posts they don't like).
 
-While there are no gatekeepers or editors for posting to Reddit, the community is self-policing and to post you will want to be a good redditor by following the [reddiquette](https://www.reddit.com/wiki/reddiquette). One of the most relevant guidelines is that you should only self-promote in 1 out of 10 submissions.
-
-On Reddit you can either do paid advertising or by posting your own links for free. It might actually be easier to start with paid advertising, as the community can be quite tough on post quality and it is difficult to get noticed otherwise.
+While there are no gatekeepers for posting to Reddit, the community is self-policing. You will want to be a good redditor by following the [reddiquette](https://www.reddit.com/wiki/reddiquette). One of the most relevant guidelines is that you should only self-promote in 1 out of 10 submissions.
 
 ### Paid advertising on Reddit
+
+While you can post your content to Reddit for free, if you don't have a lot of time to participate in the community it might actually be easier to start with paid advertising, as Reddit can be quite tough on post quality (or at least cultural fit). With paid ads you can at least get noticed and have some traffic exposed to your site and start tweaking your message.
 
 ![](images/reddit_ads.png)
 
@@ -120,21 +120,23 @@ Besides the main page, there are also subsections to Reddit, called "subreddits"
 
 You will likely want to start by showing your ads targeted to certain subreddit relevant to the niche your subscription box is about.
 
+You can choose to enable people to comment on your ads, which might be good for getting feedback, but you will need a thick skin. Anonymous redditors are often not very polite!
+
+#### Targeting ads to subreddits
+
 Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
 
 Since my box is about Japanese candy, I ran many campaigns on subreddits related to Japan. For example I ran one on /r/anime, which is a subreddit for Japanese animation. You can see the stats below.
 
-![](images/reddit_ads2.png)
+![Stats Reddit provides you after your campaign is over](images/reddit_ads2.png)
 
-This experiment wasn't a success by any means, but I thought it would be interesting to show you the kinds of stats Reddit provides you after your campaign is over.
+This campaign wasn't a huge success by any means, resulted in only a single sale and a few people (0.18%) clicked on the ad after seeing it. Later on I was able to improve the click-through rate to 0.8% by just switching to a better thumbnail picture to show along the ad.
 
-That campaign resulted in only a single sale and a few people (0.18%) clicked on the ad after seeing it. Later on I was able to improve this to 0.8% by just switching to a better thumbnail picture to show along the ad.
-
-I ran similar experiments on other subreddits as well, but for my niche these were all too small to result in huge results. I had the most luck running a campaign on /r/japan, which resulted in about $200 worth of sales with a spend of $130.
+I ran similar experiments on other subreddits as well, but for my niche these were all too small to have huge results. I had the most luck running a campaign on /r/japan, which resulted in about $200 worth of sales with a spend of $130.
 
 ### Posting to subreddits
 
-Much more attention is spent on the actual content rather than the ads on Reddit. The community is actually quite ad-allergic, so there is the opportunity to do much better by finding a way to post interesting content related to your niche instead.
+Much more attention is spent on the actual content rather than the ads on Reddit. The community is actually quite ad-averse, so there is the opportunity to do much better by finding a way to post interesting content related to your niche instead.
 
 Some subreddits can appear on the main page, others are only visible to users who are visiting them directly or subscribing to them. Still, even non-mainpage subreddits can have quite large audiences. With smaller subreddits the potential for world domination is perhaps not as great, but they may be good opportunities to get some highly targeted traffic specific to your niche. With a small subreddit there will be less competition as well, and you will have an easier time getting your links noticed.
 
@@ -152,11 +154,13 @@ Don't try to be clever and create more than one account in order to upvote yours
 
 Reddit [allows verified users to post up to](https://www.reddit.com/r/help/comments/14erjc/psa_if_you_get_the_looks_like_youre_either_a/) 3 times per hour, 10 times per day, 50 times a week or a total of 150 posts per month. Users who have not verified their email address can only post 5 times per month. As a rule of thumb, consider being active on Reddit and limiting your self-promotional posts to one out of ten posts you make. Your other posts should also be high-quality to give you a good posting track record. 
 
-Here are some ideas for subreddits where you could try posting to.
+Besides finding subreddits related to your niche, here are some example ideas for subreddits where you could try posting.
 
 #### Do a giveaway
 
-The subreddit /r/giveaways and /r/sweepstakes are for giving out free stuff. You accept entries from people who want a free box and then pick one randomly. While sweepstakes will definitely drive a lot of traffic if you have a nice prize, the quality of the traffic may be very low. These are visitors who are not necessarily looking to buy anything, but rather just looking for free stuff. I would suggest keeping a careful eye on how well this traffic is converting before making a habit out of hosting these contests.
+The subreddit /r/giveaways and /r/sweepstakes are for giving out free stuff. You accept entries from people who want a free box and then pick one randomly. While sweepstakes will definitely drive a lot of traffic if you have a nice prize, the quality of the traffic may be very low. 
+
+These are visitors who are not necessarily looking to buy anything, but rather just looking for free stuff. I would suggest keeping a careful eye on how well this traffic is converting before making a habit out of hosting these contests.
 
 There are also Facebook apps you can use to host the giveaway on your FB page and even require customers to take an action such as posting to Facebook or Tweeting in order to enter your contest. If you do decide to run a contest, it may be worthwhile to also post a link to your giveaway to dedicated sweepstakes sites such as [Online-Sweepstakes](http://www.online-sweepstakes.com/).
 
@@ -166,14 +170,13 @@ AMA stands for "ask me anything". On the subreddit [/r/iama](https://www.reddit.
  
 As /r/iama is one of the default subreddits, popular posts have a chance of appearing on the coveted main page as well. However even by itself /r/iama has millions of readers. Your AMA may be more successful if you are already somewhat well known, but there is no reason not to try even if you aren't. If your AMA flops, you can always just delete your post.
 
-You will have more success if you respond to questions promptly, as people will be more encouraged to participate if they see you doing so as well. One of the biggest sins of an AMA is to start one and then disappear. The second biggest is to be evasive in your answers to tough questions. To do an AMA post you need to have a thick skin, as anonymous internet users may not always be so kind with their words.
+You will have more success if you respond to questions promptly, as people will be more encouraged to participate when they see you doing so as well. One of the biggest sins of an AMA is to start one and then disappear. The second biggest is to be evasive in your answers to tough questions. Just like on Reddit in general, to do an AMA post you need to have a thick skin, as users may not always be so kind with their words.
 
-Besides Reddit you can also do an AMA on the marketing-focused site inbound.org. AMAs on Inbound need to be organized by an administrator. At the time of writing they were organized by a periodic [call for participants](http://inbound.org/discussion/view/host-an-ama-for-the-inbound-org-community-closed), where interested parties could let the organizers know by a comment, followed by an email.
-
+Besides Reddit you can also do an AMA on the marketing-focused site inbound.org. AMAs on Inbound need to be organized by an administrator. They are organized by a periodic [call for participants](http://inbound.org/discussion/view/host-an-ama-for-the-inbound-org-community-closed), where interested parties can apply via comment to participate.
 
 #### Play the InternetIsBeautiful lottery
 
-One of the biggest small business success stories on this subreddit is no doubt [ShipYourEnemiesGlitter](http://shipyourenemiesglitter.com/), a service which ships boxes full of glitter to your unsuspecting target. In mid-January the site got posted to /r/internetisbeautiful, which is a subreddit for *"awesome websites that offer a unique service"*. 
+One of the bigger quick win small business success stories on Reddit recently was [ShipYourEnemiesGlitter](http://shipyourenemiesglitter.com/), a service which ships boxes full of glitter to your unsuspecting target. In mid-January the site got posted to /r/internetisbeautiful, which is a subreddit for *"awesome websites that offer a unique service"*. 
 
 How useful was that post? **Very.** Just in the first day ShipYourEnemiesGlitter received **over 1 million** visitors. Take a look at their Google Analytics screenshot below, made available because the site [was on sale on Flippa](https://flippa.com/3783970-20-000-in-sales-and-2-5-million-visits-in-4-days-hugely-popular-viral-site).
 
@@ -191,14 +194,13 @@ It may still be worthwhile to attempt a post, just in case the mods happen to be
 
 Instead of posting yourself about your box, have a customer make a post such as "I received my ABC box today, it was full of XYZ goodness!". You can ask the customer to make this post on /r/pics or to any subreddit related to the products you are sending. It will have to be pretty awesome to get attention, but worth a shot if your box is good enough.
 
-
 #### Share your entrepreneurial journey
 
-After you have learned something worth sharing about starting your business, you can take what you learned and share your own subscription box story so far on business-related subreddits. Of these perhaps the best one is [/r/entrepreneur](https://www.reddit.com/r/entrepreneur), where you can post about your box IF you do it in the context of sharing something useful you have learned while starting it. 
+After you have learned something about starting your own business, you can share what you learned on business-related subreddits. Of these perhaps the best one is [/r/entrepreneur](https://www.reddit.com/r/entrepreneur), where you can post about your box IF you do it in the context of sharing something useful you have learned while starting it. 
 
 As always with subreddits, take a look at other posts in the subreddit and read the instructions in the right sidepanel before posting. Actually by reading these subreddits a bit, you might also learn a lot!
 
 Besides /r/entrepreneur, other similar ones are [/r/startups](https://www.reddit.com/r/startups), [/r/EntrepreneurRideAlong](https://www.reddit.com/r/entrepreneurridealong) and [/r/smallbusiness](http://www.reddit.com/r/smallbusiness), where you may also be able to post about your learnings. 
 
-Sadly none of these business subreddits can appear on the main page. Additionally you will only be reaching other entrepreneurs who may even be inspired enough to start their own sites to compete with your idea. Still, the benefit likely outweighs the risk, as these subreddits are quite large. I've had successful posts lead to dozens of new subscribers (hundreds if you count other similar websites and Facebook groups).
+Sadly none of these business subreddits can appear on the main page. Additionally you will only be reaching other entrepreneurs who may even be inspired enough to start their own sites to compete with your idea. Still, the benefit likely outweighs the risk, as these subreddits are quite large. I've had successful posts lead to dozens of new subscribers.
 
