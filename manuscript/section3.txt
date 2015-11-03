@@ -112,25 +112,33 @@ On Reddit you can either do paid advertising or by posting your own links for fr
 
 ![](images/reddit_ads.png)
 
-After creating a Reddit account, you can start a paid promotion at [reddit.com/advertising/](https://www.reddit.com/advertising/). You will likely want to start by showing your ads targeted to certain subreddit relevant to the niche your subscription box is about.
+After creating a Reddit account, you can start a paid promotion at [reddit.com/advertising/](https://www.reddit.com/advertising/). 
 
 If you prefer, you can show your ads to everyone visiting the reddit.com homepage, but targeted traffic tends to be much better. You don't want just traffic for its own sake, you want people to visit your site who are likely to subscribe to your box.
 
 Besides the main page, there are also subsections to Reddit, called "subreddits". Subreddits are like niche forums. When links are submitted to Reddit, the submitter needs to select which subreddit it goes to. But similarly ads can also be targeted to subreddits.
 
+You will likely want to start by showing your ads targeted to certain subreddit relevant to the niche your subscription box is about.
+
+Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
+
 Since my box is about Japanese candy, I ran many campaigns on subreddits related to Japan. For example I ran one on /r/anime, which is a subreddit for Japanese animation. You can see the stats below.
 
 ![](images/reddit_ads2.png)
 
-That campaign resulted in only a single sale and very few people clicked on the ad after seeing it. Since the campaign cost more than I estimated my LTV to be, I stopped advertising on this subreddit. I ran similar campaigns on other subreddits, as shown in the spreadsheet screenshot (repeated below with the subreddit campaigns bolded).
+This experiment wasn't a success by any means, but I thought it would be interesting to show you the kinds of stats Reddit provides you after your campaign is over.
 
-![](images/channels_spreadsheet_bolded.png)
+That campaign resulted in only a single sale and a few people (0.18%) clicked on the ad after seeing it. Later on I was able to improve this to 0.8% by just switching to a better thumbnail picture to show along the ad.
+
+I ran similar experiments on other subreddits as well, but for my niche these were all too small to result in huge results. I had the most luck running a campaign on /r/japan, which resulted in about $200 worth of sales with a spend of $130.
 
 ### Posting to subreddits
 
-Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
+Much more attention is spent on the actual content rather than the ads on Reddit. The community is actually quite ad-allergic, so there is the opportunity to do much better by finding a way to post interesting content related to your niche instead.
 
-Some subreddits can appear on the main page, others are only visible to users who are visiting them directly or subscribing to them. Still, even non-mainpage subreddits can have quite large audiences. With a smaller subreddits the potential for world domination is perhaps not as great, they may be good opportunities to get some highly targeted traffic specific to your niche. With a small subreddit there will be less competition as well, and you will have an easier time of getting noticed.
+Some subreddits can appear on the main page, others are only visible to users who are visiting them directly or subscribing to them. Still, even non-mainpage subreddits can have quite large audiences. With smaller subreddits the potential for world domination is perhaps not as great, but they may be good opportunities to get some highly targeted traffic specific to your niche. With a small subreddit there will be less competition as well, and you will have an easier time getting your links noticed.
+
+![Searching for niche subreddits](images/reddit_metrics.png)
 
 To find suitable subreddits for your posts, you can browse them on [Reddit Metrics](http://redditmetrics.com/). Especially the [list of biggest subreddits](http://redditmetrics.com/top) is very useful. I suggest going through the list and trying to brainstorm on each one how you could angle your box to appear as a submission there.
 
@@ -150,7 +158,11 @@ Here are some ideas for subreddits where you could try posting to.
 
 One of the easiest posts to make is by sharing your own subscription box story so far on business-related subreddits. Of these perhaps the best one is [/r/entrepreneur](https://www.reddit.com/r/entrepreneur), where you can post about your box IF you do it in the context of sharing something useful you have learned while starting it. 
 
+![](images/subreddit_rules.png)
+
 As always with subreddits, take a look at other posts in the subreddit and read the instructions in the right sidepanel before posting. Other similar ones are [/r/startups](https://www.reddit.com/r/startups), [/r/EntrepreneurRideAlong](https://www.reddit.com/r/entrepreneurridealong) and [/r/smallbusiness](http://www.reddit.com/r/smallbusiness), where you may also be able to post about your learnings. 
+
+![](images/subreddit_rules2.png)
 
 Sadly none of these business subreddits can appear on the main page. Additionally you will only be reaching other entrepreneurs who may even be inspired enough to start their own sites to compete with your idea. Still, the benefit likely outweighs the risk, as these subreddits are quite large and successful posts can lead to dozens of new subscribers.
 
