@@ -14,43 +14,57 @@ That might sound very obvious, but it's quite easy to delude yourself into think
 
 ## The funnel
 
-Not everyone who hears about your site will visit it. Not everyone who visits your site will become a subscriber. While this much is obvious, it can be helpful to step back and try to visualize it. The comparison of choice is a funnel, the narrowing of it representing prospects who leave at each step before completing their purchase.
+Not everyone who hears about your site will visit it. Not everyone who visits your site will become a subscriber. While this much is obvious, it can be helpful to step back and try to visualize it. 
 
-Here's some lame stock photography I found for you to illustrate this.
+The metaphor of choice is a [funnel](https://en.wikipedia.org/wiki/Conversion_funnel), the narrowing of it representing people who leave at each step before completing their purchase.
 
 ![](images/funnel.jpg)
 
-While again rather obvious, it's useful to think about this because it makes you see that you have several places which could be improved to gain more customers. You could have more or better quality visitors coming in at the top of the funnel, or just try to convince more of your current visitors to actually place an order. 
+The funnel is a useful analogy for realizing that there are several steps, all of which are required for a sale to happen. Improvement in later steps can be just as important as pouring more visitors to the top of the funnel.
 
-There may be other reasons that you lose customers at a step, for example if your site doesn't work properly on mobile, doesn't support your customers' favorite payment methods or has too many steps during check-out, those could all make people leave that otherwise may have subscribed.
+It's useful to think about this because it makes you see that you have several places which could be improved to gain more customers. You could have more (or better quality) visitors coming in at the top of the funnel by spending a lot on advertising, or you could try to convince more of the visitors you do get to actually place an order. 
+
+There may be other reasons for losing customers at a step. For example if your site doesn't work properly on mobile, doesn't support your customers' favorite payment methods or has too many steps during check-out, those could all make people leave that otherwise may have subscribed.
 
 Even if your site could magically get every single visitor to subscribe, that would be useless if no-one visits it. On the other hand, having a million visitors to your site would be useless if everyone drops out before completing a purchase. 
 
-The funnel is a useful analogy for realizing that there are several steps, all of which are required for a sale to happen. Improvement in later steps can be just as important as pouring more visitors to the top of the funnel.
-
-Similar is also true for less extreme examples. Having 1000 visitors to your site and converting 1% of them to customers will get you 10 sales, but so would having 5000 visitors if only 0.2% buy.
+Similar is also true for less extreme examples. Having 5000 visitors to your site and converting 0.2% of them to customers will get you 10 sales, but so would having 1000 visitors if you could improve your conversion rate to 1.0%.
 
 ## Customer lifetime value (LTV)
 
-Here's a bit of justification why you should have a rough estimate of what your customer lifetime value is. If you are just starting out and have no customers at all, this will be impossible to calculate. In that case just keep this in mind for the future.
+LTV is another important concept for making sure you aren't wasting your promotional efforts.
 
-Different sources of traffic to your subscription box site will not be equally valuable. Someone who types the name of your box into Google and navigates to your site that way will be much more likely to order than someone just clicking from one random site to the next on StumbleUpon or Reddit.
+Suppose your subscription box costs $25/month to subscribe to and after non-marketing expenses you have $7/month of profit left. You also estimate that on average a customer will subscribe for 7 months. You could then roughly say that your customer lifetime value (LTV) is about $7 * 7 months = $49. Let's round that to $50. That's what a new customer is worth to you.
+
+### Why should you care about LTV?
+
+Here's a bit of justification why you should have a rough estimate of what your customer lifetime value is. If you are just starting out and have no customers at all, this will be impossible to calculate. In that case just keep this in mind for the future.
 
 Each traffic source will have a different cost. Paid clicks on Google AdWords can be very expensive. Producing content for SEO or updating your Facebook takes time, which also has a monetary value to it (especially clear if you are paying someone to do it). How do you know if an effort is worthwhile, how do you quantify it?
 
-To do this you should have at least a rough idea of your customer lifetime value. Suppose your subscription box costs $25/month to subscribe to and after non-marketing expenses you have $7/month of profit left. You also estimate that on average a customer will subscribe for 7 months. 
+You do it by comparing the cost of that marketing activity against your LTV. Knowing your lifetime value even roughly gives you something more real to work with. 
 
-You could then roughly say that your customer lifetime value (LTV) is about $7 * 7 months = $49. Let's round that to $50.
+### Compare LTV against your customer acquisition cost
 
-Now you have something more real to work with. When evaluating the clicks you are buying on AdWords, you can compare their cost to the LTV to decide whether the campaign makes sense. If it costs you $60 to gain a customer and you know that the customer will only turn you a $50 profit, then continuing to use that campaign is just wasted money.
+When evaluating the clicks you are buying on AdWords for example, you can compare their cost to the LTV to decide whether the campaign makes sense. Say on average it costs you $60 in paid clicks to gain a customer, but from your LTV you now know that the customer will only turn you a $50 profit. 
+
+That would mean that you actually lose $10 for each customer you get through AdWords. As you can see, knowing your LTV in this case would make it clear that continuing to use that campaign is just wasted money.
 
 Similarly you can consider if the time spent on other marketing channels is wildly profitable or a waste of time. You can use the LTV value to estimate which campaigns to keep, which to expand, which to scrap or try to improve upon.
+
+### Look at sales, not just visitors
+
+Note that you should really look at each channel and really see how many actual paying subscribers it brings, not just how many visitors. Even if you do know that say 1% of everyone who visits tends to buy, different sources of traffic to your subscription box site will not be equally valuable. 
+
+Someone who types the name of your box into Google and navigates to your site that way will be much more likely to order than someone just clicking from one random site to the next on StumbleUpon or Reddit.
+
+To do this you should have at least a rough idea of your customer lifetime value. 
+
+## Keeping track of channel performance
 
 If you don't know which of your efforts is actually producing results, how will you know what to double down on and what is just a waste of time? 
 
 While coming up with new campaigns can require creativity, when it comes to controlling your spend on marketing, you should try to switch on your most analytical mode of thinking from time to time.
-
-## Keeping track of channel performance
 
 You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the options to tweak ad campaigns are endless.
 
