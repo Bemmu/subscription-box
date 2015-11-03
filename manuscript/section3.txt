@@ -158,11 +158,7 @@ Here are some ideas for subreddits where you could try posting to.
 
 One of the easiest posts to make is by sharing your own subscription box story so far on business-related subreddits. Of these perhaps the best one is [/r/entrepreneur](https://www.reddit.com/r/entrepreneur), where you can post about your box IF you do it in the context of sharing something useful you have learned while starting it. 
 
-![](images/subreddit_rules.png)
-
 As always with subreddits, take a look at other posts in the subreddit and read the instructions in the right sidepanel before posting. Other similar ones are [/r/startups](https://www.reddit.com/r/startups), [/r/EntrepreneurRideAlong](https://www.reddit.com/r/entrepreneurridealong) and [/r/smallbusiness](http://www.reddit.com/r/smallbusiness), where you may also be able to post about your learnings. 
-
-![](images/subreddit_rules2.png)
 
 Sadly none of these business subreddits can appear on the main page. Additionally you will only be reaching other entrepreneurs who may even be inspired enough to start their own sites to compete with your idea. Still, the benefit likely outweighs the risk, as these subreddits are quite large and successful posts can lead to dozens of new subscribers.
 
@@ -176,6 +172,12 @@ You will have more success if you respond to questions promptly, as people will 
 
 Besides Reddit you can also do an AMA on the marketing-focused site inbound.org. AMAs on Inbound need to be organized by an administrator. At the time of writing they were organized by a periodic [call for participants](http://inbound.org/discussion/view/host-an-ama-for-the-inbound-org-community-closed), where interested parties could let the organizers know by a comment, followed by an email.
 
+#### Do a giveaway
+
+The subreddit /r/giveaways and /r/sweepstakes are for giving out free stuff. You accept entries from people who want a free box and then pick one randomly. While sweepstakes will definitely drive a lot of traffic if you have a nice prize, the quality of the traffic may be very low. These are visitors who are not necessarily looking to buy anything, but rather just looking for free stuff. I would suggest keeping a careful eye on how well this traffic is converting before making a habit out of hosting these contests.
+
+There are also Facebook apps you can use to host the giveaway on your FB page and even require customers to take an action such as posting to Facebook or Tweeting in order to enter your contest. If you do decide to run a contest, it may be worthwhile to also post a link to your giveaway to dedicated sweepstakes sites such as [Online-Sweepstakes](http://www.online-sweepstakes.com/).
+
 #### Play the InternetIsBeautiful lottery
 
 One of the biggest small business success stories on this subreddit is no doubt [ShipYourEnemiesGlitter](http://shipyourenemiesglitter.com/), a service which ships boxes full of glitter to your unsuspecting target. In mid-January the site got posted to /r/internetisbeautiful, which is a subreddit for *"awesome websites that offer a unique service"*. 
@@ -184,22 +186,14 @@ How useful was that post? **Very.** Just in the first day ShipYourEnemiesGlitter
 
 ![](images/glitter.png)
 
-Sadly as a direct result of the huge success of ShipYourEnemiesGlitter and the influx of similar sites to the subreddit, /r/internetisbeautiful [changed their rules](https://www.reddit.com/r/InternetIsBeautiful/comments/3063r6/how_are_you_doing_were_doing_great_we_have_a_few/) to be less friendly to online stores. 
+Sadly (for subscription box founders) as a direct result of the huge success of ShipYourEnemiesGlitter and the influx of similar sites to the subreddit, /r/internetisbeautiful [changed their rules](https://www.reddit.com/r/InternetIsBeautiful/comments/3063r6/how_are_you_doing_were_doing_great_we_have_a_few/) to be less friendly to online stores. 
 
 *"Online Stores/Paid Services/sites just selling stuff - some of these are funny, some of them are terrible, a LOT of them are people just trying to make that paper. we don't think online stores or sites that deliver cow poop to your friends are really what any of us are looking for in this subreddit. plus, there's like five bajillion of them now since the Great Glitter Gold Rush of 2015. they're far past being unique."*
 
 It may still be worthwhile to attempt a post, just in case the mods happen to be in a particularly good mood that day. Another option is to come up with a widget or a free related service that **can** be posted and use that to drive traffic to your main site.
 
+![](images/subreddit_rules_2.png)
+
 #### Post from customer point of view
 
-Instead of posting yourself about your box, have a customer make a post such as "I received my ABC box today, it was full of XYZ goodness!". You can ask the customer to make this post on /r/pics or to any subreddit related to the products you are sending.
-
-#### Do a giveaway
-
-The subreddit /r/giveaways and /r/sweepstakes are for giving out free stuff. You accept entries from people who want a free box and then pick one randomly. While sweepstakes will definitely drive a lot of traffic if you have a nice prize, the quality of the traffic may be very low. These are visitors who are not necessarily looking to buy anything, but rather just looking for free stuff. I would suggest keeping a careful eye on how well this traffic is converting before making a habit out of hosting these contests.
-
-There are also Facebook apps you can use to host the giveaway on your FB page and even require customers to take an action such as posting to Facebook or Tweeting in order to enter your contest. If you do decide to run a contest, it may be worthwhile to also post a link to your giveaway to dedicated sweepstakes sites such as [Online-Sweepstakes](http://www.online-sweepstakes.com/).
-
-
-
-First one is my attempt to buy advertising on Reddit.com
+Instead of posting yourself about your box, have a customer make a post such as "I received my ABC box today, it was full of XYZ goodness!". You can ask the customer to make this post on /r/pics or to any subreddit related to the products you are sending. It will have to be pretty awesome to get attention, but worth a shot if your box is good enough.
