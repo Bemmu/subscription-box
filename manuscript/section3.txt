@@ -96,7 +96,7 @@ By the way, in the spreadsheet above those are actually real numbers from some o
 
 ## Marketing on Reddit
 
-In the marketing spreadsheet, several rows are dealing with experiments on Reddit.
+In the marketing spreadsheet, several rows are dealing with experiments I did for Candy Japan on Reddit.
 
 If you are unfamiliar with [reddit.com](http://www.reddit.com) and visit their homepage, you might be confused. This site doesn't look very professional at all, just a list of random links? But Reddit is huuuge. How huge? At the time of writing [Reddit is serving 7.55 **billion** pageviews a month](http://expandedramblings.com/index.php/reddit-stats/).
 
