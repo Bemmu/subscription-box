@@ -1,0 +1,18 @@
+# Fulfillment
+
+#### Option 1 - Same shipment date for each customer
+
+This is likely the easiest way from your point of view. You decide on a certain date for preparing your shipment (in CrateJoy this is called the “cutoff window”), say the 14th of each month. Anyone who subscribes before that date receives that month's box. 
+
+From your point of view this is extremely convenient, as you can pack all boxes, attach labels and take them to the post office (or schedule a pick-up) in one big batch. 
+
+In some situations (at least with Japan Post), you may also be eligible for discounts when you send a lot of items at once. 
+
+The huge downside of batches is that if for instance your shipment preparation date is the 14th and someone joins on the 15th, they will have to wait your whole cycle (typically a month) before the shipment is even prepared. To actually receive the item will be one month + preparation time + shipping time, which will be even longer. Customers are not happy if they get billed again before the first item has arrived.
+
+When you grow to a certain size which necessitates hiring some packing staff, it might no longer be desirable to do one big batch for staffing reasons either. If you have enough packages that it takes say 20 hours to make them, it could be easier to have one person make those gradually say for 5 hours once a week rather than having to hire three people for just one day.
+
+If everything you send is identical, it is very convenient to be able to print all shipping labels in one go without having to click separately for each order.
+
+
+If you are shipping abroad, you may also desire a way to fill any customs labels easily.
