@@ -54,7 +54,7 @@ You do it by comparing the cost of that marketing activity against your LTV. Kno
 
 ### Compare LTV against your customer acquisition cost
 
-When evaluating the clicks you are buying on AdWords for example, you can compare their cost to the LTV to decide whether the campaign makes sense. Say on average it costs you $60 in paid clicks to gain a customer, but from your LTV you now know that the customer will only turn you a $50 profit. 
+Suppose you are buying some clicks on AdWords for example. You can compare their cost to the LTV to decide whether the campaign makes sense. Say on average it costs you $60 in paid clicks to gain a customer, but from your LTV you now know that the customer will only turn you a $50 profit. 
 
 That would mean that you actually lose $10 for each customer you get through AdWords. As you can see, knowing your LTV in this case would make it clear that continuing to use that campaign is just wasted money.
 
@@ -70,15 +70,11 @@ If you don't know which of your efforts is actually producing results, how will 
 
 While coming up with new campaigns can require creativity, when it comes to controlling your spend on marketing, you should try to switch on your most analytical mode of thinking from time to time.
 
-You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the options to tweak ad campaigns are endless.
+You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the various options for tweaking ad campaigns is endless.
 
-On the other hand, promotion through the seemingly free social media and content-marketing (writing online articles, blog posts) may not cost money, but it is endlessly time-consuming. 
+While you can waste money on paid campaigns, promotion through the seemingly free social media and content-marketing (writing online articles, blog posts) may not cost money, but it is endlessly time-consuming. If you know that one customer is worth $50 to you and you spent 10 hours to get that customer, you just worked for $5/hour. 
 
-Somewhere between these paid and free marketing channels is providing free sample boxes for bloggers, which ends up taking time just to evaluate which blogs are worth sending to and keeping in touch with them to maintain relationships. 
-
-Which of these to focus on you can only learn by experimenting. You might think "oh well I'll just do everything". You should not. If you can know that one customer is worth say $50 to you and you spent 10 hours of work to get that customer, you just worked for $5/hour. 
-
-You can't do everything, but at least knowing your numbers helps you focus on the better performing channels.
+Which promotion methods to focus on you can only learn by experimenting. You can't do everything, but at least knowing your numbers helps you focus on the better performing channels.
 
 ### Setting up Google Analytics
 
