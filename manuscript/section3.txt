@@ -92,23 +92,23 @@ After you have this set up, you will be able to see which web traffic sources br
 
 ## Announcing your launch
 
-Congratulations, you did your first newsworthy thing by launching. If your concept is something unique, you may be able to get some press by just that alone. Try to get the most out of it, as it can be a lot easier to get people interested in something new rather than to try to get people to care later after you are already old news.
+If you set up your site already, congratulations, you did your first newsworthy thing by launching. 
 
-Traditionally one of the first things you can do is a launch press release. This means composing a piece of carefully crafted text very shortly outlining what your box is about, formatted in a specific way and sending it off to relevant reporters and bloggers.
+If your concept is something unique, you may be able to get some press by just that alone. Try to get the most out of it, as it can be a lot easier to get bloggers / reporters interested in something new.
 
 Why would you want press anyway? Because press mentions bring traffic and very valuable backlinks, which later on brings you even more traffic from Google. The social validation and legitimacy aren’t bad either, as it can help you get even more press later when reporters who are researching you [see that you're already being talked about](http://blog.clarity.fm/the-hackers-guide-to-getting-press/).
 
-When Candy Japan launched, just the various blogs picking up the launch announcement was enough to gather a few hundred paying subscribers. We got lucky getting blog coverage without an official press release. Some kind bloggers happened to be reading the entrepreneur forum where the launch was announced and it got picked up that way. If I did it again I would additionally write a press release announcing the launch and make sure as many sites were aware of it as possible. Reporters get tons of such announcements, but you never know when you might get lucky.
-
-And you'll need the luck! As the past TechCrunch writer Jason Kincaid notes in his book "[The Burned-Out Blogger’s Guide to PR](http://www.burnoutpr.com/)": *"Because while it’s nice to think that reporters have structured and fair processes for deciding who is blessed with press coverage, you are at the mercy of the black box that is the reporter’s mind. They’re well-versed in explaining why they chose to write one story over another, but this deliberation is roughly as scientific as how they decided what to order for lunch."*
+When Candy Japan launched, just the various blogs picking up the launch announcement was enough to gather a few hundred paying subscribers. We got lucky getting blog coverage without an official press release. Some kind bloggers happened to be reading the entrepreneur forum Hacker News where the launch was announced and it got picked up that way. 
 
 When your box has just been released, the release itself can be news enough to gain some mentions on various sites. It will likely never be this easy again, so make the most of it. If you try to get someone cover your launch and they see that it was already covered some time ago elsewhere, they might think it no longer newsworthy and not publish it for that reason. That’s why it may be smart to contact many blogs in a short span of time.
 
 ### Press releases
 
-I didn't start with a fancy press release myself, but many boxes do. It seems like worth the shot.
+While I didn't start with a fancy press release myself, many boxes do. It seems like worth the shot. Reporters get tons of such announcements, but you never know when you might get lucky.
 
-A press release is an official statement to send to to journalists, written in a factual style with important things mentioned first. For a reporter it can be the starting point of writing a story about the launch of your subscription box.
+And you'll need the luck! As the past TechCrunch writer Jason Kincaid notes in his book "[The Burned-Out Blogger’s Guide to PR](http://www.burnoutpr.com/)": *"Because while it’s nice to think that reporters have structured and fair processes for deciding who is blessed with press coverage, you are at the mercy of the black box that is the reporter’s mind. They’re well-versed in explaining why they chose to write one story over another, but this deliberation is roughly as scientific as how they decided what to order for lunch."*
+
+A press release is an official statement to send to to journalists, written in a factual style with important things mentioned first. It is a short outline of what your box is about, formatted in a specific way and then sent to relevant reporters / bloggers. It can serve as the starting point of writing a story about the launch of your subscription box. 
 
 You should write in a factual way and avoid any hype terms only designed to make your box sound awesome. Keep your opinions out and stick to the facts. Reporters have a keen sense of when they are being marketed to and don’t want to just give you free advertising. The tone should be objective and be written in the third person, [avoiding usage of “you”, “I”, “we” etc.](http://service.prweb.com/learning/article/editorial-guidelines/)
 
@@ -149,7 +149,7 @@ According to Cooper And Kid, whether press releases are picked up by the media d
 
 ### Sample marketing spreadsheet
 
-From here on I will start giving you some ideas of places where you can promote your box. But to make sure that your campaigns are working, I'd first like to suggest that you track your efforts in a marketing spreadsheet.
+From here on I will start giving you some ideas of places where you can promote your box. But to make sure that your campaigns are working, I'd first like to suggest that you track your efforts in a marketing spreadsheet. Hopefully you already have Google Analytics tracking set up, as that is what you will use to enter the numbers for the **sales** column in this spreadsheet.
 
 With advertising one immediate goal is to make sales. But another equally important goal is **to learn** so you can sell even better in the future. You should record the effectiveness of your ad campaigns, otherwise you will not know which advertising channels to double down on and which ones to phase out.
 
