@@ -96,9 +96,9 @@ If your concept is something unique, you may be able to get some press by just t
 
 Why would you want press anyway? Because press mentions bring traffic and very valuable backlinks, which can help bring you even more search traffic from Google as well. The social validation and legitimacy aren’t bad either, as it can help you get even more press later when reporters who are researching you [see that you're already being talked about](http://blog.clarity.fm/the-hackers-guide-to-getting-press/).
 
-When Candy Japan launched, just the various blogs picking up my launch announcement was enough to gather a few hundred paying subscribers. We got lucky getting blog coverage without an official press release. Some kind bloggers happened to be reading the entrepreneur forum Hacker News where the launch was announced in an informal comment and it got picked up that way. 
+When Candy Japan launched, just the various blogs picking up my launch announcement was enough to gather a few hundred paying subscribers. I got lucky getting blog coverage without an official press release. Some kind bloggers happened to be reading the entrepreneur forum Hacker News where the launch was announced in an informal comment and it got picked up that way. 
 
-When your box has just been released, the release itself can be news enough to gain some mentions on various sites (as long as there is something unique about it). It will likely never be this easy again, so make the most of it. If you try to get someone cover your launch and they see that it was already covered some time ago elsewhere, they might think it no longer newsworthy and not publish it for that reason. That’s why it may be smart to contact many blogs in a short span of time, while your box is still fresh.
+When your box has just been released, that in itself can be news enough to gain some mentions on various sites (as long as there is something unique about it). It will likely never be this easy again, so make the most of it. If you try to get someone to cover your launch and they see that it was already covered some time ago elsewhere, they might think it no longer newsworthy and not publish it for that reason. That’s why it may be smart to contact many blogs in a short span of time, while your box is still fresh.
 
 ### Press releases
 
@@ -106,9 +106,7 @@ While I didn't start with a fancy press release myself, many boxes do. It seems 
 
 And you'll need the luck! As the past TechCrunch writer Jason Kincaid notes in his book "[The Burned-Out Blogger’s Guide to PR](http://www.burnoutpr.com/)": *"Because while it’s nice to think that reporters have structured and fair processes for deciding who is blessed with press coverage, you are at the mercy of the black box that is the reporter’s mind. They’re well-versed in explaining why they chose to write one story over another, but this deliberation is roughly as scientific as how they decided what to order for lunch."*
 
-A press release is an official statement to send to to journalists, written in a factual style with important things mentioned first. It is a short outline of what your box is about, formatted in a specific way and then sent to relevant reporters / bloggers. It can serve as the starting point of writing a story about the launch of your subscription box. 
-
-You should write in a factual way and avoid any hype terms only designed to make your box sound awesome. Keep your opinions out and stick to the facts. Reporters have a keen sense of when they are being marketed to and don’t want to just give you free advertising. The tone should be objective and be written in the third person, [avoiding usage of “you”, “I”, “we” etc.](http://service.prweb.com/learning/article/editorial-guidelines/)
+A press release is an official statement sent to journalists, written in a straightforward style with important things mentioned first. It is a short outline of what your box is about, formatted in a specific way and then sent to relevant reporters / bloggers. It can serve as the starting point of writing a story about the launch of your subscription box. 
 
 Luckily you are on the same side with many reporters. You want coverage, they want pageviews for their site. Some writers are even directly compensated for the pageviews they generate for the blog they are working for, but this still doesn’t mean they would publish absolutely anything. Especially higher profile bloggers can spend more of their time covering very important topics in-depth and are less likely to just post a rephrasing of your press release.
 
@@ -117,6 +115,8 @@ Even if publishing more is better for them, there is still an opportunity cost t
 #### Format of a press release
 
 It might be the easiest to start by mimicking an existing press release to get the proper format. 
+
+The tone should be objective and be written in the third person, [avoiding usage of “you”, “I”, “we” etc.](http://service.prweb.com/learning/article/editorial-guidelines/)
 
 The first line in a press release indicates whether the information can be published immediately or if it is under an "**embargo**". You can use an embargo to give a date for when your launch announcement can be published to coordinate information going out at the same time. You should be aware though that many reporters dislike embargoes, so using one could hurt your chances for coverage.
 
