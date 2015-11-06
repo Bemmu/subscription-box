@@ -281,3 +281,128 @@ Besides /r/entrepreneur, other similar ones are [/r/startups](https://www.reddit
 
 Sadly none of these business subreddits can appear on the main page, so you will only be reaching other entrepreneurs who may even decide to compete with your idea. Still, the benefit likely outweighs the risk, as these subreddits are quite large. I've had successful posts lead to dozens of new subscribers.
 
+## SEO & AdWords
+
+### AdWords
+
+When you search Google for something, in addition to the usual results, on the top of the page and in the right column you often also see ads that someone paid to show. [AdWords](http://adwords.google.com) is the Google service where you log in to buy such ads. 
+
+**Warning**: AdWords is a very very easy way to burn a lot of money if you are not careful. Just set up a bad ad campaign, neglect to set up a limiting budget and forget about it for a while, only to and come back to find a huge charge on your credit card. Set a budget!
+
+I'm not going to write much about Google AdWords here, as entire books have already been written on the topic. But I will share that for Candy Japan I was able to advertise profitably for a time by simply starting a campaign targeting the broad keyword "japanese candy". 
+
+You can see it in the advertising spreadsheet, I got roughly $1500 worth of sales over a period of one year with a spend of $750. However due to competition bidding on the same keywords, this is no longer profitable for me. I would suggest for you to try if you can still buy ads for your own box niche. If there isn't much competition, it can work for you. 
+
+There is a lot of tweaking you can do. Testing different ad copy or improving your website could hugely improve the profitability of your ads.
+
+### SEO
+
+So you buy some advertising on Google, targeting terms related to your subscription box. Google sends traffic to you and some sales happen. Great!
+
+But you are missing a whole group of people: those who never click on ads. Reaching people through ads is also costing you a fair bit of money. Wouldn't it be great if you didn't have to pay for each click, but could have those customers for free?
+
+SEO stands for "Search Engine Optimization", the act of trying to rank well in the non-paid results of search engines. 
+
+I don't have any guaranteed secret that will get your box to be the top result on Google. The truth is that no-one knows exactly how Google ranks their results, except perhaps the engineers working there. If anyone contacts you promising to get you to the top of Google in exchange for a bit of cash, be wary.
+
+**Some** general things are known about how to improve your ranking, but those tend to be things you should be doing anyway: Make a good site that people don't immediately bounce back from. Have your site linked to from many other websites which are relevant and trusted. Make sure it has a lot of good quality content on it. 
+
+### Creating content
+
+For Candy Japan most of the good search traffic is coming from people who just search for the name of our website. Another way to get traffic is to try to write articles related to your niche that you can rank naturally for.
+
+The idea is that instead of spending $1 / day paying for an AdWords keyword, you spend $100 to create an article. After a few months it could rise up the ranks enough to bring you as much quality traffic as you were paying on AdWords before. Nice investment which should pay itself back very quickly. Not to mention you can now reach the group of people that would not have been reachable through ads.
+
+It's still a competitive game though, as there are only a certain amount of searches for each search term.
+
+Maybe you'll write a good article and get to the top. Then someone writes an even better one and outranks you. 
+
+You'll be locked into a content battle, although one with unclear rules, as no-one really knows how Google decides which article to rank on top. But at least in theory the quality of your content is what they are **trying** to rank you for (how well their algorithm can figure that out in practice is another question).
+
+Compared to spending money on AdWords, at least you'll now be competing in a battle that will lead to better web content, instead of just more ads. In that way spending on quality content creation at least seems like a better thing for the world than just mindlessly increasing ad spend. Assuming of course you really are putting out good content and not just spam!
+
+### Should you have a separate content site?
+
+While your box home page may be able to be the answer to some of the queries Google users have in mind, not all of them will be a natural fit for your main landing page. For a dog goods box you might be happy to have your home page rank well for "dog goods subscription box", but it could be counterproductive to try to rank that same page for "tools for grooming a labrador retriever". 
+
+If you would like to targer those other topics, you may want a blog or article section on your website. Another way used by some boxes is to have a completely separate content site. For example the dog goods subscription box [BarkBox](https://barkbox.com/) also operates the viral puppy content site [BarkPost](http://barkpost.com/). 
+
+Whether you want to have your content on your main site or on a separate one is a matter of opinion. Having them on the same site could make it less jarring to try to get people to subscribe to your box, as they are already on your one and only main site. However a separate content site may be able to garner more backlinks and shares, as it feels less commercial. 
+
+With a separate content site you'll also have the option to start focusing on that alone, if it turns out that your content site is actually better business than your subscription box. That could be if your articles become so popular, that showing ads for other sites against them is more profitable than using the same space to push your own subscription box.
+
+### Testing whether content creation leads to customers
+
+If you have say a box about makeup and wrote an article about "top 10 makeup tips", you want to know if writing that article is what resulted in the sale. 
+
+Unfortunately Google Analytics no longer shows most of the search terms that visitors use to find your website. While you can see what traffic you are getting from [Webmaster Tools](https://www.google.com/webmasters/), that tool does not show which terms are actually resulting in purchases. Good news is that while you won't see that a sale came from a certain Google search term, you can still see which page the customer landed on before completing their sale.
+
+After you Google Analytics tracking set up, you can pull up reports to see how many sales each article on your site resulted in. Check "Behavior > Site Content > Landing pages". Then click on the dropdown which says "Conversions" to select either "eCommerce" or "all goals" depending on whether you set up eCommerce tracking or goal based tracking. 
+
+Now you have the data, but it's still not ordered properly. You want to see the best articles first, so click on the "Transactions" or "Goal Completions" column to see which articles are sending you the most customers. If you set up goal values, you can also see a monetary value for the article. 
+
+For instance in the hypothetical example below you would be able to see that in one month, the article on "Why Japanese Candy is Awesome" resulted in 50€ worth of sales. If that continued in the future, the article in question would soon pay back the effort of writing it.
+
+![Google Analytics landing page report](images/landing_pages.png)
+
+### Coming up with article ideas
+
+If you naturally have topics that you know you can write content about and many people would be probably searching as well, that would be a good start. For an extremely niche topic, it could be that no-one is looking for such articles. In that case you have to research a bit more to see what might be worth writing about.
+
+A great tool for finding article ideas is the Google Keyword Planner. After creating an AdWords account, you can find it in "[Tools > Keyword Planner](https://adwords.google.com/keywordplanner)". Using this tool you can simply input what your subscription box is about and it will show you related terms.
+
+Using the tool you can see what topics people are searching for. You can drill down inside the topics to look at the particular keywords and how often people are looking for each every month. When considering terms to write content for, you need to balance several considerations.
+
+* Search volume
+* Percentage of the volume your content is likely to capture
+* Buying intent 
+
+#### Search volume
+
+![Keyword planner](images/adwords_tool.png)
+
+For example in the screenshot above, you can see that people are looking for "weird japanese candy" 880 times per month. Now even if you wrote an article about "weird japanese candy", there is no guarantee that you would appear anywhere high enough to get any of that traffic to come to your own site. 
+
+People are most likely to click on the top result. The second highest result will still get quite many clicks, third one still some but much less and so on. The shape of this curve is known from various studies. For instance [Moz has done such a study](https://moz.com/blog/google-organic-click-through-rates-in-2014). 
+
+| Position      | % of clicks     |
+| ------------- | --------------- |
+| 1             | 31%             |
+| 2             | 14%             |
+| 3             | 10%             |
+| 4             | 7%              |
+| 5             | 6%              |
+
+As you can see, you lose more than half the potential visitors by being in the second place compared to first. Let's be realistic here: in all likelihood unless there is almost no competition for your term, you probably won't get a first result for any important term. Actually you'll be lucky to even get to the first **page** with your content. There is a lot of content out there, much of it well written, older and with a large number of backlinks.
+
+Not that there even exists a "first place" anymore, as results are nowadays personalized to the individual searcher. If you would like to see unpersonalized results, you can try searching in incognito mode. There will still be sites that generally are ranked high in the results for most people, so the concept of a good Google ranking hasn't vanished despite personalization.
+
+Reaching a good ranking on Google is very hard, but there is a happy side. While trying to rank for your desired terms, you are accidentally going to rank for many more long-tail terms that you hadn't even considered when writing your content. 
+
+If you wrote an article on the topic of say "dog goods subscription box" and included some sentences such as "this doggy box is perfect for your puppy, be it a labrador retriever or a spaniel" and expected to get traffic from people searching for "doggy box", you might find that you just happen to rank really well for something else entirely, such as "labrador retriever puppy box" or another unexpected term like that. 
+
+While aiming for the top result, you can accidentally better rank for many other terms. It's better to rank well for a less searched for term than rank poorly for a popular one. For example it's better to be the top result for something which is searched for 100 times a month, rather than the 5th result for something searched for 500 times a month.
+
+#### Buying intent
+
+Now you have an article and some people are even clicking through to your site after searching for some terms appearing in it. But will they actually subscribe? Having a lot of traffic might be fun, but unless they actually subscribe to your box, it is meaningless. What you want is buying intent. The difference between someone who is searching for "rolex pictures" and "buy rolex now" or "rolex discount coupons" is huge.
+
+The idea is that when people search for topics which would identify the searchers as people very likely to subscribe to your box, you want those people to land on your site. In practice it can be quite difficult to come up with article ideas, so you might not be able to be too picky about whether they show buying intent or not, but in case you have a ton of ideas to choose from, perhaps better to go with the ones where readers might be ready to buy.
+
+### Format of content to write
+
+According to Moz research, the sweet spot for articles seemed to be [1822 - 2428 words](https://moz.com/blog/what-makes-a-link-worthy-post-part-1). That's 6 subheadings with about 400 words each. [Another source](http://www.orbitmedia.com/blog/ideal-blog-post-length/) suggests 1500 words. I tend to trust Moz, as one of the resources they use to gather their research is accessing thousands of Google Webmaster Tools accounts, which seems like a pretty reliable source when it comes to SEO data.
+
+Of course the right answer for article length is likely "as long as makes sense", but if you are getting some content made by using freelancers, they will want to know how many words they are supposed to write. 
+
+Also notable in Moz research was that "*Posts with all three media types (videos, images, and lists) will attract almost 6 times more ILDs than a plain text post*". Here ILDs mean “In-Linking Domains”, which is how many different sites link back to the content. Backlinks are one signal that Google uses to determine how high to rank content (and great because the link itself also sends traffic to you).
+
+### Finding freelancers to write your content
+
+If you have an idea for an article and rough bullet points on what it should cover, you can either go ahead and write it yourself, or you can find a freelancer to do the writing for you. 
+
+Finding a lot of freelancers is extremely easy using a site such as [UpWork](https://www.upwork.com) (personal favorite) or [Freelancer.com](https://www.hittail.com/), but the challenge is finding quality authors.When you post an open article writing job, you will likely get a dozen applications in a matter of hours, but when you try to hire them you may run into some poor quality writing. 
+
+You can help improve your article quality by hiring multiple bidders to write for you, look at how well they write and in the future focus on the better quality authors. Initially you will have to spend a bit more to find reliable help, but you can keep relying on those people for a long time.
+
+There is also a tool called [HitTail](https://www.hittail.com/), which combines keyword research with a way to hire writers. It can analyze traffic that your website is getting and get articles written for you for keywords that look promising.
