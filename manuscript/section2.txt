@@ -74,7 +74,7 @@ If you launch early, people will have a chance to show their interest towards yo
 
 So if at all possible, you want to validate your idea in as real as possible a way, and what is more real than actually having a site up that can accept payments? 
 
-## Crowdfunding
+### Crowdfunding
 
 While I'm going to mostly talk about putting up a static site yourself, another great option recently is to list your project on [KickStarter](https://www.kickstarter.com/) or [IndieGogo](https://www.indiegogo.com/). Through these crowdfunding platforms, you can get committed paying customers without even having to put up your own website. Not only is it a great way to test if your idea truly has legs, but it can serve as marketing as well.
 
