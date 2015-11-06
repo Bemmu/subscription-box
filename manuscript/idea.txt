@@ -721,7 +721,7 @@ There is also a tool called [HitTail](https://www.hittail.com/), which combines 
 
 If you are unfamiliar with [reddit.com](http://www.reddit.com) and visit their homepage, you might be confused. This site doesn't look very professional at all, just a list of random links. But Reddit is huuuge. How huge? At the time of writing [Reddit is serving 7.55 **billion** pageviews a month](http://expandedramblings.com/index.php/reddit-stats/).
 
-It is attractive especially as anyone can submit content to Reddit. There are no editors or gatekeepers. As long as your link gets enough upvotes, it has a chance of being shown to millions of visitors just like any other content on the site. There is no review process for submitted links, all is based on user voting.
+Reddit is attractive to a new box founder especially as anyone can submit content there. There are no editors or gatekeepers. As long as your link gets enough upvotes, it has a chance of being shown to millions of visitors just like any other content on the site. There is no review process for submitted links, all is based on user voting.
 
 The most powerful part of Reddit is the main page, which is what is shown by default. How powerful? As an example from today, the top image submitted to the site has been viewed 900,000 times in only 6 hours! Imagine if that was your brand and you could turn even a fraction of those views into subscribers.
 
