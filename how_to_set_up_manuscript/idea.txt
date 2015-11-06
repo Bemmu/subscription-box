@@ -1,0 +1,950 @@
+# Why start a subscription box?
+
+## It's fun for the customers
+
+Most people enjoy surprise gifts. A subscription box is not only a fun gift for someone else, but can be a way to "surprise your future self" by placing an order, forgetting about it for a while and later on be delighted when unexpected mail with a variety of goodies arrives. It's like Christmas every month. 
+
+It can also be a good shopping experience for trying a variety of goods without needing to consciously make product selections. According to [a study](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en), when presented with more choice, customers may be overwhelmed and end up purchasing less. 
+
+There is also a sense of community not present in traditional e-commerce stores. When each customer receives the same box, discussion and social media sharing over the box and its contents can take place.
+
+## Affordable to get started for the entrepreneur
+
+Unlike starting a restaurant franchise or other business where you have to make large investments from the get-go before you even know if you will have any customers, for a subscription box you get to send out the product AFTER you already know you can sell it.
+
+Besides voluntary costs such as site design, there really aren't any big initial investments to make for a subscription box. Even commissioning fancy custom boxes you can put off until after you have built a customer base to justify placing larger orders for packaging materials.
+
+## Higher customer value than traditional e-commerce
+
+Unlike an online shop focusing on one-time sales, a subscription box is attractive because customers agree to pay again and again for each box. Customers’ credit cards are charged automatically unless they explicitly terminate their subscription. This is the opposite way compared to typical e-commerce, where no further purchase is assumed unless the customer returns to the website to make another purchase. In a subscription box the default is multiple sales, with the immediate ending of the relationship a sad less likely occurrence.
+
+This doesn’t mean that each customer is infinitely valuable as people do eventually cancel. At the end of the day a new subscriber for a subscription box is still a “conversion” with a somewhat known value to it, so in that sense it does not differ from a one-off ecommerce site. However it can mean that one customer is MORE valuable for a subscription box company. That means that if you are advertising using Google ads for instance, a subscription box can afford to outbid the traditional online retailer, as each customer has a higher lifetime value (LTV).
+
+## Easier to predict needed inventory
+
+While the amount of subscribers you have will change month-to-month, you can predict how many items you will be needing. If you send the same product to everyone on the same schedule, it gets easier still, as you can even know which items to prepare. Compare this to a normal ecommerce business where you are holding small amounts of a large variety of goods. 
+
+You can even arrange things so that if you have items left over from the previous month, you can send it to future new subscribers as their first box. If you do this, you can reach 100% usage of your inventory. This is fantastic, as with traditional online shops it is not untypical to never be able to sell some items which just end up in storage forever or get disposed of.
+
+As the founder of [Carnivore Club](https://www.carnivoreclub.co) said in a [Financial Post interview](http://business.financialpost.com/entrepreneur/fp-startups/need-recurring-revenue-think-subscription-boxes), *"From a business perspective, it’s the most efficient, flexible and easy to operate business model in ecommerce"*.
+
+## Example box: Panty by Post
+
+Need a jolt more inspiration for starting your own box? Here is Natalie Grunberg on how her monthly lingerie club [PantybyPost.com](http://www.pantybypost.com) got started.
+
+> I run the successful subscription commerce enterprise [PantybyPost.com](http://www.pantybypost.com). We ship a pretty French panty every month in the mail worldwide. We have partners in Paris and an office in Moscow. How do we do it? I will reveal a few of my secrets but please keep in mind, there is no recipe to success other than a good idea mixed with stubborn, unforgiving hard work. If you are prepared to take your idea and mix it with your blood and sweat, then you may have a chance at shipping thousands of your own products all over the world too. 
+>
+> I started the company over three years ago, inspired by my frequent visits to France. The idea came together while I was sitting at a corner cafe admiring the French ladies and their fashion. My challenge to myself became, how do I ship a little bit of what these stylish women have all over the world. Panty by Post took shape when I returned to Canada. It started with a latte in Paris and has become a growing corporation in Canada. 
+>
+> My education is in advertising, marketing and teaching. I have learned my business by connecting with established business people and professionals. I have learned on the job and listened to my own innate business development skills and talents to drive the company to where it is today. The business now includes other valuable staff and we are growing.
+>
+> There has been a move from "bricks to click" and the power of the Internet to reach a world market is undeniable. Running an Internet business does not mean a sure thing but it does offer the kind of flexibility many creative thinkers need to flourish. If 9-5 is not your idea schedule, running an Internet business is appealing. That being said, you may end up working 9-midnight but at least you're loving it!
+>
+> My marketing and customer acquisition plan began locally. I started by meeting people of influence I knew in Vancouver. They offered sage advice and sometimes contacts of their own. I had a coach and together for three months she helped me create a dynamite pitch list and then off I went contacting the media in my town and then beyond. Now we have PR staff in Paris and Moscow, with more partnerships in the works!
+>
+> After we gained traction in the market we upgraded our site and refreshed our branding. We applied our knowledge of our market and focussed our offerings and branding to serve customers better. Our top sales periods are of course Valentine's and Christmas, but we have steady sales at all times because people always need a treat or have an occasion to buy gifts. We have been running this business during a recession but our kind of luxury is affordable and accessible. 
+>
+> We have a renew and refer program, so our customer retention is high. We work very hard to make sure our customers are 100% satisfied. Our business is based on referrals, so we work excessively hard to value each client. We do CPC (cost per click) ads with google but this takes a long time to tweak to get good results. We enlist the help of bloggers to do reviews and we've been fortunate to be picked up my People and Style Magazines. 
+>
+> Our new plans for growing the business are to expand our social media reach. We love our Pinterest board and we have a new writer on staff to help us with our blog. We are always looking for good international relationships and we're currently in talks with business people in Turkey and Brazil. Who knows, we could be creating our own lingerie line next (wink)?
+
+# Coming up with your box idea
+
+## Types of subscription boxes
+
+### Sampling vs. selections of full products
+
+Some subscription boxes contain full-price items in each box, while others consist of product samples. These are very different models, as full-price items are typically acquired from wholesalers only at a slight discount, while samples can be completely free, but come with strings attached. 
+
+The manufacturer providing you with free samples expects you to help turn these samplers into full product buyers. Having a samples-based box basically means you **need** to also have a shop, otherwise it makes no sense for your suppliers if customers have no way to order more.
+
+How profit is generated also differs between these, as for full-price items the monthly box itself may be the biggest money maker, while for sampling boxes the box might be a loss-leader and the real profit comes from full-size purchases made in the more typical e-commerce section of your website. Depending on how the sampling box is priced, it may even just be an advertising medium for the online store and have zero profit built in.
+
+Some boxes are based on product sampling with the hope that customers will later come back to purchase full-sized products, which in some cases works, as for instance the beauty box BirchBox [has mentioned](http://techcrunch.com/2013/08/15/birchbox/) that after shipping a sample eye shadow palette, as many as 11.2% came back to buy the full product. For a boxes based on this model, it is possible to receive products from manufacturers for free under the understanding that by letting customers try these samples they will be very likely to buy full products later on.
+
+### Pick items from a list with optional recurring
+
+Some subscription boxes are fully curated with no choices to be made by the customer. Others let the customer customize their box. [ManPacks](http://www.manpacks.com) among others uses this model. Some like [Trunk Club](http://www.trunkclub.com) have a recommendation system where the box is automatically customized for each customer. 
+
+### Skippable vs. automatic boxes
+
+One choice to make when setting up your subscription box is whether to let the customers skip shipments. You can either send everyone the current items with no confirmation, or you might announce first what the contents are and let your customers choose whether they want that box or not. For instance [Blissmo](http://www.blissmo.com/) and [Wantable](https://www.wantable.com) let you skip months. You can find more examples of skippable boxes [here](http://www.ramblingsofasuburbanmom.com/2013/08/list-of-monthly-subscription-boxes-with-a-skip-option/).
+
+The upside of having no skipping option is that you will be able to better predict the demand each box will have. This has a customer upside also, as some customers are subscribing to these boxes precisely because they are interested in the surprise factor and won’t even want to know beforehand what your box will contain before opening it. It's like having a birthday present each month. The downside is that customers may be less likely to subscribe or stay on for long if they feel there is a big risk that they may receive items which they did not desire. 
+
+## Buying the perfect domain name
+
+### Should you even bother searching for a domain yet?
+
+I wouldn’t necessarily recommend spending too much time thinking of a good name to start with, because once you've done enough other work, it will be easier to come up with the name. For instance if you have spent days thinking about all the different aspects of your subscription site, planning up a prototype box, thought about what kind of customers you would attempt to attract and many other details, thinking up a good name for your box will come more naturally. 
+
+If you go ahead and register a name first, one thing that often happens is that you may find your passion for the idea vanes, but you get stuck having the name. Every year when it comes time to renew your registration you'll feel like perhaps later on you will start using the name, so better renew your registration. Have a few more such "just in case" domains and soon you'll find yourself paying $100 / year just squatting on some unused names.
+
+It can also be a bit of a trap to be unable to proceed just because you got stuck on thinking about the name, but if you are dead set on choosing a name first, well alright, let me give you a push and try to help you get unstuck.
+
+### How to quickly check domain name availability
+
+To try out different name ideas, it's useful to be able to quickly check the availability of various names.
+
+One of my favorite tools for brainstorming domain names is called [Instant Domain Search](http://instantdomainsearch.com). It shows whether a domain is available or not in real time while you type in the name. Sometimes it does give false positives, so don’t party until double-checking the result using another tool, such as your domain registrar’s reservation page. 
+
+If you find your favorite name was unavailable, you’re not alone with this problem. Hundreds of millions of names have already been registered. This means that pretty much any single word and many good combinations of two words are no longer up for grabs. While you might desire a short name if possible, you're unlikely to be able to register a super-short name anymore these days. Every possible combination of four letters or less is taken, unless you include special characters in the name. 
+
+### Purchasing an existing name
+
+Your name is taken, but does that mean you cannot have it? Not necessarily. If you have some money to spend, you can buy it from the existing owner.
+
+If you find someone already has your name, chances are it is being held by a professional “domainer”. These are people who speculate on domain names by buying, holding and trading promising ones in the hope that later on someone like you will come along to buy it.
+
+They may be holding massive amounts of domain names, hoping that one will end up being a hit valuable enough to cover all the costs spent on the rest. Sadly this means that they are often not very cheap. What do they cost? While many transactions happen in private, some are sold through online or real-life auction events. You can browse the prices of names that have sold in these events in the past. 
+
+For example [dnjournal](http://www.dnjournal.com/ytd-sales-charts.htm) has such a listing, from which you can see some examples such as:
+
+| Domain name      | Sale price      |
+| ---------------- | --------------- |
+| HomeCare.com     | $350,000        |
+| FlowerBox.com    | $55,000         |
+| MegaDeal.com     | $50,000         |
+| Moon.co          | £6,000          |
+
+Another place for browsing listings is [Flippa](https://flippa.com/domains/just-sold), which had trades such as:
+
+| Domain name      | Sale price      |
+| ---------------- | --------------- |
+| Mini-Series.com  | $6              |
+| TakeSail.com     | $100            |
+| Swore.com        | $2,300          |
+| Cloud.io         | $45,000         |
+
+As you can see the range of prices is huge. 
+
+There really is no one answer to the question "what should this domain name cost"? If you happen to have two wealthy or venture-backed bidders competing against each other to secure a name, then the price is as high as those bidders can afford to go. 
+
+### Domain name price negotiation
+
+Besides bidding on auctions, you can also try contacting the current domain owners directly. The problem here is that it is difficult to start negotiating on the price at all if you start off with too low an offer, failing to grab their attention. This is because the owner of your desired name may prefer to avoid spending time making smaller trades when they could be concentrating on the bigger wins. They may not even bother to reply if you don’t make a sufficiently interesting offer right off the bat. Another route is to be a bit more mysterious and simply ask "is this domain for sale?" without mentioning a price.
+
+If you do manage to get them interested, the game begins. If they are experienced domainers, they will likely try to play some psychological games with you to make you pay more. One of these is to make you believe that they are currently engaged in multiple bids for the name and that you need to outbid your competition. Whether this is true or just a trick you have no way of knowing, so you may be tempted to increase your price to outbid these possibly imaginary competitors. 
+
+Another mental trick they might use is to claim that they acquired the name for use in a project which they currently have underway. The release of their amazing site is just right around the corner and they would be unwilling to sell the name  -- except of course they might reconsider for a considerably higher price to justify scrapping their current plans. The last time this happened to me and I walked away, the current owner still after years has not used their name for anything.
+
+Counter-tactics to these also exist, which is why you might want to consider hiring a domain broker to buy the name for you. They can navigate these negotiations in a more cool manner since they are more detached from the name than you are and get a better price.
+
+There are many more tricks involved in domain price negotiation, I recommend reading the blog post [How to Buy Domain Names Like a Pro](http://fourhourworkweek.com/2009/02/27/how-to-buy-domain-names-like-a-pro-10-tips-from-the-founder-of-phonetagcom/). Two great tips in that post are using historical whois services to help find the current domain owner and avoiding giving out any personal information in case that might serve as a justification to quote a higher price to you.
+
+*Let us never negotiate out of fear. But let us never fear to negotiate.* -John F. Kennedy
+
+### Transferring a domain name from the previous owner
+
+If you manage to get the domain seller's attention and negotiate a sale, the transfer process itself is not difficult. When you buy an existing name, the act of transferring the domain is called a “push”. The owner of the current domain needs to log in for their registrar and then request a push through the web interface. 
+
+You may need to send the current owner of the domain a special "authorization code" in order for them to do the push. You can find this authorization code in the web interface of your registrar. If you have your registrar set up to allow all incoming domains, then the push auth code may not be necessary.
+
+### Securing the domain transfer with an escrow service
+
+How do you guarantee that you won’t get scammed in the process of transferring the name? If you send the money first before receiving the domain, the seller might decide to just forget to transfer the domain to you. On the other hand if you are the one requesting the sale, then it is very unlikely that the seller would agree to transfer the domain to a stranger before receiving payment. Stalemate?
+
+Escrow services exist to smooth out situations like these. Such a service acts as a third party to guarantee that the transaction goes through with neither side having to put themselves at risk. The escrow process can be done completely online. The most famous of these services is likely [escrow.com](http://escrow.com/). It is a US-based service which has been operating since 1999, protecting transactions with total worth of billions of dollars. 
+
+From the buyer point of view the domain transaction using an escrow service is quite painless. When you are on the buying side, first you will receive an email saying that a transaction is waiting for you. You then set up an escrow.com account if you have not yet created one. Then you wire the payment to escrow. They will hold the payment until you have confirmed that the domain was transferred to you and only then is the money released to the domain seller.
+
+### Grabbing an expiring name
+
+Domain names are reserved for a limited period of time. What if someone no longer wants their name lets it expire? At first it enters a grace period for 30-90 days, during which the original owner can still renew the domain. After that it enters the redemption period, during which the original owner can still renew the domain, but there is a fee involved. If even after the redemption period is over the original owner has still not renewed, then it "drops" (becomes available). 
+
+You might think that if you see a domain registration expire, you could just wait until the redemption period is over and register it yourself. However there are groups which use special software that rapidly attempt re-registration of these expired domain names over and over again in order to be the very first to re-register it. You will not be able to beat them manually. 
+
+Luckily these companies are sort of mercenaries for hire. By paying them a small fee you can use their guns to get you the domain you want. If you want to know more about this subject, I highly recommend Mike Davidson’s classic article [How to Snatch an Expiring Domain](http://www.mikeindustries.com/blog/archive/2005/03/how-to-snatch-an-expiring-domain). 
+
+The gist of it is that you can maximize your chances of getting your domain by instructing several of these “drop catching services” to attempt to get your name. I’ve had some luck using [pool.com](http://pool.com/) for this purpose, but there are many others as well. You can enter as many domains as you wish on their site, which they will then attempt to get for you. You can also browse domain names which will be expiring soon.
+
+### Consider a brandable variation of your key term
+
+In the beginning I wrote that all the good names are taken. That's not entirely true. Actually only all **obvious** names are taken. Your best option may be to come up with a new unique name that no-one else has thought of. Something catchy, with personality and branding potential. 
+
+A non-generic name can have other benefits as well. If you have an animal name or an object in the name, then it instantly gives you ideas of what the mascot or logo of the club might be like. For example the Japanese anime box of the month club "[boxychan.com](http://www.boxychan.com/)" has a cute box as their mascot, which makes it a lot more memorable than if it was something generic such as "monthlyanimebox.com".
+
+Another great example of a name with benefits is [MailChimp](http://www.mailchimp.com/), an email marketing service provider which uses a chimp as their mascot. This might give you an idea: use your desired noun + some branding word as your name. Have your desired term in there along with an interesting prefix or suffix. You can put these ideas through [Instant Domain Search](http://instantdomainsearch.com) to try them quickly, but there is an even faster way. There are services where you can enter lists of words to try as prefixes and suffixes and it tells you which ones are available. Some even have those lists built in. 
+
+The best one I have found is called [Lean Domain Search](http://www.leandomainsearch.com/). Suppose for example that you are thinking of starting a snack-related subscription box. As there are already dozens of snack boxes and many domain speculators out there, you will find that almost any good name is already taken. Entering the word "snack" into Lean Domain Search, you'll find that actually some good combinations of popular word beginnings or endings added to "snack" are still available! It doesn't suggest cute animal suffixes, but can find for example that "SnackGlobal.com", "SnackGate.com", "EpicSnack.com", "ViaSnack.com" and "SnackBoss.com" among many others are still out there for grabs.
+
+I hope some of these tips helped you find a great domain name for your subscription box, or convinced you to stop obsessing about it until later!
+# Setting up your site
+
+For our box Candy Japan we built our own system from scratch on top of Google App Engine, PayPal and Recurly. If you are sending monthly boxes like most other subscription box companies, there is no longer any reason to build your own system. I strongly recommend using one of the many existing subscription e-commerce platforms if at all possible.
+
+# Setting up your website
+
+## Starting with a launch page
+
+You have your domain name ready to go and you are full of enthusiasm to get a site up quickly. Yet you are not feeling quite ready to set up your ecommerce system. What would be an easy next step instead? 
+
+One simple way to get started is to just put up a launch page. The purpose of a launch page is to simply announce that you are now working on this idea and to provide a form where interested visitors can enter their email addresses to be notified when you are ready to launch your actual site.
+
+With a launch page you can begin to gather an audience as early as possible. Google might also favor older sites slightly more when ranking search results, so having your site up earlier might not hurt there either (although it probably won't make a huge difference). 
+
+### How to set up your LaunchRock page
+
+![LaunchRock landing page](images/launchrock.png)
+
+A service called LaunchRock enables you to set up your launch pages easily, so you can start gathering your audience as early as possible. People can express their interest for your subscription box even before you have everything else set up. On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
+
+While LaunchRock is free if you use a subdomain such as "yourawesomebox.launchrock.com", to use your own custom domain like "www.yourawesomebox.com" you will need the $5 / month plan. That's still extremely cheap and I recommend going with the paid plan. You should have the custom domain (which you probably already purchased) as after all you would probably prefer building excitement for your own site rather than for LaunchRock! 
+
+If you do feel that just the subdomain is enough or want to kick the tires of LaunchRock before paying anything, you can proceed with the free account set-up. However there are also other features which are not available in the free plan, such as entering custom HTML code.
+
+![Launchrock launch page editor](images/launchrock2.png)
+
+After signing up you’ll have access to a drag and drop site builder which comes with everything you need to collect email addresses from interested people visiting your site. Later on when your box is ready to accept customers, you can send an email to everyone telling them that they can now go and subscribe to your box. Not everyone will, but a certain percentage of visitors who entered their email probably will likely order. 
+
+## Idea validation
+
+First try to discover if people are even interested in what you are offering, in other words validate that your idea has legs. While LaunchRock is fine for getting a rough idea on the number of interested people and many who sign up will likely become subscribers, it's still not quite the same as actually getting paying subscribers.
+
+The trouble with testing ideas without asking for payment is that you can’t really just ask if someone is truly interested. If you ask "would you subscribe to X if it existed?”" many people will answer yes because there is no risk or downside for them to agree and they want to be nice to you. 
+
+It costs people nothing to agree, but they might risk hurting your feelings if they say no. As SpaceX, PayPal and Tesla (co)founder Elon Musk often mentions in his interviews the following piece of advice on getting product feedback: *"Usually your friends know what’s wrong, but they don’t want to tell you, because they don’t want to hurt you"*.
+
+If you ask someone whether they would subscribe or not, they might say yes, but then go mysteriously silent when it comes time to complete the subscription process online by finding their credit card and actually paying. It would be better instead to have the most realistic possible test, and that is having just a simple site online where people will actually be able to subscribe. 
+
+This differs from having your real final site open in that it doesn't need to be much better than just your launch page. Just have *SOMETHING* up so that truly interested people can show that they are serious by actually paying. You can make it better later and convince an even higher percentage of visitors to sign up, but it would be better to have something that feels real and that can be ordered.
+
+Remember the initial site is mostly for discovering if people are truly interested in this idea, without you being around influencing them to agree to not hurt your feelings. You can still tweak pricing, your value proposition etc. later, it doesn’t have to be set in stone. For inspiration, take a look at [how AirBnB gradually improved over the years](http://foundersatwork.posthaven.com/7-important-lesson-from-airbnbs-7-rejections). 
+What if you collect payments but then cannot actually deliver what you promised, or decide you don’t actually want to pursue your subscription box idea at all? While you do have paying subscribers signed up and it is sad if you must shut down, you can still cancel them and issue refunds. 
+
+I did this once when I attempted to start a Japanese stationary subscription box Pen Japan. Although I did manage to get two dozen subscribers, I soon realized I just had no real passion for stationary! When I decided to stop doing it, I made sure everyone either got the orders they had paid for or a refund, then canceled all accounts. 
+
+While it sucks to build up excitement and then not deliver, the alternative may be wasting a ton of time building something and then finding out that no-one cares. Which is worse, spending months of your time perfecting something that falls flat on its face, or slightly disappointing a handful of early customers, who still get refunds? If you hadn't started early, those people would not even have had the chance to show their interest towards your project.
+
+So if at all possible, you want to validate your idea in as real as possible a way, and what is more real than actually having a site up that can accept payments? 
+
+## Static site with PayPal subscription buttons
+
+If you are already comfortable with setting up static websites, there is a very easy way to get started with your subscription box site. Simply put up a static site with a PayPal button on it and start promoting it to see what happens. You don’t need to automate anything yet. You can even get the shipping address from PayPal, so it is not necessary to even have any kind of address collection on your site.
+
+**PayPal money saving tip**: If you have enough transaction volume, make sure you apply for the [merchant discounts](https://www.paypal.com/us/cgi-bin/webscr?cmd=_fees-rate-about-outside). For example if you are doing $5000 / month in transactions, you could save $250 / month with just a few clicks.
+
+![](images/paypal_discount.png)
+
+If you hire support staff, it is possible to add them as users to PayPal so that they can complete refunds on your behalf. However at least for EU this required sending PayPal a scan of their passport or other identity document, but at least the process could be completed online.
+
+### Customizing the subscription button HTML code
+
+After you have your basic button set up, there are additional options available for customizing the button by editing the HTML code, most importantly to change the page users are directed back to after completing their subscription to your own “thank you” page. You can set that one with the hidden form field “return”. See the details [here](https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/formbasics/).
+
+In order to keep track of PayPal subscriptions, you can browse your subscribers on the PayPal site and see their shipping addresses there. Their system is not at all geared for subscription boxes however and if you grow larger than 100 subscribers, it will become somewhat awkward to keep track of what you are supposed to be sending to each subscriber. For example it is very very slow to browse your subscriber list. Predicting future need for stock will be more challenging as well, as frustratingly there is no chart of subscriber growth.
+
+Even with the limitations, PayPal Payments Standard should be perfectly sufficient for testing the waters to see if people would subscribe to your box. The best thing about it is how easy it is to integrate, if you know how to copy & paste code to a static site, you can start accepting subscriptions in less than an hour.
+
+One risk with using these buttons is that it will be more difficult to switch to something else later, as not all support scanning PayPal for new payments from those simple buttons (called "PayPal Payments Standard").
+
+### Going with SquareSpace
+
+If you are not comfortable coding up your own site, one of the easiest ways to set up a static site is using an online content management system such as [SquareSpace](http://www.squarespace.com). Calling it a “content management system” makes it sound a bit scary, but really it’s just a way to easily drag, snap and pop your page layout together while adding some content to your pages.
+
+You can use ready-made templates that even by default work also on mobile as well. While you can set up your site by just dragging around widgets and typing in text using an online interface, if you are perfectionist enough to want to arrange your site with pixel-perfect accuracy, it will require editing the templates manually, but for roughly arranging images, text and buttons as you want it is enough to just drag things around using the visual interface. 
+
+As a test to try it out, I attempted to remake our current site for Candy Japan which I had initially hand-coded in HTML. In a few hours I was able to remake the main page to be somewhat like the the current design, but it was quite hard to get it exactly right. in SquareSpace, I found that some things such as arranging buttons next to each other as I wanted wasn’t easy to do precisely using the interface, but for a basic layout it should be more than sufficient. 
+
+Who knows, perhaps those limitations are even useful as they can help prevent you from making an ugly arrangement of components even if you have no eye for visual design. In particular many SquareSpace designs are a lot more whitespace-heavy than I would feel is necessary, which probably means my feeling is wrong and that SquareSpace is forcing me to do the right thing :-)
+
+### Using 99designs to have designers compete on a site design
+
+Besides hiring a designer directly or learning HTML yourself, another option is to have your site designed by starting a design competition on [99designs](http://99designs.com). Using this competition site for illustrators, each designer can submit their own work and you can pick the one you liked the most.
+
+This option requires a bit of an investment, but is still quite cheap considering the amount of total work you will be getting from several designers. The price depends on how many designers you want competing, but prices go from around $500 for 15 designs to $1500 for 35 designs. There are additional optional fees (up-sells!) for getting more promotion for your contest such as having the @99designs tweet about the contest or promote it in their newsletter. The add-ons are quite attractively packaged and you might have trouble resisting using some of these extra options.
+
+Besides whole site designs, 99designs can also be used for other work, such as logos and packaging design. For instance the cover of the book you are reading was designed through such a contest (thank you [OberonZG](https://en.99designs.jp/profiles/1273461))! The 99designs process is to first start your contest, then allow some time to pass and select your top favorite designs. From there on the top still have extra time to submit more ideas and perfect their submissions, before you finally select your favorite design. The winner gets awarded by prize money for their work, but you will also have an option to buy other runners-up in case you might want to use their work later.
+
+### Leveraging your LaunchRock page
+
+Actually if you tried out LaunchRock, you already have such a static site -- your LaunchRock page! Just add a PayPal subscription button to your launch page and you already have a rudimentary subscription site. If you get some subscribers this way, they are easy enough to handle manually. If you have a PayPal account, you can find the subscription buttons in the merchant tools.
+
+![Where to find the merchant tools](images/paypal_payments.png)
+
+To get the PayPal subscription button, first create a PayPal account if you don't already have one. Then go to the "Merchant Services" tab and choose "Subscriptions & Recurring Payments". You will just need to choose the name of your subscription product, the currency and monthly charging. After that you get HTML code which you can copy and paste to your static site, resulting in a subscription button. For use with LaunchRock, it may be easier to use the simple link intended for using in emails.
+
+![Setting up the PayPal button](images/paypal_payments_standard.png)
+
+Incidentally, if you already have an email list, you wouldn't even need a website at all, as you can just mail out this link along with an explanation of what your subscription box is about. That is how we started with Candy Japan. I just emailed some of the customers of my previous online store to ask if they would be interested to subscribe to a twice-monthly candy service and just included the PayPal subscription sign-up link in those emails.
+
+Since some did subscribe that way, I was encouraged to actually do the effort of setting up a proper website. On the site we used just the same PayPal subscription button for a long time. It was plenty enough to see if anyone would subscribe. Even after we added more payment options later, it did not noticeably affect the amount of subscribers we were getting, so going with just PayPal would have probably been fine as well.
+
+![Copying the subscription button link from PayPal](images/launchrock3.png)
+
+After creating your button, click on the "email" tab to get a convenient link instead of an HTML snippet. You can use this simple link on your LaunchRock page to create a subscription button. First use the editor to add a button ([here, you can use mine](http://i.imgur.com/v86Zyb6.png)), then click on it to set the link to go to the PayPal subscription page. Now you have a bare-bones working subscription site for only $5/month!
+
+![Pasting subscription link to LaunchRock](images/launchrock4.png)
+
+By the way, these simple recurring payment buttons are called “PayPal Payments Standard”. This will be important to know when looking at documentation, as PayPal also has other ways to interface with it. Make sure you are looking at Payments Standard pages, not BrainTree or Express Checkout lest you be confused. The more advanced integration methods Express Checkout requires more technical expertise to use, but allow for a more customized experience. It is only available in certain countries, while Standard Payments has better global availability.
+
+## Using a traditional e-commerce cart system
+
+Instead of just slapping a PayPal button on a static site, using a proper e-commerce cart system would let your customers manage their orders more easily without having to contact you by e-mail to view their order status. You could also browse your orders, mark them shipped and have automatic emails sent to customers. 
+
+While there are completely dedicated systems geared for subscription box sites, for completeness here are some of the more traditional cart systems which can be extended to support subscription boxes as well.
+
+### WooCommerce Subscriptions
+
+WooCommerce is an open source e-commerce plugin for the website creation tool (or CMS) called WordPress. While WooCommerce allows you to create an online store, it does not support recurring subscriptions out of the box. WooCommerce Subscriptions exists to add this support. With this combination, you could set up your own subscription box on top of WooCommerce.
+
+WooCommerce Subscriptions has a flat purchase price of $199, after which you can continue using it for free. The catch is that you have to be familiar with hosting your own website, or have someone to do it for you. That is outside the scope of this book.
+
+Another option is to use an existing WooCommerce host, which will cost roughly $15/month, depending on the kind of plan you would likely need. For example [SiteGround offers WooCommerce hosting](https://www.siteground.com/shared-hosting-features.htm).
+
+### Extending Shopify to support a subscription box
+
+Not originally geared for subscription boxes, [Shopify](http://www.shopify.com) is an ecommerce system for starting online stores. Bonus fact: Shopify was originally started as software just to run a single snowboarding shop, but has since grown to handle $8 billion worth of sales for various online stores. 
+
+Shopify can be extended by adding apps, one of which is [Chargify](https://apps.shopify.com/chargify). By combining Shopify and Chargify, you can also create a system suitable for running a subscription box. Chargify pricing is $65 for up to 20 customers, $129 for up to 500 and $459 for up to 2,000. Shopify costs $29/month and has gateway fees identical with Stripe, but with volume discounts for higher sales.
+
+Another option for Shopify is [PayWhirl](https://apps.shopify.com/paywhirl-recurring-payments), which is used for example by the subscription box [Death Wish Coffee](http://www.deathwishcoffee.com/). This app also enables you to add a subscription layer to Shopify. PayWhirl is priced to have two tiers, either $0/month + 2% per transaction or $49/month + 1% per transaction. You can find them in the Shopify app directory or on PayWhirl’s own site.
+
+There also exists an app called [ReCharge](https://apps.shopify.com/shopify-recurring-payments), which is designed to be used both as a "subscribe & save" -type feature similar to Amazon or as the engine for subscription boxes. The [introduction video on their app page](https://www.youtube.com/watch?v=eNm1s_vU8N0) is excellent, I recommend checking it out. ReCharge is $19.99/month + 1% per transaction for up to 500 subscribers, with a negotiable discount if you have a larger customer base.
+
+With ReCharge all recurring subscriptions appear as new orders within Shopify, with special new interfaces for managing them both for you and your customer. You can change the subscriptions and update credit cards etc. through the interface which ReCharge adds to your Shopify. It also sends notification emails (welcome email, charge failed and charge succeeded) to your customers automatically. ReCharge supports monthly and other frequencies.
+
+If your subscription plan is $29/month, then at 20 subscribers PayWhirl would cost only $11.60/month compared to Chargify’s $65, so it is cheaper to start with. At this plan when having a bit under 500 subscribers it would become more expensive, but it would be quite a trivial difference. You should be choosing the system rather based on which you feel is easier to use and most of all the better user experience for your customers.
+
+### Going with PrestaShop or Magento
+
+Besides Shopify, there are many other shopping cart systems which you can extend with a subscription module. For instance you could use [PrestaShop](https://www.prestashop.com/) and extend it with the [Subscriptions Module](http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/5031-subscriptions.html) add-on.
+
+Another option is to use the open source cart system [Magento](http://magento.com/) and extend it with the [Subscriptions and Recurring Payments plugin](http://ecommerce.aheadworks.com/magento-extensions/subscriptions-and-recurring-payments.html).
+
+The advantage of using a cart system extended to support subscriptions is that those subscription plug-ins tend to be one-time costs. PrestaShop add-on for subscriptions costs 99,99 EUR, while the Magento Subscriptions and Recurring Payments extension costs $299. In the long run either will be a lot cheaper than the monthly fees many dedicated subscription platforms have.
+
+## Subscription e-commerce platforms
+
+The problem with using just the PayPal subscription buttons is that it doesn't really scale well when you start having hundreds of customers. Customers are slow and cumbersome to find and browse on PayPal's site and there is no easy way to print out all of the shipping labels for example. 
+
+You start dreading customer support questions merely because digging up the necessary information on PayPal will be so painful. Also you'll have no charts over your subscriber growth or retention rates.
+
+With just a static site with PayPal buttons, customers also have no way to update their subscriptions on your site, although changing addresses and cancelling their orders is possible on PayPal's site. This further increases customer support requests.
+
+Perhaps the biggest reason is that by just using PayPal buttons, you are locked into a relationship with only PayPal. If you have any trouble with them, you could lose access to your subscribers. It might also be better to provide some other payment options for those who do not want to use or cannot use PayPal.
+
+Using a normal ecommerce cart system which has been extended to support subscriptions might work out OK, but will likely not be as pleasant to use for you or your customers as an integrated solution which has been designed from the ground up for subscription sites, without it merely being an afterthought. Going with a company completely dedicated to subscription ecommerce means that they will be optimizing their systems to help retain customers as long as possible and have a good interface for customers to manage their subscriptions.
+
+To help in all of these matters, there are now several subscription e-commerce platforms which can offer an integrated experience for you. You can hook up different payment methods, such as credit card payment gateways so that customers can enter their credit card information directly on your site without going through a third-party service. They will be able to update their accounts and see the shipping status of their orders right on your site. Some of these systems even make it possible to buy postage stamps to print directly on your shipments with your own desktop printer.
+
+There are several such subscription e-commerce platforms in existence now, perhaps the most famous one being CrateJoy. I will not go too deeply into the set-up of each of these, as you can find much better information in their own documentation and websites. But just as an overview, I will list a few of the options that are out there. 
+
+Among the most important aspects when comparing ways to set up your subscription site are:
+
+* Provided layout templates / editor
+* Supported payment methods
+* Ease of preparing shipments
+* Ease of set-up
+* Cost of the platform
+* App/extension ecosystem
+
+### Provided layout templates / editor
+
+The success of your site will be highly impacted by the conversion ratio of your landing page - getting visitors to convert to customers. If you need 100 visitors to get one customer, you will be radically better off than a competitor who needs 200 visitors for the same customer. How you compose your site will have a big impact on this For this reason, having good templates that are known to convert well is important. If you use a popular system and see other successful subscription boxes using layouts similar to those offered, at least you'll know those to be a good starting point.
+
+Besides just the attractive layout, things like copywriting, photos and video on your site will of course also have a huge impact on this, but those too will need to be laid out somehow. So either your template should already have places for presenting those well or there should be an editor which is comfortable enough for you to use.
+
+In practice it will be impossible to know which layout will work for you, so it should also be possible to customize the site freely by editing HTML/CSS directly. Even if that is not something you want to do yourself, you should have the option of being able to hire a freelancer to do any changes which you need.
+
+### Supported payment methods
+
+There are many ways to pay online. You can have a form on your site where users can enter credit cards directly, just as they do on Amazon and many other online store. While this can make your site look very professional, another fine option is to take your customers over to PayPal to complete their payment. Some people prefer to enter their cards directly, others are comforted by having a trusted third party appear between the site and their purchase. Some are even [against PayPal on principle](http://www.paypalsucks.com/) (note: we have never had a single problem with PayPal after ~5 years of accepting payments through them).
+
+When accepting credit cards directly, there are multiple gateways behind the scenes processing payments, which will affects things such as the processing fees you pay, fraud detection and which countries' cards are accepted. One such gateway is Stripe, which is very smooth to use for the customer, as their credit card information is already pre-filled in if they have previously used Stripe to purchase somewhere else, which can make ordering very easy. 
+
+However the downside of Stripe is that while they accept merchants from most countries, not all are supported. You can see the currently supported Stripe countries [here](https://stripe.com/global). PayPal also restricts their more advanced payment APIs to some countries only, while PayPal Payments Standard (the simple subscription buttons) is more widely available.
+
+If there is a certain payment gateway you wish to use, for example if you are based in Russia and need to use a local payment provider, then you would need to find a subscription e-commerce platform which also supports that gateway. If you are based in the US, you will have a lot of choice. In some countries you might be happy just to find any working way for accepting payments. For example in my case as a sole-proprietor foreigner living in Japan, I couldn't initially find any gateway which would accept my strange situation, until I found [WireCard](https://www.wirecard.com/).
+
+### Ease of preparing shipments
+
+Actually shipping out stuff is a repetitive step which you will need to do every single month (if not more). It should be as easy as possible to print out multiple shipping labels in one batch. You definitely don't want to have to write labels by hand once you get past a few dozen subscribers. After a few hundred, even clicking one-by-one to generate each label starts to get tedious. If you are shipping abroad, you may also desire a way to fill any customs labels easily.
+
+### Ease of set-up
+
+While other aspects will dominate in importance over time, ease of set-up is still very important, as otherwise you might not get started with your club at all. You are much more likely to remain motivated to continue with your project if you can get the first few subscribers easily. That means setting up a simple site which can accept payments should be as painless as possible. If you are working on this project alone, your likelihood of going through with it will be much less if you need to set up your own server and configure software to get started. Most popular solutions nowadays gladly require no such efforts.
+
+### Cost of the platform
+
+You might be tempted to focus on the cost alone, but it is one of the less important aspects to consider. For example if platform A costs $50 / month and platform B is $100 / month, if B brought you just one extra customer each month or saved just a bit of your time, then it would very likely already be worth the difference.
+
+The systems tend to be priced such that the cost scales as your customer base grows, often with a base fee and an additional per-transaction fee. Really any of the commonly available platforms is cheap enough that the cost is not much of an issue and your expenses will be likely dominated by other costs such as shipping and marketing expenses.
+
+Only if you started custom building a completely new system by hiring programmers would you really start feeling the pain. If you hired an experienced west-coast US freelance developer for 6 months to develop your site, that alone might cost nearly $100k. You should feel very lucky that there are already platforms that accomplish the same with a fraction of the cost of custom development.
+
+### App/extension ecosystem
+
+One reason I don't own an obscure smartphone is that any apps I would want to use would quite likely not be available for it. I would rather have a more popular device such as Android or an iPhone, so that I can have access to all the cool and useful apps out there. As phones have their own app ecosystems, likely the same will emerge for subscription e-commerce platforms as well. This is not a big consideration at the moment, but going with a well-known provider which has a good developer community will make it more likely that any useful add-ons will be available to you in the future.
+
+# CrateJoy
+
+Founded is an Austin, Texas based subscription e-commerce company founded by Amir Elaguizy. He [estimates that out of the 10,000+ subscription boxes on the market 4,000 use Cratejoy](http://www.fastcompany.com/3044527/most-creative-people/from-socks-to-sex-toys-inside-americas-subscription-box-obsession). In addition to the CrateJoy system itself, they also run [Subscription School](http://subscriptionschool.com/), which is an excellent resource for monthly box entrepreneurs. Actually, you should probably be reading that site instead of this book if you have decided to go with CrateJoy and are looking to really jump into the setup.
+
+CrateJoy was started as part of the startup incubator Y Combinator (which by the way accepts applications [here](http://www.ycombinator.com/) in case you need funding, although it is not easy to get accepted). In each funding round they have multiple companies receiving investment simultaneously and attending startup dinners together. 
+
+Amir was [inspired to start CrateJoy](http://socialnerdia.com/blog/cratejoy-founder-amir-elaguizy) upon noticing how well subscription box companies were doing and how despite their successes there was still no good solution available yet for running them. Many subscription box startups were operating their businesses using various systems not really geared for subscription sites. They were specifically targeting to make a better solution than the Shopify + Chargify combination.
+
+For over 4 years we have also been running our subscription box Candy Japan with a self-made system, until recently giving CrateJoy a try. It was not really a switch per se, rather we bought an existing site which was already running on it. When recently acquiring our second subscription site, a monthly Japanese anime box called [FaniPack](http://www.fanipack.com), we started also using CrateJoy. I must say it has been a joy so far, although at the time of writing we had only been using it for one month. 
+
+Compared with our own system, CrateJoy provides quite a natural interface for managing subscriptions. With an in-house system, you tend not to really care much about how nice your user interface is. And when you’re the only one using it, at first it doesn’t really matter. But when you keep using your system for years and then eventually want to have other people helping you or want to even sell your business, it starts to matter much more. CrateJoy is a lot more pleasant to use than our in-house one, which lacks even navigation menus (hey, I can remember the URLs!).
+
+In addition to subscription products, CrateJoy also offers traditional ecommerce-style one-time products, so you can also have a shop on your site. The joy of browsing all the configuration options in a beautifully crafted interface is palpable after using a quickly mashed up home-grown system for years. While having a detailed CrateJoy set-up guide might be a good addition to this book, it could never be as up to date and authoritative as [their own tutorials](http://subscriptionschool.com/), so I suggest going directly to the source to learn more about CrateJoy if you are interested in choosing them.
+
+## Templates / editor
+
+CrateJoy has a "design store" where you can purchase site templates for use in your subscription box site. After you purchase and install a template, you can edit the text and images to your liking via a visual editor, called the "designer". If needed, even images can be edited directly on CrateJoy, as they integrate the browser-based Aviary image editor.
+
+![CrateJoy designer](images/cratejoy_designer.png)
+
+HTML/CSS can also be freely edited using the built-in code editor, or by accessing it through FTP. CrateJoy uses the jinja templating language. Sections can be marked as editable, which makes it possible to change them via the designer, without touching the code.
+
+![Editing a CrateJoy template code online](images/cratejoy_code.png)
+
+## Supported payment gateways
+
+The default gateway offered on CrateJoy is Stripe and you are highly encouraged to use it. While it is unlikely to be a coincidence that both Stripe and CrateJoy are backed by the same startup accelerator, Stripe also genuinely seems like a very good choice for accepting payments. 
+
+In addition to Stripe, CrateJoy also supports the payment gateways Authorize.net, PayTrace, BrainTree, PayMill, WorldPay and CyberSource. However [Stripe support suggests going with Stripe](https://cratejoy.zendesk.com/hc/en-us/articles/201885619-What-payment-processors-does-Cratejoy-support-) in these words: *"We strongly recommend usage of Stripe and will only enable a non-stripe payment processor when there is a good reason to do so (such as being in a non-stripe supported country)."*.
+
+While Stripe payments can be accepted from any country, you as the merchant must be located in a country supported by Stripe. At the time of writing the supported merchant countries were Australia, Canada, Denmark, Finland, Ireland, Norway, Sweden, United Kingdom and United States. There are other countries where Stripe is in beta. You can find the up-to-date list on [Stripe's site](https://support.stripe.com/questions/what-countries-does-stripe-support).
+
+One of the best things about Stripe is that if your potential customer has already bought something from another site using the Stripe gateway, they can prefill their credit card details. This means that to order the customer won't have to refill their CC number, but it can be a matter of just clicking "OK". This is fantastic, as the less friction you have in your checkout flow the better in terms of your conversion rate from visitor to customer.
+
+## Managing shipments
+
+Through the CrateJoy interface you are able to see what you are supposed to ship in the current time period and any confirmed orders you have for future months. You can have confirmed future orders, because in addition to month-to-month payments, through CrateJoy it is easy to also accept pre-payments for several months in advance. 
+
+These show up in the list of shipments to complete even before that month arrives, in case you want to prepare the boxes in advance. Future confirmed orders can occur in case you have multiple month subscriptions. For example if it is before the July box cut-off date and a customer puts in a 3-month box order, then you would already be able to see them as a confirmed order for August as well. 
+
+However if the subscriber is paying monthly, then their order would not show up until the rebill has not gone through. This is because they might still cancel or their credit card could stop working before the payment has a chance to clear, so it is not certain yet if there really will be an order.
+
+If you happen to have a need to prepare and/or send shipments to active subscribers whose rebill has not gone through yet, you can always export the list of subscribers and filter it to only active subscribers by importing the CSV file to a spreadsheet program or using a [simple script](https://github.com/Bemmu/cratejoy-scripts).
+
+An interesting feature is that you can print labels *including postage* directly from the app. Instead of affixing stamps to your boxes yourself or have the post office measure and stamp them, proof of stamp payment is printed out as QR codes on the label. That means you can neatly have just one label for the recipient and sender addresses with postage included in it as well.
+
+## Pricing
+
+At the time of writing CrateJoy charged $39.00 / month and additionally 1.25% + $0.10 for each transaction. 
+
+If you had 100 subscribers paying $29 each month, that would mean CrateJoy costs you $39.00 + (100*$29)*0.0125 + 100 * $0.10 = $85.25.
+
+This does not include payment gateway fees. For example if Stripe is your gateway, then in the example case they would additionally charge you $114.10 (that's 2.9% + $0.30 per transaction).
+
+## Apps
+
+At the time of writing CrateJoy had an app store with 9 apps in it. As the service is growing rapidly, the growth of the app store looks promising. Most of the apps are free, with only adding a referral program through the appropriately named "Referral Program" app costing an additional $99/month to use.
+
+# Subbly
+
+Subbly is a subscription e-commerce platform founded by Stefan Pretty. It is designed to help make starting a subscription business as painless as possible.
+
+As [Subbly's blog puts it](http://www.subbly.co/blog/what-is-subbly-5-things-you-need-to-know-about-the-subscription-box-ecommerce-platform/) "*Subbly is an all-in-one subscription eCommerce solution that provides vendors with everything they need to set up a subscription box business on one simple platform.*".
+
+Subbly team prides themselves on great support, including personal help to grow your business. When I set up my own Subbly test site I was even offered a free consultation session with the founder, although that might be a time-limited offer.
+
+## Templates / editor
+
+At the time of writing there were two templates to choose from, both free. Subbly can also design your site template for you. The cost for this design service starts at $2500.
+
+Designing your site with one of the provided templates is a matter of choosing a logo and customizing which font and colors you would like. You can also include links to your social media presence. Next you can start entering the text to describe how your box works, its name, tagline and so on. To see the changes you save and refresh your shop.
+
+![Customizing your site template on Subbly](images/subbly_editor.png)
+
+You cannot edit texts by just clicking on them, but you can see the editable texts side-by-side with your live site. Instead of clicking on the text you want to change, you need to find the right place in theme options to change your desired part. On the other hand having all the options clearly listed in front of you makes it very clear which parts are editable.
+
+![What I achieved in 15 minutes with Subbly](images/subbly_editor2.png)
+
+## Supported payment gateways
+
+At the time of writing Subbly only supported Stripe, although that is what CrateJoy is also strongly pushing merchants to use.
+
+## Managing shipments
+
+When scheduling shipments you can select billing intervals and delivery intervals (weekly, monthly, every 3 months, annually or bi-annually), but cannot freely choose a cut-off date to lock your shipping list in preparation for a shipment. 
+
+![Shipment preparation screen](images/subbly_dispatch.png)
+
+## Pricing
+
+Subbly is tiered based on subscriber count. Up to 10 subscribers for $24/month, 100 for $49/month, 300 for $99/month, 1000 for $199/month. There are no transaction fees.
+
+In most cases that is significantly cheaper than CrateJoy. Here is a comparison of CrateJoy vs. Subbly pricing, assuming a box which costs $29/month. The comparison does not include gateway fees, but those would be the same if you use Stripe for both.
+
+![CrateJoy vs. Subbly pricing](images/pricing.png)
+
+## Apps
+
+Subbly has no third-party app directory, but has ShipStation integration. ShipStation is a web-based software for handling shipments, through which you can integrate with USPS, UPS, FedEx and DHL. It is ideal when you are selling goods through multiple channels, for example if you have an online store selling the same products that your subscription box site is selling, you can use ShipStation to have just one shipment flow. It also helps you print labels.
+
+Zapier integration is coming soon. Zapier is a bit similar to IFTTT, providing an interface for creating triggered automations. For example Zapier could send you an email, iOS notification or a Slack message when an order comes in. There are many possibilities to use it to trigger useful actions, as Zapier can interact with almost anything.
+
+# Fulfillment
+
+Of all the tasks for our twice-monthly candy box Candy Japan, fulfillment was the easiest to delegate. It is purely manual labor. Fold a box, insert stuff, attach stickers and tape. It can be taught to anyone in 10 minutes. You can either do fulfillment in-house (by yourself or hiring help) or hire an outside third-party logistics company.
+
+Before the fulfillment batch can begin, some effort is required to gather the list of addresses and sanity-check that the entered addresses and amounts make sense. This will require some knowledge of how your subscription e-commerce system works. I still prefer to do this myself, as the risk of shipping to hundreds of people mistakenly is just too expensive a mistake to make. On the other hand leaving people out of the shipping list accidentally is another bad one! Because both of these mistakes are rather nasty, I prefer to do the task myself so that I'll have no-one else to blame in case I do it wrong.
+
+# Marketing
+
+By far what I get asked the most about is marketing. Now you have your idea and your site is set up, now what? Well, you have to tell the world about it. 
+
+This is the hardest part. While you can of course find customers in the offline world as well, such as at conventions related to your product, I will here only write about online marketing, as that's what I'm most familiar with personally.
+
+Whether anyone will know that your box exists really makes or breaks it. Still, this does not mean that you should blindly go out and throw money at advertising! That would be an expensive mistake. What's fascinating about online advertising is that you have to be creative, but perhaps even more you have to be very diligent at measuring the effectiveness of your campaigns.
+
+The two most important concepts are the **funnel** and **customer lifetime value (LTV)**. If you spend money on ads without setting things up to measure the campaign effect properly, you may later regret not getting the full benefit out of your ad experiment. I've done this and regretted it. Besides getting customers, what you want is to **learn** as much as possible.
+
+## The funnel
+
+Not everyone who hears about your site will visit it. Not everyone who visits your site will become a subscriber. While this much is obvious, it can be helpful to step back and try to visualize it. The comparison of choice is a funnel, the narrowing of it representing prospects who leave at each step before completing their purchase.
+
+![](images/funnel.jpg)
+
+The funnel is a useful analogy for realizing that there are several steps, all of which are required for a sale to happen. Improvement in later steps can be just as important as pouring more visitors to the top of the funnel. 
+
+Having a million visitors to your site would be useless if everyone drops out before completing a purchase. Even if your site could magically get every single visitor to subscribe, that would also be useless if no-one visits it.
+
+Similar is also true for less extreme examples. Having 1000 visitors to your site of which 1% convert to customers will get you 10 sales. But so does having 5000 visitors if your site is so ineffective that only 0.2% buy.
+
+## Customer lifetime value (LTV)
+
+In reality, different sources of traffic to your subscription box site will not be equally valuable. Someone who types the name of your box into Google and navigates to your site that way will be much more likely to order than someone just clicking from one random site to the next on StumbleUpon or Reddit.
+
+Each traffic source will also have a different cost. Paid clicks on Google AdWords can be very expensive. Producing content for SEO or updating your Facebook takes time, which also has some monetary value to it. How do you know if an effort is worthwhile, how do you quantify it?
+
+To do this you should have at least a rough idea of your customer lifetime value. Suppose your subscription box costs $25/month to subscribe to and after non-marketing expenses you have $7/month of profit left. You also estimate that on average a customer will subscribe for 7 months. You could then roughly say that your customer lifetime value (LTV) is about $7 * 7 = $49. Let's round that to $50.
+
+Now you have something more real to work with. When evaluating the clicks you are buying on AdWords, you can compare their cost to the LTV to decide whether the campaign makes sense. Similarly you can consider if the time spent on other marketing channels is wildly profitable or a waste of time.
+
+If you don't know which of your efforts is actually producing results, how will you know what to double down on and what is just a waste of time? Even if you are normally more fond of intuitive thinking rather than very strategic and logical, when it comes to spending money on marketing, you should really try to switch on your most analytical mode of thinking from time to time.
+
+You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the options to tweak ad campaigns are endless.
+
+On the other hand, promotion through the seemingly free social media and content-marketing channels may not cost money, but it is endlessly time-consuming. 
+
+Somewhere between these paid and free channels is providing free sample boxes for bloggers, which ends up taking time just to evaluate which blogs are worth sending to and keeping in touch with them to maintain relationships. 
+
+Which of these to focus on you can only learn by experimenting. You might think "oh well I'll just do everything". You should not. If you can know that one customer is worth say $50 to you and you spent 10 hours updating your Facebook page to get that one customer, you just worked for $5/hour. Probably not a good idea. Not to mention the variety of things you could be doing is almost boundless. 
+
+You just can't do everything, but at least knowing your numbers helps you focus on better performing channels.
+
+With advertising one goal is to make sales. But another equally important goal is **to learn**. You must record the effectiveness of your ad campaigns, otherwise you will not know which advertising channels to double down on and which ones to phase out -- knowledge too valuable to simply throw away due to impatience.
+
+## Easy first steps
+
+### Announcing your launch
+
+Congratulations, you did your first newsworthy thing by launching. If your concept is something unique, you may be able to get some press by just that alone. Try to get the most out of it, as it can be a lot easier to get people interested in something new rather than to try to get people to care later after you are already old news.
+
+Traditionally one of the first things you can do is a launch press release. This means composing a piece of carefully crafted text very shortly outlining what your box is about, formatted in a specific way and sending it off to relevant reporters and bloggers.
+
+Why would you want press anyway? Because press mentions bring traffic and very valuable backlinks, which later on brings you even more traffic from Google. The social validation and legitimacy aren’t bad either, as it can help you get even more press later when reporters who are researching you [see that you're already being talked about](http://blog.clarity.fm/the-hackers-guide-to-getting-press/).
+
+When Candy Japan launched, just various blogs picking up the launch announcement was enough to gather a few hundred paying subscribers. We got lucky getting blog coverage without an official press release. Some kind bloggers happened to be reading the entrepreneur forum where the launch was announced and it got picked up that way. If I did it again I would additionally write a press release announcing the launch and make sure as many sites were aware of it as possible. Reporters get tons of such announcements, but you never know when you might get lucky.
+
+And you'll need the luck! As the past TechCrunch writer Jason Kincaid notes in his book "[The Burned-Out Blogger’s Guide to PR](http://www.burnoutpr.com/)": *"Because while it’s nice to think that reporters have structured and fair processes for deciding who is blessed with press coverage, you are at the mercy of the black box that is the reporter’s mind. They’re well-versed in explaining why they chose to write one story over another, but this deliberation is roughly as scientific as how they decided what to order for lunch."*
+
+When your box has just been released, the release itself can be news enough to gain some mentions on various sites. It will likely never be this easy again, so make the most of it. If you try to get someone cover your launch and they see that it was already covered some time ago elsewhere, they might think it no longer newsworthy and not publish it for that reason. That’s why it may be smart to contact many blogs in a short span of time.
+
+### What's in a press release?
+
+Alright, so perhaps you are now ready to go ahead and proceed writing your press release, which just means penning down an official statement to send to to journalists. For a reporter it can be the starting point of writing a story about the launch of your subscription box. 
+
+The first line in a press release indicates whether the information can be published immediately or if it is under an "**embargo**". You can use an embargo to give a date for when your launch announcement can be published to coordinate information going out at the same time. You should be aware though that many reporters dislike embargoes, so using one could hurt your chances for coverage.
+
+To indicate that the information can be released right away, start the press release with "FOR IMMEDIATE RELEASE", otherwise to indicate an embargo use for example "FOR RELEASE ON JAN. 8, 2019 AT 10 A.M. EST".
+
+After this comes the title of the press release, also known as the **slug**. Reporters receive hundreds of press releases, so this shouldn’t sound too dry. Use [action words such as](http://blog.prleap.com/archives/25-action-words-for-writing-a-newsworthy-headline/) "launches", "introduces", "releases", "announces" or "unveils" to make your press release sound interesting and newsworthy. 
+
+After the slug comes the **lead**. This is the first sentence after the slug and should contain the “five w’s”, which are: who what where when why.
+
+After the lead comes the more detailed content of the press release. In general the most important information in your press release should go to the top, with each paragraph having decreasingly important information. This is called the “**inverted triangle format**”.
+
+You should write in a factual way and avoid any hype terms only designed to make your box sound awesome. Keep your opinions out and stick to the facts. Reporters have a keen sense of when they are being marketed to and don’t want to just give you free advertising. The tone should be objective and be written in the third person, [avoiding usage of “you”, “I”, “we” etc.](http://service.prweb.com/learning/article/editorial-guidelines/)
+
+Luckily you are on the same side with many bloggers. You want coverage, they want pageviews. Some writers are even directly compensated for the pageviews they generate for the blog they are working for, but this still doesn’t mean they would publish absolutely anything. Especially higher profile bloggers can spend more of their time covering very important topics in-depth9 and are less likely to just post a rephrasing of your press release.
+
+Even if publishing more is better for them, there is still an opportunity cost to be covering your launch story instead of something more important that could be even more popular. The content should be interesting to their readership.
+
+The length of a press release should ideally be around one page, possibly two.
+
+A press release ends with “###”. This is used to indicate that the publicly releasable information is now over. After this you should include your contact information, including a phone number at which the reporter can reach you if they have any last minute questions.
+
+You can find many examples of a subscription box launch press releases by Googling for “FOR IMMEDIATE RELEASE” (the traditional starting phrase in “non-embargoed” press releases) and “subscription box”. You can also see some of the coverage those releases resulted in by Googling for the contents of the press release with [Google News search](http://news.google.com/news).
+
+### Are press releases useful?
+
+While many say that press releases are useless, it is a rather low effort activity with a potentially high payoff, so perhaps it is something worth trying still. 
+
+There are professional PR people who handle dealing with the press as their main work, but they are quite expensive to use. For instance the subscription box [Cooper And Kid](http://cooperandkid.com/) is using such a PR firm to help boost their press relations. According to Cooper And Kid, whether press releases are picked up by the media depends not only on the content of the release, but by the connections and relevancy to the people handling the press. Chances with a press release just randomly thrown cold at the media is low. 
+
+While the Cooper and Kid press release did result in some coverage, it only worked as part of a larger effort to reach media influencers, with launch coinciding with Father’s Day, which was a key day for the subscription box. Here you can see the beginning of their release.
+
+**New Dad-Driven Brand, Cooper & Kid, Launches The Cooper Kit: The First Subscription Activity Box Created Just for Dad’s & Kids**
+
+*Minneapolis, MN (March 26, 2013) – Cooper & Kid, a new retail brand that champions dads through dedicated products and services designed to help men embrace their roles as fathers, announces the launch of its first-ever offering, The Cooper Kits...*
+
+You can see the rest [here](http://www.cooperandkid.com/wp-content/themes/cooperkid/press/130326_PressRelease_CooperKit.pdf).
+
+## Have affiliates do the marketing for you
+
+You can use **affiliates** to do sales for you. These are people who push other entrepreneurs' products online in exchange for a cut of the sale. The most well known example is Amazon Associates. Amazon can give you around 5% of each sale if you send them customers. Similarly you can also pay other affiliates to send customers to you.
+
+You pay affiliates a fee for each subscriber they manage to acquire for you. For example if you figure that a new subscriber is worth $50 to you, you might agree to give your affiliate half of that. The higher the payout, the more motivated affiliates will be to promote your product instead of others. Other ways to structure this is to give the affiliate 100% of the first month sale or a certain percentage of all future transactions. For instance the dating site [SpeedDate](https://www.speeddate.com/) allows their affiliates to choose between these two ways to get paid.
+
+You can either set up your own affiliate system, or use a network such as [Subscription Box Network](https://www.subscriptionboxnetwork.com/). Perhaps the most well-known affiliate network is [Commission Junction](http://www.cj.com). After signing up you will be able to browse other subscription boxes which are offering affiliate fees. For instance [GlossyBox](http://www.tkqlhce.com/click-7844888-11120723-1429714569000) is willing to pay affiliate fees for new members, starting at $5 per subscriber, going up to $9 per subscriber if the affiliate sends more than 400. Also if the affiliate sends a visitor to the GlossyBox site but that visitor leaves, if they come back later to make a purchase then GlossyBox will also reward the affiliate for the sale in that case, as long as the purchase happens within 30 days.
+
+![GlossyBox affiliate program on Commission Junction](images/glossybox_aff.png)
+
+One thing to keep in mind with affiliates though is that you should be a bit careful when attributing sales to them. Do make sure you are not paying too much up front for subscribers the quality of which you cannot be sure of. Your affiliates may not be as concerned about your brand as you are and will market it as aggressively as you allow them, which may mean even spammy means if you are not careful.
+
+A bit less dangerous alternative to an affiliate program is a **referral program**. Instead of giving your affiliates cash, you reward referrals with free products or discounts. The potential for abuse is much less here, especially as such referral programs are usually limited only to your current customers. To set up a referral program, for instance on CrateJoy you can use their [referral program app](https://cratejoy.zendesk.com/hc/en-us/articles/202980689).
+
+## SEO
+
+SEO stands for "Search Engine Optimization", the act of trying to rank well in search engines. Sorry, I will not reveal any guaranteed secret that will get your box to be the top result on Google. The truth is that no-one knows exactly how Google ranks their results, except perhaps the engineers working there. If anyone contacts you promising to get you to the top of Google in exchange for a bit of cash, be wary.
+
+Here are some suggestions which you can try to see if they work for you. I make absolutely no guarantees that these tips will land you in the first place in search rankings.
+
+**Some** general things are known about how to improve your ranking, but those tend to be things you should be doing anyway. Make a good site that people don't immediately bounce back from. Have your site linked to from a lot of good places. Make sure it has a lot of good quality content on it. 
+
+### The promise of SEO
+
+The basic idea is as follows. Suppose you have a company that sells traditional Japanese dolls. You want to reach customers who are trying to find those. So you buy some advertising on Google, targeting the term "Japanese kokeshi doll" for example and pay Google $0.10 per click to send traffic to you.
+
+That was easy, but you are missing a whole group of people: those who never click on ads. Reaching people through ads is also costing you a fair bit of money. Wouldn't it be great if you didn't have to pay for each click, but could have those customers for free?
+
+What is the answer to this dilemma? Potentially it is this: instead of bidding on terms, write articles about those topics so that you can rank naturally. Instead of appearing the paid side, you can be in the normal "organic" search results. Our hypothetical example person wanting to sell Japanese dolls could create articles about them and appear in the free, organic, all-natural Google results instead of in the ad section.
+
+### Too good to be true?
+
+That's the promise of SEO, but does it work? Can you really just go ahead and create a bunch of articles and hope to rank for them in any meaningful way? That's what I am setting to find out. Here are some counterarguments I can think of.
+
+First of all it isn't really free, because you need to actually create the content in order to appear in the organic results. Even if you are creating it all yourself, that's time you could be spending on something else. Recall back to writing school essays. While I really enjoyed writing them, it did take a fair bit of time. Still, at least there is the possibility that once the content is done, it's done. The cost has been paid. Kind of like buying a house instead of just renting an apartment. Instead of paying for each click, your investment is complete and now you are saving money on each click, compared to AdWords. You are now owning instead of renting.
+
+Suppose you spend $100 to create an article. After a few months it rises up the ranks enough to replace a $1 / day keyword you used to bid on. Fantastic investment! It should pay itself back very quickly. Not to mention you can now reach the group of people that would not have been reachable through ads.
+
+It's still a zero-sum game though, meaning that there is only a certain amount of searches for each term and every company in that space is trying to get the biggest slice possible from those searches. Actually not just every company either, but you'll find yourself competing against people who are writing for free (Wikipedia, hobby bloggers, etc.).
+
+Maybe you'll write a good article and get to the top for some term. Then a competitor writes an even better one and outranks you. You'll be locked into a content battle, although one with unclear rules, as no-one really knows how Google decides which one to rank on top. But at least in theory the quality of your content is what they are **trying** to rank you for. How well their algorithm can figure that out in practice is another question.
+
+Compared to spending money on AdWords, at least you'll now be competing in a battle that will lead to better web content, instead of just more ads. In that way spending on quality content creation at least seems like a better thing for the world than just mindlessly increasing ad spend. Assuming of course you really are putting out good content and not just spam!
+
+### Testing whether content creation leads to customers
+
+Paid advertising on Google leads to customers, so why shouldn't a natural placing in the same results should also work? It makes sense, but to know if it really works for you, do test it out. Personally I wanted to test it out by producing some web content myself and seeing whether it truly would bring new customers, or if it was just a waste of time.
+
+First of all, if you have not yet done so, you need to add [Google Analytics](http://www.google.com/analytics/) to your subscription box site. Then, you have to enable **goal tracking** in GA to be able to know how your sales are happening. This means that when someone subscribe or buy a gift, that sale will show up in Google Analytics. 
+
+If you are using CrateJoy, [here is their set-up guide for getting Google Analytics tracking working](https://cratejoy.zendesk.com/hc/en-us/articles/202719545-How-to-set-up-Google-Analytics).
+
+If you have say a box about makeup and wrote an article about "top 10 makeup tips", you want to know if writing that article is what resulted in the sale. If you are unable to track which page the user initially visited to get you that sale, you won't know if you are just wasting time writing content or if you should double down on it. 
+
+After you Google Analytics tracking set up, you can pull up reports to see how many sales each article on your site resulted in. There is so much data you can get with this tool that it can get confusing at times, but to find how many sales each article resulted in, check "Behavior > Site Content > Landing pages". Then click on the dropdown which says "Conversions" to select either "eCommerce" or "all goals" depending on whether you set up eCommerce tracking or goal based tracking. 
+
+Now you have the data, but it's still not ordered properly. You want to see the best articles first, so click on the "Transactions" or "Goal Completions" column to see which articles are sending you the most customers. If you set up goal values, you can also see a monetary value for the article. For instance in the hypothetical example below you would be able to see that in one month, the article on "Why Japanese Candy is Awesome" resulted in 50€ worth of sales. If that continued in the future, the article in question would soon pay back the effort of writing it.
+
+![Google Analytics landing page report](images/landing_pages.png)
+
+### Should you have a separate content site?
+
+While your box home page may be able to be the answer to some of the queries Google users have in mind, not all of them will be a natural fit for your main landing page. For a dog goods box you might be happy to have your home page rank well for "dog goods subscription box", but it could be counterproductive to try to rank that same page for "tools for grooming a labrador retriever". 
+
+If you would like to targer those other topics, you may want a blog or article section on your website. Another way used by some boxes is to have a completely separate content site. For example the dog goods subscription box [BarkBox](https://barkbox.com/) also operates the viral puppy content site [BarkPost](http://barkpost.com/). 
+
+Whether you want to have your content on your main site or on a separate one is a matter of opinion. Having them on the same site makes it less jarring to try to get people to subscribe to your box, as they are already on your one and only main site. However a separate content site may be able to garner more backlinks and shares, as it feels less commercial. 
+
+With a separate content site you'll also have the option to start focusing on that alone, if it turns out that your content site is actually better business than your subscription box. That could be if your articles become so popular, that showing ads for other sites against them is more profitable than using the same space to push your own subscription box.
+
+### Coming up with article ideas
+
+Now that you have tracking working, it's time to research for some content ideas. A great tool for this is the Google Keyword Planner. After creating an AdWords account, you can find it in "Tools > Keyword Planner". Using this tool you can simply input what your subscription box is about and it will show you related terms.
+
+But what should you write your blogposts or articles about? 
+
+Unfortunately Google Analytics no longer shows most of the search terms that visitors used to find our website (they stopped providing this after Google switched to HTTPS), so you can no longer use your existing search traffic to find which terms you are currently converting for. While you can see what traffic you are getting from [Webmaster Tools](https://www.google.com/webmasters/), that tool does not show which terms are actually resulting in purchases.
+
+Instead now you must just proceed with some common sense ideas. If you naturally have topics that you know you can write content about and many people would be probably searching as well, that would be a good start. For an extremely niche topic, it could be that no-one is looking for such articles. In that case you have to research a bit more to see what might be worth writing about.
+
+Using the tool you can see what topics people are searching for. You can drill down inside the topics to look at the particular keywords and how often people are looking for each every month. When considering terms to write content for, you need to balance several considerations.
+
+* Search volume
+* Percentage of the volume your content is likely to capture
+* Buying intent 
+
+#### Search volume
+
+![Keyword planner](images/adwords_tool.png)
+
+For example in the screenshot above, you can see that people are looking for "weird japanese candy" 880 times per month. Now even if you wrote an article about "weird japanese candy", there is no guarantee that you would appear anywhere high enough to get any of that traffic to come to your own site. 
+
+People are most likely to click on the top result. The second highest result will still get quite many clicks, third one still some but much less and so on. The shape of this curve is known from various studies. For instance [Moz has done such a study](https://moz.com/blog/google-organic-click-through-rates-in-2014). 
+
+| Position      | % of clicks     |
+| ------------- | --------------- |
+| 1             | 31%             |
+| 2             | 14%             |
+| 3             | 10%             |
+| 4             | 7%              |
+| 5             | 6%              |
+
+As you can see, you lose more than half the potential visitors by being in the second place compared to first. Let's be realistic here: in all likelihood unless there is almost no competition for your term, you probably won't get a first result for any important term. Actually you'll be lucky to even get to the first **page** with your content. There is a lot of content out there, much of it well written, older and with a large number of backlinks.
+
+Not that there even exists a "first place" anymore, as results are nowadays personalized to the individual searcher. If you would like to see unpersonalized results, you can try searching in incognito mode. There will still be sites that generally are ranked high in the results for most people, so the concept of a good Google ranking hasn't vanished despite personalization.
+
+So reaching a good ranking on Google is very hard, but there is one reason for optimism. While trying to rank for your desired terms, you are accidentally going to rank for many more long-tail terms that you hadn't even considered when writing your content. While a top result gets the majority of clicks, it can be better to be the first result for something which is searched for 100 times a month than the 5th result for something searched for 500 times a month.
+
+If you wrote an article on the topic of say "dog goods subscription box" and included some sentences such as "this doggy box is perfect for your puppy, be it a labrador retriever or a spaniel" and expected to get traffic from people searching for "doggy box", you might find that you just happen to rank really well for something else entirely, such as "labrador retriever puppy box" or another unexpected term like that. 
+
+#### Buying intent
+
+Now you have an article and some people are even clicking through to your site after searching for some terms appearing in it. But will they actually subscribe? Having a lot of traffic might be fun, but unless they actually subscribe to your box, it is meaningless. What you want is buying intent. The difference between someone who is searching for "rolex pictures" and "buy rolex now" or "rolex discount coupons" is huge.
+
+The idea is that when people search for topics which would identify the searchers as people very likely to subscribe to your box, you want those people to land on your site. In practice it can be quite difficult to come up with article ideas, so you might not be able to be too picky about whether they show buying intent or not, but in case you have a ton of ideas to choose from, perhaps better to go with the ones where readers might be ready to buy.
+
+### Format of content to write
+
+After thinking about the terms, I researched a bit about how long the articles should be. Of course the right answer is likely “as long as makes sense”, but since I would be getting some of this content made by using freelancers, they would likely want to know how many words they are supposed to write. According to Moz research, the sweet spot seemed to be [1822 - 2428 words](https://moz.com/blog/what-makes-a-link-worthy-post-part-1). That's 6 subheadings with about 400 words each. [Another source](http://www.orbitmedia.com/blog/ideal-blog-post-length/) suggests 1500 words. I tend to trust Moz, as one of the resources they use to gather their research is accessing thousands of Google Webmaster Tools accounts, which sounds like it would be on the more reliable end when it comes to SEO data sources.
+
+Also notable in Moz research was that "*Posts with all three media types (videos, images, and lists) will attract almost 6 times more ILDs than a plain text post*". Here ILDs mean “In-Linking Domains”, which is how many different sites link back to the content. Backlinks are one signal that Google uses to determine how high to rank content. Backlinks naturally also help you directly by sending visitors to you.
+
+### Finding freelancers to write your content
+
+If you have an idea for an article and rough bullet points on what it should cover, you can either go ahead and write it yourself, or you can find a freelancer to do the writing for you. Finding a lot of freelancers is extremely easy using a site such as [UpWork](https://www.upwork.com) (personal favorite) or [Freelancer.com](https://www.hittail.com/), but the challenge is finding quality authors. In fact if you post an open article writing job, you will likely get a dozen applications in a matter of hours, but when you try to hire them you may run into some poor quality writing. 
+
+You can help improve your article quality by hiring multiple bidders to write for you, look at the results and in the future focus on the better quality workers. Initially you will have to spend a bit more to find reliable help, but you can keep relying on those people for a long time. While especially for myself with an engineer background, I find the thought of having a magic box that turns dollars into articles very appealing. However think of it more as starting a possibly long-lasting relationship with talented authors and less like just an article machine.
+
+There is also a tool called [HitTail](https://www.hittail.com/), which combines keyword research with a way to hire writers. It can analyze traffic that your website is getting and facilitates the creation of articles for keywords that look promising.
+
+## Reddit
+
+If you are unfamiliar with [reddit.com](http://www.reddit.com) and visit their homepage, you might be confused. This site doesn't look very professional at all, just a list of random links. But Reddit is huuuge. How huge? At the time of writing [Reddit is serving 7.55 **billion** pageviews a month](http://expandedramblings.com/index.php/reddit-stats/).
+
+It is attractive especially as anyone can submit content to Reddit. There are no editors or gatekeepers. As long as your link gets enough upvotes, it has a chance of being shown to millions of visitors just like any other content on the site. There is no review process for submitted links, all is based on user voting.
+
+The most powerful part of Reddit is the main page, which is what is shown by default. How powerful? As an example from today, the top image submitted to the site has been viewed 900,000 times in only 6 hours! Imagine if that was your brand and you could turn even a fraction of those views into subscribers.
+
+### Posting to subreddits
+
+Besides the main page, there are also subsections to Reddit, called "subreddits". When you submit a link to Reddit, you need to select which subreddit it goes to. Subreddits are like niche forums. Links to subreddits take the form http://www.reddit.com/**r/pics**, which is why you will see for example the "**pics**" subreddit being referred to as **/r/pics**.
+
+Some subreddits can appear on the main page, others are only visible to users who are visiting them directly or subscribing to them. Still, even non-mainpage subreddits can have quite large audiences. With a smaller subreddits the potential for world domination is perhaps not as great, they may be good opportunities to get some highly targeted traffic specific to your niche. With a small subreddit there will be less competition as well, and you will have an easier time of getting noticed.
+
+To find suitable subreddits for your posts, you can browse them on [Reddit Metrics](http://redditmetrics.com/). Especially the [list of biggest subreddits](http://redditmetrics.com/top) is very useful. I suggest going through the list and trying to brainstorm on each one how you could angle your box to appear as a submission there.
+
+You can also [use Reddit's search to find subreddits](https://www.reddit.com/search). Besides searching for keywords related to your concept, another way to use the search is to look into what other subscription boxes are posting about. This can be especially useful to follow your competitor's activities on Reddit, or to get ideas what other similar boxes are doing on the site.
+
+While Reddit has the potential of sending an amazing amount of traffic to you, redditors tend to be quite anti-commercial. Spamming Reddit will get you nowhere, but if your promotions are useful or entertaining enough, then you may be able to get a pass to post even with commercial intent. 
+
+While there is no direct penalty for having an unsuccessful Reddit post, it IS possible to get [shadowbanned](https://www.reddit.com/r/AskReddit/comments/11ggji/can_someone_please_explain_to_me_what_shadow/) if you promote yourself too aggressively. When you are shadowbanned, everything will seemingly work as normal, except no-one besides you can actually see your posts. 
+
+Don't try to be clever and create more than one account in order to upvote yourself, as there are countermeasures in place for such abuse, such as voting ring detection.
+
+Reddit [allows verified users to post up to](https://www.reddit.com/r/help/comments/14erjc/psa_if_you_get_the_looks_like_youre_either_a/) 3 times per hour, 10 times per day, 50 times a week or a total of 150 posts per month. Users who have not verified their email address can only post 5 times per month. As a rule of thumb, consider being active on Reddit and limiting your self-promotional posts to one out of ten posts you make. Your other posts should also be high-quality to give you a good posting track record. 
+
+Here are some ideas for subreddits where you could try posting to.
+
+#### Share your entrepreneurial journey
+
+One of the easiest posts to make is by sharing your own subscription box story so far on business-related subreddits. Of these perhaps the best one is [/r/entrepreneur](https://www.reddit.com/r/entrepreneur), where you can post about your box IF you do it in the context of sharing something useful you have learned while starting it. 
+
+As always with subreddits, take a look at other posts in the subreddit and read the instructions in the right sidepanel before posting. Other similar ones are [/r/startups](https://www.reddit.com/r/startups), [/r/EntrepreneurRideAlong](https://www.reddit.com/r/entrepreneurridealong) and [/r/smallbusiness](http://www.reddit.com/r/smallbusiness), where you may also be able to post about your learnings. 
+
+Sadly none of these business subreddits can appear on the main page. Additionally you will only be reaching other entrepreneurs who may even be inspired enough to start their own sites to compete with your idea. Still, the benefit likely outweighs the risk, as these subreddits are quite large and successful posts can lead to dozens of new subscribers.
+
+#### Do an AMA
+
+AMA stands for "ask me anything". On the subreddit [/r/iama](https://www.reddit.com/r/iama) you can invite others to post questions to you. You are then expected to answer these questions as they pour in over the hours. For instance you could post "I started <your box name here> and we send <your product here> to people every month. AMA!". 
+ 
+As /r/iama is one of the default subreddits, popular posts have a chance of appearing on the coveted main page as well. However even by itself /r/iama has millions of readers. Your AMA may be more successful if you are already somewhat well known, but there is no reason not to try even if you aren't. If your AMA flops, you can always just delete your post.
+
+You will have more success if you respond to questions promptly, as people will be more encouraged to participate if they see you doing so as well. One of the biggest sins of an AMA is to start one and then disappear. The second biggest is to be evasive in your answers to tough questions. To do an AMA post you need to have a thick skin, as anonymous internet users may not always be so kind with their words.
+
+Besides Reddit you can also do an AMA on the marketing-focused site inbound.org. AMAs on Inbound need to be organized by an administrator. At the time of writing they were organized by a periodic [call for participants](http://inbound.org/discussion/view/host-an-ama-for-the-inbound-org-community-closed), where interested parties could let the organizers know by a comment, followed by an email.
+
+#### Play the InternetIsBeautiful lottery
+
+One of the biggest small business success stories on this subreddit is no doubt [ShipYourEnemiesGlitter](http://shipyourenemiesglitter.com/), a service which ships boxes full of glitter to your unsuspecting target. In mid-January the site got posted to /r/internetisbeautiful, which is a subreddit for *"awesome websites that offer a unique service"*. 
+
+How useful was that post? **Very.** Just in the first day ShipYourEnemiesGlitter received **over 1 million** visitors. Take a look at their Google Analytics screenshot below, made available because the site [was on sale on Flippa](https://flippa.com/3783970-20-000-in-sales-and-2-5-million-visits-in-4-days-hugely-popular-viral-site).
+
+![](images/glitter.png)
+
+Sadly as a direct result of the huge success of ShipYourEnemiesGlitter and the influx of similar sites to the subreddit, /r/internetisbeautiful [changed their rules](https://www.reddit.com/r/InternetIsBeautiful/comments/3063r6/how_are_you_doing_were_doing_great_we_have_a_few/) to be less friendly to online stores. 
+
+*"Online Stores/Paid Services/sites just selling stuff - some of these are funny, some of them are terrible, a LOT of them are people just trying to make that paper. we don't think online stores or sites that deliver cow poop to your friends are really what any of us are looking for in this subreddit. plus, there's like five bajillion of them now since the Great Glitter Gold Rush of 2015. they're far past being unique."*
+
+It may still be worthwhile to attempt a post, just in case the mods happen to be in a particularly good mood that day. Another option is to come up with a widget or a free related service that **can** be posted and use that to drive traffic to your main site.
+
+#### Post from customer point of view
+
+Instead of posting yourself about your box, have a customer make a post such as "I received my ABC box today, it was full of XYZ goodness!". You can ask the customer to make this post on /r/pics or to any subreddit related to the products you are sending.
+
+#### Do a giveaway
+
+The subreddit /r/giveaways and /r/sweepstakes are for giving out free stuff. You accept entries from people who want a free box and then pick one randomly. While sweepstakes will definitely drive a lot of traffic if you have a nice prize, the quality of the traffic may be very low. These are visitors who are not necessarily looking to buy anything, but rather just looking for free stuff. I would suggest keeping a careful eye on how well this traffic is converting before making a habit out of hosting these contests.
+
+There are also Facebook apps you can use to host the giveaway on your FB page and even require customers to take an action such as posting to Facebook or Tweeting in order to enter your contest. If you do decide to run a contest, it may be worthwhile to also post a link to your giveaway to dedicated sweepstakes sites such as [Online-Sweepstakes](http://www.online-sweepstakes.com/).
+
+## Conversion optimization
+
+Let's go back and think about the funnel some more. One way to make more sales is to have more customers arriving at the top of the funnel. But that's not the only way. Another way is to make sure that as many of those customers as possible actually become members, at the most profitable price.
+
+### Collect emails
+
+While you may not be able to get everyone to become a paying subscriber right away, if you can collect a visitor's email address you may be able to convince them to join later.
+
+You can create an email subscription form using services such as [MailChimp](http://mailchimp.com/) or [Campaign Monitor](https://www.campaignmonitor.com/). Various other sites such as [SumoMe](https://sumome.com/app/list-builder) also provide sleek ways to collect email signups. 
+
+Many savvy online marketers have fancy multi-email "drip campaigns". In a drip campaign the customer joins an email sequence which tries to educate them about the product and convince them to buy in a multi-email sequence. There are services such as [Drip](http://www.getdrip.com) which allow you to set up email drip campaigns.
+
+### Have tiers
+
+Your subscription box can have multiple tiers, so you can get the most out of each subscriber. Having multiple tiers can increase revenue, as people willing to spend more can choose your premium tier, while you can still capture customers who perhaps are not out to spend as much. 
+
+While we have not tried more expensive tiers for Candy Japan (although we probably should!), some companies that have published statistics for having multiple tiers have posted very promising results. Our competitors such as [Japan Crate](http://www.japancrate.com/) are prominently displaying their multiple tiers on their site, and I must say having the tiers makes them all look more attractive. It is easy to picture the different customers that would be attracted to these tiers.
+
+Tiers can also help get the most profit out of each customer. For instance in the case study for the programming-related ebook Discover Meteor which has multiple sales tiers, the [author reported](http://blog.asmartbear.com/perfect-pricing.html) that more people bought the premium version of the book than the basic version, leading to much higher profits than if there had only been one cheap tier available. You can see their sales stats in quite careful detail in their [case study](http://blog.gumroad.com/post/97148570338/discover-meteor-case-study-making-300000-from-a#_=_).
+
+In addition to getting customers to self-select themselves into price groups, there is also the effect of price anchoring at work, which refers to the effect of how seeing a cheaper price next to a higher one can make people feel like the cheaper one is a better deal than if they had seen the lower price alone. For example if you see a premium box for $49 / month and then the normal subscription next to it for $25 / month, it seems much more reasonable than if you had seen the normal price alone. 
+
+This means that even if you originally only intended to sell normal subscriptions instead of premium ones, just having the premium option might increase sales of your basic tier. Combined with the fact that for some people it makes no difference what your item costs and they always buy premium no matter what and you will likely see many sales for the premium version as well.
+
+# Other tasks for running a subscription box
+
+## Customer support
+
+Customer support gets tiresome, as you are often dealing with very similar issues. If you are using a home-grown system, you may find that the information you need to answer these question is buried somewhere in a database which only you understand, which makes outsourcing this more challenging. This is one good reason to use a ready-made subscription management system such as CrateJoy or Subbly. Besides just the usual support questions, there are always new situations occurring which can only be answered by you, meaning with a somewhat successful box you will always end up having some email to answer yourself every day.
+
+For instance I often find myself having to dig for some information manually in our database or try to make educated guesses when a customer requests something to be done, but is emailing from a different address than the one they registered with. These examples sound bad and probably make you feel like “well, that should be easily fixable”. And they are, which is part of the support task, improving things so that those things will no longer get asked.
+
+## Verifying payments
+
+Have you heard about chargebacks? Did you know that after a customer makes a credit card payment, you still cannot be completely sure that you will really receive the money? Here's how I found about that the hard way.
+
+After our first child was born two months ago, I was very much preoccupied with trying to learn the basics of infant care. I still had to know how much candy to order for our subscription box, so one day I got online for a moment to check how many new subscribers had joined during my time away.
+
+### Wow, a ton of new members are joining, hooray!
+
+Seems they are all finding us through Google. We must have been mentioned in the media somewhere. Fantastic news! I went straight to Slack to brag about the great sales numbers.
+
+Then I decided to look at the traffic in a bit more detail, to see where this sudden good luck was springing from.
+
+Hmm, odd. 
+
+![](images/chargeback_ga.png)
+
+The conversion ratio for organic search traffic is unnaturally high. In other words, the number of people searching for Candy Japan on Google hadn't changed, but somehow the amount of orders coming in from search had massively increased.
+
+Having a conversion ratio over 5% for one day is a statistical anomaly. Sustaining it for the better part of the week means that something strange is going on. 
+
+### Could it be fraud?
+
+I knew that there are people out there buying stuff with stolen credit cards. Hey I've seen Tom Hanks chase DiCaprio in Catch Me If You Can. 
+
+I was aware that a certain percentage of transactions is always fraudulent, but I had always assumed that these transactions would be mixed in with real ones. Hundred real orders there, then one fraud case dripping in here. 
+
+Since the level of fraud I had experienced so far was at an acceptable level, I assumed everything is OK.
+
+### Everything is not OK.
+
+What I hadn't expected was having a wave of fraud crash in suddenly with such force. 
+
+While from Google Analytics I had noticed that a lot of sales had happened, it didn't reveal the severity of the issue. Looking at the list of transactions, I saw that **thousands** of payment attempts had been made with different cards during those 4 days. For each successful sale, the fraudsters had tried a dozen cards that had failed.
+
+After starting to deal with this, I got contacted by a police officer in Ohio. To be doubly sure he really was a police officer, I called the local police directly and asked for him by name. "Thanks for calling me, let me just pull over". He was on patrol. His reason for contacting me was that someone had noticed an unexpected charge from "candy japan" on their card and had filed a police report.
+
+I exchanged any information I had of the particular fraud incident he was investigating, but he seemed not to have much hope with the case, telling me that they just had to follow up as they'd received a report of an unknown transaction happening. I think he even said the words "this won't lead anywhere". I agree. Assuming fake IP, fake address, card number bought from someone online, what could he possibly do about it?
+
+### Easy money
+
+I started reading a bit more about how this underworld works. Apparently these criminals are called "carders". The stolen cards originate from credit card security breaches, resulting in a big list of card numbers. These are later sold online in packs filtered to working card numbers only, which can be purchased for about $10 per valid card.
+
+To be able to compile and sell these packs, the carders need to know which ones are valid. To do this, they will use an online store or service to place an order for the sole purpose of seeing if the charge goes through or not. 
+
+If a store ends up as such a checking endpoint, they will see a sudden influx of a lot of fake orders. That's what was happening to me.
+
+Carder uses my store to test 10 cards before they find one that works. For each attempt I pay a 0.15€ transaction fee to my gateway and another $0.10 fee to subscription middleware Recurly. So even before a successful order comes in, I'm already out around three dollars.
+
+Then they hit upon a card that works. Now the fee to charge that card is a bit higher, since money is actually moving. Our candy subscription is $25 / month, which costs me $1.76 in fees to charge (Recurly fee is $0.10 + 1.25%, gateway fee is 0.15€ + 2.75%).
+
+Believing this to be a real transaction, I ship the product to them. Candy itself, shipping, labor etc. will cost something around $15. So now I'm out $19.76, but I received $25. What's the problem?
+
+### Chargeback
+
+When the real owner of the card notices the surprising charge on their card, they will dispute it by contacting their bank or credit card company. The customer receives their money back, as they should.
+
+The money I thought I had is taken from me and on top of that there is a 15€ chargeback fee. The end result is that I lost not only the transaction fees, but also the product and labor cost and on top of that get hit with an extra penalty.
+
+As I wasn't set up to handle these fees, I had to spend weeks just to understand what all this means and to write a bunch of glue code to export the chargeback information and convert them from gateway internal IDs to the ones understood by the Recurly gateway. Then even more code to cancel and adjust all those subscriptions to avoid charging them again or shipping any more product.
+
+For orders which I later noticed as very likely being fraudulent, I proactively refunded them, despite having already shipped many of those orders, leading to more losses. 
+
+Later on these shipments will likely return to sender, as the fraudsters very likely used false names and addresses, leading to more work still.
+
+### Conclusion
+
+Keep an eye on payments coming in, especially if you suddenly have a ton of new members joining. You're probably just growing your box really well, but it could be that you are under attack as I was. I lost weeks of productive time and thousands of dollars in money and product over this issue. 
+
+In the future to prevent this problem from happening, I plan to integrate with a fraud detection system. These are systems which analyze an incoming order and decide whether it is likely to be fraud or not. If the likelihood of fraud is high, the system either adds some extra security checks such as 3-D Secure verification, or it can block the payment.
+
+## Bookkeeping
+
+Bookkeeping is required for you to be able to correctly pay taxes and have some picture of whether you are making any profit with your box. It involves mostly storing offline and online receipts and entering their information into spreadsheets. Even with a hired bookkeeper you still end up doing some of this, as when for instance you make an order for some product which will be included in the box, you will be the one who gets the receipt. 
+
+When you sign up for an online product such as CrateJoy or ZenDesk, those receipts will get sent to your account. Each month you will need to find all these receipts and summarize them somehow for your books. Last month for out subscription box Candy Japan I had 50 receipts for various purchases and online services and just summarizing this for my bookkeeper takes several evenings to do. Mostly because it is such a dull task it is very easy to get distracted while doing it! Luckily this task at least has a well-defined end to it, but it keeps repeating each month.
+
+We are paying a bookkeeper, but that doesn’t mean you never need to deal with the issue. You must still be able to explain each receipt and HAVE each receipt. Each time you pay for something online, you have to figure out how to get the receipt for that later. You may be using an email system, a hosting site, buy tape and envelopes online, perhaps travel somewhere and use cash to buy your tickets etc. and for all of these things you will need to have the receipts and organize them in some way. 
+
+## Curating items
+
+Curation is about finding the items to put in your box. Not every item you can think of is necessarily possible to purchase by you in the desired quantities. You might have a dream box in mind, but find out that half of the items have already been discontinued and are no longer available. Some might be available only in awkward quantities, such as a box of 200 pieces when all you needed was 150. 
+
+These limitations mean that to find a box containing 5 items, you might need to investigate more than 10 to be able to settle down to 5 which are practically possible. This can be made easier by using a catalogue of products which you know are available. Curation can be a bit tricky because of these limitations, but it is definitely one of the more fun parts of running a box.
+
+In [an interview](http://www.mysubscriptionaddiction.com/2013/11/how-to-start-a-subscription-box-company.html) Sam Gold, founder of the snack box Yumvelope, listed the following sources for new items for their boxes: suggestions received via email from brands, suggestions from customers, attending trade shows and searching for products online.
+
+For us at Candy Japan our selection has always been by searching physical and online stores in Japan, as despite our service being covered well in Japan, we have never received a single email from a brand suggesting their products to us. That's probably because our site is completely in English and we only send products manufactured by Japanese companies!
+
+When you are first starting out, it might make sense to just buy your items at full retail price. I haven't lost my mind, hear me out. If you are buying $200 worth of product for this month’s boxes, buying at wholesale would save you about $60. Now how much time and effort will you spend on finding that wholesaler. If it's more than an hour, then it's probably not time well spent, unless you are going to be buying from them in the future as well. If you are anticipating hours of searching and phone calls, perhaps this time would be better spent on marketing your box instead. 
+
+The time to switch to wholesale will come naturally, at least at the point when normal stores just don't have enough to sell you. Even then talking to the store owner may let you continue that route a bit longer and you may be able to negotiate a discount that will be around halfway between the wholesale price and store price.
+
+As long as you have enough leeway (multiple possible manufacturers) in the types of items you are planning to put into your subscription box, you can always find a wholesaler later on. If on the other hand your product is only focused on a specific manufacturer's products, for instance say "Beanie Baby of The Month" or "Hard Rock Cafe Shirt of the Month", it may be best to get wholesale approval first. Otherwise your entire operation could be sunk later by the inability to acquire enough of the product.
+
+## The fun parts
+
+After all of the above tasks are dealt with, comes what at least to me is the most fun part: expansion! This means discovering new marketing channels to try, optimizing your homepage for conversions, improving your box, hiring staff, including new types of inserts in your box etc. things which will change the month-to-month operation, hopefully for the better. Perhaps you could increase the variety of your subscription plans or start/acquire completely new lines of business. 
+
+It is also quite enjoyable to think of ways to improve operations, such as eliminating some steps required for putting together your box or finding a way to otherwise not do something you were previously having to do every month. Before running a subscription box I never thought I would get so excited about reading up on different ways to do shipping labels more efficiently.
+
+This sort of improvement is very useful for your sanity as well, as it will make you feel optimism: "ah, things can get better". But soon the next repetitive monthly tasks are around again and you go from floating on your idea cloud back to the trenches; and the cycle continues.
+
+# More to read
+
+## Books
+
+Several more ebooks have been written about starting a subscription box. I've read them for you, below are my short reviews of each.
+
+### How to Start a Subscription Box Business: With 50 + Money Making Ideas
+
+$5.97 		45 		
+
+### Ultimate guide to starting a subscription box business
+
+$2.99 		48 		
+
+### How to Start a Subscription Box Company: Be the Next Box Millionaire
+
+$5.49 		30 		
+
+### The Subscription Box Start Up Guide: An entrepreneur's guidebook for starting a subscription business
+
+$9.99 		57 		
+
+## Websites
+
+Subscription School
+
+http://www.viperchill.com/private-niche-box/

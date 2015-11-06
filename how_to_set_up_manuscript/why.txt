@@ -1,0 +1,75 @@
+# Why I wrote this ebook
+
+## How I started a subscription box in Japan
+
+As a teenager I had read about this thing called the "Internet". I set up a dial-up connection and started exploring it. I recall having Windows 3.11, which didn’t even come with proper networking support built in, but thankfully there was another piece of software called Trumpet Winsock, which enabled me to get online. 
+
+And that's how I got into subscription boxes. 
+
+No, maybe I'm skipping ahead a bit.
+
+I started exploring. One of the more curious things I encountered on my online adventures was a country called Japan. Their music, comic books and language was just fascinating. I wanted to see more of Japanese animation, but at this time it still took an hour to download just a few images and full video was just out of the question. YouTube wouldn't exist for another 10 years.
+
+I talked with someone from Germany online, who had somehow managed to get tapes of an animation called Ranma ½ on VHS tapes. I suppose the Internet was a bit more close-knit place then when not everyone was online yet, as he graciously trusted me enough to send these tapes to me, free of charge.
+
+This only deepened my interest. I went on a search to find any more animation I could get my hands on, no matter how obscure. I started getting more and more curious about whether the Japanese language would be learnable. Thankfully with the Internet now available to me, I was able to find a list of the Japanese hiragana alphabet and started learning it.
+
+I hit a wall when I realized that I would never be able to make any real progress with the language with just a list of the alphabet, so I gave up on the idea of learning the language for a while and concentrated more on my other interest: computer programming. These two things would later collide.
+
+Years later during my undergraduate studies I finally had access to real Japanese classes and was able to resume studying. Actually a big reason for even enrolling was that I would be able to take these classes freely (and no longer by secretly sneaking into the classroom). Our university even had an exchange program with Japan, which I naturally applied to. I had a choice of two schools, one of which was in Tokyo. That was the city I had been long dreaming of living in one day. I excitedly accepted.
+
+Now because of this exchange program, not only were our students going to Japan, but Japanese students were coming from the partner university to our school as well. I wanted to meet these students and I made several Japanese friends who patiently taught more things about Japan and helpfully corrected my broken Japanese. 
+
+Finally the exchange study started! It was a really exciting period in my life. The park-like lush university campus was gorgeous, with even an old Japanese tea house maintained on the premises. We had 5 hours of nothing but Japanese lessons every day. Every morning would start with a test of Japanese characters. After that we had lessons on speaking, reading and writing. Speaking lessons would be debates with other students on various topics. Reading was about going through a chosen text, dissecting one sentence at a time. Writing had us come up with essays, which we wrote in Japanese characters by hand. 
+
+After two years of this I got to perhaps an intermediate level, still a long way from understanding as much as I had hoped for. Eventually one of the students I met already back at my home university would end up becoming my wife.
+
+After returning with her from the exchange, I read the book "Hackers and Painters" by Paul Graham. In this book he describes how besides having a normal job, there is another path, doing your own startup. While I did not end up starting the kind of high-growth startup as the book advocates, the idea of doing something online and earning enough money to live that way stuck with me. 
+
+After trialing this out with various small online projects (which still managed to make more money than my job), I started believing that this is something that really is possible to do. The major difference from a job is that there are no guarantees and no-one to tell you what to do. This makes things more exciting, but also more terrifying when things seem to be going wrong. With a job you have a guaranteed salary each month, but working as your own boss you can be rich or broke with the same amount of work, no guarantees.
+
+Another concept I learned during this time was "bootstrapping", which means using existing resources to grow your business. Instead of borrowing money to get started or taking venture funding, you try to make even just a tiny bit of profit each month and then reinvest it. This way the worst case scenario is that you are wasting your time on an interesting activity.
+
+After completing my degree, I started missing Japan and started wanting to go back. I wrapped up the projects I was then involved in and made plans to move back. My wife applied for a job in Japan and as is the local way, your corporation can assign you to any office in any city they think you are suitable for. She got assigned to Tokushima, a small city 8 hours drive away from Tokyo.
+
+With no job and little income after ending my previous projects, I started thinking of something else I could do. That’s how I decided to start a subscription box, as they are called now. Back then it wasn't such a well established concept, but I thought sending something monthly sounded like a nice idea.
+
+Back then the box boom had not started yet, so in my mind it was more of a "random souvenir from Asia periodically" club. I was initially thinking of traveling to various countries to send local goods from each, but soon realized I was plenty comfy staying mostly in Japan, so it gradually morphed into "random Candy from Japan twice a month" and so Candy Japan was born. 
+
+We initially got started by just emailing a few people I already knew from previous projects and found a handful of subscribers this way. This kept us going and motivated, as we now had people expecting mail from us every month. From there on it gradually grew bigger. How that happened and what we have learned since starting during these 5 years is the topic of this book.
+
+
+## Why write an ebook?
+
+While growing Candy Japan, I realized that out of all the things involved in running it, I was enjoying writing about it the most. Not only is it fun to share what you've learned, but it turns out to be good marketing as well. 
+
+Enjoying the writing process itself and seeing good things come out of it kept me motivated to keep doing it. 
+
+After years of running the site and writing various posts, I started getting more and more questions from others wanting to start their own subscription boxes as well. Looks like there is a slight "box boom" going on at the moment.
+
+I realized that since I am already writing about this topic, all I would need to get an ebook out of it would be a minor adjustment in my writing direction. Approaching it like this, I figured writing a book is something I might be capable of doing. 
+
+If you are already writing about a topic, the only difference between writing a book and writing random blog posts is having an outline. Not that even that is always necessary. Hackers & Painters is one of my favorite books ever and it is a collection of essays already published for free on Paul Graham's blog!
+
+But why do it? Because it's a multiplier for your existing efforts. It helps motivate you to blog more, as each post is also another step towards completing your book. If you think about it like this, there really is no reason NOT to work towards a book if you are already writing anyway.
+
+## Why I wrote this one in particular
+
+While we were growing our own subscription box Candy Japan from 0 to 1000 subscribers, I kept writing about everything I learned while doing it.
+
+Being able to write openly required me to adopt the attitude that our subscription box is a kind of science experiment, requiring less secrecy than a business normally might. I decided I would just share everything we learned, regardless of whether it might help our competitors or not. Partially at blame might be my tendency to overshare, but despite many competitors emerging, it has turned out OK. 
+
+The market has expanded and there seem to be enough customers for multiple boxes to survive, even with very similar concepts out there.
+
+Writing has also increased my willingness to learn more about subscription boxes in general, even if it doesn't directly help our box Candy Japan. For example since I live in Japan, I have not had the need to ship anything using USPS (U.S. Postal Service), but I researched the relevant discounts and prices just for this book. Who knows, maybe at one point I will start shipping from US and it would come in useful then.
+
+Similarly I had never bought an existing business going into this, but I bought the anime subscription box FaniPack.com partly just so I could write about the experience in this book. The purchase gave me an opportunity to really learn about topics such as the transfer process, Stripe, CrateJoy and other tools that the existing box was using which we had not yet tried before.
+
+Sometimes research has been doubly useful. This is when it has not only been something useful for this book, but has helped our own subscription box as well. For these topics I've been doubly motivated to learn. 
+
+While I knew many of the topics quite well already, this gave me a boost of motivation to research and explore the topics better. Whenever I am writing about something which I have only read about but not tried, I will indicate as much. I can tell you what worked for us, what I have seen working for others and what I believe would be well worth trying.
+
+By no means do I claim to know everything there is to know about running a subscription box. Actually I don't think any one person can even be an expert in all of the topics involved, as running a subscription box covers everything from web development to fulfillment to marketing.
+
+I'm not going to shave my head and write everything with the certainty of a guru. I figured even if I manage to give you just one tip which either saves you a bit of money or nets you an extra sale, that should already be enough to justify the money you spent on buying this book.
+

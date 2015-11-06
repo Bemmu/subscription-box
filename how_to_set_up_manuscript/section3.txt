@@ -54,102 +54,35 @@ You do it by comparing the cost of that marketing activity against your LTV. Kno
 
 ### Compare LTV against your customer acquisition cost
 
-Suppose you are buying some clicks on AdWords for example. You can compare the cost of those clicks to the LTV to decide whether the campaign makes sense. Say on average it costs you $60 in paid clicks to gain a customer, but from your LTV you now know that the customer will only turn you a $50 profit. 
+When evaluating the clicks you are buying on AdWords for example, you can compare their cost to the LTV to decide whether the campaign makes sense. Say on average it costs you $60 in paid clicks to gain a customer, but from your LTV you now know that the customer will only turn you a $50 profit. 
 
 That would mean that you actually lose $10 for each customer you get through AdWords. As you can see, knowing your LTV in this case would make it clear that continuing to use that campaign is just wasted money.
 
-It's quite easy to delude yourself into thinking that something is working, even with no data to back that up. Just seeing that you are getting more and more subscribers each day can make you feel good ("wow, my box is growing"!), even if in reality you are losing money on each sale. 
+It's quite easy to delude yourself into thinking that something is working, even with no data to back that up. Just seeing that you are getting more and more subscribers each day can make you feel good ("wow, my box is growing"!), even if in reality you are losing money on each one. 
 
 Keeping a close eye on how your cost of customer acquisition compares against your LTV helps you avoid this trap.
 
-In the same way you can consider if the time spent on other marketing channels is wildly profitable or a waste of time. You can use LTV to estimate which campaigns to keep, which to expand, which to scrap or try to improve upon. 
+Similarly you can consider if the time spent on other marketing channels is wildly profitable or a waste of time. You can use the LTV value to estimate which campaigns to keep, which to expand, which to scrap or try to improve upon.
 
-## Keeping track of results
+## Keeping track of channel performance
 
 If you don't know which of your efforts is actually producing results, how will you know what to double down on and what is just a waste of time? 
 
 While coming up with new campaigns can require creativity, when it comes to controlling your spend on marketing, you should try to switch on your most analytical mode of thinking from time to time.
 
-You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the various targeting options for tweaking ad campaigns is endless.
+You could spend all your time doing marketing if you wanted to. There are thousands of places where you could advertise, both paid and free. You can never get to the point where you'll feel marketing is "done", there are always more opportunities. Even just the options to tweak ad campaigns are endless.
 
-While you can waste money on paid campaigns, promotion through the seemingly free social media and content-marketing (writing online articles, blog posts) may not cost money, but it has a cost in time. If you know that one customer is worth $50 to you and you spent 10 hours to get that customer, you just worked for $5/hour. 
+On the other hand, promotion through the seemingly free social media and content-marketing channels may not cost money, but it is endlessly time-consuming. 
 
-Choosing which promotion methods to focus on is something you can only learn by experimenting. You can't do everything, but at least knowing your numbers helps you focus on the better performing channels.
+Somewhere between these paid and free channels is providing free sample boxes for bloggers, which ends up taking time just to evaluate which blogs are worth sending to and keeping in touch with them to maintain relationships. 
 
-### Setting up Google Analytics
+Which of these to focus on you can only learn by experimenting. You might think "oh well I'll just do everything". You should not. If you can know that one customer is worth say $50 to you and you spent 10 hours of work to get that customer, you just worked for $5/hour. 
 
-If you have not yet done so, you need to add [Google Analytics](http://www.google.com/analytics/) to your subscription box site. This will make it possible to see who is visiting your website, where they came from and which pages they looked at. To start tracking these, your subscription ecommerce platform probably has a setting where you can enter your Google Analytics ID. If not, you will need to copy & paste a piece of code.
+You can't do everything, but at least knowing your numbers helps you focus on the better performing channels.
 
-You were probably already familiar with Google Analytics, as it is very popular. Something not everyone takes the time to set up is the powerful **goal tracking** within. Only knowing visitor numbers isn't really all that useful. By enabling goal tracking, each sale will show up in Google Analytics and you can see where it came from.
+### OK, how do I really do it?
 
-If you are using CrateJoy, [here is their set-up guide for getting Google Analytics tracking working](https://cratejoy.zendesk.com/hc/en-us/articles/202719545-How-to-set-up-Google-Analytics). If you have your own custom system, the easiest way is to redirect your customer to a /thanks page after their sale. 
-
-![Tracking /thanks visit as a sale](images/ga_goals.png)
-
-After you have this set up, you will be able to see which web traffic sources brought you sales, whether it was a mention in a blog article or someone clicking over from Facebook or Google. You could have other goals set up besides sales as well, such as tracking new subscribers to your email newsletter.
-
-## Announcing your launch
-
-If you set up your site already, congratulations, you did your first newsworthy thing by launching. 
-
-If your concept is something unique, you may be able to get some press by just that alone. Try to get the most out of it, as it can be a lot easier to get bloggers / reporters interested in something new.
-
-Why would you want press anyway? Because press mentions bring traffic and very valuable backlinks, which can help bring you even more search traffic from Google as well. The social validation and legitimacy aren’t bad either, as it can help you get even more press later when reporters who are researching you [see that you're already being talked about](http://blog.clarity.fm/the-hackers-guide-to-getting-press/).
-
-When Candy Japan launched, just the various blogs picking up my launch announcement was enough to gather a few hundred paying subscribers. We got lucky getting blog coverage without an official press release. Some kind bloggers happened to be reading the entrepreneur forum Hacker News where the launch was announced in an informal comment and it got picked up that way. 
-
-When your box has just been released, the release itself can be news enough to gain some mentions on various sites (as long as there is something unique about it). It will likely never be this easy again, so make the most of it. If you try to get someone cover your launch and they see that it was already covered some time ago elsewhere, they might think it no longer newsworthy and not publish it for that reason. That’s why it may be smart to contact many blogs in a short span of time, while your box is still fresh.
-
-### Press releases
-
-While I didn't start with a fancy press release myself, many boxes do. It seems like worth the shot. Reporters get tons of such announcements, but you never know when you might get lucky.
-
-And you'll need the luck! As the past TechCrunch writer Jason Kincaid notes in his book "[The Burned-Out Blogger’s Guide to PR](http://www.burnoutpr.com/)": *"Because while it’s nice to think that reporters have structured and fair processes for deciding who is blessed with press coverage, you are at the mercy of the black box that is the reporter’s mind. They’re well-versed in explaining why they chose to write one story over another, but this deliberation is roughly as scientific as how they decided what to order for lunch."*
-
-A press release is an official statement to send to to journalists, written in a factual style with important things mentioned first. It is a short outline of what your box is about, formatted in a specific way and then sent to relevant reporters / bloggers. It can serve as the starting point of writing a story about the launch of your subscription box. 
-
-You should write in a factual way and avoid any hype terms only designed to make your box sound awesome. Keep your opinions out and stick to the facts. Reporters have a keen sense of when they are being marketed to and don’t want to just give you free advertising. The tone should be objective and be written in the third person, [avoiding usage of “you”, “I”, “we” etc.](http://service.prweb.com/learning/article/editorial-guidelines/)
-
-Luckily you are on the same side with many reporters. You want coverage, they want pageviews for their site. Some writers are even directly compensated for the pageviews they generate for the blog they are working for, but this still doesn’t mean they would publish absolutely anything. Especially higher profile bloggers can spend more of their time covering very important topics in-depth and are less likely to just post a rephrasing of your press release.
-
-Even if publishing more is better for them, there is still an opportunity cost to be covering your launch story instead of something more important that could be even more popular. The content should be interesting to their readership.
-
-#### Format of a press release
-
-It might be the easiest to start by mimicking an existing press release to get the proper format. 
-
-The first line in a press release indicates whether the information can be published immediately or if it is under an "**embargo**". You can use an embargo to give a date for when your launch announcement can be published to coordinate information going out at the same time. You should be aware though that many reporters dislike embargoes, so using one could hurt your chances for coverage.
-
-To indicate that the information can be released right away, start the press release with "FOR IMMEDIATE RELEASE", otherwise to indicate an embargo use for example "FOR RELEASE ON JAN. 8, 2019 AT 10 A.M. EST".
-
-After this comes the title of the press release, also known as the **slug**. Reporters receive hundreds of press releases, so this shouldn’t sound too dry. Use [action words such as](http://blog.prleap.com/archives/25-action-words-for-writing-a-newsworthy-headline/) "launches", "introduces", "releases", "announces" or "unveils" to make your press release sound interesting and newsworthy. 
-
-After the slug comes the **lead**. This is the first sentence after the slug and should contain the “five w’s”, which are: who what where when why.
-
-After the lead comes the more detailed content of the press release. In general the most important information in your press release should go to the top, with each paragraph having decreasingly important information. This is called the “**inverted triangle format**”.
-
-The length of a press release should ideally be around one page, possibly two.
-
-A press release ends with “###”. This is used to indicate that the publicly releasable information is now over. After this you should include your contact information, including a phone number at which the reporter can reach you if they have any last minute questions.
-
-You can find many examples of a subscription box launch press releases by Googling for “FOR IMMEDIATE RELEASE” (the traditional starting phrase in “non-embargoed” press releases) and “subscription box”. You can also see some of the coverage those releases resulted in by Googling for the contents of the press release with [Google News search](http://news.google.com/news).
-
-#### Are press releases useful?
-
-While many say that press releases are useless, it is a rather low effort activity with a potentially high payoff, so perhaps it is something worth trying still.  
-
-There are professional PR people who handle dealing with the press as their main work, but they are quite expensive to use. For instance the subscription box [Cooper And Kid](http://cooperandkid.com/) is using such a PR firm to help boost their press relations. 
-
-You can see their launch press release [here](http://www.cooperandkid.com/wp-content/themes/cooperkid/press/130326_PressRelease_CooperKit.pdf).
-While it resulted in some coverage, it only worked as part of a larger effort to reach media influencers, with launch coinciding with Father’s Day, which was a key day for the subscription box. 
-
-According to Cooper And Kid, whether press releases are picked up by the media depends not only on the content of the release, but by the connections and relevancy to the people handling the press. Chances with a press release just randomly thrown cold at the media is low.
-
-### Sample marketing spreadsheet
-
-From here on I will start giving you some ideas of places where you can promote your box. But to make sure that your campaigns are working, I'd first like to suggest that you track your efforts in a marketing spreadsheet. Hopefully you already have Google Analytics tracking set up, as that is what you will use to enter the numbers for the **sales** column in this spreadsheet.
-
-With advertising one immediate goal is to make sales. But another equally important goal is **to learn** so you can sell even better in the future. You should record the effectiveness of your ad campaigns, otherwise you will not know which advertising channels to double down on and which ones to phase out.
+With advertising one goal is to make sales. But another equally important goal is **to learn**. You should record the effectiveness of your ad campaigns, otherwise you will not know which advertising channels to double down on and which ones to phase out.
 
 The simplest way is to just have a spreadsheet, where each row represents a specific marketing attempt. You can decide how detailed you want to be, but here's the type of spreadsheet I have for Candy Japan.
 
@@ -161,7 +94,7 @@ You can also optionally record the **cost per conversion** for the experiment me
 
 By the way, in the spreadsheet above those are actually real numbers from some of the marketing experiments for Candy Japan. I'll walk you through the rows to explain a bit more about them.
 
-## Reddit post ideas
+## Marketing on Reddit
 
 In the marketing spreadsheet, several rows are dealing with experiments I did for Candy Japan on Reddit.
 
