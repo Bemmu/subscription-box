@@ -159,7 +159,7 @@ While in my real spreadsheet I have some more details than these, the above illu
 
 You can also optionally record the **cost per conversion** for the experiment means how much you had to spend to get a single sale. The lower that is the better. Finally to feel all MBA-style fancy, you can include a **ROI** column, which is just worth divided by cost. If ROI is less than <1 then you either need to improve on the campaign or stop advertising there.
 
-By the way, in the spreadsheet above those are actually real numbers from some of the marketing experiments for Candy Japan. I'll walk you through the rows to explain a bit more about them.
+By the way, in the spreadsheet above those are actually real numbers from some of the marketing experiments for Candy Japan. They are of course not the only ones I've ever done, but just a few I picked. You can easily find tons of places to advertise online and probably have a lot of ideas yourself, but I will describe Reddit and just a few other places I am familiar with to get you started.
 
 ## Reddit post ideas
 
@@ -394,6 +394,8 @@ There is also a tool called [HitTail](https://www.hittail.com/), which combines 
 ## Niche ad networks
 
 If you AdWords seemed too competitive, you could go hunting for less used networks that still command enough audience to be interesting. There are ways to buy advertising on sites which may be very suitable for your chosen subscription box niche.
+
+Of course you can always just try to contact site owners directly as well, but these networks make it easier to make the connection between the ad buyer and site owner.
 
 ### Project Wonderful
 

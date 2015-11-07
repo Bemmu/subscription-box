@@ -1,0 +1,75 @@
+# Some words of caution
+
+If you get your subscription box running smoothly, it can be a nice source of income. However there are risks as well and probably one that you should be aware of is the existence of credit card fraud and minor scams. 
+
+Most buyers are honest, but there are a few that will try to get free product out of you, sometimes with utter lies. There is one infamous buyer who goes around different online stores on the pretense of a sick daughter, but the details of the story change for each store. 
+
+Another one was someone posting threatening emails pretending to be a tax official, which caused me a lot of stress, until I confirmed with the real tax office only to find the emails false and in reality everything to be in order. 
+
+By far the biggest problem I've had with Candy Japan so far is credit card fraud. 
+
+## Credit card fraud
+
+One day I noticed that the site was getting a huge number of new subscribers, all seemingly finding us through Google. At first I thought the site must have been mentioned in the media somewhere. Fantastic news! 
+
+Then I decided to look at the traffic in a bit more detail, to see where this sudden good luck was springing from.
+
+Hmm, odd. 
+
+![](images/chargeback_ga.png)
+
+The conversion ratio for organic search traffic is unnaturally high. In other words, the number of people searching for Candy Japan on Google hadn't changed, but somehow the amount of orders coming in from search had massively increased.
+
+Having a conversion ratio over 5% for one day is a statistical anomaly. Sustaining it for the better part of the week probably means that something strange is going on. 
+
+### Could it be fraud?
+
+I was aware that a certain percentage of transactions is always fraudulent, but I had always assumed that these transactions would be mixed in with real ones. Hundred real orders there, then one fraud case dripping in here. 
+
+Since the level of fraud I had experienced so far was at an acceptable level, I assumed everything is OK.
+
+### Everything is not OK.
+
+What I hadn't expected was having a wave of fraud crash in suddenly with such force. 
+
+While from Google Analytics I had noticed that a lot of sales had happened, it didn't reveal the severity of the issue. Looking at the list of transactions, I saw that **thousands** of payment attempts had been made with different cards during those 4 days. For each successful sale, the fraudsters had tried a dozen cards that had failed.
+
+After starting to deal with this, I got contacted by a police officer in Ohio. To be doubly sure he really was a police officer, I called the local police directly and asked for him by name. "Thanks for calling me, let me just pull over". He was on patrol. His reason for contacting me was that someone had noticed an unexpected charge from "candy japan" on their card and had filed a police report.
+
+I exchanged any information I had of the particular fraud incident he was investigating, but he seemed not to have much hope with the case, telling me that they just had to follow up as they'd received a report of an unknown transaction happening. I think he even said the words "this won't lead anywhere". I agree. Assuming fake IP, fake address, card number bought from someone online, what could he possibly do about it?
+
+### Easy money
+
+I started reading a bit more about how this underworld works. Apparently these criminals are called "carders". The stolen cards originate from credit card security breaches, resulting in a big list of card numbers. These are later sold online in packs filtered to working card numbers only, which can be purchased for about $10 per valid card.
+
+To be able to compile and sell these packs, the carders need to know which ones are valid. To do this, they will use an online store or service to place an order for the sole purpose of seeing if the charge goes through or not. 
+
+If a store ends up as such a checking endpoint, they will see a sudden influx of a lot of fake orders. That's what was happening to me with Candy Japan.
+
+### Here's why it can cost you
+
+These fees will depend on the payment gateway you choose, but here's what I ended up having to pay as a consequence of this fraud.
+
+Carder uses my store to test 10 cards before they find one that works. For each attempt I pay a 0.15€ transaction fee to my gateway and another $0.10 fee to subscription middleware Recurly. So even before a successful order comes in, I'm already out around three dollars.
+
+Then they hit upon a card that works. Now the fee to charge that card is a bit higher, since money is actually moving. Our candy subscription is $25 / month, which costs me $1.76 in fees to charge (Recurly fee is $0.10 + 1.25%, gateway fee is 0.15€ + 2.75%).
+
+Believing this to be a real transaction, I ship the product to them. Candy itself, shipping, labor etc. will cost something around $15. So now I'm out $19.76, but I received $25. What's the problem?
+
+### Chargeback
+
+When the real owner of the card notices the surprising charge on their card, they will dispute it by contacting their bank or credit card company. The customer receives their money back, as they should.
+
+The money I thought I had is taken from me and on top of that there is a 15€ chargeback fee. The end result is that I lost not only the transaction fees, but also the product and labor cost and on top of that get hit with an extra penalty.
+
+For orders which I later noticed as very likely being fraudulent, I proactively refunded them, despite having already shipped many of those orders, leading to more losses. 
+
+Later on these shipments will likely return to sender, as the fraudsters very likely used false names and addresses, leading to more work still.
+
+### Watch out for strange orders
+
+What's the solution to this threat? I don't have one yet for you, as it is something I am still looking to solve myself. I wanted to warn you in any case.
+
+Keep an eye on payments coming in, especially if you suddenly have a ton of new members joining. See where they are originating from and consider if the orders seem to make sense or not.
+
+
