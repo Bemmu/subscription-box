@@ -411,13 +411,27 @@ There is also a tool called [HitTail](https://www.hittail.com/), which combines 
 
 If you AdWords seemed too competitive, you could go hunting for less used networks that still command enough audience to be interesting. There are ways to buy advertising on sites which may be very suitable for your chosen subscription box niche.
 
+### Project Wonderful
+
+Project Wonderful is ad network mainly used by web comics, on which I have been able to get several affordable conversions for Candy Japan. It is a great starter network, as ad slots tend to be very cheap. Their website does look a bit unprofessional, but don't let that put you off too much, this is a great network for getting started without accidentally burning a lot of cash!
+
+Project Wonderful works as an ongoing auction for all of the traffic to a certain ad slot. You make a bid such as "I'm willing to pay $10/day for all the US traffic to this ad slot" and as long as you are the top bidder, your ad is shown in that placement continuously. You can pick one or more of these geographic areas: United States, Canada, Europe or "elsewhere".
+
+Besides web comics, they have some other web properties that might be too questionable for other networks to touch, such as the "chat with stranger" site Omegle or some web comics on the risque side. But the prices are great. 
+
+Many web comics with around 100,000 daily views are available for less than $10 a day, some with ~50k daily views for less than a dollar. Compare that to buying a similar amount of ad impressions on other networks, and you could easily spend as much as $300 - $1000 for the same impression count.
+
+![Bidding on an ad slot on Project Wonderful](images/project_wonderful_bid.png)
+
+It's very easy to get started, as you can browse stats of different properties even without creating an account. Here's the [direct link to the top properties search](https://www.projectwonderful.com/adsearch.php?advanced=0&sort=&regions%5B%5D=1&regions%5B%5D=0&regions%5B%5D=2&regions%5B%5D=9&avguniqueusers=0&minhits=1&maxhits=&hitdays=5&trafficany=2&sumdata=1&showallregions=1&measurement=1&minbids=&maxbids=&biddays=5&mincurrentbid=&maxcurrentbid=&minbidmin=&minbidmax=&biddingany=2&button=2&square=4&halfbanner=6&banner=1&rectangle=7&leaderboard=5&skyscraper=3&namefilter=&domainfilter=&tags=&badtags=&referrerhits=&referrer=&referrerdays=1&referrerany=1&countrypercentage=&countrytype=0&country=&c=1&sfw=1&nsfw=1&adult=1&adrating=6&graphical=2&approval=0&mincols=&maxcols=&advertiser=&includebanned=0&submit=1).
+
 ### BuySellAds
 
-[BuySellAds](https://buysellads.com/buy) is a marketplace where you can purchase certain ad slots on sites you choose yourself. You can choose which website to place your ad on and buy the whole ad space for a period of time. The slots for smaller sites are usually priced at a certain amount per month, while the more visited ones tend to be on a per-impression basis.
+[BuySellAds](https://buysellads.com/buy) is a marketplace where you can purchase certain ad slots on sites you choose yourself. You can choose which website to place your ad on and buy the whole ad space for a period of time. 
 
-Many sites are quite affordable and the system is very easy to understand, so BuySellAds could be a great way to get started with ad buying. You can buy an ad slot on many of the smaller sites starting at around $50 / month.
+This is a bit pricier one, but has more sites that could be suitable to your box niche. The slots for smaller sites are usually priced at a certain amount per month, while the more visited ones tend to be on a per-ad-impression basis.
 
 ![BuySellAds categories](images/buysellads.png)
 
-Still confused? Read on to their [how it works page](https://buysellads.com/advertisers/howitworks).
+Many sites are quite affordable and the system is very easy to understand, so BuySellAds could be a great way to get started with ad buying. You can buy an ad slot on many of the smaller sites starting at around $50 / month. Still confused? They have a great [how it works page](https://buysellads.com/advertisers/howitworks) to get you started.
 
