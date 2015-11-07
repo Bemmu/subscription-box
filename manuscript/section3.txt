@@ -227,6 +227,18 @@ Reddit [allows verified users to post up to](https://www.reddit.com/r/help/comme
 
 Couldn't find any suitable subreddits? Here are some examples for where you might try posting, no matter what your niche is.
 
+#### Glittery success story
+
+One example success story is [ShipYourEnemiesGlitter](http://shipyourenemiesglitter.com/), a service which ships boxes full of glitter to an unsuspecting target. In mid-January the site got posted to /r/internetisbeautiful, which is a subreddit for *"awesome websites that offer a unique service"*. 
+
+How useful was that post? **Very.** Just in the first day ShipYourEnemiesGlitter received **over 1 million** visitors. Take a look at their Google Analytics screenshot below, made available because the site [was on sale on Flippa](https://flippa.com/3783970-20-000-in-sales-and-2-5-million-visits-in-4-days-hugely-popular-viral-site).
+
+![](images/glitter.png)
+
+Sadly as a direct result of the huge success of ShipYourEnemiesGlitter and the influx of similar sites to the subreddit, /r/internetisbeautiful [changed their rules](https://www.reddit.com/r/InternetIsBeautiful/comments/3063r6/how_are_you_doing_were_doing_great_we_have_a_few/) and no longer allows online stores, so you will need to find new places to post to.
+
+*"Online Stores/Paid Services/sites just selling stuff - some of these are funny, some of them are terrible, a LOT of them are people just trying to make that paper. we don't think online stores or sites that deliver cow poop to your friends are really what any of us are looking for in this subreddit. plus, there's like five bajillion of them now since the Great Glitter Gold Rush of 2015. they're far past being unique."*
+
 #### Do a giveaway
 
 The subreddit /r/giveaways and /r/sweepstakes are for giving out free stuff. You accept entries from people who want a free box and then pick one randomly. While sweepstakes will definitely drive a lot of traffic if you have a nice prize, the quality of the traffic may be very low. 
@@ -395,7 +407,7 @@ There is also a tool called [HitTail](https://www.hittail.com/), which combines 
 
 If you AdWords seemed too competitive, you could go hunting for less used networks that still command enough audience to be interesting. There are ways to buy advertising on sites which may be very suitable for your chosen subscription box niche.
 
-Of course you can always just try to contact site owners directly as well, but these networks make it easier to make the connection between the ad buyer and site owner.
+Of course you can always just try to contact site owners directly as well, but these networks make it easier to make the connection between the ad buyer and site owner. There are tons of these for different topics, as you can find by googling for "niche ad network", here are two examples.
 
 ### Project Wonderful
 
@@ -421,3 +433,20 @@ This is a bit pricier one, but has more sites that could be suitable to your box
 
 Many sites are quite affordable and the system is very easy to understand, so BuySellAds could be a great way to get started with ad buying. You can buy an ad slot on many of the smaller sites starting at around $50 / month. Still confused? They have a great [how it works page](https://buysellads.com/advertisers/howitworks) to get you started.
 
+## Have affiliates do the marketing for you
+
+You can use **affiliates** to do sales for you. These are people who can push your subscription box online in exchange for a cut of the sale.
+
+You pay affiliates a fee for each subscriber they manage to find you.  The higher the payout, the more motivated affiliates will be to promote your product instead of others. 
+
+Other ways to structure this is to give the affiliate 100% of the first month sale or a certain percentage of all future transactions. For instance the dating site [SpeedDate](https://www.speeddate.com/) allows their affiliates to choose between these two ways to get paid.
+
+You can either set up your own affiliate system, or use a network such as [Subscription Box Network](https://www.subscriptionboxnetwork.com/). Perhaps the most well-known affiliate network is [Commission Junction](http://www.cj.com). After signing up for inspiration you will be able to browse other subscription boxes which are offering affiliate fees. 
+
+For instance [GlossyBox](http://www.tkqlhce.com/click-7844888-11120723-1429714569000) is willing to pay affiliate fees for new members, starting at $5 per subscriber, going up to $9 per subscriber if the affiliate sends more than 400. Also if the affiliate sends a visitor to the GlossyBox site but that visitor leaves, if they come back later to make a purchase then GlossyBox will also reward the affiliate for the sale in that case, as long as the purchase happens within 30 days.
+
+![GlossyBox affiliate program on Commission Junction](images/glossybox_aff.png)
+
+One thing to keep in mind with affiliates is being a bit careful when attributing sales to them. Do make sure you are not paying too much when you cannot be sure of the quality of those subscribers. Your affiliates may not be as concerned about your brand as you are and will market it as aggressively as you allow them, which may mean even spammy means if you are not careful.
+
+A bit less dangerous alternative to an affiliate program is a **referral program**. Instead of giving your affiliates cash, you reward customer referrals with free products or discounts. On CrateJoy you can use their [referral program app](https://cratejoy.zendesk.com/hc/en-us/articles/202980689) for this. Compared to an affiliate program where you pay out cash, the potential for abuse is much less here, especially if the referral program can only be used by your current customers. 
