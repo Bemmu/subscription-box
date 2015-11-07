@@ -401,8 +401,23 @@ Also notable in Moz research was that "*Posts with all three media types (videos
 
 If you have an idea for an article and rough bullet points on what it should cover, you can either go ahead and write it yourself, or you can find a freelancer to do the writing for you. 
 
-Finding a lot of freelancers is extremely easy using a site such as [UpWork](https://www.upwork.com) (personal favorite) or [Freelancer.com](https://www.hittail.com/), but the challenge is finding quality authors.When you post an open article writing job, you will likely get a dozen applications in a matter of hours, but when you try to hire them you may run into some poor quality writing. 
+Finding a lot of freelancers is extremely easy using a site such as [UpWork](https://www.upwork.com) (personal favorite) or [Freelancer.com](https://www.freelancer.com/), but the challenge is finding quality authors.When you post an open article writing job, you will likely get a dozen applications in a matter of hours, but when you try to hire them you may run into some poor quality writing. 
 
 You can help improve your article quality by hiring multiple bidders to write for you, look at how well they write and in the future focus on the better quality authors. Initially you will have to spend a bit more to find reliable help, but you can keep relying on those people for a long time.
 
 There is also a tool called [HitTail](https://www.hittail.com/), which combines keyword research with a way to hire writers. It can analyze traffic that your website is getting and get articles written for you for keywords that look promising.
+
+## Niche ad networks
+
+If you AdWords seemed too competitive, you could go hunting for less used networks that still command enough audience to be interesting. There are ways to buy advertising on sites which may be very suitable for your chosen subscription box niche.
+
+### BuySellAds
+
+[BuySellAds](https://buysellads.com/buy) is a marketplace where you can purchase certain ad slots on sites you choose yourself. You can choose which website to place your ad on and buy the whole ad space for a period of time. The slots for smaller sites are usually priced at a certain amount per month, while the more visited ones tend to be on a per-impression basis.
+
+Many sites are quite affordable and the system is very easy to understand, so BuySellAds could be a great way to get started with ad buying. You can buy an ad slot on many of the smaller sites starting at around $50 / month.
+
+![BuySellAds categories](images/buysellads.png)
+
+Still confused? Read on to their [how it works page](https://buysellads.com/advertisers/howitworks).
+
