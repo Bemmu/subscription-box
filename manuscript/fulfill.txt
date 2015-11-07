@@ -1,0 +1,110 @@
+# Getting your packaging made
+
+## Importance of box design
+
+Why should your box look good? Isn’t it enough that all items arrive safely to the recipient without damage? While we have succeeded at growing our Candy Japan despite not having a fancy design, things may have grown much faster had the unboxing experience also been more impressive.
+
+YouTube reviewers doing product unboxings is a huge thing. Even if you decide not to try to appeal to the audience of obsessive unboxing-watchers, it often happens that when users search Google for your box or its review, an unboxing video appears right in the top results. When someone is researching whether they want to subscribe to your box or not, if they will end up seeing some unboxing videos it would be better for your box to look good in them.
+
+## How boxes get made
+
+When you contact a packaging company to create boxes for you, they accomplish this by creating a metal die (basically a sharp blade), which is pressed against multiple sheets of cardboard in succession to cut out your desired box shape. This is called "die cutting". 
+
+Making that specially shaped cutting metal die is a time-consuming craft, which is why there is an expensive starting cost if you need a custom shape. Watch [this video of die making in action](https://www.youtube.com/watch?v=HKJoyh49vdI) to understand where the cost comes from.
+
+When you order more of the same packaging, the same die can be re-used. This means larger amounts can be much cheaper than ordering just a few boxes. Your printing company may also already have a suitable die available if they have printed the same size boxes before. Using an existing die can save close to $1000.
+
+## How our boxes arrive
+
+There is also some work involved in getting the finished boxes to you (invoicing, shipping), which also makes it a bit cheaper to order more at a time. We usually place orders for 1000 - 2000 boxes at a time. Just for reference, at this volume in Japan we are currently paying $0.32 per box, which includes getting them shipped to our door.
+
+Below is a picture of how the boxes arrive shipped to us after die cutting, without any printing on them. You can see how they arrive flat and then you fold them together, attach labels and close with packing tape. 
+![](images/boxes1.png)
+![](images/boxes2.png)
+
+## Custom printing for boxes
+
+Now up to this point I have only talked about how companies cut a box out of a cardboard sheet, but this didn’t yet touch on printing any custom illustrations or logos on them yet. How do the images you send to a printing company get transferred to the cardboard?
+
+While in a normal household inkjet printer there is a nozzle that moves back and forth to spray ink, this would be too slow for making thousands of boxes at a time. Not to mention that printer ink [costs more than Red Bull, vodka and human blood](http://visual.ly/ink-costs-more-human-blood). Instead of such a slow process, a "print plate" is created, which can quickly transfer ink to the cardboard.
+
+The two types of printing often used are called [flexography](https://en.wikipedia.org/wiki/Flexography) and [lithography](https://en.wikipedia.org/wiki/Lithography). In lithography the image is formed through ink attaching to the plate differently because of how it is coated, while in flexography the plate has physical bumps on it to designate the image to print (here's a [quick intro on YouTube](https://www.youtube.com/watch?v=HL2yvqSk8Ww)). Flexography is good for drawings and illustrations, while having photographs would require lithography.
+
+Just as there is a manufacturing costs for the cutting dies, for printing there is a set-up cost for these print plates. After they are made things get cheap again, but the plates are size-specific, so changing box size later will again get expensive. As there is work for setting up the required parts for cutting and printing, companies have quite high minimum amounts, usually 1000. 
+
+## Pakible
+
+There is really no need to understand how the printing process in that much detail, as printing companies will worry about all that for you, it's still useful to know that there are real start-up costs to printing a new box.
+
+One very interesting printing company is [Pakible](http://www.pakible.com/). How they do this is a mystery to me, but somehow they are able to offer printed packaging to subscription boxes with no start-up cost.
+
+![Pakible box customizer](images/pakible_1.jpg)
+
+The ordering process is extremely easy and can be completed online without needing to talk to anyone. Upload images, choose the size, enter your box text and pay by credit card and then packages are just delivered to you. They even have a cool 3D interface as well, so you can see a preview of your box as you are editing it.
+
+Their minimum order amounts are also so low that it is easy to get started. At 250 boxes it comes to $1.24 / box, with prices getting cheaper as your volume increases. After 1000 boxes it goes down to $1.00 / box. There is a neat slider here for checking how much pricing would be in your case. Below you can see how the Candy Japan package turned out.
+
+![Candy Japan box by Pakible](images/pakible_2.jpg)
+
+## Packlane
+
+Another printing company that works with subscription boxes is Packlane. Below you can see a template for a box commission and how it turns into a real box.
+
+![Packlane design file](images/packlane_1.jpg)
+
+![Resulting Packlane box](images/packlane_2.jpg)
+
+Besides Pakible and Packlane, other companies that work with subscription boxes include [Salazar Packaging](http://www.salazarpackaging.com/) and [Green Packaging Group](http://www.greenpackaginggroup.com/), but both with 1000 box minimum order.
+
+For more support on printing boxes, one great resource is the Facebook group [Groove Learning](https://www.facebook.com/groups/groovelearning/) where many subscription box founders hang out. Search the group for "pakible" and you will be able to see many discussion threads that mention other companies and specific pricing quotes as well.
+
+## Sealing your box
+
+You will end up using more packing tape than you likely imagined before starting your box. As an example, our box needs 57cm or about 23 inches of packing tape to firmly seal it. One roll has 25 meters or about 27 yards in it. That means we need one roll for every 43 boxes we send. With thousands of boxes to send, that’s a lot of tape each year.
+
+You could even get these custom made with your own artwork, although you may need to order quite a large amount to place such an order. I tried contacting a [manufacturer in China](http://www.cxpack.com/), they replied that the minimum order would be 800 rolls!
+
+You should definitely search Amazon first to see if there might already be suitable tape for you. For our candy box, there happened to already be candy patterned packing tape available.
+
+![](images/tape.jpg)
+
+Another consideration is how to stop items moving inside the box. This isn't necessarily a problem if you are sending soft items such as snacks which are already well wrapped, but for anything more fragile this could be important. Some of the popular choices are bubble wrap, packaging foam, packing peanuts or just crumpled paper.
+
+## Inserts
+
+If you want to include a note explaining the contents of your box or a welcome message, you will need those printed as well. You can start by just printing them at home. These are called "inserts".
+
+Below is the insert we have. The illustration task was commissioned on the outsourcing site [UpWork.com](https://www.upwork.com/). If you look carefully, this is actually the very same illustration which was used for the Pakible packaging, only framed using graphics bought from [iStockPhoto](http://www.istockphoto.com/).
+
+![Candy Japan welcome insert](images/welcome_insert.png)
+
+## Photographing your box
+
+After you have your nice box printed and stuffed with a nicely curated selection of products, you will want a nice picture of it to put on your website.
+
+Below is a quick shot I took with a smartphone.
+
+![](images/iphone_camera.jpg)
+
+OK, but not that great. Still an improvement over having no picture at all, but it is clearly not good quality.
+
+Here's a box photo I took in the same location with a Nikon D5300 DSLR camera and an AF-S NIKKOR 85mm f/1.8G lens, costing about $800 total.
+
+![](images/dslr.jpg)
+
+I think it's quite an improvement over the iPhone shot! If you want to achieve background things being de-focused, the key term to look into is "depth of field". In camera settings you can adjust that by setting the f-stop value (aperture size).
+
+You really need a tripod too (~$25), as holding the camera in your hands will easily make your box photo blurry. You'll also want to trigger the shutter without touching the camera to avoid blur, either by using the camera timer or a remote shutter (costs a few dollars).
+
+Now if you're thinking that spending $800 to take a single photo is a bit excessive, I would totally agree with you! If you have no particular interest in photography, just take your box to a local photographer and ask if they can help you.
+
+Below is the result after asking our nearby studio to take a photo of our candy box. A huge improvement I would say and the cost was only about $50.
+
+![](images/japanese_candy_box_1800.jpg)
+
+Various angles were tried and I was then seated at a monitor to choose which one I thought was the best out of the ones attempted. The whole session took less than an hour. 
+
+![Behind the scenes at a photo studio](images/studio.jpg)
+
+If you want to achieve the white background achieved by the studio with your own equipment at home, there are kits designed for product shots on sale on Amazon. You can find them for about $40 by searching for "photo light box" and there are nice tutorials on YouTube for the same term.
+
