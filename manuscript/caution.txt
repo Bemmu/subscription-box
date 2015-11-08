@@ -56,7 +56,7 @@ Then they hit upon a card that works. Now the fee to charge that card is a bit h
 
 Believing this to be a real transaction, I ship the product to them. Candy itself, shipping, labor etc. will cost something around $15. So now I'm out $19.76, but I received $25. What's the problem?
 
-### Chargeback
+### Chargebacks
 
 When the real owner of the card notices the surprising charge on their card, they will dispute it by contacting their bank or credit card company. The customer receives their money back, as they should.
 

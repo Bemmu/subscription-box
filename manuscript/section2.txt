@@ -430,3 +430,7 @@ In most cases that is significantly cheaper than CrateJoy. Here is a comparison 
 Subbly has no third-party app directory, but it does have ShipStation integration. ShipStation is a web-based software for handling shipments, through which you can integrate with USPS, UPS, FedEx and DHL. It is ideal when you are selling goods through multiple channels, for example if you have an online store selling the same products that your subscription box site is selling, you can use ShipStation to have just one shipment flow. It also helps you print labels.
 
 Zapier integration is coming soon. Zapier is a bit similar to IFTTT, providing an interface for creating triggered automations. For example Zapier could send you an email, iOS notification or a Slack message when an order comes in. There are many possibilities to use it to trigger useful actions, as Zapier can interact with almost anything.
+
+## Other options
+
+The options mentioned in this chapter are the major ones, but not every possible service was mentioned. Others include [Subscriberly](http://subscriberly.com/) and [Gumroad](https://gumroad.com/).

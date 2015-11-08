@@ -14,11 +14,12 @@ Making that specially shaped cutting metal die is a time-consuming craft, which 
 
 When you order more of the same packaging, the same die can be re-used. This means larger amounts can be much cheaper than ordering just a few boxes. Your printing company may also already have a suitable die available if they have printed the same size boxes before. Using an existing die can save close to $1000.
 
-## How our boxes arrive
+## How unfolded boxes arrive
 
 There is also some work involved in getting the finished boxes to you (invoicing, shipping), which also makes it a bit cheaper to order more at a time. We usually place orders for 1000 - 2000 boxes at a time. Just for reference, at this volume in Japan we are currently paying $0.32 per box, which includes getting them shipped to our door.
 
 Below is a picture of how the boxes arrive shipped to us after die cutting, without any printing on them. You can see how they arrive flat and then you fold them together, attach labels and close with packing tape. 
+
 ![](images/boxes1.png)
 ![](images/boxes2.png)
 
