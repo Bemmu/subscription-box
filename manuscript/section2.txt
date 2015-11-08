@@ -433,4 +433,4 @@ Zapier integration is coming soon. Zapier is a bit similar to IFTTT, providing a
 
 ## Other options
 
-The options mentioned in this chapter are the major ones, but not every possible service was mentioned. Others include [Subscriberly](http://subscriberly.com/) and [Gumroad](https://gumroad.com/).
+The options mentioned in this chapter are the major ones, but not every possible service was mentioned. There is at least [Subscriberly](http://subscriberly.com/), which is a new subscription ecommerce platform that was released just before this book went out. There is also [Gumroad](https://gumroad.com/), which is famous for digital products, but also supports physical subscriptions.
