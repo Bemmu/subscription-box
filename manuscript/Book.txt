@@ -1,9 +1,24 @@
+# Total version
+#section1.txt
+#section2.txt
+#caution.txt
+#fulfill.txt
+#section3.txt
+#conclusion.txt
+
+# Kindle book 1
+# How to Set Up Your Subscription Box
 section1.txt
 section2.txt
-#section2_conclusion_kindle.txt
-fulfill.txt
-caution.txt
+section2_conclusion_kindle.txt
+
+# Kindle book 2
+# Subscription Box Packaging and Fulfillment
+#fulfill.txt
+#caution.txt
 #fulfill_conclusion_kindle.txt
-section3.txt
+
+# Kindle book 3
+# How to Market Your Subscription Box
+#section3.txt
 #section3_conclusion_kindle.txt
-conclusion.txt
