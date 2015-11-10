@@ -22,7 +22,7 @@ There are many ways to put up a simple launch page. One option is a service call
 
 ![LaunchRock landing page](images/launchrock.png)
 
-If you already have a webhost and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved. 
+If you already have a web host and basic HTML skills, it might be easier just to put up a page that way. But if not, LaunchRock enables you to set up a basic landing page with no coding involved. 
 
 On your LaunchRock page you'll have a form where interested visitors can enter their email addresses, so that you can contact them when your site is ready. This way even early on you’ll have a website to point to when people want to know more about your project and when you finally do launch you’ll hopefully already have a list of interested people to contact. 
 
