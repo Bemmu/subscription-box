@@ -35,9 +35,9 @@ Just as there is a manufacturing costs for the cutting dies, for printing there 
 
 ## Pakible
 
-There is really no need to understand how the printing process in that much detail, as printing companies will worry about all that for you, it's still useful to know that there are real start-up costs to printing a new box.
+There is really no need to understand how the printing process in that much detail, as printing companies will worry about all that for you, it's still useful to know that there are real costs to printing a new box (you are not being taken for a ride).
 
-One very interesting printing company is [Pakible](http://www.pakible.com/). How they do this is a mystery to me, but somehow they are able to offer printed packaging to subscription boxes with no start-up cost.
+One very interesting printing company is [Pakible](http://www.pakible.com/). How they do this is a mystery to me, but somehow they are able to offer printed packaging to subscription boxes with no extra cost for getting started.
 
 ![Pakible box customizer](images/pakible_1.jpg)
 
@@ -93,7 +93,7 @@ Here's a box photo I took in the same location with a Nikon D5300 DSLR camera an
 
 ![](images/dslr.jpg)
 
-I think it's quite an improvement over the iPhone shot! If you want to achieve background things being de-focused, the key term to look into is "depth of field". In camera settings you can adjust that by setting the f-stop value (aperture size).
+I think it's quite an improvement over the iPhone shot! If you want to achieve background things being blurry, the key term to look into is "depth of field". In camera settings you can adjust that by setting the f-stop value (aperture size).
 
 You really need a tripod too (~$25), as holding the camera in your hands will easily make your box photo blurry. You'll also want to trigger the shutter without touching the camera to avoid blur, either by using the camera timer or a remote shutter (costs a few dollars).
 

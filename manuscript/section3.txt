@@ -271,7 +271,7 @@ Nice plug for [BarkBox](http://barkbox.com/), while still fitting the rules of t
 
 After you have learned something about starting your own business, you can share what you learned on business-related subreddits. Of these perhaps the best one is [/r/entrepreneur](https://www.reddit.com/r/entrepreneur).
 
-As always with subreddits, take a look at other posts in the subreddit and read the instructions in the right sidepanel before posting. Actually by reading these business subreddits you might also learn a lot! 
+As always with subreddits, take a look at other posts in the subreddit and read the instructions in the right side panel before posting. Actually by reading these business subreddits you might also learn a lot! 
 
 Besides /r/entrepreneur, other similar ones are [/r/startups](https://www.reddit.com/r/startups), [/r/EntrepreneurRideAlong](https://www.reddit.com/r/entrepreneurridealong) and [/r/smallbusiness](http://www.reddit.com/r/smallbusiness), where you may also be able to post about your learnings. 
 
@@ -321,7 +321,7 @@ Compared to spending money on AdWords, at least you'll now be competing in a bat
 
 While your box home page may be able to be the answer to some of the queries Google users have in mind, not all of them will be a natural fit for your main landing page. For a dog goods box you might be happy to have your home page rank well for "dog goods subscription box", but it could be counterproductive to try to rank that same page for "tools for grooming a labrador retriever". 
 
-If you would like to targer those other topics, you may want a blog or article section on your website. Another way used by some boxes is to have a completely separate content site. For example the dog goods subscription box [BarkBox](https://barkbox.com/) also operates the viral puppy content site [BarkPost](http://barkpost.com/). 
+If you would like to target those other topics, you may want a blog or article section on your website. Another way used by some boxes is to have a completely separate content site. For example the dog goods subscription box [BarkBox](https://barkbox.com/) also operates the viral puppy content site [BarkPost](http://barkpost.com/). 
 
 Whether you want to have your content on your main site or on a separate one is a matter of opinion. Having them on the same site could make it less jarring to try to get people to subscribe to your box, as they are already on your one and only main site. However a separate content site may be able to garner more backlinks and shares, as it feels less commercial. 
 
@@ -371,7 +371,7 @@ People are most likely to click on the top result. The second highest result wil
 
 As you can see, you lose more than half the potential visitors by being in the second place compared to first. Let's be realistic here: in all likelihood unless there is almost no competition for your term, you probably won't get a first result for any important term. Actually you'll be lucky to even get to the first **page** with your content. There is a lot of content out there, much of it well written, older and with a large number of backlinks.
 
-Not that there even exists a "first place" anymore, as results are nowadays personalized to the individual searcher. If you would like to see unpersonalized results, you can try searching in incognito mode. There will still be sites that generally are ranked high in the results for most people, so the concept of a good Google ranking hasn't vanished despite personalization.
+Not that there even exists a "first place" anymore, as results are nowadays personalized to the individual searcher. If you would like to see non-personalized results, you can try searching in incognito mode. There will still be sites that generally are ranked high in the results for most people, so the concept of a good Google ranking hasn't vanished despite personalization.
 
 Reaching a good ranking on Google is very hard, but there is a happy side. While trying to rank for your desired terms, you are accidentally going to rank for many more long-tail terms that you hadn't even considered when writing your content. 
 
@@ -411,13 +411,12 @@ Of course you can always just try to contact site owners directly as well, but t
 
 ### Project Wonderful
 
-Project Wonderful is ad network mainly used by web comics, on which I have been able to get several affordable conversions for Candy Japan. It is a great starter network, as ad slots tend to be very cheap. Their website does look a bit unprofessional, but don't let that put you off too much, this is a great network for getting started without accidentally burning a lot of cash!
+Project Wonderful is ad network mainly used by webcomics, on which I have been able to get several affordable conversions for Candy Japan. It is a great starter network, as ad slots tend to be very cheap. Their website does look a bit unprofessional, but don't let that put you off too much, this is a great network for getting started without accidentally burning a lot of cash!
 
 Project Wonderful works as an ongoing auction for all of the traffic to a certain ad slot. You make a bid such as "I'm willing to pay $10/day for all the US traffic to this ad slot" and as long as you are the top bidder, your ad is shown in that placement continuously. You can pick one or more of these geographic areas: United States, Canada, Europe or "elsewhere".
 
-Besides web comics, they have some other web properties that might be too questionable for other networks to touch, such as the "chat with stranger" site Omegle or some web comics on the risque side. But the prices are great. 
-
-Many web comics with around 100,000 daily views are available for less than $10 a day, some with ~50k daily views for less than a dollar. Compare that to buying a similar amount of ad impressions on other networks, and you could easily spend as much as $300 - $1000 for the same impression count.
+Besides webcomics, they have some other web properties that might be too questionable for other networks to touch, such as the "chat with stranger" site Omegle or some webcomics on the risque side. But the prices are great. 
+Many webcomics with around 100,000 daily views are available for less than $10 a day, some with ~50k daily views for less than a dollar. Compare that to buying a similar amount of ad impressions on other networks, and you could easily spend as much as $300 - $1000 for the same impression count.
 
 ![Bidding on an ad slot on Project Wonderful](images/project_wonderful_bid.png)
 
