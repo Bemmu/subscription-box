@@ -1,6 +1,9 @@
 section1.txt
 section2.txt
-caution.txt
+#section2_conclusion_kindle.txt
 fulfill.txt
+caution.txt
+#fulfill_conclusion_kindle.txt
 section3.txt
+#section3_conclusion_kindle.txt
 conclusion.txt
